@@ -4,7 +4,9 @@ The Twitter account [@networkspapers](https://twitter.com/networkspapers) provid
 
 New publications are flagged if their title or abstract (when available) contain any the following keywords, and are then manually reviewed proir to being posted.
 
-> Connectome, connectome, Connectomes, connectomes, Connectomics, connectomics, Network, network, Networks, networks, Percolation, percolation, Graph, graph, Graphs, graphs, Hypergraph, hypergraph, Hypergraphs, hypergraphs, Simplices, simplices
+```
+Connectome, connectome, Connectomes, connectomes, Connectomics, connectomics, Network, network, Networks, networks, Percolation, percolation, Graph, graph, Graphs, graphs, Hypergraph, hypergraph, Hypergraphs, hypergraphs, Simplices, simplices
+```
 
 #### Feeds followed
 
