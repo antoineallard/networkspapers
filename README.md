@@ -1,6 +1,6 @@
 ## New articles in Network Science
 
-### Journals
+### Journals followed
 
  - Appl. Netw. Sci. ([website](), [feed](http://appliednetsci.springeropen.com/articles/most-recent/rss.xml))
  - Commun. Phys. ([website](), [feed](http://feeds.nature.com/commsphys/rss/current))
@@ -38,6 +38,6 @@
  - Rev. Mod. Phys. ([website](), [feed](http://feeds.aps.org/rss/recent/rmp.xml))
  - SIAM Rev. ([website](), [feed](http://epubs.siam.org/action/showFeed?ui=0&mi=8vgswd&ai=s5&jc=siread&type=etoc&feed=rss))
  - Sci. Adv. ([website](), [feed](http://advances.sciencemag.org/rss/current.xml))
- - Sci. Adv. ([website](), [feed](http://feeds.nature.com/srep/rss/current))
+ - Sci. Rep. ([website](), [feed](http://feeds.nature.com/srep/rss/current))
  - Science ([website](), [feed](http://science.sciencemag.org/rss/express.xml))
  - Soc. Networks ([website](), [feed](http://rss.sciencedirect.com/publication/science/03788733))
