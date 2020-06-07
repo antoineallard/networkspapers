@@ -17,6 +17,7 @@ Our wish is to make this account as useful as possible to the diverse Network Sc
  - European Journal of Physics ([journal's website](https://iopscience.iop.org/journal/0143-0807), [feed's url](https://iopscience.iop.org/journal/rss/0143-0807))
  - European Physical Journal B ([journal's website](https://epjb.epj.org), [feed's url](http://feeds.feedburner.com/edp_epjb?format=xml))
  - Journal of Complex Networks ([journal's website](https://academic.oup.com/comnet), [feed's url](http://academic.oup.com/rss/site_5126/advanceAccess_3051.xml))
+ - Journal of Mathematical Sociology ([journal's website](https://www.tandfonline.com/toc/gmas20/current), [feed's url](https://www.tandfonline.com/feed/rss/gmas20))
  - Journal of Physics A: Mathematical and General ([journal's website](https://iopscience.iop.org/journal/0305-4470), [feed's url](http://iopscience.iop.org/journal/rss/0305-4470))
  - Journal of Physics A: Mathematical and Theoretical ([feed's url](https://iopscience.iop.org/journal/rss/1751-8121))
  - Journal of Physics: Complexity ([journal's website](https://iopscience.iop.org/journal/2632-072X), [feed's url](http://iopscience.iop.org/journal/rss/2632-072X))
