@@ -1,6 +1,6 @@
 ## New articles in Network Science
 
-Semi-automatically curated list of new publications in Network Science.
+The Twtitter account [@networkspapers](https://twitter.com/networkspapers) is a semi-automatically curated list of new publications in Network Science.
 
 ### Journals followed
 
