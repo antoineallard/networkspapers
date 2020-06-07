@@ -1,6 +1,8 @@
 ## New articles in Network Science
 
-Semi-automatically curated list of new publications in Network Science.### Journals followed
+Semi-automatically curated list of new publications in Network Science.
+
+### Journals followed
 
  - Appl. Netw. Sci. ([website](), [feed](http://appliednetsci.springeropen.com/articles/most-recent/rss.xml))
  - Commun. Phys. ([website](), [feed](http://feeds.nature.com/commsphys/rss/current))
