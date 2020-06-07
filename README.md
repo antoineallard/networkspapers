@@ -8,7 +8,7 @@ New publications are flagged if their title or abstract (when available) contain
 
 Comments or suggestions are welcome.
 
-#### Feeds followed
+### Feeds followed
 
  - Appl. Netw. Sci. ([feed's url](http://appliednetsci.springeropen.com/articles/most-recent/rss.xml))
  - Commun. Phys. ([feed's url](http://feeds.nature.com/commsphys/rss/current))
@@ -40,12 +40,12 @@ Comments or suggestions are welcome.
  - Phys. Rev. Lett. ([feed's url](http://feeds.aps.org/rss/recent/prl.xml))
  - Phys. Rev. Research ([feed's url](http://feeds.aps.org/rss/recent/prresearch.xml))
  - Phys. Rev. X ([feed's url](http://feeds.aps.org/rss/recent/prx.xml))
- - Proc. R. Soc. A ([feed's url](http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspa))
- - Proc. R. Soc. B ([feed's url](http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspb))
- - R. Soc. Open Sci. ([feed's url](https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsos))
+ - Proceedings of the Royal Society A ([journal's website](https://royalsocietypublishing.org/journal/rspa), [feed's url](http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspa))
+ - Proceedings of the Royal Society B ([journal's website](https://royalsocietypublishing.org/journal/rspb), [feed's url](http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspb))
+ - Royal Society Open Science ([journal's website](https://royalsocietypublishing.org/journal/rsos), [feed's url](https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsos))
  - Rev. Mod. Phys. ([feed's url](http://feeds.aps.org/rss/recent/rmp.xml))
- - SIAM Review ([journal's page](https://epubs.siam.org/journal/siread), [feed's url](http://epubs.siam.org/action/showFeed?ui=0&mi=8vgswd&ai=s5&jc=siread&type=etoc&feed=rss))
- - Science Advances ([journal's page](https://advances.sciencemag.org/), [feed's url](http://advances.sciencemag.org/rss/current.xml))
- - Scientific Reports ([journal's page](https://www.nature.com/srep/), [feed's url](http://feeds.nature.com/srep/rss/current))
- - Science ([feed's url](http://science.sciencemag.org/rss/express.xml))
- - Social Networks ([journal's page](https://www.sciencedirect.com/journal/social-networks), [feed's url](http://rss.sciencedirect.com/publication/science/03788733))
+ - SIAM Review ([journal's website](https://epubs.siam.org/journal/siread), [feed's url](http://epubs.siam.org/action/showFeed?ui=0&mi=8vgswd&ai=s5&jc=siread&type=etoc&feed=rss))
+ - Science Advances ([journal's website](https://advances.sciencemag.org/), [feed's url](http://advances.sciencemag.org/rss/current.xml))
+ - Scientific Reports ([journal's website](https://www.nature.com/srep/), [feed's url](http://feeds.nature.com/srep/rss/current))
+ - Science ([journal's website](https://science.sciencemag.org/), [feed's url](http://science.sciencemag.org/rss/express.xml))
+ - Social Networks ([journal's website](https://www.sciencedirect.com/journal/social-networks), [feed's url](http://rss.sciencedirect.com/publication/science/03788733))
