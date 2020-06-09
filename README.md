@@ -6,7 +6,7 @@ New publications are flagged if their title or abstract (when available) contain
 
 > Connectome, connectome, Connectomes, connectomes, Connectomics, connectomics, Network, network, Networks, networks, Percolation, percolation, Graph, graph, Graphs, graphs, Hypergraph, hypergraph, Hypergraphs, hypergraphs, Simplices, simplices
 
-Our wish is to make this account as useful as possible to the diverse Network Science community; comments or suggestions are welcome (see the [issues](issues) tab).
+Our wish is to make this account as useful as possible to the diverse Network Science community; comments or suggestions are welcome (see the [issues](https://github.com/antoineallard/networkspapers/issues) tab).
 
 ### Feeds followed
 
