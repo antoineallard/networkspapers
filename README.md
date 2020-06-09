@@ -2,11 +2,11 @@
 
 The Twitter account [@networkspapers](https://twitter.com/networkspapers) provides a semi-automatically curated list of new publications in Network Science.
 
-New publications are flagged if their title or abstract (when available) contains any the keywords listed below. Flagged publications are then manually reviewed prior to being posted to insure relevancy.
+New publications are flagged if their title or abstract (when available) contains any the keywords listed below. Flagged publications are then manually reviewed prior to being posted to insure broad relevancy.
 
 > Connectome, connectome, Connectomes, connectomes, Connectomics, connectomics, Network, network, Networks, networks, Percolation, percolation, Graph, graph, Graphs, graphs, Hypergraph, hypergraph, Hypergraphs, hypergraphs, Simplices, simplices
 
-Our wish is to make this account as useful as possible to the diverse Network Science community; comments or suggestions are welcome.
+Our wish is to make this account as useful as possible to the diverse Network Science community; comments or suggestions are welcome (see the [issues](issues) tab).
 
 ### Feeds followed
 
