@@ -11,7 +11,7 @@ Our wish is to make this account as useful as possible to the diverse Network Sc
 ### Feeds followed
 
  - Applied Network Science ([journal's website](https://appliednetsci.springeropen.com), [feed's url](http://appliednetsci.springeropen.com/articles/most-recent/rss.xml))
- - Chaos ([journal's website](https://appliednetsci.springeropen.com), [feed's url](https://aip.scitation.org/feed/cha/most-recent))
+ - Chaos ([journal's website](https://aip.scitation.org/journal/cha), [feed's url](https://aip.scitation.org/feed/cha/most-recent))
  - Communications Physics ([journal's website](https://www.nature.com/commsphys), [feed's url](http://feeds.nature.com/commsphys/rss/current))
  - EPJ Data Science ([journal's website](https://epjdatascience.springeropen.com), [feed's url](http://feeds.feedburner.com/edp_epjds?format=xml))
  - EPL (Europhysics Letters) ([journal's website](https://iopscience.iop.org/journal/0295-5075), [feed's url](http://iopscience.iop.org/journal/rss/0295-5075))
