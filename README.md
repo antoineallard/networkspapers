@@ -10,7 +10,9 @@ Our wish is to make this account as useful as possible to the diverse Network Sc
 
 ### Archive
 
-The file `past_tweets.json` contains every new paper in network science identified and tweeted by [@networkspapers](https://twitter.com/networkspapers) since Nov. 30th 2017. We will sporadically update it in case this (incomplete and obviously biased) list could be useful in anyway to researchers.### Feeds followed
+The file `past_tweets.json` contains every new paper in network science identified and tweeted by [@networkspapers](https://twitter.com/networkspapers) since Nov. 30th 2017. We will sporadically update it in case this (incomplete and obviously biased) list could be useful in anyway to researchers.
+
+### Feeds followed
 
  - Applied Network Science ([journal's website](https://appliednetsci.springeropen.com), [feed's url](http://appliednetsci.springeropen.com/articles/most-recent/rss.xml))
  - Chaos ([journal's website](https://aip.scitation.org/journal/cha), [feed's url](https://aip.scitation.org/feed/cha/most-recent))
