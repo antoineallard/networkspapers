@@ -10,7 +10,7 @@ Our wish is to make this account as useful as possible to the diverse Network Sc
 
 ### Archive
 
-The file `past_tweets.json` contains every new paper in network science identified and tweeted by [@networkspapers](https://twitter.com/networkspapers) since Nov. 30th 2017. The file `past_tweets.bib` contains clean and minimal bibtex entries for the papers tweeted since July 2020. We will sporadically update these files in case these (incomplete and obviously biased) lists could be useful in anyway to researchers.
+The file `past_tweets.json` contains every new paper in network science identified and tweeted by [@networkspapers](https://twitter.com/networkspapers) since Nov. 30th 2017. The file `past_tweets.bib` contains clean and minimal bibtex entries for the papers tweeted since July 2020. We will sporadically update it in case this (incomplete and obviously biased) list could be useful in anyway to researchers.
 
 ### Feeds followed
 
