@@ -39,7 +39,7 @@ The file `past_tweets.json` contains every new paper in network science identifi
  - New Journal of Physics ([journal's website](https://iopscience.iop.org/journal/1367-2630), [feed's url](http://iopscience.iop.org/journal/rss/1367-2630))
  - PLOS Computational Biology ([journal's website](https://journals.plos.org/ploscompbiol), [feed's url](http://journals.plos.org/ploscompbiol/feed/atom))
  - PLOS ONE ([journal's website](https://journals.plos.org/plosone), [feed's url](http://journals.plos.org/plosone/feed/atom))
- - Proceedings of the National Academy of Sciences of the United States of America ([journal's website](https://www.pnas.org), [feed's url](http://www.pnas.org/rss/current.xml))
+ - Proceedings of the National Academy of Sciences USA ([journal's website](https://www.pnas.org), [feed's url](http://www.pnas.org/rss/current.xml))
  - Philosophical Transactions of the Royal Society A ([journal's website](https://royalsocietypublishing.org/journal/rsta), [feed's url](https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsta))
  - Philosophical Transactions of the Royal Society B ([journal's website](https://royalsocietypublishing.org/journal/rstb), [feed's url](https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rstb))
  - Physics Reports ([journal's website](https://www.journals.elsevier.com/physics-reports), [feed's url](http://rss.sciencedirect.com/publication/science/03701573))
