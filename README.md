@@ -14,6 +14,7 @@ The file `past_tweets.json` contains every new paper in network science identifi
 
 ### Feeds followed
 
+ - Applied Mathematics and Computation ([journal's website](https://www.sciencedirect.com/journal/applied-mathematics-and-computation), [feed's url](http://rss.sciencedirect.com/publication/science/00963003))
  - Applied Network Science ([journal's website](https://appliednetsci.springeropen.com), [feed's url](http://appliednetsci.springeropen.com/articles/most-recent/rss.xml))
  - Chaos ([journal's website](https://aip.scitation.org/journal/cha), [feed's url](https://aip.scitation.org/feed/cha/most-recent))
  - Communications Physics ([journal's website](https://www.nature.com/commsphys), [feed's url](http://feeds.nature.com/commsphys/rss/current))
