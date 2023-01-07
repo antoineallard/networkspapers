@@ -2,7 +2,7 @@
 
 The Mastodon account [@networkspapers@social.skewed.de](https://social.skewed.de/@networkspapers) and the Twitter account [@networkspapers](https://twitter.com/networkspapers) provide a semi-automatically curated list of new publications in Network Science.
 
-New publications are flagged if their title or abstract (when available) contains any of the keywords listed below.
+New publications are flagged if their title or abstract (when available) contains any of the following keywords
 
 > Connectome, connectome, Connectomes, connectomes, Connectomics, connectomics, Network, network, Networks, networks, Percolation, percolation, Graph, graph, Graphs, graphs, Hypergraph, hypergraph, Hypergraphs, hypergraphs, Simplex, simplex, Simplices, simplices, Simplicial, simplicial
 
