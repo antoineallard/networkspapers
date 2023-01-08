@@ -3,12 +3,12 @@
   <channel>
     <title>New papers in Network Science</title>
     <link>https://raw.githubusercontent.com/antoineallard/networkspapers/main/rss.xml</link>
-    <description>Showing the 50 ultimate posts</description>
+    <description>Showing the 25 ultimate posts</description>
     <atom:link href="https://raw.githubusercontent.com/antoineallard/networkspapers/main/rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 04:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2023 04:23:55 +0000</lastBuildDate>
     <item>
       <title>PLOS ONE: Lightweight mobile network for real-time violence recognition</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276939</link>
@@ -108,106 +108,6 @@
     <item>
       <title>Chaos: Phase transitions in evolutionary dynamics</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0124274?af=R&amp;feed=most-recent</link>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Directed random geometric graphs: structural and spectral properties</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acace1</link>
-    </item>
-    <item>
-      <title>PLOS ONE: Analysis of cattle movement networks in Paraguay: Implications for the spread and control of infectious diseases</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278999</link>
-    </item>
-    <item>
-      <title>Philos. Trans. Royal Soc. B: Influence of language on perception and concept formation in a brain-constrained deep neural network model</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0373?af=R</link>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Learning to cluster urban areas: two competitive approaches and an empirical validation</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-022-00374-2</link>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: A rewiring mechanism to improve synchronization in Kuramoto networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ac9fca</link>
-    </item>
-    <item>
-      <title>Soc. Networks: A network centrality bias: Central individuals in workplace networks have more supportive coworkers</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322001010</link>
-    </item>
-    <item>
-      <title>Chaos: Chaotic heteroclinic networks as models of switching behavior in biological systems</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0122184?af=R&amp;feed=most-recent</link>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Mesoscopic description of hippocampal replay and metastability in spiking neural networks with short-term plasticity</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010809</link>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Effective resistance against pandemics: Mobility network sparsification for high-fidelity epidemic simulations</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010650</link>
-    </item>
-    <item>
-      <title>PNAS: The worldwide networks of spread of recorded alien species</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2201911120?af=R</link>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Standing Waves of Reaction-Diffusion Equations on an Unbounded Graph with Two Vertices</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1454572?ai=s3&amp;mi=9cks17&amp;af=R</link>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Conflicting effects of recombination on the evolvability and robustness in neutrally evolving populations</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010710</link>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Extended star graph as a light-harvesting-complex prototype: Excitonic absorption speedup by peripheral energy defect tuning</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.106.064313</link>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Robust and brain-like working memory through short-term synaptic plasticity</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010776</link>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Effective strategies for targeted attacks to the network of Cosa Nostra affiliates</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-022-00323-z</link>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A class of orientably‐regular embeddings of graphs of order p3</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300322007755</link>
-    </item>
-    <item>
-      <title>Front. Phys.: Network structure indexes to forecast epidemic spreading in real-world complex networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1017015</link>
-    </item>
-    <item>
-      <title>Phys. Rev. E: How clock heterogeneity affects synchronization and can enhance stability</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.106.054216</link>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The maximum Mostar indices of unicyclic graphs with given diameter</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300322007081</link>
-    </item>
-    <item>
-      <title>iScience: Network analysis uncovers the communication structure of SARS-CoV-2 Spike protein identifying sites for immunogen design</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004222021289</link>
-    </item>
-    <item>
-      <title>EPL: Hawkes process marked with topics and its application to Twitter data analysis</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aca78c</link>
-    </item>
-    <item>
-      <title>Chaos: An attack–defense game model in infrastructure networks under link hiding</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0112907?af=R&amp;feed=most-recent</link>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Minimum Degrees for Powers of Paths and Cycles</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/20M1359183?ai=sa&amp;mi=9cks17&amp;af=R</link>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Mixed H/passive synchronization for persistent dwell-time switched neural networks via an activation function dividing method</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032200786X</link>
-    </item>
-    <item>
-      <title>Chaos: Extreme events in a complex network: Interplay between degree distribution and repulsive interaction</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0128743?af=R&amp;feed=most-recent</link>
     </item>
   </channel>
 </rss>
