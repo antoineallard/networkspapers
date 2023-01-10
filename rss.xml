@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 00:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 15:10:09 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Spatial and temporal correlations in neural networks with structured connectivity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013005</link>
+      <guid isPermaLink="false">004056</guid>
+    </item>
+    <item>
+      <title>Chaos: Universality and scaling in complex networks from periods of Chinese history</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0134923?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004055</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820</link>
+      <guid isPermaLink="false">004054</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A novel clustering approach to bipartite investor-startup networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279780</link>
+      <guid isPermaLink="false">004053</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Regional industrial growth and biopharma patent networks: empirical insights from the UK</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00518-3</link>
+      <guid isPermaLink="false">004052</guid>
+    </item>
     <item>
       <title>EPJ Data Sci.: Remaining popular: power-law regularities in network dynamics</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-022-00373-3</link>
@@ -233,31 +258,6 @@
       <title>J. Stat. Mech.: A rewiring mechanism to improve synchronization in Kuramoto networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/ac9fca</link>
       <guid isPermaLink="false">004007</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: A network centrality bias: Central individuals in workplace networks have more supportive coworkers</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322001010</link>
-      <guid isPermaLink="false">004006</guid>
-    </item>
-    <item>
-      <title>Chaos: Chaotic heteroclinic networks as models of switching behavior in biological systems</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0122184?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004005</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Mesoscopic description of hippocampal replay and metastability in spiking neural networks with short-term plasticity</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010809</link>
-      <guid isPermaLink="false">004004</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Effective resistance against pandemics: Mobility network sparsification for high-fidelity epidemic simulations</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010650</link>
-      <guid isPermaLink="false">004003</guid>
-    </item>
-    <item>
-      <title>PNAS: The worldwide networks of spread of recorded alien species</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2201911120?af=R</link>
-      <guid isPermaLink="false">004002</guid>
     </item>
   </channel>
 </rss>
