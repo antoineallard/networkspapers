@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 16:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2023 16:01:16 +0000</lastBuildDate>
+    <item>
+      <title>New J. Phys.: Q-learning-based migration leading to spontaneous emergence of segregation</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acadfd</link>
+      <guid isPermaLink="false">004061</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Emergence of social support networks among breast cancer survivors through a community-based physical activity program in Colombia</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332200106X</link>
+      <guid isPermaLink="false">004060</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Genomics and phenomics of body mass index reveals a complex disease network</title>
+      <link>https://www.nature.com/articles/s41467-022-35553-2</link>
+      <guid isPermaLink="false">004059</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Influence in social networks with stubborn agents: From competition to bargaining</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032200858X</link>
+      <guid isPermaLink="false">004058</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Bridging in network organisations. The case of the Intergovernmental Panel on Climate Change (IPCC)</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000156</link>
+      <guid isPermaLink="false">004057</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Spatial and temporal correlations in neural networks with structured connectivity</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013005</link>
@@ -233,31 +258,6 @@
       <title>Chaos: Phase transitions in evolutionary dynamics</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0124274?af=R&amp;feed=most-recent</link>
       <guid isPermaLink="false">004012</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Directed random geometric graphs: structural and spectral properties</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acace1</link>
-      <guid isPermaLink="false">004011</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Analysis of cattle movement networks in Paraguay: Implications for the spread and control of infectious diseases</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278999</link>
-      <guid isPermaLink="false">004010</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. Royal Soc. B: Influence of language on perception and concept formation in a brain-constrained deep neural network model</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0373?af=R</link>
-      <guid isPermaLink="false">004009</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Learning to cluster urban areas: two competitive approaches and an empirical validation</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-022-00374-2</link>
-      <guid isPermaLink="false">004008</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: A rewiring mechanism to improve synchronization in Kuramoto networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ac9fca</link>
-      <guid isPermaLink="false">004007</guid>
     </item>
   </channel>
 </rss>
