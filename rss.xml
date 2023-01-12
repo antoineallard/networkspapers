@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Jan 2023 02:34:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 14:22:05 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: A novel method detecting controversial interaction in the multiplex social comment network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1107338</link>
+      <guid isPermaLink="false">004066</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: An individualized causal framework for learning intercellular communication networks that define microenvironments of individual tumors</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010761</link>
+      <guid isPermaLink="false">004065</guid>
+    </item>
+    <item>
+      <title>PNAS: Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2201074119?af=R</link>
+      <guid isPermaLink="false">004064</guid>
+    </item>
+    <item>
+      <title>Chaos: Clustering and link prediction for mesoscopic COVID-19 transmission networks in Republic of Korea</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0130386?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004063</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Jointly multi-source information and local-global relations of heterogeneous network for rumor detection</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1056207</link>
+      <guid isPermaLink="false">004062</guid>
+    </item>
     <item>
       <title>New J. Phys.: Q-learning-based migration leading to spontaneous emergence of segregation</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/acadfd</link>
@@ -233,31 +258,6 @@
       <title>Commun. Phys.: An Ising machine based on networks of subharmonic electrical resonators</title>
       <link>https://www.nature.com/articles/s42005-022-01111-x</link>
       <guid isPermaLink="false">004017</guid>
-    </item>
-    <item>
-      <title>Chaos: Plasticity in networks of active chemical cells with pulse coupling</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0110190?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004016</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Hip osteoarthritis: A novel network analysis of subchondral trabecular bone structures</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgac258</link>
-      <guid isPermaLink="false">004015</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Particle network EnKF for large-scale data assimilation</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.998503</link>
-      <guid isPermaLink="false">004014</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A 3/2-Approximation for the Metric Many-Visits Path TSP</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1483414?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">004013</guid>
-    </item>
-    <item>
-      <title>Chaos: Phase transitions in evolutionary dynamics</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0124274?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004012</guid>
     </item>
   </channel>
 </rss>
