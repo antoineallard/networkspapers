@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jan 2023 03:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2023 13:05:02 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: On distance Laplacian spectral determination of complete multipartite graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008554</link>
+      <guid isPermaLink="false">004076</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: Cross-species high-resolution transcriptome profiling suggests biomarkers and therapeutic targets for ulcerative colitis</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2022.1081176</link>
+      <guid isPermaLink="false">004075</guid>
+    </item>
+    <item>
+      <title>Chaos: Chimeras on a ring of oscillator populations</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0127306?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004074</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Ensemble analysis of complex network properties—an MCMC approach</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/aca955</link>
+      <guid isPermaLink="false">004073</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Chimeralike oscillation modes in excitable scale-free networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013006</link>
+      <guid isPermaLink="false">004072</guid>
+    </item>
     <item>
       <title>Soc. Networks: Understanding the self-organization of occupational sex segregation with mobility networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873322001046</link>
@@ -233,31 +258,6 @@
       <title>Appl. Math. Comput.: Fixed/predefined-time lag synchronization of complex-valued BAM neural networks with stochastic perturbations</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300322008797</link>
       <guid isPermaLink="false">004027</guid>
-    </item>
-    <item>
-      <title>Chaos: Copula-based analysis of the generalized friendship paradox in clustered networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0122351?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004026</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Localization of nonbacktracking centrality on dense subgraphs of sparse networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014301</link>
-      <guid isPermaLink="false">004025</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A framework for reconstructing transmission networks in infectious diseases</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00525-4</link>
-      <guid isPermaLink="false">004024</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: lncRNA-disease association prediction based on the weight matrix and projection score</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278817</link>
-      <guid isPermaLink="false">004023</guid>
-    </item>
-    <item>
-      <title>EPL: Punishment and reputation based partners-switching promotes cooperation in social networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aca824</link>
-      <guid isPermaLink="false">004022</guid>
     </item>
   </channel>
 </rss>
