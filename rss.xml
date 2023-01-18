@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jan 2023 01:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 13:37:37 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Rep.: On the importance of structural equivalence in temporal networks for epidemic forecasting</title>
+      <link>https://www.nature.com/articles/s41598-023-28126-w</link>
+      <guid isPermaLink="false">004086</guid>
+    </item>
+    <item>
+      <title>EPL: The simplest multilayer network of Rulkov neuron maps: A dynamical analysis under different neuronal interactions</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aca823</link>
+      <guid isPermaLink="false">004085</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Minor embedding with Stuart-Landau oscillator networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013018</link>
+      <guid isPermaLink="false">004084</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Leadership and contagion by COVID-19 among residence hall students: A Social Network Analysis approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000011</link>
+      <guid isPermaLink="false">004083</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: The ensemble of gene regulatory networks at mutation–selection balance</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0075?af=R</link>
+      <guid isPermaLink="false">004082</guid>
+    </item>
     <item>
       <title>Front. Phys.: Editorial: Epidemic models on networks</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1122070</link>
@@ -233,31 +258,6 @@
       <title>Chaos: Incorporating social payoff into reinforcement learning promotes cooperation</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0093996?af=R&amp;feed=most-recent</link>
       <guid isPermaLink="false">004037</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Lightweight mobile network for real-time violence recognition</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276939</link>
-      <guid isPermaLink="false">004036</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Connecting intercity mobility with urban welfare</title>
-      <link>https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgac178/6693724?rss=1</link>
-      <guid isPermaLink="false">004035</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Identifying key sectors in the regional economy: a network analysis approach using input–output data</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00519-2</link>
-      <guid isPermaLink="false">004034</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Higher-order organization of multivariate time series</title>
-      <link>https://www.nature.com/articles/s41567-022-01852-0</link>
-      <guid isPermaLink="false">004033</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Tipping points of ancient Japanese Jomon trade networks from social network analyses of obsidian artifacts</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1015870</link>
-      <guid isPermaLink="false">004032</guid>
     </item>
   </channel>
 </rss>
