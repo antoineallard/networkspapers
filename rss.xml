@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jan 2023 13:24:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 13:06:18 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Centrality-based lane interventions in road networks for improved level of service: the case of downtown Boise, Idaho</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00532-z</link>
+      <guid isPermaLink="false">004101</guid>
+    </item>
+    <item>
+      <title>Chaos: Study of interaction and complete merging of binary cyclones using complex networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0101714?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004100</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: The Early Evolution of the Random Graph Process in Planar Graphs and Related Classes</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1450616?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">004099</guid>
+    </item>
+    <item>
+      <title>Chaos: Synchronizing network systems in the presence of limited resources via edge snapping</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0093560?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004098</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Anomalous finite-size scaling in higher-order processes with absorbing states</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014105</link>
+      <guid isPermaLink="false">004097</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: RCFGL: Rapid Condition adaptive Fused Graphical Lasso and application to modeling brain region co-expression networks</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010758</link>
@@ -233,31 +258,6 @@
       <title>Appl. Netw. Sci.: Regional industrial growth and biopharma patent networks: empirical insights from the UK</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00518-3</link>
       <guid isPermaLink="false">004052</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Remaining popular: power-law regularities in network dynamics</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-022-00373-3</link>
-      <guid isPermaLink="false">004051</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A state-flipped approach to complete synchronization of Boolean networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008566</link>
-      <guid isPermaLink="false">004050</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Lost in the woods: Forest vegetation, and not topography, most affects the connectivity of mesh radio networks for public safety</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278645</link>
-      <guid isPermaLink="false">004049</guid>
-    </item>
-    <item>
-      <title>Chaos: Vital node identification in hypergraphs via gravity model</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0127434?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004048</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Inferring the interaction rules of complex systems with graph neural networks and approximate Bayesian computation</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0676?af=R</link>
-      <guid isPermaLink="false">004047</guid>
     </item>
   </channel>
 </rss>
