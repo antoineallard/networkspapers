@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Jan 2023 00:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2023 13:52:12 +0000</lastBuildDate>
+    <item>
+      <title>EPL: Evolutionary dynamics in networked trust games with diverse investment patterns</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acb16f</link>
+      <guid isPermaLink="false">004106</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: A zoom lens for networks</title>
+      <link>https://www.nature.com/articles/s41567-022-01842-2</link>
+      <guid isPermaLink="false">004105</guid>
+    </item>
+    <item>
+      <title>Chaos: Characterizing gas–liquid two-phase flow behavior using complex network and deep learning</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0124998?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004104</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Relating local connectivity and global dynamics in recurrent excitatory-inhibitory networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010855</link>
+      <guid isPermaLink="false">004103</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Automatic structural optimization of tree tensor networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013031</link>
+      <guid isPermaLink="false">004102</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Centrality-based lane interventions in road networks for improved level of service: the case of downtown Boise, Idaho</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00532-z</link>
@@ -233,31 +258,6 @@
       <title>Soc. Networks: Bridging in network organisations. The case of the Intergovernmental Panel on Climate Change (IPCC)</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873322000156</link>
       <guid isPermaLink="false">004057</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Spatial and temporal correlations in neural networks with structured connectivity</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013005</link>
-      <guid isPermaLink="false">004056</guid>
-    </item>
-    <item>
-      <title>Chaos: Universality and scaling in complex networks from periods of Chinese history</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0134923?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004055</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820</link>
-      <guid isPermaLink="false">004054</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A novel clustering approach to bipartite investor-startup networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279780</link>
-      <guid isPermaLink="false">004053</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Regional industrial growth and biopharma patent networks: empirical insights from the UK</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00518-3</link>
-      <guid isPermaLink="false">004052</guid>
     </item>
   </channel>
 </rss>
