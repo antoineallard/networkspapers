@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jan 2023 00:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 13:46:33 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: A comprehensive approach for discrete resilience of complex networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0124687?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004111</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: On the effectiveness of random walks for modeling epidemics on networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280277</link>
+      <guid isPermaLink="false">004110</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Examining the importance of existing relationships for co-offending: a temporal network analysis in Bogotá, Colombia (2005–2018)</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00531-0</link>
+      <guid isPermaLink="false">004109</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. Royal Soc. B: Does gender structure social networks across domains of cooperation? An exploration of gendered networks among matrilineal and patrilineal Mosuo</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0436?af=R</link>
+      <guid isPermaLink="false">004108</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: The Threshold of Symmetry in Random Graphs with Specified Degree Sequences</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1395296?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">004107</guid>
+    </item>
     <item>
       <title>EPL: Evolutionary dynamics in networked trust games with diverse investment patterns</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/acb16f</link>
@@ -233,31 +258,6 @@
       <title>Front. Phys.: Jointly multi-source information and local-global relations of heterogeneous network for rumor detection</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1056207</link>
       <guid isPermaLink="false">004062</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Q-learning-based migration leading to spontaneous emergence of segregation</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acadfd</link>
-      <guid isPermaLink="false">004061</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Emergence of social support networks among breast cancer survivors through a community-based physical activity program in Colombia</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332200106X</link>
-      <guid isPermaLink="false">004060</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Genomics and phenomics of body mass index reveals a complex disease network</title>
-      <link>https://www.nature.com/articles/s41467-022-35553-2</link>
-      <guid isPermaLink="false">004059</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Influence in social networks with stubborn agents: From competition to bargaining</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032200858X</link>
-      <guid isPermaLink="false">004058</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Bridging in network organisations. The case of the Intergovernmental Panel on Climate Change (IPCC)</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000156</link>
-      <guid isPermaLink="false">004057</guid>
     </item>
   </channel>
 </rss>
