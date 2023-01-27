@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Jan 2023 15:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2023 15:08:53 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: A new effective metric for dynamical robustness of directed networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1129844</link>
+      <guid isPermaLink="false">004121</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Does “network closure” beef up firms’ performance?</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000047</link>
+      <guid isPermaLink="false">004120</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Information-transfer characteristics in network motifs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013037</link>
+      <guid isPermaLink="false">004119</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Emergence of Polarization in Coevolving Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.037401</link>
+      <guid isPermaLink="false">004118</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Graphs with three distinct distance eigenvalues</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000176</link>
+      <guid isPermaLink="false">004117</guid>
+    </item>
     <item>
       <title>SIAM J. Math. Data Sci.: Core-Periphery Detection in Hypergraphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1480926?af=R</link>
@@ -233,31 +258,6 @@
       <title>Phys. Rev. Research: Chimeralike oscillation modes in excitable scale-free networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013006</link>
       <guid isPermaLink="false">004072</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Understanding the self-organization of occupational sex segregation with mobility networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322001046</link>
-      <guid isPermaLink="false">004071</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Gender homophily and gender distribution in social networks: The case of older adults in long term care settings</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000594</link>
-      <guid isPermaLink="false">004070</guid>
-    </item>
-    <item>
-      <title>PNAS: Information-processing dynamics in neural networks of macaque cerebral cortex reflect cognitive state and behavior</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2207677120?af=R</link>
-      <guid isPermaLink="false">004069</guid>
-    </item>
-    <item>
-      <title>Chaos: Heterogeneous pair-approximation analysis for susceptible–infectious–susceptible epidemics on networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0112058?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004068</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Social stratification in networks: insights from co-authorship networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0555?af=R</link>
-      <guid isPermaLink="false">004067</guid>
     </item>
   </channel>
 </rss>
