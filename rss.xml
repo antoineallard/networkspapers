@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Jan 2023 17:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jan 2023 12:50:57 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: An efficient weighted network centrality approach for exploring mechanisms of action of the Ruellia herbal formula for treating rheumatoid arthritis</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00527-2</link>
+      <guid isPermaLink="false">004126</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Minimum Degree of Minimal Ramsey Graphs for Cliques Versus Cycles</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1444953?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">004125</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Maximal dispersion of adaptive random walks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.4.L042051</link>
+      <guid isPermaLink="false">004124</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Study on an SIR rumor propagation model with an interaction mechanism on WeChat networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1089536</link>
+      <guid isPermaLink="false">004123</guid>
+    </item>
+    <item>
+      <title>Chaos: Asymmetry induces critical desynchronization of power grids</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0131931?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004122</guid>
+    </item>
     <item>
       <title>Front. Phys.: A new effective metric for dynamical robustness of directed networks</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1129844</link>
@@ -233,31 +258,6 @@
       <title>Soc. Networks: Use of a hierarchical deconstruction procedure for the classification of personal networks: Exploring nested groups around you</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873322001058</link>
       <guid isPermaLink="false">004077</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On distance Laplacian spectral determination of complete multipartite graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008554</link>
-      <guid isPermaLink="false">004076</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: Cross-species high-resolution transcriptome profiling suggests biomarkers and therapeutic targets for ulcerative colitis</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2022.1081176</link>
-      <guid isPermaLink="false">004075</guid>
-    </item>
-    <item>
-      <title>Chaos: Chimeras on a ring of oscillator populations</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0127306?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004074</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Ensemble analysis of complex network properties—an MCMC approach</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/aca955</link>
-      <guid isPermaLink="false">004073</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Chimeralike oscillation modes in excitable scale-free networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013006</link>
-      <guid isPermaLink="false">004072</guid>
     </item>
   </channel>
 </rss>
