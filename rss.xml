@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Jan 2023 12:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2023 14:01:49 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Limits of entrainment of circadian neuronal networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0122744?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">004131</guid>
+    </item>
+    <item>
+      <title>PNAS: Growth and depletion in linear stochastic reaction networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2214282119?af=R</link>
+      <guid isPermaLink="false">004130</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: The profit and risk in the interdisciplinary behavior</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1107446</link>
+      <guid isPermaLink="false">004129</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Dynamic network sampling for community detection</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00528-1</link>
+      <guid isPermaLink="false">004128</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Graphs with (strong) proper connection numbers m - 3 and m - 4</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000127</link>
+      <guid isPermaLink="false">004127</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: An efficient weighted network centrality approach for exploring mechanisms of action of the Ruellia herbal formula for treating rheumatoid arthritis</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00527-2</link>
@@ -233,31 +258,6 @@
       <title>J. R. Soc. Interface: The ensemble of gene regulatory networks at mutation–selection balance</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0075?af=R</link>
       <guid isPermaLink="false">004082</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Editorial: Epidemic models on networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1122070</link>
-      <guid isPermaLink="false">004081</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Risky cascading transitions in international relationships</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgac289</link>
-      <guid isPermaLink="false">004080</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Chaotic dynamics in spatially distributed neuronal networks generate population-wide shared variability</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010843</link>
-      <guid isPermaLink="false">004079</guid>
-    </item>
-    <item>
-      <title>Chaos: Wealth distribution for agents with spending propensity, interacting over a network</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0120979?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">004078</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Use of a hierarchical deconstruction procedure for the classification of personal networks: Exploring nested groups around you</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322001058</link>
-      <guid isPermaLink="false">004077</guid>
     </item>
   </channel>
 </rss>
