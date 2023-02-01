@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Feb 2023 01:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2023 16:10:29 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Colorful Hamilton Cycles in Random Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1403291?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">004136</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On L(p,q)-labelling of planar graphs without cycles of length four</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032300053X</link>
+      <guid isPermaLink="false">004135</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Inferred networks, machine learning, and health data</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280910</link>
+      <guid isPermaLink="false">004134</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: Laplacian renormalization group for heterogeneous networks</title>
+      <link>https://www.nature.com/articles/s41567-022-01866-8</link>
+      <guid isPermaLink="false">004133</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: ABC energies and spectral radii of some graph operations</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1053038</link>
+      <guid isPermaLink="false">004132</guid>
+    </item>
     <item>
       <title>Chaos: Limits of entrainment of circadian neuronal networks</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0122744?af=R&amp;feed=most-recent</link>
@@ -233,31 +258,6 @@
       <title>Philos. Trans. Royal Soc. B: Sampling statistics are like story creation: a network analysis of parent–toddler exploratory play</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0358?af=R</link>
       <guid isPermaLink="false">004087</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: On the importance of structural equivalence in temporal networks for epidemic forecasting</title>
-      <link>https://www.nature.com/articles/s41598-023-28126-w</link>
-      <guid isPermaLink="false">004086</guid>
-    </item>
-    <item>
-      <title>EPL: The simplest multilayer network of Rulkov neuron maps: A dynamical analysis under different neuronal interactions</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aca823</link>
-      <guid isPermaLink="false">004085</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Minor embedding with Stuart-Landau oscillator networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013018</link>
-      <guid isPermaLink="false">004084</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Leadership and contagion by COVID-19 among residence hall students: A Social Network Analysis approach</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000011</link>
-      <guid isPermaLink="false">004083</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: The ensemble of gene regulatory networks at mutation–selection balance</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0075?af=R</link>
-      <guid isPermaLink="false">004082</guid>
     </item>
   </channel>
 </rss>
