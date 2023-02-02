@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Feb 2023 18:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 13:08:25 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Sampling random graph homomorphisms and applications to network data analysis</title>
+      <link>http://jmlr.org/papers/v24/20-449.html</link>
+      <guid isPermaLink="false">004141</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Turing patterns in simplicial complexes</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014216</link>
+      <guid isPermaLink="false">004140</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Planning spatial networks with Monte Carlo tree search</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2022.0383?af=R</link>
+      <guid isPermaLink="false">004139</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Nodal-statistics-based equivalence relation for graph collections</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014302</link>
+      <guid isPermaLink="false">004138</guid>
+    </item>
+    <item>
+      <title>EPL: The potential scale-free network mechanism underlying the formation of focal epilepsy</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acb381</link>
+      <guid isPermaLink="false">004137</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Colorful Hamilton Cycles in Random Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/21M1403291?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -233,31 +258,6 @@
       <title>Appl. Netw. Sci.: Convergence properties of optimal transport-based temporal hypergraphs</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00529-0</link>
       <guid isPermaLink="false">004092</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Component connectivity of the data center network DCell</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008906</link>
-      <guid isPermaLink="false">004091</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Editorial: Dynamical systems, PDEs and networks for biomedical applications: Mathematical modeling, analysis and simulations</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1101756</link>
-      <guid isPermaLink="false">004090</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A methodology framework for bipartite network modeling</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00533-y</link>
-      <guid isPermaLink="false">004089</guid>
-    </item>
-    <item>
-      <title>PNAS: The synaptic organization in the Caenorhabditis elegans neural network suggests significant local compartmentalized computations</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2201699120?af=R</link>
-      <guid isPermaLink="false">004088</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. Royal Soc. B: Sampling statistics are like story creation: a network analysis of parent–toddler exploratory play</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0358?af=R</link>
-      <guid isPermaLink="false">004087</guid>
     </item>
   </channel>
 </rss>
