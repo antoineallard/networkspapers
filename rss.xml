@@ -3,7 +3,7 @@
   <channel>
     <title>New papers in Network Science</title>
     <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
-    <description>Showing the 50 ultimate posts</description>
+    <description>Showing the ultimate 100 posts</description>
     <atom:link href="https://feeds.feedburner.com/raw/kWNA4ZuqSd4" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -13,7 +13,7 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Feb 2023 18:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 18:19:11 +0000</lastBuildDate>
     <item>
       <title>J. Mach. Learn. Res.: Sampling random graph homomorphisms and applications to network data analysis</title>
       <link>http://jmlr.org/papers/v24/20-449.html</link>
@@ -263,6 +263,256 @@
       <title>Appl. Netw. Sci.: Convergence properties of optimal transport-based temporal hypergraphs</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00529-0</link>
       <guid isPermaLink="false">NPINS.004092</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Component connectivity of the data center network DCell</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008906</link>
+      <guid isPermaLink="false">NPINS.004091</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Editorial: Dynamical systems, PDEs and networks for biomedical applications: Mathematical modeling, analysis and simulations</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1101756</link>
+      <guid isPermaLink="false">NPINS.004090</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A methodology framework for bipartite network modeling</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00533-y</link>
+      <guid isPermaLink="false">NPINS.004089</guid>
+    </item>
+    <item>
+      <title>PNAS: The synaptic organization in the Caenorhabditis elegans neural network suggests significant local compartmentalized computations</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2201699120?af=R</link>
+      <guid isPermaLink="false">NPINS.004088</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. Royal Soc. B: Sampling statistics are like story creation: a network analysis of parent–toddler exploratory play</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0358?af=R</link>
+      <guid isPermaLink="false">NPINS.004087</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: On the importance of structural equivalence in temporal networks for epidemic forecasting</title>
+      <link>https://www.nature.com/articles/s41598-023-28126-w</link>
+      <guid isPermaLink="false">NPINS.004086</guid>
+    </item>
+    <item>
+      <title>EPL: The simplest multilayer network of Rulkov neuron maps: A dynamical analysis under different neuronal interactions</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aca823</link>
+      <guid isPermaLink="false">NPINS.004085</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Minor embedding with Stuart-Landau oscillator networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013018</link>
+      <guid isPermaLink="false">NPINS.004084</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Leadership and contagion by COVID-19 among residence hall students: A Social Network Analysis approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000011</link>
+      <guid isPermaLink="false">NPINS.004083</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: The ensemble of gene regulatory networks at mutation–selection balance</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0075?af=R</link>
+      <guid isPermaLink="false">NPINS.004082</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Editorial: Epidemic models on networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1122070</link>
+      <guid isPermaLink="false">NPINS.004081</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Risky cascading transitions in international relationships</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgac289</link>
+      <guid isPermaLink="false">NPINS.004080</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Chaotic dynamics in spatially distributed neuronal networks generate population-wide shared variability</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010843</link>
+      <guid isPermaLink="false">NPINS.004079</guid>
+    </item>
+    <item>
+      <title>Chaos: Wealth distribution for agents with spending propensity, interacting over a network</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0120979?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004078</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Use of a hierarchical deconstruction procedure for the classification of personal networks: Exploring nested groups around you</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873322001058</link>
+      <guid isPermaLink="false">NPINS.004077</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On distance Laplacian spectral determination of complete multipartite graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008554</link>
+      <guid isPermaLink="false">NPINS.004076</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: Cross-species high-resolution transcriptome profiling suggests biomarkers and therapeutic targets for ulcerative colitis</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2022.1081176</link>
+      <guid isPermaLink="false">NPINS.004075</guid>
+    </item>
+    <item>
+      <title>Chaos: Chimeras on a ring of oscillator populations</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0127306?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004074</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Ensemble analysis of complex network properties—an MCMC approach</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/aca955</link>
+      <guid isPermaLink="false">NPINS.004073</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Chimeralike oscillation modes in excitable scale-free networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013006</link>
+      <guid isPermaLink="false">NPINS.004072</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Understanding the self-organization of occupational sex segregation with mobility networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873322001046</link>
+      <guid isPermaLink="false">NPINS.004071</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Gender homophily and gender distribution in social networks: The case of older adults in long term care settings</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000594</link>
+      <guid isPermaLink="false">NPINS.004070</guid>
+    </item>
+    <item>
+      <title>PNAS: Information-processing dynamics in neural networks of macaque cerebral cortex reflect cognitive state and behavior</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2207677120?af=R</link>
+      <guid isPermaLink="false">NPINS.004069</guid>
+    </item>
+    <item>
+      <title>Chaos: Heterogeneous pair-approximation analysis for susceptible–infectious–susceptible epidemics on networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0112058?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004068</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Social stratification in networks: insights from co-authorship networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0555?af=R</link>
+      <guid isPermaLink="false">NPINS.004067</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: A novel method detecting controversial interaction in the multiplex social comment network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1107338</link>
+      <guid isPermaLink="false">NPINS.004066</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: An individualized causal framework for learning intercellular communication networks that define microenvironments of individual tumors</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010761</link>
+      <guid isPermaLink="false">NPINS.004065</guid>
+    </item>
+    <item>
+      <title>PNAS: Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2201074119?af=R</link>
+      <guid isPermaLink="false">NPINS.004064</guid>
+    </item>
+    <item>
+      <title>Chaos: Clustering and link prediction for mesoscopic COVID-19 transmission networks in Republic of Korea</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0130386?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004063</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Jointly multi-source information and local-global relations of heterogeneous network for rumor detection</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1056207</link>
+      <guid isPermaLink="false">NPINS.004062</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Q-learning-based migration leading to spontaneous emergence of segregation</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acadfd</link>
+      <guid isPermaLink="false">NPINS.004061</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Emergence of social support networks among breast cancer survivors through a community-based physical activity program in Colombia</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332200106X</link>
+      <guid isPermaLink="false">NPINS.004060</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Genomics and phenomics of body mass index reveals a complex disease network</title>
+      <link>https://www.nature.com/articles/s41467-022-35553-2</link>
+      <guid isPermaLink="false">NPINS.004059</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Influence in social networks with stubborn agents: From competition to bargaining</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032200858X</link>
+      <guid isPermaLink="false">NPINS.004058</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Bridging in network organisations. The case of the Intergovernmental Panel on Climate Change (IPCC)</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000156</link>
+      <guid isPermaLink="false">NPINS.004057</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Spatial and temporal correlations in neural networks with structured connectivity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013005</link>
+      <guid isPermaLink="false">NPINS.004056</guid>
+    </item>
+    <item>
+      <title>Chaos: Universality and scaling in complex networks from periods of Chinese history</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0134923?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004055</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820</link>
+      <guid isPermaLink="false">NPINS.004054</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A novel clustering approach to bipartite investor-startup networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279780</link>
+      <guid isPermaLink="false">NPINS.004053</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Regional industrial growth and biopharma patent networks: empirical insights from the UK</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00518-3</link>
+      <guid isPermaLink="false">NPINS.004052</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Remaining popular: power-law regularities in network dynamics</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-022-00373-3</link>
+      <guid isPermaLink="false">NPINS.004051</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A state-flipped approach to complete synchronization of Boolean networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008566</link>
+      <guid isPermaLink="false">NPINS.004050</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Lost in the woods: Forest vegetation, and not topography, most affects the connectivity of mesh radio networks for public safety</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278645</link>
+      <guid isPermaLink="false">NPINS.004049</guid>
+    </item>
+    <item>
+      <title>Chaos: Vital node identification in hypergraphs via gravity model</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0127434?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004048</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Inferring the interaction rules of complex systems with graph neural networks and approximate Bayesian computation</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0676?af=R</link>
+      <guid isPermaLink="false">NPINS.004047</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Curcumin’s mechanism of action against ischemic stroke: A network pharmacology and molecular dynamics study</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280112</link>
+      <guid isPermaLink="false">NPINS.004046</guid>
+    </item>
+    <item>
+      <title>iScience: The brain structure and the neural network features of the diurnal cuttlefish &lt;em&gt;Sepia plangon&lt;/em&gt;</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004222021198</link>
+      <guid isPermaLink="false">NPINS.004045</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Shot noise in next-generation neural mass models for finite-size networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.106.L062302</link>
+      <guid isPermaLink="false">NPINS.004044</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Anomalous Diffusion of Deformable Particles in a Honeycomb Network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.014001</link>
+      <guid isPermaLink="false">NPINS.004043</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Demographic and HIV status diversities as mechanisms of social integration and segregation among Black sexual and gender minorities enrolled in a community-based social network intervention</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873322001071</link>
+      <guid isPermaLink="false">NPINS.004042</guid>
     </item>
   </channel>
 </rss>
