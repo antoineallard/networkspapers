@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Feb 2023 12:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2023 18:51:34 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Partial synchronization and community switching in phase-oscillator networks and its analysis based on a bidirectional, weighted chain of three oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014210</link>
+      <guid isPermaLink="false">NPINS.004151</guid>
+    </item>
+    <item>
+      <title>Chaos: Prediction and mitigation of nonlocal cascading failures using graph neural networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0107420?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004150</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Mean-field approximation for structural balance dynamics in heat bath</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.106.064139</link>
+      <guid isPermaLink="false">NPINS.004149</guid>
+    </item>
+    <item>
+      <title>iScience: Identifying multi-scale translational safety biomarkers using a network-based systems approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223001712</link>
+      <guid isPermaLink="false">NPINS.004148</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Effects of temporal resolution adjustments on dynamic sexual contact models</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000922</link>
+      <guid isPermaLink="false">NPINS.004147</guid>
+    </item>
     <item>
       <title>PLOS ONE: Quantifying the impact of strong ties in international scientific research collaboration</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280521</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Regional industrial growth and biopharma patent networks: empirical insights from the UK</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00518-3</link>
       <guid isPermaLink="false">NPINS.004052</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Remaining popular: power-law regularities in network dynamics</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-022-00373-3</link>
-      <guid isPermaLink="false">NPINS.004051</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A state-flipped approach to complete synchronization of Boolean networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008566</link>
-      <guid isPermaLink="false">NPINS.004050</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Lost in the woods: Forest vegetation, and not topography, most affects the connectivity of mesh radio networks for public safety</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278645</link>
-      <guid isPermaLink="false">NPINS.004049</guid>
-    </item>
-    <item>
-      <title>Chaos: Vital node identification in hypergraphs via gravity model</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0127434?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004048</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Inferring the interaction rules of complex systems with graph neural networks and approximate Bayesian computation</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0676?af=R</link>
-      <guid isPermaLink="false">NPINS.004047</guid>
     </item>
   </channel>
 </rss>
