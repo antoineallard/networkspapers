@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Feb 2023 12:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2023 13:18:02 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Sustaining a network by controlling a fraction of nodes</title>
+      <link>https://www.nature.com/articles/s42005-023-01138-8</link>
+      <guid isPermaLink="false">NPINS.004161</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.057401</link>
+      <guid isPermaLink="false">NPINS.004160</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Distance Laplacian spectral ordering of sun type graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000164</link>
+      <guid isPermaLink="false">NPINS.004159</guid>
+    </item>
+    <item>
+      <title>iScience: A data-driven optimization method for coarse-graining gene regulatory networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223000044</link>
+      <guid isPermaLink="false">NPINS.004158</guid>
+    </item>
+    <item>
+      <title>iScience: Bow-tie architectures in biological and artificial neural networks: implications for network evolution and assay design</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223001189</link>
+      <guid isPermaLink="false">NPINS.004157</guid>
+    </item>
     <item>
       <title>Front. Phys.: Editorial: Network mining and propagation dynamics analysis</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1130473</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: Jointly multi-source information and local-global relations of heterogeneous network for rumor detection</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1056207</link>
       <guid isPermaLink="false">NPINS.004062</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Q-learning-based migration leading to spontaneous emergence of segregation</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acadfd</link>
-      <guid isPermaLink="false">NPINS.004061</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Emergence of social support networks among breast cancer survivors through a community-based physical activity program in Colombia</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332200106X</link>
-      <guid isPermaLink="false">NPINS.004060</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Genomics and phenomics of body mass index reveals a complex disease network</title>
-      <link>https://www.nature.com/articles/s41467-022-35553-2</link>
-      <guid isPermaLink="false">NPINS.004059</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Influence in social networks with stubborn agents: From competition to bargaining</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032200858X</link>
-      <guid isPermaLink="false">NPINS.004058</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Bridging in network organisations. The case of the Intergovernmental Panel on Climate Change (IPCC)</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000156</link>
-      <guid isPermaLink="false">NPINS.004057</guid>
     </item>
   </channel>
 </rss>
