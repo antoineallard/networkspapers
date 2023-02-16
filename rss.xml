@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Feb 2023 02:56:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2023 02:54:28 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Security control scheme for cyber-physical system with a complex network in physical layer against false data injection attacks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000772</link>
+      <guid isPermaLink="false">NPINS.004186</guid>
+    </item>
+    <item>
+      <title>Chaos: Structural inference of networked dynamical systems with universal differential equations</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0109093?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004185</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Rank the spreading influence of nodes using dynamic Markov process</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acb590</link>
+      <guid isPermaLink="false">NPINS.004184</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: External field and critical exponents in controlling dynamics on complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acb45a</link>
+      <guid isPermaLink="false">NPINS.004183</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Modeling framework unifying contact and social networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024301</link>
+      <guid isPermaLink="false">NPINS.004182</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Aging transition in coupled quantum oscillators</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024204</link>
@@ -488,31 +513,6 @@
       <title>Philos. Trans. Royal Soc. B: Sampling statistics are like story creation: a network analysis of parent–toddler exploratory play</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0358?af=R</link>
       <guid isPermaLink="false">NPINS.004087</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: On the importance of structural equivalence in temporal networks for epidemic forecasting</title>
-      <link>https://www.nature.com/articles/s41598-023-28126-w</link>
-      <guid isPermaLink="false">NPINS.004086</guid>
-    </item>
-    <item>
-      <title>EPL: The simplest multilayer network of Rulkov neuron maps: A dynamical analysis under different neuronal interactions</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aca823</link>
-      <guid isPermaLink="false">NPINS.004085</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Minor embedding with Stuart-Landau oscillator networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013018</link>
-      <guid isPermaLink="false">NPINS.004084</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Leadership and contagion by COVID-19 among residence hall students: A Social Network Analysis approach</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000011</link>
-      <guid isPermaLink="false">NPINS.004083</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: The ensemble of gene regulatory networks at mutation–selection balance</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0075?af=R</link>
-      <guid isPermaLink="false">NPINS.004082</guid>
     </item>
   </channel>
 </rss>
