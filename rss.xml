@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Feb 2023 14:47:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2023 14:54:23 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: A local community detection algorithm based on potential community exploration</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1114296</link>
+      <guid isPermaLink="false">NPINS.004191</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Percolation and dissolution of Borromean networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024304</link>
+      <guid isPermaLink="false">NPINS.004190</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Understanding congestion propagation by combining percolation theory with the macroscopic fundamental diagram</title>
+      <link>https://www.nature.com/articles/s42005-023-01144-w</link>
+      <guid isPermaLink="false">NPINS.004189</guid>
+    </item>
+    <item>
+      <title>Curr. Opin. Struct. Biol.: Everything is connected: Graph neural networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0959440X2300012X</link>
+      <guid isPermaLink="false">NPINS.004188</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Network regulation meets substrate modification chemistry</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0510?af=R</link>
+      <guid isPermaLink="false">NPINS.004187</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Security control scheme for cyber-physical system with a complex network in physical layer against false data injection attacks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323000772</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Convergence properties of optimal transport-based temporal hypergraphs</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00529-0</link>
       <guid isPermaLink="false">NPINS.004092</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Component connectivity of the data center network DCell</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300322008906</link>
-      <guid isPermaLink="false">NPINS.004091</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Editorial: Dynamical systems, PDEs and networks for biomedical applications: Mathematical modeling, analysis and simulations</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1101756</link>
-      <guid isPermaLink="false">NPINS.004090</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A methodology framework for bipartite network modeling</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00533-y</link>
-      <guid isPermaLink="false">NPINS.004089</guid>
-    </item>
-    <item>
-      <title>PNAS: The synaptic organization in the Caenorhabditis elegans neural network suggests significant local compartmentalized computations</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2201699120?af=R</link>
-      <guid isPermaLink="false">NPINS.004088</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. Royal Soc. B: Sampling statistics are like story creation: a network analysis of parent–toddler exploratory play</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0358?af=R</link>
-      <guid isPermaLink="false">NPINS.004087</guid>
     </item>
   </channel>
 </rss>
