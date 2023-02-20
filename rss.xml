@@ -13,7 +13,27 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Feb 2023 15:34:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Feb 2023 18:50:06 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Network embedding aided vaccine skepticism detection</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00534-x</link>
+      <guid isPermaLink="false">NPINS.004200</guid>
+    </item>
+    <item>
+      <title>Chaos: Conformity effect on the evolution of cooperation in signed networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0101350?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004199</guid>
+    </item>
+    <item>
+      <title>Chaos: Ordinal methods for a characterization of evolving functional brain networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0136181?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004198</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: 5-Cycle Double Covers, 4-Flows, and Catlin Reduction</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1472425?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004197</guid>
+    </item>
     <item>
       <title>SIAM J. Appl. Dyn. Syst.: Qualitative Behavior of a Metabolic Pathway with Hybrid Feedback</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/21M1451282?af=R</link>
@@ -493,26 +513,6 @@
       <title>Appl. Netw. Sci.: Centrality-based lane interventions in road networks for improved level of service: the case of downtown Boise, Idaho</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00532-z</link>
       <guid isPermaLink="false">NPINS.004101</guid>
-    </item>
-    <item>
-      <title>Chaos: Study of interaction and complete merging of binary cyclones using complex networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0101714?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004100</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Early Evolution of the Random Graph Process in Planar Graphs and Related Classes</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1450616?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004099</guid>
-    </item>
-    <item>
-      <title>Chaos: Synchronizing network systems in the presence of limited resources via edge snapping</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0093560?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004098</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Anomalous finite-size scaling in higher-order processes with absorbing states</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014105</link>
-      <guid isPermaLink="false">NPINS.004097</guid>
     </item>
   </channel>
 </rss>
