@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Feb 2023 02:58:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2023 15:27:20 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Self-organized collective oscillations in networks of stochastic spiking neurons</title>
+      <link>https://www.scitation.org/doi/10.1063/5.0130075?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004221</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Delocalization-localization dynamical phase transition of random walks on graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024126</link>
+      <guid isPermaLink="false">NPINS.004220</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024302</link>
+      <guid isPermaLink="false">NPINS.004219</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Noisy intermediate-scale quantum computing algorithm for solving an $n$-vertex MaxCut problem with log($n$) qubits</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.L012021</link>
+      <guid isPermaLink="false">NPINS.004218</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Small-scale mobility fostering the interaction networks of Patagonian (Argentina) hunter-gatherers during the Late Holocene: Perspectives from strontium isotopes and exotic items</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281089</link>
+      <guid isPermaLink="false">NPINS.004217</guid>
+    </item>
     <item>
       <title>J. Stat. Mech.: Link stability analysis of temporal international fertilizer trade networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/acb5ef</link>
@@ -488,31 +513,6 @@
       <title>Chaos: Asymmetry induces critical desynchronization of power grids</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0131931?af=R&amp;feed=most-recent</link>
       <guid isPermaLink="false">NPINS.004122</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: A new effective metric for dynamical robustness of directed networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1129844</link>
-      <guid isPermaLink="false">NPINS.004121</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Does “network closure” beef up firms’ performance?</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000047</link>
-      <guid isPermaLink="false">NPINS.004120</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Information-transfer characteristics in network motifs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013037</link>
-      <guid isPermaLink="false">NPINS.004119</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Emergence of Polarization in Coevolving Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.037401</link>
-      <guid isPermaLink="false">NPINS.004118</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Graphs with three distinct distance eigenvalues</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000176</link>
-      <guid isPermaLink="false">NPINS.004117</guid>
     </item>
   </channel>
 </rss>
