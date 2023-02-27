@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Feb 2023 16:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2023 21:35:16 +0000</lastBuildDate>
+    <item>
+      <title>SIAM Rev.: Flow-Based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/20M1333055?ai=s5&amp;mi=8vgswd&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004226</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Spatio-temporal patterns of non-autonomous systems on hypergraphs: Turing and Benjamin–Feir mechanisms</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acb5e1</link>
+      <guid isPermaLink="false">NPINS.004225</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Distribution of the number of cycles in directed and undirected random regular graphs of degree 2</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024308</link>
+      <guid isPermaLink="false">NPINS.004224</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Heterogeneous Nucleation in Finite-Size Adaptive Dynamical Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.067402</link>
+      <guid isPermaLink="false">NPINS.004223</guid>
+    </item>
+    <item>
+      <title>Chaos: Predicting the cascading dynamics in complex networks via the bimodal failure size distribution</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0119902?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004222</guid>
+    </item>
     <item>
       <title>Chaos: Self-organized collective oscillations in networks of stochastic spiking neurons</title>
       <link>https://www.scitation.org/doi/10.1063/5.0130075?af=R&amp;feed=most-recent</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Graphs with (strong) proper connection numbers m - 3 and m - 4</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323000127</link>
       <guid isPermaLink="false">NPINS.004127</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: An efficient weighted network centrality approach for exploring mechanisms of action of the Ruellia herbal formula for treating rheumatoid arthritis</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00527-2</link>
-      <guid isPermaLink="false">NPINS.004126</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On the Minimum Degree of Minimal Ramsey Graphs for Cliques Versus Cycles</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1444953?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004125</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Maximal dispersion of adaptive random walks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.4.L042051</link>
-      <guid isPermaLink="false">NPINS.004124</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Study on an SIR rumor propagation model with an interaction mechanism on WeChat networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1089536</link>
-      <guid isPermaLink="false">NPINS.004123</guid>
-    </item>
-    <item>
-      <title>Chaos: Asymmetry induces critical desynchronization of power grids</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0131931?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004122</guid>
     </item>
   </channel>
 </rss>
