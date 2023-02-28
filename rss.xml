@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Feb 2023 00:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2023 13:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: A Spectral Moore Bound for Bipartite Semiregular Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1450082?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004231</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Gene expression prediction based on neighbour connection neural network utilizing gene interaction graphs</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281286</link>
+      <guid isPermaLink="false">NPINS.004230</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Front Propagation and Arrival Times in Networks with Application to Neurodegenerative Diseases</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1467547?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004229</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Mutual fund net flows in China: A co-holding network perspective</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1142905</link>
+      <guid isPermaLink="false">NPINS.004228</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Scaling bias in pooled exponential random graph models</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000126</link>
+      <guid isPermaLink="false">NPINS.004227</guid>
+    </item>
     <item>
       <title>SIAM Rev.: Flow-Based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/20M1333055?ai=s5&amp;mi=8vgswd&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: ABC energies and spectral radii of some graph operations</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1053038</link>
       <guid isPermaLink="false">NPINS.004132</guid>
-    </item>
-    <item>
-      <title>Chaos: Limits of entrainment of circadian neuronal networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0122744?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004131</guid>
-    </item>
-    <item>
-      <title>PNAS: Growth and depletion in linear stochastic reaction networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2214282119?af=R</link>
-      <guid isPermaLink="false">NPINS.004130</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: The profit and risk in the interdisciplinary behavior</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1107446</link>
-      <guid isPermaLink="false">NPINS.004129</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Dynamic network sampling for community detection</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00528-1</link>
-      <guid isPermaLink="false">NPINS.004128</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Graphs with (strong) proper connection numbers m - 3 and m - 4</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000127</link>
-      <guid isPermaLink="false">NPINS.004127</guid>
     </item>
   </channel>
 </rss>
