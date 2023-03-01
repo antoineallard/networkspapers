@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Feb 2023 22:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2023 19:16:04 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Network approaches and interventions in healthcare settings: A systematic scoping review</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282050</link>
+      <guid isPermaLink="false">NPINS.004236</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Genetic architecture of the white matter connectome of the human brain</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.add2870</link>
+      <guid isPermaLink="false">NPINS.004235</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Deterministic and stochastic sampling of two coupled Kerr parametric oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.L012029</link>
+      <guid isPermaLink="false">NPINS.004234</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: RMF accessibility percolation on oriented graphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acb42a</link>
+      <guid isPermaLink="false">NPINS.004233</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A novel resilience analysis methodology for airport networks system from the perspective of different epidemic prevention and control policy responses</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281950</link>
+      <guid isPermaLink="false">NPINS.004232</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: A Spectral Moore Bound for Bipartite Semiregular Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/21M1450082?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>EPL: The potential scale-free network mechanism underlying the formation of focal epilepsy</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/acb381</link>
       <guid isPermaLink="false">NPINS.004137</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Colorful Hamilton Cycles in Random Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1403291?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004136</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On L(p,q)-labelling of planar graphs without cycles of length four</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032300053X</link>
-      <guid isPermaLink="false">NPINS.004135</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Inferred networks, machine learning, and health data</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280910</link>
-      <guid isPermaLink="false">NPINS.004134</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Laplacian renormalization group for heterogeneous networks</title>
-      <link>https://www.nature.com/articles/s41567-022-01866-8</link>
-      <guid isPermaLink="false">NPINS.004133</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: ABC energies and spectral radii of some graph operations</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1053038</link>
-      <guid isPermaLink="false">NPINS.004132</guid>
     </item>
   </channel>
 </rss>
