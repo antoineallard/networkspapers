@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Mar 2023 19:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2023 20:35:05 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Stochastic and deterministic dynamics in networks with excitable nodes</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0103806?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004241</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Aging in binary-state models: The Threshold model for complex contagion</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024101</link>
+      <guid isPermaLink="false">NPINS.004240</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Integrated twitter analysis to distinguish systems thinkers at various levels: a case study of COVID-19</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00520-9</link>
+      <guid isPermaLink="false">NPINS.004239</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Predicting anti-cancer activity in flavonoids: a graph theoretic approach</title>
+      <link>https://www.nature.com/articles/s41598-023-30517-y</link>
+      <guid isPermaLink="false">NPINS.004238</guid>
+    </item>
+    <item>
+      <title>Chaos: Superdiffusion induced by complete structure in multiplex networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0133712?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004237</guid>
+    </item>
     <item>
       <title>PLOS ONE: Network approaches and interventions in healthcare settings: A systematic scoping review</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282050</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Reliabilities for two kinds of graphs with smaller diameters</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323000437</link>
       <guid isPermaLink="false">NPINS.004142</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Sampling random graph homomorphisms and applications to network data analysis</title>
-      <link>http://jmlr.org/papers/v24/20-449.html</link>
-      <guid isPermaLink="false">NPINS.004141</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Turing patterns in simplicial complexes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014216</link>
-      <guid isPermaLink="false">NPINS.004140</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Planning spatial networks with Monte Carlo tree search</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2022.0383?af=R</link>
-      <guid isPermaLink="false">NPINS.004139</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Nodal-statistics-based equivalence relation for graph collections</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014302</link>
-      <guid isPermaLink="false">NPINS.004138</guid>
-    </item>
-    <item>
-      <title>EPL: The potential scale-free network mechanism underlying the formation of focal epilepsy</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acb381</link>
-      <guid isPermaLink="false">NPINS.004137</guid>
     </item>
   </channel>
 </rss>
