@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 14:08:59 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: Distinguishing cospectral quantum graphs by scattering</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acbb44</link>
+      <guid isPermaLink="false">NPINS.004246</guid>
+    </item>
+    <item>
+      <title>Chaos: Complex network growth model: Possible isomorphism between nonextensive statistical mechanics and random geometry</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0090864%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004245</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Exploring the mechanism of anti-fatigue of resveratrol based on network pharmacology and molecular docking, and in vitro studies</title>
+      <link>https://www.nature.com/articles/s41598-023-30141-w</link>
+      <guid isPermaLink="false">NPINS.004244</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: The human brain biases integration of information passed through social networks</title>
+      <link>https://www.nature.com/articles/s41593-023-01269-9</link>
+      <guid isPermaLink="false">NPINS.004243</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Criticality in probabilistic models of spreading dynamics in brain networks: Epileptic seizures</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010852</link>
+      <guid isPermaLink="false">NPINS.004242</guid>
+    </item>
     <item>
       <title>Chaos: Stochastic and deterministic dynamics in networks with excitable nodes</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0103806?af=R&amp;feed=most-recent</link>
@@ -488,31 +513,6 @@
       <title>Soc. Networks: Effects of temporal resolution adjustments on dynamic sexual contact models</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873322000922</link>
       <guid isPermaLink="false">NPINS.004147</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Quantifying the impact of strong ties in international scientific research collaboration</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280521</link>
-      <guid isPermaLink="false">NPINS.004146</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Quantifying knowledge from the perspective of information structurization</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279314</link>
-      <guid isPermaLink="false">NPINS.004145</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Bayesian reconstruction of memories stored in neural networks from their connectivity</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010813</link>
-      <guid isPermaLink="false">NPINS.004144</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Democratizing corruption: a role structure analysis of Indonesia’s “Big Bang” decentralization</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00535-w</link>
-      <guid isPermaLink="false">NPINS.004143</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Reliabilities for two kinds of graphs with smaller diameters</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000437</link>
-      <guid isPermaLink="false">NPINS.004142</guid>
     </item>
   </channel>
 </rss>
