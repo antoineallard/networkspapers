@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2023 06:19:15 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Complex hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024316</link>
+      <guid isPermaLink="false">NPINS.004256</guid>
+    </item>
+    <item>
+      <title>Chaos: Synchronization and bifurcation in an economic model</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0104017%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004255</guid>
+    </item>
+    <item>
+      <title>Chaos: Robustness measurement of multiplex networks based on graph spectrum</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0124201?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004254</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Inferring synchronizability of networked heterogeneous oscillators with machine learning</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024314</link>
+      <guid isPermaLink="false">NPINS.004253</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Sociometric network analysis in illicit drugs research: A scoping review</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282340</link>
+      <guid isPermaLink="false">NPINS.004252</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Data-driven approximation for extracting the transition dynamics of a genetic regulatory network with non-Gaussian Lévy noise</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acb42f</link>
+      <guid isPermaLink="false">NPINS.004251</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Diagrammatics for the inverse problem in spin systems and simple liquids</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acb7b4</link>
+      <guid isPermaLink="false">NPINS.004250</guid>
+    </item>
+    <item>
+      <title>Chaos: The impact of inner-coupling and time delay on synchronization: From single-layer network to hypernetwork</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0091626%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004249</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: New concepts on level graphs of vague graphs with application in medicine</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1130765</link>
+      <guid isPermaLink="false">NPINS.004248</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Neurocomputational mechanism of real-time distributed learning on social networks</title>
+      <link>https://www.nature.com/articles/s41593-023-01258-y</link>
+      <guid isPermaLink="false">NPINS.004247</guid>
+    </item>
     <item>
       <title>J. Phys. A: Distinguishing cospectral quantum graphs by scattering</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/acbb44</link>
@@ -463,56 +513,6 @@
       <title>iScience: Bow-tie architectures in biological and artificial neural networks: implications for network evolution and assay design</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004223001189</link>
       <guid isPermaLink="false">NPINS.004157</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Editorial: Network mining and propagation dynamics analysis</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1130473</link>
-      <guid isPermaLink="false">NPINS.004156</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Networks of climate change: connecting causes and consequences</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00536-9</link>
-      <guid isPermaLink="false">NPINS.004155</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Model-independent embedding of directed networks into Euclidean and hyperbolic spaces</title>
-      <link>https://www.nature.com/articles/s42005-023-01143-x</link>
-      <guid isPermaLink="false">NPINS.004154</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Spanning trees with at most Spanning trees with at most k leaves in 2-connected K1r-free graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000115</link>
-      <guid isPermaLink="false">NPINS.004153</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Dynamic information transfer in stochastic biochemical networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013032</link>
-      <guid isPermaLink="false">NPINS.004152</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Partial synchronization and community switching in phase-oscillator networks and its analysis based on a bidirectional, weighted chain of three oscillators</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.014210</link>
-      <guid isPermaLink="false">NPINS.004151</guid>
-    </item>
-    <item>
-      <title>Chaos: Prediction and mitigation of nonlocal cascading failures using graph neural networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0107420?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004150</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Mean-field approximation for structural balance dynamics in heat bath</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.106.064139</link>
-      <guid isPermaLink="false">NPINS.004149</guid>
-    </item>
-    <item>
-      <title>iScience: Identifying multi-scale translational safety biomarkers using a network-based systems approach</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223001712</link>
-      <guid isPermaLink="false">NPINS.004148</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Effects of temporal resolution adjustments on dynamic sexual contact models</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000922</link>
-      <guid isPermaLink="false">NPINS.004147</guid>
     </item>
   </channel>
 </rss>
