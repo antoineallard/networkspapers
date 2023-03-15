@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Mar 2023 09:29:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2023 16:06:02 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Contact networks have small metric backbones that maintain community structure and are primary transmission subgraphs</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010854</link>
+      <guid isPermaLink="false">NPINS.004286</guid>
+    </item>
+    <item>
+      <title>Chaos: Mathematical modeling of the Chilean riots of 2019: An epidemiological non-local approach</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0116750%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004285</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Impacts of observation frequency on proximity contact data and modeled transmission dynamics</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010917</link>
+      <guid isPermaLink="false">NPINS.004284</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Cyclops States in Repulsive Kuramoto Networks: The Role of Higher-Order Coupling</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.107201</link>
+      <guid isPermaLink="false">NPINS.004283</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Do global geopolitical risks affect connectedness of global stock market contagion network? Evidence from quantile-on-quantile regression</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1124092</link>
+      <guid isPermaLink="false">NPINS.004282</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Critical avalanches of susceptible-infected-susceptible dynamics in finite networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024310</link>
+      <guid isPermaLink="false">NPINS.004281</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Structure of personal networks and cognitive abilities: A study on a sample of Italian older adults</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000205</link>
+      <guid isPermaLink="false">NPINS.004280</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Population spiking and bursting in next-generation neural masses with spike-frequency adaptation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024311</link>
+      <guid isPermaLink="false">NPINS.004279</guid>
+    </item>
+    <item>
+      <title>Chaos: An attack–defense game model in infrastructure networks under link hiding</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0112907%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004278</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Impact of human contact patterns on epidemic spreading in time-varying networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024312</link>
+      <guid isPermaLink="false">NPINS.004277</guid>
+    </item>
     <item>
       <title>Chaos: Wealth distribution for agents with spending propensity, interacting over a network</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0120979%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
@@ -463,56 +513,6 @@
       <title>J. R. Soc. Interface: Network regulation meets substrate modification chemistry</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0510?af=R</link>
       <guid isPermaLink="false">NPINS.004187</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Security control scheme for cyber-physical system with a complex network in physical layer against false data injection attacks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000772</link>
-      <guid isPermaLink="false">NPINS.004186</guid>
-    </item>
-    <item>
-      <title>Chaos: Structural inference of networked dynamical systems with universal differential equations</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0109093?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004185</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Rank the spreading influence of nodes using dynamic Markov process</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acb590</link>
-      <guid isPermaLink="false">NPINS.004184</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: External field and critical exponents in controlling dynamics on complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acb45a</link>
-      <guid isPermaLink="false">NPINS.004183</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Modeling framework unifying contact and social networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024301</link>
-      <guid isPermaLink="false">NPINS.004182</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Aging transition in coupled quantum oscillators</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024204</link>
-      <guid isPermaLink="false">NPINS.004181</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Disjoint Cycles in a Digraph with Partial Degree</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1460594?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004180</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Embedding-aided network dismantling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013076</link>
-      <guid isPermaLink="false">NPINS.004179</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Extending the Adapted PageRank Algorithm centrality model for urban street networks using non-local random walks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000577</link>
-      <guid isPermaLink="false">NPINS.004178</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Rising temperature drives tipping points in mutualistic networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.221363?af=R</link>
-      <guid isPermaLink="false">NPINS.004177</guid>
     </item>
   </channel>
 </rss>
