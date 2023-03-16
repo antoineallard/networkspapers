@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Mar 2023 06:54:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2023 18:27:20 +0000</lastBuildDate>
+    <item>
+      <title>EPL: The determinants of the individual nestedness contribution in financial systems</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acba42</link>
+      <guid isPermaLink="false">NPINS.004291</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Readability and topics of the German Health Web: Exploratory study and text analysis</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281582</link>
+      <guid isPermaLink="false">NPINS.004290</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Production process networks: a trophic analysis</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acbd7c</link>
+      <guid isPermaLink="false">NPINS.004289</guid>
+    </item>
+    <item>
+      <title>Chaos: Global Mittag-Leffler synchronization of coupled delayed fractional reaction-diffusion Cohen–Grossberg neural networks via sliding mode control</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0102787%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004288</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: 2-Distance choosability of planar graphs with a restriction for maximum degree</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001182</link>
+      <guid isPermaLink="false">NPINS.004287</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Contact networks have small metric backbones that maintain community structure and are primary transmission subgraphs</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010854</link>
@@ -488,31 +513,6 @@
       <title>Front. Mol. Biosci.: Co-expression network of heat-response transcripts: A glimpse into how splicing factors impact rice basal thermotolerance</title>
       <link>https://www.frontiersin.org/articles/10.3389/fmolb.2023.1122201</link>
       <guid isPermaLink="false">NPINS.004192</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: A local community detection algorithm based on potential community exploration</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1114296</link>
-      <guid isPermaLink="false">NPINS.004191</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Percolation and dissolution of Borromean networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024304</link>
-      <guid isPermaLink="false">NPINS.004190</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Understanding congestion propagation by combining percolation theory with the macroscopic fundamental diagram</title>
-      <link>https://www.nature.com/articles/s42005-023-01144-w</link>
-      <guid isPermaLink="false">NPINS.004189</guid>
-    </item>
-    <item>
-      <title>Curr. Opin. Struct. Biol.: Everything is connected: Graph neural networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0959440X2300012X</link>
-      <guid isPermaLink="false">NPINS.004188</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Network regulation meets substrate modification chemistry</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0510?af=R</link>
-      <guid isPermaLink="false">NPINS.004187</guid>
     </item>
   </channel>
 </rss>
