@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Mar 2023 11:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Mar 2023 20:46:37 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: Editorial: Advances in non-linear systems and networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1180413</link>
+      <guid isPermaLink="false">NPINS.004301</guid>
+    </item>
+    <item>
+      <title>Chaos: Combining generalized modeling and specific modeling in the analysis of ecological networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0131352?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004300</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Temporal network analysis using zigzag persistence</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00379-5</link>
+      <guid isPermaLink="false">NPINS.004299</guid>
+    </item>
+    <item>
+      <title>Chaos: An optimization-based algorithm for obtaining an optimal synchronizable network after link addition or reduction</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0134763?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004298</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Hatemongers ride on echo chambers to escalate hate speech diffusion</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad041</link>
+      <guid isPermaLink="false">NPINS.004297</guid>
+    </item>
     <item>
       <title>Nature: Dissecting cell identity via network inference and in silico gene perturbation</title>
       <link>https://www.nature.com/articles/s41586-022-05688-9</link>
@@ -488,31 +513,6 @@
       <title>Proc. R. Soc. A: Message passing methods on complex networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2022.0774?af=R</link>
       <guid isPermaLink="false">NPINS.004202</guid>
-    </item>
-    <item>
-      <title>Chaos: Granger causality using Jacobian in neural networks</title>
-      <link>https://www.scitation.org/doi/10.1063/5.0106666?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004201</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Network embedding aided vaccine skepticism detection</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00534-x</link>
-      <guid isPermaLink="false">NPINS.004200</guid>
-    </item>
-    <item>
-      <title>Chaos: Conformity effect on the evolution of cooperation in signed networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0101350?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004199</guid>
-    </item>
-    <item>
-      <title>Chaos: Ordinal methods for a characterization of evolving functional brain networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0136181?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004198</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: 5-Cycle Double Covers, 4-Flows, and Catlin Reduction</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1472425?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004197</guid>
     </item>
   </channel>
 </rss>
