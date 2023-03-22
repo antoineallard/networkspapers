@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Mar 2023 08:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2023 14:03:48 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: The persistent homology of genealogical networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00538-7</link>
+      <guid isPermaLink="false">NPINS.004311</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Graphlet correlation distance to compare small graphs</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281646</link>
+      <guid isPermaLink="false">NPINS.004310</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: The dynamic nature of percolation on networks with triadic interactions</title>
+      <link>https://www.nature.com/articles/s41467-023-37019-5</link>
+      <guid isPermaLink="false">NPINS.004309</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Temporal patterns of reciprocity in communication networks</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00382-w</link>
+      <guid isPermaLink="false">NPINS.004308</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Synchronization of online social rhythms via avatar communications</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acbd7d</link>
+      <guid isPermaLink="false">NPINS.004307</guid>
+    </item>
     <item>
       <title>Front. Phys.: How do circadian rhythms and neural synchrony shape networked cooperation?</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1125270</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: A credible and adjustable load resource trading system based on blockchain networks</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1145361</link>
       <guid isPermaLink="false">NPINS.004212</guid>
-    </item>
-    <item>
-      <title>Chaos: Occurrence of super-diffusion in two-layer networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0129078?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004211</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: “Defriending” in a polarized age: Political and racial homophily and tie dissolution</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000084</link>
-      <guid isPermaLink="false">NPINS.004210</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Closeness centrality via the Condorcet principle</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000059</link>
-      <guid isPermaLink="false">NPINS.004209</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Uses and limitations of dichotomous aggregate relational data</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000102</link>
-      <guid isPermaLink="false">NPINS.004208</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Sum of powers of the Laplacian eigenvalues and the kirchhoff index of a graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000528</link>
-      <guid isPermaLink="false">NPINS.004207</guid>
     </item>
   </channel>
 </rss>
