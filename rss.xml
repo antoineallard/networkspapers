@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Mar 2023 09:38:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2023 10:01:55 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Structured Codes of Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1487989?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004316</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Self-tuned criticality: Controlling a neuron near its bifurcation point via temporal correlations</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034204</link>
+      <guid isPermaLink="false">NPINS.004315</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Quantum transport efficiency in noisy random-removal and small-world networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acc0ec</link>
+      <guid isPermaLink="false">NPINS.004314</guid>
+    </item>
+    <item>
+      <title>Chaos: Notes on resonant and synchronized states in complex networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0134285?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004313</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Exact finite-dimensional description for networks of globally coupled spiking neurons</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024315</link>
+      <guid isPermaLink="false">NPINS.004312</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: The persistent homology of genealogical networks</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00538-7</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Small-scale mobility fostering the interaction networks of Patagonian (Argentina) hunter-gatherers during the Late Holocene: Perspectives from strontium isotopes and exotic items</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281089</link>
       <guid isPermaLink="false">NPINS.004217</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Link stability analysis of temporal international fertilizer trade networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acb5ef</link>
-      <guid isPermaLink="false">NPINS.004216</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The automorphisms of 2-token graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000413</link>
-      <guid isPermaLink="false">NPINS.004215</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Multiplex reconstruction with partial information</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024309</link>
-      <guid isPermaLink="false">NPINS.004214</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Spectrum of non-Hermitian deep-Hebbian neural networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013090</link>
-      <guid isPermaLink="false">NPINS.004213</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: A credible and adjustable load resource trading system based on blockchain networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1145361</link>
-      <guid isPermaLink="false">NPINS.004212</guid>
     </item>
   </channel>
 </rss>
