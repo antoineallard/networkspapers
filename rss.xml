@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Mar 2023 06:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 09:20:03 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Long-range connectome of pyramidal neurons in the sensorimotor cortex</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223003930</link>
+      <guid isPermaLink="false">NPINS.004326</guid>
+    </item>
+    <item>
+      <title>Chaos: Recursive traffic percolation on urban transportation systems</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0137726?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004325</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Categorizing update mechanisms for graph-structured metapopulations</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0769?af=R</link>
+      <guid isPermaLink="false">NPINS.004324</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: How do alliances trade arms? Political alliance networks and global arms transfers</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282456</link>
+      <guid isPermaLink="false">NPINS.004323</guid>
+    </item>
+    <item>
+      <title>SIAM Rev.: Bump Attractors and Waves in Networks of Leaky Integrate-and-Fire Neurons</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/20M1367246?ai=s5&amp;mi=8vgswd&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004322</guid>
+    </item>
     <item>
       <title>Philos. Trans. Royal Soc. B: Ageing in a collective: the impact of ageing individuals on social network structure</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0061?af=R</link>
@@ -488,31 +513,6 @@
       <title>Soc. Networks: Scaling bias in pooled exponential random graph models</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873323000126</link>
       <guid isPermaLink="false">NPINS.004227</guid>
-    </item>
-    <item>
-      <title>SIAM Rev.: Flow-Based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/20M1333055?ai=s5&amp;mi=8vgswd&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004226</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Spatio-temporal patterns of non-autonomous systems on hypergraphs: Turing and Benjamin–Feir mechanisms</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acb5e1</link>
-      <guid isPermaLink="false">NPINS.004225</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Distribution of the number of cycles in directed and undirected random regular graphs of degree 2</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024308</link>
-      <guid isPermaLink="false">NPINS.004224</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Heterogeneous Nucleation in Finite-Size Adaptive Dynamical Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.067402</link>
-      <guid isPermaLink="false">NPINS.004223</guid>
-    </item>
-    <item>
-      <title>Chaos: Predicting the cascading dynamics in complex networks via the bimodal failure size distribution</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0119902?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004222</guid>
     </item>
   </channel>
 </rss>
