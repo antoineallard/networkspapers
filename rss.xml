@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Mar 2023 09:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 19:56:27 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Commun.: Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes</title>
+      <link>https://www.nature.com/articles/s41467-023-37190-9</link>
+      <guid isPermaLink="false">NPINS.004331</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Rigorous Criteria for the Collapse of Nonlinear Cooperative Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.097401</link>
+      <guid isPermaLink="false">NPINS.004330</guid>
+    </item>
+    <item>
+      <title>Chaos: Alternating chimera states in complex networks with modular structures</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0132072?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004329</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Information parity increases on functional brain networks under influence of a psychedelic substance</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acc22b</link>
+      <guid isPermaLink="false">NPINS.004328</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Graph attention network via node similarity for link prediction</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00495-1</link>
+      <guid isPermaLink="false">NPINS.004327</guid>
+    </item>
     <item>
       <title>iScience: Long-range connectome of pyramidal neurons in the sensorimotor cortex</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004223003930</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: A novel resilience analysis methodology for airport networks system from the perspective of different epidemic prevention and control policy responses</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281950</link>
       <guid isPermaLink="false">NPINS.004232</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Spectral Moore Bound for Bipartite Semiregular Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1450082?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004231</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Gene expression prediction based on neighbour connection neural network utilizing gene interaction graphs</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281286</link>
-      <guid isPermaLink="false">NPINS.004230</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Front Propagation and Arrival Times in Networks with Application to Neurodegenerative Diseases</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1467547?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004229</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Mutual fund net flows in China: A co-holding network perspective</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1142905</link>
-      <guid isPermaLink="false">NPINS.004228</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Scaling bias in pooled exponential random graph models</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000126</link>
-      <guid isPermaLink="false">NPINS.004227</guid>
     </item>
   </channel>
 </rss>
