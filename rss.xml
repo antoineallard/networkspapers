@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Mar 2023 10:53:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2023 10:57:47 +0000</lastBuildDate>
+    <item>
+      <title>J. R. Soc. Interface: Transport collapse in dynamically evolving networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0906?af=R</link>
+      <guid isPermaLink="false">NPINS.004336</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: R&amp;D cooperation in collaborative consumption of research equipment: An ERGM approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000229</link>
+      <guid isPermaLink="false">NPINS.004335</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Quantification of the spatial–temporal patterns of great ideas</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad060</link>
+      <guid isPermaLink="false">NPINS.004334</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Lacking mechanistic disease definitions and corresponding association data hamper progress in network medicine and beyond</title>
+      <link>https://www.nature.com/articles/s41467-023-37349-4</link>
+      <guid isPermaLink="false">NPINS.004333</guid>
+    </item>
+    <item>
+      <title>Chaos: Impact of random and targeted disruptions on information diffusion during outbreaks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0139844?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004332</guid>
+    </item>
     <item>
       <title>Nat. Commun.: Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes</title>
       <link>https://www.nature.com/articles/s41467-023-37190-9</link>
@@ -488,31 +513,6 @@
       <title>Chaos: Superdiffusion induced by complete structure in multiplex networks</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0133712?af=R&amp;feed=most-recent</link>
       <guid isPermaLink="false">NPINS.004237</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Network approaches and interventions in healthcare settings: A systematic scoping review</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282050</link>
-      <guid isPermaLink="false">NPINS.004236</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Genetic architecture of the white matter connectome of the human brain</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.add2870</link>
-      <guid isPermaLink="false">NPINS.004235</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Deterministic and stochastic sampling of two coupled Kerr parametric oscillators</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.L012029</link>
-      <guid isPermaLink="false">NPINS.004234</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: RMF accessibility percolation on oriented graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acb42a</link>
-      <guid isPermaLink="false">NPINS.004233</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A novel resilience analysis methodology for airport networks system from the perspective of different epidemic prevention and control policy responses</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281950</link>
-      <guid isPermaLink="false">NPINS.004232</guid>
     </item>
   </channel>
 </rss>
