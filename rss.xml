@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Mar 2023 07:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 10:23:49 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Calcium oscillation on homogeneous and heterogeneous networks of ryanodine receptor</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024402</link>
+      <guid isPermaLink="false">NPINS.004346</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: One model fits all: Combining inference and simulation of gene regulatory networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010962</link>
+      <guid isPermaLink="false">NPINS.004345</guid>
+    </item>
+    <item>
+      <title>J. Math. Sociol.: Continuous time graph processes with known ERGM equilibria: contextual review, extensions, and synthesis</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2023.2180001?af=R</link>
+      <guid isPermaLink="false">NPINS.004344</guid>
+    </item>
+    <item>
+      <title>PNAS: Network inference from short, noisy, low time-resolution, partial measurements: Application to C. elegans neuronal calcium dynamics</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2216030120?af=R</link>
+      <guid isPermaLink="false">NPINS.004343</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: The illusion of personal health decisions for infectious disease management: disease spread in social contact networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.221122?af=R</link>
+      <guid isPermaLink="false">NPINS.004342</guid>
+    </item>
     <item>
       <title>Nature: Gigantic map of fly brain is a first for a complex animal</title>
       <link>https://www.nature.com/articles/d41586-023-00709-7</link>
@@ -488,31 +513,6 @@
       <title>Nat. Neurosci.: Neurocomputational mechanism of real-time distributed learning on social networks</title>
       <link>https://www.nature.com/articles/s41593-023-01258-y</link>
       <guid isPermaLink="false">NPINS.004247</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Distinguishing cospectral quantum graphs by scattering</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acbb44</link>
-      <guid isPermaLink="false">NPINS.004246</guid>
-    </item>
-    <item>
-      <title>Chaos: Complex network growth model: Possible isomorphism between nonextensive statistical mechanics and random geometry</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0090864%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004245</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Exploring the mechanism of anti-fatigue of resveratrol based on network pharmacology and molecular docking, and in vitro studies</title>
-      <link>https://www.nature.com/articles/s41598-023-30141-w</link>
-      <guid isPermaLink="false">NPINS.004244</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: The human brain biases integration of information passed through social networks</title>
-      <link>https://www.nature.com/articles/s41593-023-01269-9</link>
-      <guid isPermaLink="false">NPINS.004243</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Criticality in probabilistic models of spreading dynamics in brain networks: Epileptic seizures</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010852</link>
-      <guid isPermaLink="false">NPINS.004242</guid>
     </item>
   </channel>
 </rss>
