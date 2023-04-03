@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Apr 2023 10:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 17:52:19 +0000</lastBuildDate>
+    <item>
+      <title>Nature: Spatial mapping of mitochondrial networks and bioenergetics in lung cancer</title>
+      <link>https://www.nature.com/articles/s41586-023-05793-3</link>
+      <guid isPermaLink="false">NPINS.004351</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Geodetic convexity and kneser graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001339</link>
+      <guid isPermaLink="false">NPINS.004350</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Laplacian eigenvalue distribution of a graph with given independence number</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001121</link>
+      <guid isPermaLink="false">NPINS.004349</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Vulnerability analysis in complex networks under a flood risk reduction point of view</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1064122</link>
+      <guid isPermaLink="false">NPINS.004348</guid>
+    </item>
+    <item>
+      <title>Chaos: How to grow an oscillators’ network with enhanced synchronization</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0134325?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004347</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Calcium oscillation on homogeneous and heterogeneous networks of ryanodine receptor</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024402</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Sociometric network analysis in illicit drugs research: A scoping review</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282340</link>
       <guid isPermaLink="false">NPINS.004252</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Data-driven approximation for extracting the transition dynamics of a genetic regulatory network with non-Gaussian Lévy noise</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acb42f</link>
-      <guid isPermaLink="false">NPINS.004251</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Diagrammatics for the inverse problem in spin systems and simple liquids</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acb7b4</link>
-      <guid isPermaLink="false">NPINS.004250</guid>
-    </item>
-    <item>
-      <title>Chaos: The impact of inner-coupling and time delay on synchronization: From single-layer network to hypernetwork</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0091626%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004249</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: New concepts on level graphs of vague graphs with application in medicine</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1130765</link>
-      <guid isPermaLink="false">NPINS.004248</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Neurocomputational mechanism of real-time distributed learning on social networks</title>
-      <link>https://www.nature.com/articles/s41593-023-01258-y</link>
-      <guid isPermaLink="false">NPINS.004247</guid>
     </item>
   </channel>
 </rss>
