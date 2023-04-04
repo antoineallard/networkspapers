@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Apr 2023 17:52:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2023 12:01:55 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Optimal time-varying coupling function can enhance synchronization in complex networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0142891?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004356</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Adaptive power method for estimating large deviations in Markov chains</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034137</link>
+      <guid isPermaLink="false">NPINS.004355</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Application of the skills network approach to measure physician competence in shared decision making based on self-assessment</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282283</link>
+      <guid isPermaLink="false">NPINS.004354</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Extending bootstrap AMG for clustering of attributed graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000735</link>
+      <guid isPermaLink="false">NPINS.004353</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Investigating the searching behavior of Sino-U.S. relations in China based on complex network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1021565</link>
+      <guid isPermaLink="false">NPINS.004352</guid>
+    </item>
     <item>
       <title>Nature: Spatial mapping of mitochondrial networks and bioenergetics in lung cancer</title>
       <link>https://www.nature.com/articles/s41586-023-05793-3</link>
@@ -488,31 +513,6 @@
       <title>PNAS Nexus: Spatiotemporal reconstruction of ancient road networks through sequential cost–benefit analysis</title>
       <link>http://doi.org/10.1093/pnasnexus/pgac313</link>
       <guid isPermaLink="false">NPINS.004257</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Complex hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024316</link>
-      <guid isPermaLink="false">NPINS.004256</guid>
-    </item>
-    <item>
-      <title>Chaos: Synchronization and bifurcation in an economic model</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0104017%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004255</guid>
-    </item>
-    <item>
-      <title>Chaos: Robustness measurement of multiplex networks based on graph spectrum</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0124201?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004254</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Inferring synchronizability of networked heterogeneous oscillators with machine learning</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024314</link>
-      <guid isPermaLink="false">NPINS.004253</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Sociometric network analysis in illicit drugs research: A scoping review</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282340</link>
-      <guid isPermaLink="false">NPINS.004252</guid>
     </item>
   </channel>
 </rss>
