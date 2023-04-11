@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Apr 2023 08:41:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2023 07:50:11 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Influence of behavioral adoption preference based on heterogeneous population on multiple weighted networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000498</link>
+      <guid isPermaLink="false">NPINS.004376</guid>
+    </item>
+    <item>
+      <title>EPL: Data-driven inference of complex system dynamics: A mini-review</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acc3bf</link>
+      <guid isPermaLink="false">NPINS.004375</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Dynamical chaos in nonlinear Schrödinger models with subquadratic power nonlinearity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034203</link>
+      <guid isPermaLink="false">NPINS.004374</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Combined effect of simplicial complexes and interlayer interaction: An example of information-epidemic dynamics on multiplex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013196</link>
+      <guid isPermaLink="false">NPINS.004373</guid>
+    </item>
+    <item>
+      <title>PNAS: Low-distortion information propagation with noise suppression in swarm networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2219948120?af=R</link>
+      <guid isPermaLink="false">NPINS.004372</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Synchronization of fractional-order reaction-diffusion neural networks via mixed boundary control</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323001510</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Impact of human contact patterns on epidemic spreading in time-varying networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024312</link>
       <guid isPermaLink="false">NPINS.004277</guid>
-    </item>
-    <item>
-      <title>Chaos: Wealth distribution for agents with spending propensity, interacting over a network</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0120979%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004276</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Theoretical framework for a decision support system for micro-enterprise supermarket investment risk assessment using novel picture fuzzy hypersoft graph</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273642</link>
-      <guid isPermaLink="false">NPINS.004275</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On S-packing colourings of distance graphs D(1,t) and D(1,2,t)</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000243</link>
-      <guid isPermaLink="false">NPINS.004274</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Central limit theorem for the principal eigenvalue and eigenvector of Chung–Lu random graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acb8f7</link>
-      <guid isPermaLink="false">NPINS.004273</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Impact of shocks to economies on the efficiency and robustness of the international pesticide trade networks</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00493-3</link>
-      <guid isPermaLink="false">NPINS.004272</guid>
     </item>
   </channel>
 </rss>
