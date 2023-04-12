@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Apr 2023 07:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2023 07:13:52 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Rep.: Revealing hazard-exposure heterophily as a latent characteristic of community resilience in social-spatial networks</title>
+      <link>https://www.nature.com/articles/s41598-023-31702-9</link>
+      <guid isPermaLink="false">NPINS.004381</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Node-Connectivity Terminal Backup, Separately Capacitated Multiflow, and Discrete Convexity</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/20M1361857?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004380</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Phys.: Controlling complex networks with complex nodes</title>
+      <link>https://www.nature.com/articles/s42254-023-00566-3</link>
+      <guid isPermaLink="false">NPINS.004379</guid>
+    </item>
+    <item>
+      <title>Chaos: A combat game model with inter-network confrontation and intra-network cooperation</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0137338?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004378</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Synchronization transitions on connectome graphs with external force</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1150246</link>
+      <guid isPermaLink="false">NPINS.004377</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Influence of behavioral adoption preference based on heterogeneous population on multiple weighted networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323000498</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: Do global geopolitical risks affect connectedness of global stock market contagion network? Evidence from quantile-on-quantile regression</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1124092</link>
       <guid isPermaLink="false">NPINS.004282</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Critical avalanches of susceptible-infected-susceptible dynamics in finite networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024310</link>
-      <guid isPermaLink="false">NPINS.004281</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Structure of personal networks and cognitive abilities: A study on a sample of Italian older adults</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000205</link>
-      <guid isPermaLink="false">NPINS.004280</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Population spiking and bursting in next-generation neural masses with spike-frequency adaptation</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024311</link>
-      <guid isPermaLink="false">NPINS.004279</guid>
-    </item>
-    <item>
-      <title>Chaos: An attack–defense game model in infrastructure networks under link hiding</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0112907%40cha.2023.CIT2023.issue-1?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004278</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Impact of human contact patterns on epidemic spreading in time-varying networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024312</link>
-      <guid isPermaLink="false">NPINS.004277</guid>
     </item>
   </channel>
 </rss>
