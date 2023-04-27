@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Apr 2023 23:58:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2023 00:07:18 +0000</lastBuildDate>
+    <item>
+      <title>J. Math. Sociol.: Hurdle-QAP models overcome dependency and sparsity in scientific collaboration count networks</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2023.2180000?af=R</link>
+      <guid isPermaLink="false">NPINS.004401</guid>
+    </item>
+    <item>
+      <title>Chaos: Transition from chimera/solitary states to traveling waves</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0138207?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004400</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Some mader-perfect graph classes</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001376</link>
+      <guid isPermaLink="false">NPINS.004399</guid>
+    </item>
+    <item>
+      <title>Chaos: Synchronization of phase oscillators on complex hypergraphs</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0116747?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004398</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Towards preferential selection in the prisoner’s dilemma game</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282258</link>
+      <guid isPermaLink="false">NPINS.004397</guid>
+    </item>
     <item>
       <title>Chaos: Fractional order-induced bifurcations in a delayed neural network with three neurons</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0135232?af=R&amp;feed=most-recent</link>
@@ -488,31 +513,6 @@
       <title>Sci. Adv.: Characterization of regional differences in resting-state fMRI with a data-driven network model of brain dynamics</title>
       <link>https://www.science.org/doi/10.1126/sciadv.abq7547</link>
       <guid isPermaLink="false">NPINS.004302</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Editorial: Advances in non-linear systems and networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1180413</link>
-      <guid isPermaLink="false">NPINS.004301</guid>
-    </item>
-    <item>
-      <title>Chaos: Combining generalized modeling and specific modeling in the analysis of ecological networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0131352?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004300</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Temporal network analysis using zigzag persistence</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00379-5</link>
-      <guid isPermaLink="false">NPINS.004299</guid>
-    </item>
-    <item>
-      <title>Chaos: An optimization-based algorithm for obtaining an optimal synchronizable network after link addition or reduction</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0134763?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004298</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Hatemongers ride on echo chambers to escalate hate speech diffusion</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad041</link>
-      <guid isPermaLink="false">NPINS.004297</guid>
     </item>
   </channel>
 </rss>
