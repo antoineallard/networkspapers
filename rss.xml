@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Apr 2023 00:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2023 01:44:07 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: A identification method for critical causes of lifting injuries based on topological potential</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283144</link>
+      <guid isPermaLink="false">NPINS.004406</guid>
+    </item>
+    <item>
+      <title>Chaos: Bifurcation analysis in an epidemic model on adaptive networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0130068?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004405</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Identification of disease propagation paths in two-layer networks</title>
+      <link>https://www.nature.com/articles/s41598-023-33624-y</link>
+      <guid isPermaLink="false">NPINS.004404</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Eigenvector localization in hypergraphs: Pairwise versus higher-order links</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034311</link>
+      <guid isPermaLink="false">NPINS.004403</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Considering weights in real social networks: A review</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1152243</link>
+      <guid isPermaLink="false">NPINS.004402</guid>
+    </item>
     <item>
       <title>J. Math. Sociol.: Hurdle-QAP models overcome dependency and sparsity in scientific collaboration count networks</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2023.2180000?af=R</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: Synchronization of online social rhythms via avatar communications</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/acbd7d</link>
       <guid isPermaLink="false">NPINS.004307</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: How do circadian rhythms and neural synchrony shape networked cooperation?</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1125270</link>
-      <guid isPermaLink="false">NPINS.004306</guid>
-    </item>
-    <item>
-      <title>EPL: Multi-source localization on complex networks based on community detection</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acbfd7</link>
-      <guid isPermaLink="false">NPINS.004305</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Distributed formation for interconnected networks with minimum energy restriction and interaction silence</title>
-      <link>https://www.nature.com/articles/s41598-023-31244-0</link>
-      <guid isPermaLink="false">NPINS.004304</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Path integral approach to universal dynamics of reservoir computers</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034306</link>
-      <guid isPermaLink="false">NPINS.004303</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Characterization of regional differences in resting-state fMRI with a data-driven network model of brain dynamics</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.abq7547</link>
-      <guid isPermaLink="false">NPINS.004302</guid>
     </item>
   </channel>
 </rss>
