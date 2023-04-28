@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Apr 2023 01:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2023 13:19:12 +0000</lastBuildDate>
+    <item>
+      <title>J. Stat. Mech.: Hyperlink prediction via local random walks and Jensen–Shannon divergence</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acc31e</link>
+      <guid isPermaLink="false">NPINS.004411</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Insurgency as complex network: Image co-appearance and hierarchy in the PKK</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000278</link>
+      <guid isPermaLink="false">NPINS.004410</guid>
+    </item>
+    <item>
+      <title>Chaos: Detecting hidden nodes in networks based on random variable resetting method</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0134953?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004409</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Molecular and network-level mechanisms explaining individual differences in autism spectrum disorder</title>
+      <link>https://www.nature.com/articles/s41593-023-01259-x</link>
+      <guid isPermaLink="false">NPINS.004408</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Synchronization Analysis of Fractional Order Delayed BAM Neural Networks via Multi-Delay-Boundary Inequality</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002023</link>
+      <guid isPermaLink="false">NPINS.004407</guid>
+    </item>
     <item>
       <title>PLOS ONE: A identification method for critical causes of lifting injuries based on topological potential</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283144</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Exact finite-dimensional description for networks of globally coupled spiking neurons</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024315</link>
       <guid isPermaLink="false">NPINS.004312</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: The persistent homology of genealogical networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00538-7</link>
-      <guid isPermaLink="false">NPINS.004311</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Graphlet correlation distance to compare small graphs</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281646</link>
-      <guid isPermaLink="false">NPINS.004310</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: The dynamic nature of percolation on networks with triadic interactions</title>
-      <link>https://www.nature.com/articles/s41467-023-37019-5</link>
-      <guid isPermaLink="false">NPINS.004309</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Temporal patterns of reciprocity in communication networks</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00382-w</link>
-      <guid isPermaLink="false">NPINS.004308</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Synchronization of online social rhythms via avatar communications</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acbd7d</link>
-      <guid isPermaLink="false">NPINS.004307</guid>
     </item>
   </channel>
 </rss>
