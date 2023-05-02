@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 01 May 2023 21:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 01:07:26 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Relation between the degree and betweenness centrality distribution in complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044303</link>
+      <guid isPermaLink="false">NPINS.004416</guid>
+    </item>
+    <item>
+      <title>Chaos: Multi-band oscillations emerge from a simple spiking network</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0106884?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004415</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Optimal synchronization in pulse-coupled oscillator networks using reinforcement learning</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad102</link>
+      <guid isPermaLink="false">NPINS.004414</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Fitting Autoregressive Graph Generative Models through Maximum Likelihood Estimation</title>
+      <link>http://jmlr.org/papers/v24/22-0337.html</link>
+      <guid isPermaLink="false">NPINS.004413</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Structural characteristics in network control of molecular multiplex networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283768</link>
+      <guid isPermaLink="false">NPINS.004412</guid>
+    </item>
     <item>
       <title>J. Stat. Mech.: Hyperlink prediction via local random walks and Jensen–Shannon divergence</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/acc31e</link>
@@ -488,31 +513,6 @@
       <title>Nat. Commun.: Spatial immunization to abate disease spreading in transportation hubs</title>
       <link>https://www.nature.com/articles/s41467-023-36985-0</link>
       <guid isPermaLink="false">NPINS.004317</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Structured Codes of Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1487989?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004316</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Self-tuned criticality: Controlling a neuron near its bifurcation point via temporal correlations</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034204</link>
-      <guid isPermaLink="false">NPINS.004315</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Quantum transport efficiency in noisy random-removal and small-world networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acc0ec</link>
-      <guid isPermaLink="false">NPINS.004314</guid>
-    </item>
-    <item>
-      <title>Chaos: Notes on resonant and synchronized states in complex networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0134285?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004313</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Exact finite-dimensional description for networks of globally coupled spiking neurons</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024315</link>
-      <guid isPermaLink="false">NPINS.004312</guid>
     </item>
   </channel>
 </rss>
