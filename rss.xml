@@ -13,7 +13,12 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 May 2023 01:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 01:18:08 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: IC-planar graphs are odd-10-colorable</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001893</link>
+      <guid isPermaLink="false">NPINS.004417</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Relation between the degree and betweenness centrality distribution in complex networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044303</link>
@@ -508,11 +513,6 @@
       <title>Phys. Rev. Lett.: Reconstructing Network Dynamics of Coupled Discrete Chaotic Units from Data</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.117401</link>
       <guid isPermaLink="false">NPINS.004318</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Spatial immunization to abate disease spreading in transportation hubs</title>
-      <link>https://www.nature.com/articles/s41467-023-36985-0</link>
-      <guid isPermaLink="false">NPINS.004317</guid>
     </item>
   </channel>
 </rss>
