@@ -13,7 +13,22 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 May 2023 01:44:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 01:46:14 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Probabilistic behavioral distance and tuning—reducing and aggregating complex systems</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acccc9</link>
+      <guid isPermaLink="false">NPINS.004421</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: Interdependent superconducting networks</title>
+      <link>https://www.nature.com/articles/s41567-023-02029-z</link>
+      <guid isPermaLink="false">NPINS.004420</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Shifts in global network dynamics due to small changes at single nodes</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013220</link>
+      <guid isPermaLink="false">NPINS.004419</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: An Annotated Graph Model with Differential Degree Heterogeneity for Directed Networks</title>
       <link>http://jmlr.org/papers/v24/22-1138.html</link>
@@ -498,21 +513,6 @@
       <title>SIAM Rev.: Bump Attractors and Waves in Networks of Leaky Integrate-and-Fire Neurons</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/20M1367246?ai=s5&amp;mi=8vgswd&amp;af=R</link>
       <guid isPermaLink="false">NPINS.004322</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. Royal Soc. B: Ageing in a collective: the impact of ageing individuals on social network structure</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0061?af=R</link>
-      <guid isPermaLink="false">NPINS.004321</guid>
-    </item>
-    <item>
-      <title>Chaos: Local Dirac Synchronization on networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0132468?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004320</guid>
-    </item>
-    <item>
-      <title>EPL: Application of percolation model in spreading dynamics driven by social networks big data</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acbfd8</link>
-      <guid isPermaLink="false">NPINS.004319</guid>
     </item>
   </channel>
 </rss>
