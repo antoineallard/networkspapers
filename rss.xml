@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 May 2023 19:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2023 13:02:18 +0000</lastBuildDate>
+    <item>
+      <title>R. Soc. Open Sci.: Clustering drives cooperation on reputation networks, all else fixed</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230046?af=R</link>
+      <guid isPermaLink="false">NPINS.004431</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Online Change-Point Detection in High-Dimensional Covariance Structure with Application to Dynamic Networks</title>
+      <link>http://jmlr.org/papers/v24/20-1101.html</link>
+      <guid isPermaLink="false">NPINS.004430</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Contextual Stochastic Block Model: Sharp Thresholds and Contiguity</title>
+      <link>http://jmlr.org/papers/v24/20-1419.html</link>
+      <guid isPermaLink="false">NPINS.004429</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Consistency between ordering and clustering methods for graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023006</link>
+      <guid isPermaLink="false">NPINS.004428</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Formation of trade networks by economies of scale and product differentiation</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acc91f</link>
+      <guid isPermaLink="false">NPINS.004427</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Knowledge Hypergraph Embedding Meets Relational Algebra</title>
       <link>http://jmlr.org/papers/v24/22-063.html</link>
@@ -488,31 +513,6 @@
       <title>Chaos: Impact of random and targeted disruptions on information diffusion during outbreaks</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0139844?af=R&amp;feed=most-recent</link>
       <guid isPermaLink="false">NPINS.004332</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes</title>
-      <link>https://www.nature.com/articles/s41467-023-37190-9</link>
-      <guid isPermaLink="false">NPINS.004331</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Rigorous Criteria for the Collapse of Nonlinear Cooperative Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.097401</link>
-      <guid isPermaLink="false">NPINS.004330</guid>
-    </item>
-    <item>
-      <title>Chaos: Alternating chimera states in complex networks with modular structures</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0132072?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004329</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Information parity increases on functional brain networks under influence of a psychedelic substance</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acc22b</link>
-      <guid isPermaLink="false">NPINS.004328</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Graph attention network via node similarity for link prediction</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00495-1</link>
-      <guid isPermaLink="false">NPINS.004327</guid>
     </item>
   </channel>
 </rss>
