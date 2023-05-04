@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 May 2023 19:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 15:04:41 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: Random recursive hypergraphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/accac0</link>
+      <guid isPermaLink="false">NPINS.004436</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Explosive Percolation Obeys Standard Finite-Size Scaling in an Event-Based Ensemble</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.147101</link>
+      <guid isPermaLink="false">NPINS.004435</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Clique densification in networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.L042301</link>
+      <guid isPermaLink="false">NPINS.004434</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Gamma-Vector of Symmetric Edge Polytopes</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1492799?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004433</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Sparse block-structured random matrices: universality</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acc71a</link>
+      <guid isPermaLink="false">NPINS.004432</guid>
+    </item>
     <item>
       <title>R. Soc. Open Sci.: Clustering drives cooperation on reputation networks, all else fixed</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230046?af=R</link>
@@ -488,31 +513,6 @@
       <title>J. Stat. Mech.: Efficient inference in the transverse field Ising model</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/acba02</link>
       <guid isPermaLink="false">NPINS.004337</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Transport collapse in dynamically evolving networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0906?af=R</link>
-      <guid isPermaLink="false">NPINS.004336</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: R&amp;D cooperation in collaborative consumption of research equipment: An ERGM approach</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000229</link>
-      <guid isPermaLink="false">NPINS.004335</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Quantification of the spatial–temporal patterns of great ideas</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad060</link>
-      <guid isPermaLink="false">NPINS.004334</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Lacking mechanistic disease definitions and corresponding association data hamper progress in network medicine and beyond</title>
-      <link>https://www.nature.com/articles/s41467-023-37349-4</link>
-      <guid isPermaLink="false">NPINS.004333</guid>
-    </item>
-    <item>
-      <title>Chaos: Impact of random and targeted disruptions on information diffusion during outbreaks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0139844?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004332</guid>
     </item>
   </channel>
 </rss>
