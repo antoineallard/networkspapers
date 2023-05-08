@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 May 2023 01:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2023 19:04:14 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Sequential locality of graphs and its hypothesis testing</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023007</link>
+      <guid isPermaLink="false">NPINS.004446</guid>
+    </item>
+    <item>
+      <title>EPL: Cumulative advantage is a double-edge sword for cooperation</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acc7c4</link>
+      <guid isPermaLink="false">NPINS.004445</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Tree-AMP: Compositional Inference with Tree Approximate Message Passing</title>
+      <link>http://jmlr.org/papers/v24/20-695.html</link>
+      <guid isPermaLink="false">NPINS.004444</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Concepts of vertex regularity in cubic fuzzy graph structures with an application</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1087225</link>
+      <guid isPermaLink="false">NPINS.004443</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Generalized network density matrices for analysis of multiscale functional diversity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044304</link>
+      <guid isPermaLink="false">NPINS.004442</guid>
+    </item>
     <item>
       <title>Front. Phys.: Reputation-based electricity scheduling scheme for complex network of user electricity consumption</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1183419</link>
@@ -488,31 +513,6 @@
       <title>Chaos: How to grow an oscillators’ network with enhanced synchronization</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0134325?af=R&amp;feed=most-recent</link>
       <guid isPermaLink="false">NPINS.004347</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Calcium oscillation on homogeneous and heterogeneous networks of ryanodine receptor</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.024402</link>
-      <guid isPermaLink="false">NPINS.004346</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: One model fits all: Combining inference and simulation of gene regulatory networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010962</link>
-      <guid isPermaLink="false">NPINS.004345</guid>
-    </item>
-    <item>
-      <title>J. Math. Sociol.: Continuous time graph processes with known ERGM equilibria: contextual review, extensions, and synthesis</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2023.2180001?af=R</link>
-      <guid isPermaLink="false">NPINS.004344</guid>
-    </item>
-    <item>
-      <title>PNAS: Network inference from short, noisy, low time-resolution, partial measurements: Application to C. elegans neuronal calcium dynamics</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2216030120?af=R</link>
-      <guid isPermaLink="false">NPINS.004343</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: The illusion of personal health decisions for infectious disease management: disease spread in social contact networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.221122?af=R</link>
-      <guid isPermaLink="false">NPINS.004342</guid>
     </item>
   </channel>
 </rss>
