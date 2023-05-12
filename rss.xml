@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 11 May 2023 21:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2023 13:11:04 +0000</lastBuildDate>
+    <item>
+      <title>SIAM Rev.: The Role of Directionality, Heterogeneity, and Correlations in Epidemic Risk and Spread</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/20M1383811?ai=s5&amp;mi=8vgswd&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004466</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Theory of the asynchronous state of structured rotator networks and its application to recurrent networks of excitatory and inhibitory units</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044306</link>
+      <guid isPermaLink="false">NPINS.004465</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Impact of contact rate on epidemic spreading in complex networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00513-2</link>
+      <guid isPermaLink="false">NPINS.004464</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Neglecting complex network structures underestimates delays in a large-capital project</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/accef0</link>
+      <guid isPermaLink="false">NPINS.004463</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Analysis of the consensus of double-layer chain networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1141396</link>
+      <guid isPermaLink="false">NPINS.004462</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Uniquely colorable graphs up to automorphisms</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323001765</link>
@@ -488,31 +513,6 @@
       <title>Soc. Networks: Bayesian nonparametric mixtures of Exponential Random Graph Models for ensembles of networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873323000266</link>
       <guid isPermaLink="false">NPINS.004367</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: An effective method for epidemic suppression by edge removing in complex network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1164847</link>
-      <guid isPermaLink="false">NPINS.004366</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Knowing me, knowing you: Socio-economic status and (segregation in) peer and parental networks in primary school</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000242</link>
-      <guid isPermaLink="false">NPINS.004365</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Information diversity and anomalous scaling in asymmetric social contagion process on low-dimensional static networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034307</link>
-      <guid isPermaLink="false">NPINS.004364</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Analysing networks of networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000114</link>
-      <guid isPermaLink="false">NPINS.004363</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Analytical prediction of specific spatiotemporal patterns in nonlinear oscillator networks with distance-dependent time delays</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013159</link>
-      <guid isPermaLink="false">NPINS.004362</guid>
     </item>
   </channel>
 </rss>
