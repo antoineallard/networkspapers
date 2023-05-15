@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 14 May 2023 01:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2023 12:32:33 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Selective control of synaptic plasticity in heterogeneous networks through transcranial alternating current stimulation (tACS)</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010736</link>
+      <guid isPermaLink="false">NPINS.004471</guid>
+    </item>
+    <item>
+      <title>Chaos: Complexity of couplings in multivariate time series via ordinal persistent homology</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0136772?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004470</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: 12-year observation of tweets about rubella in Japan: A retrospective infodemiology study</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285101</link>
+      <guid isPermaLink="false">NPINS.004469</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Scientific debate on human migration: ethics, challenges, and solutions</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1088699</link>
+      <guid isPermaLink="false">NPINS.004468</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Critical Drift in a Neuro-Inspired Adaptive Network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.188401</link>
+      <guid isPermaLink="false">NPINS.004467</guid>
+    </item>
     <item>
       <title>SIAM Rev.: The Role of Directionality, Heterogeneity, and Correlations in Epidemic Risk and Spread</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/20M1383811?ai=s5&amp;mi=8vgswd&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>PNAS: Low-distortion information propagation with noise suppression in swarm networks</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2219948120?af=R</link>
       <guid isPermaLink="false">NPINS.004372</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Synchronization of fractional-order reaction-diffusion neural networks via mixed boundary control</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001510</link>
-      <guid isPermaLink="false">NPINS.004371</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Early warnings for multi-stage transitions in dynamics on networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0743?af=R</link>
-      <guid isPermaLink="false">NPINS.004370</guid>
-    </item>
-    <item>
-      <title>iScience: Richer than we thought: neurophysiological methods reveal rich-club network development is frequency- and sex-dependent</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223004613</link>
-      <guid isPermaLink="false">NPINS.004369</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Correlation dimension in empirical networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034310</link>
-      <guid isPermaLink="false">NPINS.004368</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Bayesian nonparametric mixtures of Exponential Random Graph Models for ensembles of networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000266</link>
-      <guid isPermaLink="false">NPINS.004367</guid>
     </item>
   </channel>
 </rss>
