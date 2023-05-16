@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 May 2023 01:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2023 14:08:02 +0000</lastBuildDate>
+    <item>
+      <title>Nature: A somato-cognitive action network alternates with effector regions in motor cortex</title>
+      <link>https://www.nature.com/articles/s41586-023-05964-2</link>
+      <guid isPermaLink="false">NPINS.004476</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Dynamical behaviors of an epidemic model for malware propagation in wireless sensor networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1198410</link>
+      <guid isPermaLink="false">NPINS.004475</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: To make and keep friends: The role of health status in adolescent network tie formation and persistence</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000321</link>
+      <guid isPermaLink="false">NPINS.004474</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The second immanantal polynomials of Laplacian matrices of unicyclic graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002072</link>
+      <guid isPermaLink="false">NPINS.004473</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Next-generation large-scale binary protein interaction network for &lt;i&gt;Drosophila melanogaster&lt;/i&gt;</title>
+      <link>https://www.nature.com/articles/s41467-023-37876-0</link>
+      <guid isPermaLink="false">NPINS.004472</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Selective control of synaptic plasticity in heterogeneous networks through transcranial alternating current stimulation (tACS)</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010736</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: Synchronization transitions on connectome graphs with external force</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1150246</link>
       <guid isPermaLink="false">NPINS.004377</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Influence of behavioral adoption preference based on heterogeneous population on multiple weighted networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323000498</link>
-      <guid isPermaLink="false">NPINS.004376</guid>
-    </item>
-    <item>
-      <title>EPL: Data-driven inference of complex system dynamics: A mini-review</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acc3bf</link>
-      <guid isPermaLink="false">NPINS.004375</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Dynamical chaos in nonlinear Schrödinger models with subquadratic power nonlinearity</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034203</link>
-      <guid isPermaLink="false">NPINS.004374</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Combined effect of simplicial complexes and interlayer interaction: An example of information-epidemic dynamics on multiplex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013196</link>
-      <guid isPermaLink="false">NPINS.004373</guid>
-    </item>
-    <item>
-      <title>PNAS: Low-distortion information propagation with noise suppression in swarm networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2219948120?af=R</link>
-      <guid isPermaLink="false">NPINS.004372</guid>
     </item>
   </channel>
 </rss>
