@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 May 2023 02:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2023 00:09:15 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Belief propagation on networks with cliques and chordless cycles</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.054303</link>
+      <guid isPermaLink="false">NPINS.004486</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Disordered topological graphs enhancing nonlinear phenomena</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adf9330</link>
+      <guid isPermaLink="false">NPINS.004485</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Impact of contact heterogeneity on initial growth behavior of an epidemic: Complex network-based approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032300190X</link>
+      <guid isPermaLink="false">NPINS.004484</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Lyapunov exponents for temporal networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044305</link>
+      <guid isPermaLink="false">NPINS.004483</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: On the role of network topology in German-Jewish recommendation letter networks in the early twentieth century</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00550-x</link>
+      <guid isPermaLink="false">NPINS.004482</guid>
+    </item>
+    <item>
+      <title>Chaos: Increasing the synchronization stability in complex networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0114974?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004481</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Chaotic chimera attractors in a triangular network of identical oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.054205</link>
+      <guid isPermaLink="false">NPINS.004480</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Strengthened social ties in disasters: Threat-awe encourages interdependent worldviews via powerlessness</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285049</link>
+      <guid isPermaLink="false">NPINS.004479</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Robust and fast representation learning for heterogeneous information networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1196294</link>
+      <guid isPermaLink="false">NPINS.004478</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Asymptotical set stabilization of large-scale logical networks with stochastic delays and the application in finite-field networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002217</link>
+      <guid isPermaLink="false">NPINS.004477</guid>
+    </item>
     <item>
       <title>Nature: A somato-cognitive action network alternates with effector regions in motor cortex</title>
       <link>https://www.nature.com/articles/s41586-023-05964-2</link>
@@ -463,56 +513,6 @@
       <title>J. Phys. A: A measure of dissimilarity between diffusive processes on networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/acc144</link>
       <guid isPermaLink="false">NPINS.004387</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Towards a better understanding of the characteristics of fractal networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00537-8</link>
-      <guid isPermaLink="false">NPINS.004386</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Assessing the structural connectivity of international trade networks along the “Belt and Road”</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282596</link>
-      <guid isPermaLink="false">NPINS.004385</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Interlayer antisynchronization in degree-biased duplex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034313</link>
-      <guid isPermaLink="false">NPINS.004384</guid>
-    </item>
-    <item>
-      <title>Chaos: Analyzing bursting synchronization in structural connectivity matrix of a human brain under external pulsed currents</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0135399?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004383</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Nonequilibrium dynamics of the Ising model on heterogeneous networks with an arbitrary distribution of threshold noise</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034127</link>
-      <guid isPermaLink="false">NPINS.004382</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Revealing hazard-exposure heterophily as a latent characteristic of community resilience in social-spatial networks</title>
-      <link>https://www.nature.com/articles/s41598-023-31702-9</link>
-      <guid isPermaLink="false">NPINS.004381</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Node-Connectivity Terminal Backup, Separately Capacitated Multiflow, and Discrete Convexity</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/20M1361857?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004380</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Controlling complex networks with complex nodes</title>
-      <link>https://www.nature.com/articles/s42254-023-00566-3</link>
-      <guid isPermaLink="false">NPINS.004379</guid>
-    </item>
-    <item>
-      <title>Chaos: A combat game model with inter-network confrontation and intra-network cooperation</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0137338?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004378</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Synchronization transitions on connectome graphs with external force</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1150246</link>
-      <guid isPermaLink="false">NPINS.004377</guid>
     </item>
   </channel>
 </rss>
