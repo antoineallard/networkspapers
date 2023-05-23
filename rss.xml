@@ -13,7 +13,22 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 May 2023 14:59:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 15:00:38 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Connectivity Matters: Neural Network Pruning Through the Lens of Effective Sparsity</title>
+      <link>http://jmlr.org/papers/v24/22-0415.html</link>
+      <guid isPermaLink="false">NPINS.004496</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A dynamics model of knowledge dissemination in a WeChat Group from perspective of duplex networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002527</link>
+      <guid isPermaLink="false">NPINS.004495</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Nonequilibrium Ising model on a two-dimensional additive small-world network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044115</link>
+      <guid isPermaLink="false">NPINS.004494</guid>
+    </item>
     <item>
       <title>EPL: Role of predator-prey reversal in rock-paper-scissors models</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/acce62</link>
@@ -498,21 +513,6 @@
       <title>PLOS ONE: Towards preferential selection in the prisoner’s dilemma game</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282258</link>
       <guid isPermaLink="false">NPINS.004397</guid>
-    </item>
-    <item>
-      <title>Chaos: Fractional order-induced bifurcations in a delayed neural network with three neurons</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0135232?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004396</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Sustainability of Stack Exchange Q&amp;A communities: the role of trust</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00381-x</link>
-      <guid isPermaLink="false">NPINS.004395</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Diverse phase transitions in optimized directed network models with distinct inward and outward node weights</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034312</link>
-      <guid isPermaLink="false">NPINS.004394</guid>
     </item>
   </channel>
 </rss>
