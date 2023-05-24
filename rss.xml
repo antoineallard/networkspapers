@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 May 2023 15:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 13:32:49 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Effects of interdependent network reciprocity on the evolution of public cooperation</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001984</link>
+      <guid isPermaLink="false">NPINS.004501</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Wasserstein Hamiltonian Flow with Common Noise on Graph</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1490697?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004500</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: MultiCens: Multilayer network centrality measures to uncover molecular mediators of tissue-tissue communication</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011022</link>
+      <guid isPermaLink="false">NPINS.004499</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Solving Graph Problems Using Gaussian Boson Sampling</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.190601</link>
+      <guid isPermaLink="false">NPINS.004498</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Tensor network construction for lattice gas models: Hard-core and triangular lattice models</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.054116</link>
+      <guid isPermaLink="false">NPINS.004497</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Connectivity Matters: Neural Network Pruning Through the Lens of Effective Sparsity</title>
       <link>http://jmlr.org/papers/v24/22-0415.html</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: Considering weights in real social networks: A review</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1152243</link>
       <guid isPermaLink="false">NPINS.004402</guid>
-    </item>
-    <item>
-      <title>J. Math. Sociol.: Hurdle-QAP models overcome dependency and sparsity in scientific collaboration count networks</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2023.2180000?af=R</link>
-      <guid isPermaLink="false">NPINS.004401</guid>
-    </item>
-    <item>
-      <title>Chaos: Transition from chimera/solitary states to traveling waves</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0138207?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004400</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Some mader-perfect graph classes</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001376</link>
-      <guid isPermaLink="false">NPINS.004399</guid>
-    </item>
-    <item>
-      <title>Chaos: Synchronization of phase oscillators on complex hypergraphs</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0116747?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004398</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Towards preferential selection in the prisoner’s dilemma game</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282258</link>
-      <guid isPermaLink="false">NPINS.004397</guid>
     </item>
   </channel>
 </rss>
