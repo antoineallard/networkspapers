@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 May 2023 19:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 11:33:05 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Diffusion characteristics classification framework for identification of diffusion source in complex networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285563</link>
+      <guid isPermaLink="false">NPINS.004511</guid>
+    </item>
+    <item>
+      <title>Chaos: Determinants of collective failure in excitable networks</title>
+      <link>https://aip.scitation.org/doi/10.1063/5.0149578?af=R&amp;feed=most-recent</link>
+      <guid isPermaLink="false">NPINS.004510</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: The risk of aggregating networks when diffusion is tie-specific</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00546-7</link>
+      <guid isPermaLink="false">NPINS.004509</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Dimension matters when modeling network communities in hyperbolic spaces</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad136</link>
+      <guid isPermaLink="false">NPINS.004508</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: A stochastic reaction–diffusion modeling investigation of FLASH ultra-high dose rate response in different tissues</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1060910</link>
+      <guid isPermaLink="false">NPINS.004507</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Network analysis of toxin production in &lt;i&gt;Clostridioides difficile&lt;/i&gt; identifies key metabolic dependencies</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011076</link>
+      <guid isPermaLink="false">NPINS.004506</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Simulation and social network analysis provide insight into the acquisition of tool behaviour in hybrid macaques</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.2276?af=R</link>
+      <guid isPermaLink="false">NPINS.004505</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: A positive statistical benchmark to assess network agreement</title>
+      <link>https://www.nature.com/articles/s41467-023-38625-z</link>
+      <guid isPermaLink="false">NPINS.004504</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Temporal-spatial perception adjustment to fitness enhances the cooperation in the spatial prisoner’s dilemma game</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1200506</link>
+      <guid isPermaLink="false">NPINS.004503</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Topological synchronization of quantum van der Pol oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023021</link>
+      <guid isPermaLink="false">NPINS.004502</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Effects of interdependent network reciprocity on the evolution of public cooperation</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323001984</link>
@@ -463,56 +513,6 @@
       <title>PLOS ONE: Structural characteristics in network control of molecular multiplex networks</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283768</link>
       <guid isPermaLink="false">NPINS.004412</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Hyperlink prediction via local random walks and Jensen–Shannon divergence</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acc31e</link>
-      <guid isPermaLink="false">NPINS.004411</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Insurgency as complex network: Image co-appearance and hierarchy in the PKK</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000278</link>
-      <guid isPermaLink="false">NPINS.004410</guid>
-    </item>
-    <item>
-      <title>Chaos: Detecting hidden nodes in networks based on random variable resetting method</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0134953?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004409</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Molecular and network-level mechanisms explaining individual differences in autism spectrum disorder</title>
-      <link>https://www.nature.com/articles/s41593-023-01259-x</link>
-      <guid isPermaLink="false">NPINS.004408</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Synchronization Analysis of Fractional Order Delayed BAM Neural Networks via Multi-Delay-Boundary Inequality</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002023</link>
-      <guid isPermaLink="false">NPINS.004407</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A identification method for critical causes of lifting injuries based on topological potential</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283144</link>
-      <guid isPermaLink="false">NPINS.004406</guid>
-    </item>
-    <item>
-      <title>Chaos: Bifurcation analysis in an epidemic model on adaptive networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0130068?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004405</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Identification of disease propagation paths in two-layer networks</title>
-      <link>https://www.nature.com/articles/s41598-023-33624-y</link>
-      <guid isPermaLink="false">NPINS.004404</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Eigenvector localization in hypergraphs: Pairwise versus higher-order links</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034311</link>
-      <guid isPermaLink="false">NPINS.004403</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Considering weights in real social networks: A review</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1152243</link>
-      <guid isPermaLink="false">NPINS.004402</guid>
     </item>
   </channel>
 </rss>
