@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 May 2023 11:42:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2023 01:12:24 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Different macaque brain network remodeling after spinal cord injury and NT3 treatment</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223008611</link>
+      <guid isPermaLink="false">NPINS.004516</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Widening the landscape of transcriptional regulation of green algal photoprotection</title>
+      <link>https://www.nature.com/articles/s41467-023-38183-4</link>
+      <guid isPermaLink="false">NPINS.004515</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Paths towards synchronization: analytical treatment of completely connected networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acd03a</link>
+      <guid isPermaLink="false">NPINS.004514</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The balanced split step theta approximations of stochastic neutral Hopfield neural networks with time delay and Poisson jumps</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002989</link>
+      <guid isPermaLink="false">NPINS.004513</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Deterministic entanglement distribution on series-parallel quantum networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013225</link>
+      <guid isPermaLink="false">NPINS.004512</guid>
+    </item>
     <item>
       <title>PLOS ONE: Diffusion characteristics classification framework for identification of diffusion source in complex networks</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285563</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: IC-planar graphs are odd-10-colorable</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323001893</link>
       <guid isPermaLink="false">NPINS.004417</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Relation between the degree and betweenness centrality distribution in complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044303</link>
-      <guid isPermaLink="false">NPINS.004416</guid>
-    </item>
-    <item>
-      <title>Chaos: Multi-band oscillations emerge from a simple spiking network</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0106884?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004415</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Optimal synchronization in pulse-coupled oscillator networks using reinforcement learning</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad102</link>
-      <guid isPermaLink="false">NPINS.004414</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Fitting Autoregressive Graph Generative Models through Maximum Likelihood Estimation</title>
-      <link>http://jmlr.org/papers/v24/22-0337.html</link>
-      <guid isPermaLink="false">NPINS.004413</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Structural characteristics in network control of molecular multiplex networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283768</link>
-      <guid isPermaLink="false">NPINS.004412</guid>
     </item>
   </channel>
 </rss>
