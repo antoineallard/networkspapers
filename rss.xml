@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 30 May 2023 01:22:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2023 11:52:14 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Course-prerequisite networks for analyzing and understanding academic curricula</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00543-w</link>
+      <guid isPermaLink="false">NPINS.004521</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Surrogate explanations for role discovery on graphs</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00551-w</link>
+      <guid isPermaLink="false">NPINS.004520</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Chimera patterns with spatial random swings between periodic attractors in a network of FitzHugh-Nagumo oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.054204</link>
+      <guid isPermaLink="false">NPINS.004519</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Spacing ratio statistics of multiplex directed networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acd020</link>
+      <guid isPermaLink="false">NPINS.004518</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Quasi-synchronization of discrete-time fractional-order quaternion-valued memristive neural networks with time delays and uncertain parameters</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002643</link>
+      <guid isPermaLink="false">NPINS.004517</guid>
+    </item>
     <item>
       <title>iScience: Different macaque brain network remodeling after spinal cord injury and NT3 treatment</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004223008611</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Redefining fractal cubic networks and determining their metric dimension and fault-tolerant metric dimension</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323002060</link>
       <guid isPermaLink="false">NPINS.004422</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Probabilistic behavioral distance and tuning—reducing and aggregating complex systems</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acccc9</link>
-      <guid isPermaLink="false">NPINS.004421</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Interdependent superconducting networks</title>
-      <link>https://www.nature.com/articles/s41567-023-02029-z</link>
-      <guid isPermaLink="false">NPINS.004420</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Shifts in global network dynamics due to small changes at single nodes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013220</link>
-      <guid isPermaLink="false">NPINS.004419</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: An Annotated Graph Model with Differential Degree Heterogeneity for Directed Networks</title>
-      <link>http://jmlr.org/papers/v24/22-1138.html</link>
-      <guid isPermaLink="false">NPINS.004418</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: IC-planar graphs are odd-10-colorable</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001893</link>
-      <guid isPermaLink="false">NPINS.004417</guid>
     </item>
   </channel>
 </rss>
