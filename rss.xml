@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 31 May 2023 15:23:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 14:28:11 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Artificial benchmark for community detection with outliers (ABCD+o)</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00552-9</link>
+      <guid isPermaLink="false">NPINS.004531</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Completely integrable replicator dynamics associated to competitive networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.L052202</link>
+      <guid isPermaLink="false">NPINS.004530</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Inference for a Large Directed Acyclic Graph with Unspecified Interventions</title>
+      <link>http://jmlr.org/papers/v24/21-0855.html</link>
+      <guid isPermaLink="false">NPINS.004529</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On t-Intersecting Hypergraphs with Minimum Positive Codegrees</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1465998?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004528</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Operationalizing anthropological theory: four techniques to simplify networks of co-occurring ethnographic codes</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00547-6</link>
+      <guid isPermaLink="false">NPINS.004527</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Decompositions of graphs of nonnegative characteristic with some forbidden subgraphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323002953</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: Sparse block-structured random matrices: universality</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/acc71a</link>
       <guid isPermaLink="false">NPINS.004432</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Clustering drives cooperation on reputation networks, all else fixed</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230046?af=R</link>
-      <guid isPermaLink="false">NPINS.004431</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Online Change-Point Detection in High-Dimensional Covariance Structure with Application to Dynamic Networks</title>
-      <link>http://jmlr.org/papers/v24/20-1101.html</link>
-      <guid isPermaLink="false">NPINS.004430</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Contextual Stochastic Block Model: Sharp Thresholds and Contiguity</title>
-      <link>http://jmlr.org/papers/v24/20-1419.html</link>
-      <guid isPermaLink="false">NPINS.004429</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Consistency between ordering and clustering methods for graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023006</link>
-      <guid isPermaLink="false">NPINS.004428</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Formation of trade networks by economies of scale and product differentiation</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acc91f</link>
-      <guid isPermaLink="false">NPINS.004427</guid>
     </item>
   </channel>
 </rss>
