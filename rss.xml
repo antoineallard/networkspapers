@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jun 2023 14:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2023 19:11:20 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Consistent Model-based Clustering using the Quasi-Bernoulli Stick-breaking Process</title>
+      <link>http://jmlr.org/papers/v24/22-0436.html</link>
+      <guid isPermaLink="false">NPINS.004536</guid>
+    </item>
+    <item>
+      <title>Nature: Gap junctions desynchronize a neural circuit to stabilize insect flight</title>
+      <link>https://www.nature.com/articles/s41586-023-06099-0</link>
+      <guid isPermaLink="false">NPINS.004535</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Phys.: A new frontier for Hopfield networks</title>
+      <link>https://www.nature.com/articles/s42254-023-00595-y</link>
+      <guid isPermaLink="false">NPINS.004534</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: An Eigenmodel for Dynamic Multilayer Networks</title>
+      <link>http://jmlr.org/papers/v24/21-0270.html</link>
+      <guid isPermaLink="false">NPINS.004533</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Unsupervised relational inference using masked reconstruction</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00542-x</link>
+      <guid isPermaLink="false">NPINS.004532</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Artificial benchmark for community detection with outliers (ABCD+o)</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00552-9</link>
@@ -488,31 +513,6 @@
       <title>Chaos: The impact of nodes of information dissemination on epidemic spreading in dynamic multiplex networks</title>
       <link>https://aip.scitation.org/doi/10.1063/5.0142386?af=R&amp;feed=most-recent</link>
       <guid isPermaLink="false">NPINS.004437</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Random recursive hypergraphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/accac0</link>
-      <guid isPermaLink="false">NPINS.004436</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Explosive Percolation Obeys Standard Finite-Size Scaling in an Event-Based Ensemble</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.147101</link>
-      <guid isPermaLink="false">NPINS.004435</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Clique densification in networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.L042301</link>
-      <guid isPermaLink="false">NPINS.004434</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On the Gamma-Vector of Symmetric Edge Polytopes</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1492799?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004433</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Sparse block-structured random matrices: universality</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acc71a</link>
-      <guid isPermaLink="false">NPINS.004432</guid>
     </item>
   </channel>
 </rss>
