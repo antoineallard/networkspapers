@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jun 2023 19:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2023 20:41:15 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Co-evolution of reputation-based preference selection and resource allocation with multigame on interdependent networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002977</link>
+      <guid isPermaLink="false">NPINS.004541</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: A Unified Framework for Optimization-Based Graph Coarsening</title>
+      <link>http://jmlr.org/papers/v24/22-1085.html</link>
+      <guid isPermaLink="false">NPINS.004540</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Hierarchical community structure in networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.054305</link>
+      <guid isPermaLink="false">NPINS.004539</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: GRANDPA: GeneRAtive network sampling using degree and property augmentation applied to the analysis of partially confidential healthcare networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00548-5</link>
+      <guid isPermaLink="false">NPINS.004538</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Using coupling imperfection to control amplitude death</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.054207</link>
+      <guid isPermaLink="false">NPINS.004537</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Consistent Model-based Clustering using the Quasi-Bernoulli Stick-breaking Process</title>
       <link>http://jmlr.org/papers/v24/22-0436.html</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Generalized network density matrices for analysis of multiscale functional diversity</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044304</link>
       <guid isPermaLink="false">NPINS.004442</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Reputation-based electricity scheduling scheme for complex network of user electricity consumption</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1183419</link>
-      <guid isPermaLink="false">NPINS.004441</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: MitoTNT: Mitochondrial Temporal Network Tracking for 4D live-cell fluorescence microscopy data</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011060</link>
-      <guid isPermaLink="false">NPINS.004440</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Differences in collaboration structures and impact among prominent researchers in Europe and North America</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00378-6</link>
-      <guid isPermaLink="false">NPINS.004439</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Splitting Reactions Preserves Nondegenerate Behaviors in Chemical Reaction Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1478392?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004438</guid>
-    </item>
-    <item>
-      <title>Chaos: The impact of nodes of information dissemination on epidemic spreading in dynamic multiplex networks</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0142386?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004437</guid>
     </item>
   </channel>
 </rss>
