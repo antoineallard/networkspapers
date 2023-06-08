@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jun 2023 17:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 21:04:53 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Neurosci.: Complex topology meets simple statistics</title>
+      <link>https://www.nature.com/articles/s41593-023-01295-7</link>
+      <guid isPermaLink="false">NPINS.004546</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Percolation framework reveals limits of privacy in conspiracy, dark web, and blockchain networks</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00392-8</link>
+      <guid isPermaLink="false">NPINS.004545</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Searching for Key Cycles in a Complex Network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.187402</link>
+      <guid isPermaLink="false">NPINS.004544</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Functional brain networks reflect spatial and temporal autocorrelation</title>
+      <link>https://www.nature.com/articles/s41593-023-01299-3</link>
+      <guid isPermaLink="false">NPINS.004543</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Identifying the structure patterns to govern the performance of localization in regulating innovation diffusion</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acd0cd</link>
+      <guid isPermaLink="false">NPINS.004542</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Co-evolution of reputation-based preference selection and resource allocation with multigame on interdependent networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323002977</link>
@@ -488,31 +513,6 @@
       <title>Philos. Trans. Royal Soc. B: Network structure of avian mixed-species flocks decays with elevation and latitude across the Andes</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0099?af=R</link>
       <guid isPermaLink="false">NPINS.004447</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Sequential locality of graphs and its hypothesis testing</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023007</link>
-      <guid isPermaLink="false">NPINS.004446</guid>
-    </item>
-    <item>
-      <title>EPL: Cumulative advantage is a double-edge sword for cooperation</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acc7c4</link>
-      <guid isPermaLink="false">NPINS.004445</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Tree-AMP: Compositional Inference with Tree Approximate Message Passing</title>
-      <link>http://jmlr.org/papers/v24/20-695.html</link>
-      <guid isPermaLink="false">NPINS.004444</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Concepts of vertex regularity in cubic fuzzy graph structures with an application</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2022.1087225</link>
-      <guid isPermaLink="false">NPINS.004443</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Generalized network density matrices for analysis of multiscale functional diversity</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044304</link>
-      <guid isPermaLink="false">NPINS.004442</guid>
     </item>
   </channel>
 </rss>
