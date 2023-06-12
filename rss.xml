@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jun 2023 21:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2023 19:00:46 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Contagion in social networks: On contagion thresholds</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002904</link>
+      <guid isPermaLink="false">NPINS.004551</guid>
+    </item>
+    <item>
+      <title>PNAS: Evolution of coronavirus frameshifting elements: Competing stem networks explain conservation and variability</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2221324120?af=R</link>
+      <guid isPermaLink="false">NPINS.004550</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Perfect state transfer on weighted bi-Cayley graphs over abelian groups</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323001753</link>
+      <guid isPermaLink="false">NPINS.004549</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Social contagion induced by uncertain information</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.064301</link>
+      <guid isPermaLink="false">NPINS.004548</guid>
+    </item>
+    <item>
+      <title>EPL: Double power-law distribution in spatial network induced by cost constraints</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/accec8</link>
+      <guid isPermaLink="false">NPINS.004547</guid>
+    </item>
     <item>
       <title>Nat. Neurosci.: Complex topology meets simple statistics</title>
       <link>https://www.nature.com/articles/s41593-023-01295-7</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Twitter mobility dynamics during the COVID-19 pandemic: A case study of London</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284902</link>
       <guid isPermaLink="false">NPINS.004452</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Emergent stability in complex network dynamics</title>
-      <link>https://www.nature.com/articles/s41567-023-02020-8</link>
-      <guid isPermaLink="false">NPINS.004451</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: The structure and dynamics of networks with higher order interactions</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0370157323001643?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.004450</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Coherent noise enables probabilistic sequence replay in spiking neuronal networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010989</link>
-      <guid isPermaLink="false">NPINS.004449</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: Signal propagation in complex networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0370157323001321?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.004448</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. Royal Soc. B: Network structure of avian mixed-species flocks decays with elevation and latitude across the Andes</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0099?af=R</link>
-      <guid isPermaLink="false">NPINS.004447</guid>
     </item>
   </channel>
 </rss>
