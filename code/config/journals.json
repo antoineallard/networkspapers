@@ -1,0 +1,813 @@
+{
+    "ApplMathComput":
+    {
+      "abstract":         "None",
+      "feed1":            "http://rss.sciencedirect.com/publication/science/00963003",
+      "feed2":            "http://rss.sciencedirect.com/publication/science/00963003",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "Appl. Math. Comput.",
+      "journal_full":     "Applied Mathematics and Computation",
+      "journal_url":      "https://www.sciencedirect.com/journal/applied-mathematics-and-computation",
+      "title":            "title",
+      "url":              "id",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "ApplNetwSci":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://appliednetsci.springeropen.com/articles/most-recent/rss.xml",
+      "feed2":            "http://appliednetsci.springeropen.com/articles/most-recent/rss.xml",
+      "host":             "None",
+      "id":               "link",
+      "journal_abbrev":   "Appl. Netw. Sci.",
+      "journal_full":     "Applied Network Science",
+      "journal_url":      "https://appliednetsci.springeropen.com",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        true,
+      "reader":           "feedparser"
+    },
+    "Chaos":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://aipp.silverchair.com/rss/site_1000025/1000015.xml",
+      "feed2":            "https://aipp.silverchair.com/rss/site_1000025/1000015.xml",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "Chaos",
+      "journal_full":     "Chaos",
+      "journal_url":      "https://aip.scitation.org/journal/cha",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "CommunPhys":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/commsphys/rss/current",
+      "feed2":            "http://feeds.nature.com/commsphys/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Commun. Phys.",
+      "journal_full":     "Communications Physics",
+      "journal_url":      "https://www.nature.com/commsphys",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "CurrResJBiolSci":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://rss.sciencedirect.com/publication/science/2665928X",
+      "feed2":            "https://rss.sciencedirect.com/publication/science/2665928X",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "Curr. Res. J. Biol. Sci.",
+      "journal_full":     "Current Research in Structural Biology",
+      "journal_url":      "https://www.journals.elsevier.com/current-research-in-structural-biology",
+      "title":            "title",
+      "url":              "id",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "CurrOpinStructBiol":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://rss.sciencedirect.com/publication/science/0959440X",
+      "feed2":            "https://rss.sciencedirect.com/publication/science/0959440X",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "Curr. Opin. Struct. Biol.",
+      "journal_full":     "Current Opinion in Structural Biology",
+      "journal_url":      "https://www.journals.elsevier.com/current-opinion-in-structural-biology",
+      "title":            "title",
+      "url":              "id",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "EurJPhys":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://iopscience.iop.org/journal/rss/0143-0807",
+      "feed2":            "https://feeds.feedburner.com/iop/w0FPIKwDSE5",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Eur. J. Phys.",
+      "journal_full":     "European Journal of Physics",
+      "journal_url":      "https://iopscience.iop.org/journal/0143-0807",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "EurPhysJB":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.feedburner.com/edp_epjb?format=xml",
+      "feed2":            "http://feeds.feedburner.com/edp_epjb?format=xml",
+      "host":             "None",
+      "id":               "dc_identifier",
+      "journal_abbrev":   "Eur. Phys. J. B",
+      "journal_full":     "European Physical Journal B",
+      "journal_url":      "https://epjb.epj.org",
+      "title":            "title",
+      "url":              "id",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "EPJDataSci":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.feedburner.com/edp_epjds?format=xml",
+      "feed2":            "http://feeds.feedburner.com/edp_epjds?format=xml",
+      "host":             "None",
+      "id":               "dc_identifier",
+      "journal_abbrev":   "EPJ Data Sci.",
+      "journal_full":     "EPJ Data Science",
+      "journal_url":      "https://epjdatascience.springeropen.com",
+      "title":            "title",
+      "url":              "id",
+      "whitelist":        true,
+      "reader":           "feedparser"
+    },
+    "EPL":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://iopscience.iop.org/journal/rss/0295-5075",
+      "feed2":            "https://feeds.feedburner.com/iop/WQl9yX1Vvyz",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "EPL",
+      "journal_full":     "EPL (Europhysics Letters)",
+      "journal_url":      "https://iopscience.iop.org/journal/0295-5075",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "FrontMolBiosci":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://www.frontiersin.org/journals/molecular-biosciences/rss",
+      "feed2":            "https://www.frontiersin.org/journals/molecular-biosciences/rss",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "Front. Mol. Biosci.",
+      "journal_full":     "Frontiers in Molecular Biosciences",
+      "journal_url":      "https://www.frontiersin.org/journals/molecular-biosciences",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "FrontPhys":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://www.frontiersin.org/journals/physics/rss",
+      "feed2":            "https://www.frontiersin.org/journals/physics/rss",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "Front. Phys.",
+      "journal_full":     "Frontiers in Physics",
+      "journal_url":      "https://www.frontiersin.org/journals/physics",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "IScience":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://rss.sciencedirect.com/publication/science/25890042",
+      "feed2":            "https://rss.sciencedirect.com/publication/science/25890042",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "iScience",
+      "journal_full":     "iScience",
+      "journal_url":      "https://www.cell.com/iscience/home",
+      "title":            "title",
+      "url":              "id",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "JComplexNetw":
+    {
+      "abstract":         "description",
+      "feed1":            "http://academic.oup.com/rss/site_5126/advanceAccess_3051.xml",
+      "feed2":            "http://academic.oup.com/rss/site_5126/advanceAccess_3051.xml",
+      "host":             "None",
+      "id":               "doi",
+      "journal_abbrev":   "J. Complex Netw.",
+      "journal_full":     "Journal of Complex Networks",
+      "journal_url":      "https://academic.oup.com/comnet",
+      "title":            "title",
+      "url":              "guid",
+      "whitelist":        true,
+      "reader":           "HTMLSession"
+    },
+    "JMachLearnRes":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://www.jmlr.org/jmlr.xml",
+      "feed2":            "http://www.jmlr.org/jmlr.xml",
+      "host":             "None",
+      "id":               "link",
+      "journal_abbrev":   "J. Mach. Learn. Res.",
+      "journal_full":     "Journal of Machine Learning Research",
+      "journal_url":      "http://www.jmlr.org",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "JMathSociol":
+    {
+      "abstract":         "None",
+      "feed1":            "https://www.tandfonline.com/feed/rss/gmas20",
+      "feed2":            "https://www.tandfonline.com/feed/rss/gmas20",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "J. Math. Sociol.",
+      "journal_full":     "Journal of Mathematical Sociology",
+      "journal_url":      "https://www.tandfonline.com/toc/gmas20/current",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "JPhysA_1":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://iopscience.iop.org/journal/rss/0305-4470",
+      "feed2":            "https://feeds.feedburner.com/iop/IwWpeSomZDM",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "J. Phys. A",
+      "journal_full":     "Journal of Physics A: Mathematical and General",
+      "journal_url":      "https://iopscience.iop.org/journal/0305-4470",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "JPhysA_2":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://iopscience.iop.org/journal/rss/1751-8121",
+      "feed2":            "https://feeds.feedburner.com/iop/zI4i0PdoK8T",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "J. Phys. A",
+      "journal_full":     "Journal of Physics A: Mathematical and Theoretical",
+      "journal_url":      "",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "JPhysComplex":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://iopscience.iop.org/journal/rss/2632-072X",
+      "feed2":            "https://feeds.feedburner.com/iop/ATQ3zjkfAyp",
+      "host":             "iopscience.iop.org",
+      "id":               "prism_doi",
+      "journal_abbrev":   "J. Phys. Complex.",
+      "journal_full":     "Journal of Physics: Complexity",
+      "journal_url":      "https://iopscience.iop.org/journal/2632-072X",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "JRSocInterface":
+    {
+      "abstract":         "None",
+      "feed1":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsif",
+      "feed2":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsif",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "J. R. Soc. Interface",
+      "journal_full":     "Journal of the Royal Society Interface",
+      "journal_url":      "https://royalsocietypublishing.org/journal/rsif",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "JStatMech":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://iopscience.iop.org/journal/rss/1742-5468",
+      "feed2":            "https://feeds.feedburner.com/iop/0iKiZq7Y0ur",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "J. Stat. Mech.",
+      "journal_full":     "Journal of Statistical Mechanics",
+      "journal_url":      "https://iopscience.iop.org/journal/1742-5468",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "Nature":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/nature/rss/current",
+      "feed2":            "http://feeds.nature.com/nature/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Nature",
+      "journal_full":     "Nature",
+      "journal_url":      "https://www.nature.com",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "NatCommun":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/ncomms/rss/current",
+      "feed2":            "http://feeds.nature.com/ncomms/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Nat. Commun.",
+      "journal_full":     "Nature Communications",
+      "journal_url":      "https://www.nature.com/ncomms",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "NatHumBehav":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/ncomms/rss/current",
+      "feed2":            "http://feeds.nature.com/ncomms/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Nat. Hum. Behav.",
+      "journal_full":     "Nature Human Behaviour",
+      "journal_url":      "https://www.nature.com/nathumbehav",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "NatNeurosci":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/neuro/rss/current",
+      "feed2":            "http://feeds.nature.com/neuro/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Nat. Neurosci.",
+      "journal_full":     "Nature Neuroscience",
+      "journal_url":      "https://www.nature.com/neuro",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "NatPhys":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/nphys/rss/current",
+      "feed2":            "http://feeds.nature.com/nphys/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Nat. Phys.",
+      "journal_full":     "Nature Physics",
+      "journal_url":      "https://www.nature.com/nphys",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "NatRevNeurosci":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/nrn/rss/current",
+      "feed2":            "http://feeds.nature.com/nrn/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Nat. Rev. Neurosci.",
+      "journal_full":     "Nature Reviews Neuroscience",
+      "journal_url":      "https://www.nature.com/nrn",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "NatRevPhys":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/natrevphys/rss/current",
+      "feed2":            "http://feeds.nature.com/natrevphys/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Nat. Rev. Phys.",
+      "journal_full":     "Nature Reviews Physics",
+      "journal_url":      "https://www.nature.com/natrevphys",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "NewJPhys":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://iopscience.iop.org/journal/rss/1367-2630",
+      "feed2":            "https://feeds.feedburner.com/iop/eRtQ1Brdx8L",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "New J. Phys.",
+      "journal_full":     "New Journal of Physics",
+      "journal_url":      "https://iopscience.iop.org/journal/1367-2630",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PhilosTransRoyalSocA":
+    {
+      "abstract":         "None",
+      "feed1":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsta",
+      "feed2":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsta",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Philos. Trans. R. Soc. A",
+      "journal_full":     "Philosophical Transactions of the Royal Society A",
+      "journal_url":      "https://royalsocietypublishing.org/journal/rsta",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PhilosTransRoyalSocB":
+    {
+      "abstract":         "None",
+      "feed1":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rstb",
+      "feed2":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rstb",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Philos. Trans. R. Soc. B",
+      "journal_full":     "Philosophical Transactions of the Royal Society B",
+      "journal_url":      "https://royalsocietypublishing.org/journal/rstb",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PhysRep":
+    {
+      "abstract":         "None",
+      "feed1":            "http://rss.sciencedirect.com/publication/science/03701573",
+      "feed2":            "http://rss.sciencedirect.com/publication/science/03701573",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "Phys. Rep.",
+      "journal_full":     "Physics Reports",
+      "journal_url":      "https://www.journals.elsevier.com/physics-reports",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PhysRevE":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.aps.org/rss/recent/pre.xml",
+      "feed2":            "http://feeds.aps.org/rss/recent/pre.xml",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Phys. Rev. E",
+      "journal_full":     "Physical Review E",
+      "journal_url":      "https://journals.aps.org/pre",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PhysRevLett":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.aps.org/rss/recent/prl.xml",
+      "feed2":            "http://feeds.aps.org/rss/recent/prl.xml",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Phys. Rev. Lett.",
+      "journal_full":     "Physical Review Letters",
+      "journal_url":      "https://journals.aps.org/prl",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PhysRevResearch":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.aps.org/rss/recent/prresearch.xml",
+      "feed2":            "http://feeds.aps.org/rss/recent/prresearch.xml",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Phys. Rev. Research",
+      "journal_full":     "Physical Review Research",
+      "journal_url":      "https://journals.aps.org/prresearch",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PhysRevX":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.aps.org/rss/recent/prx.xml",
+      "feed2":            "http://feeds.aps.org/rss/recent/prx.xml",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Phys. Rev. X",
+      "journal_full":     "Physical Review X",
+      "journal_url":      "https://journals.aps.org/prx",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PLOSComputBiol":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://journals.plos.org/ploscompbiol/feed/atom",
+      "feed2":            "http://journals.plos.org/ploscompbiol/feed/atom",
+      "host":             "None",
+      "id":               "link",
+      "journal_abbrev":   "PLOS Comput. Biol.",
+      "journal_full":     "PLOS Computational Biology",
+      "journal_url":      "https://journals.plos.org/ploscompbiol",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PLOSONE":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://journals.plos.org/plosone/feed/atom",
+      "feed2":            "http://journals.plos.org/plosone/feed/atom",
+      "host":             "None",
+      "id":               "link",
+      "journal_abbrev":   "PLOS ONE",
+      "journal_full":     "PLOS ONE",
+      "journal_url":      "https://journals.plos.org/plosone",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PNAS":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://www.pnas.org/rss/current.xml",
+      "feed2":            "http://www.pnas.org/rss/current.xml",
+      "host":             "None",
+      "id":               "link",
+      "journal_abbrev":   "PNAS",
+      "journal_full":     "Proceedings of the National Academy of Sciences USA",
+      "journal_url":      "https://www.pnas.org",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "PNASNexus":
+    {
+      "abstract":         "description",
+      "feed1":            "https://academic.oup.com/rss/site_6448/4114.xml",
+      "feed2":            "https://academic.oup.com/rss/site_6448/4114.xml",
+      "host":             "None",
+      "id":               "doi",
+      "journal_abbrev":   "PNAS Nexus",
+      "journal_full":     "PNAS Nexus",
+      "journal_url":      "https://academic.oup.com/pnasnexus",
+      "title":            "title",
+      "url":              "guid",
+      "whitelist":        false,
+      "reader":           "HTMLSession"
+    },
+    "ProcRSocA":
+    {
+      "abstract":         "None",
+      "feed1":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspa",
+      "feed2":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspa",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Proc. R. Soc. A",
+      "journal_full":     "Proceedings of the Royal Society A",
+      "journal_url":      "https://royalsocietypublishing.org/journal/rspa",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "ProcRSocB":
+    {
+      "abstract":         "None",
+      "feed1":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspb",
+      "feed2":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspb",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Proc. R. Soc. B",
+      "journal_full":     "Proceedings of the Royal Society B",
+      "journal_url":      "https://royalsocietypublishing.org/journal/rspb",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "Research":
+    {
+      "abstract":         "description",
+      "feed1":            "https://spj.sciencemag.org/journals/research/rss/",
+      "feed2":            "https://spj.sciencemag.org/journals/research/rss/",
+      "host":             "None",
+      "id":               "link",
+      "journal_abbrev":   "Research",
+      "journal_full":     "Research",
+      "journal_url":      "https://spj.sciencemag.org/journals/research/",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "RevModPhys":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.aps.org/rss/recent/rmp.xml",
+      "feed2":            "http://feeds.aps.org/rss/recent/rmp.xml",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Rev. Mod. Phys.",
+      "journal_full":     "Reviews of Modern Phyics",
+      "journal_url":      "https://journals.aps.org/rmp",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "RSocOpenSci":
+    {
+      "abstract":         "None",
+      "feed1":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsos",
+      "feed2":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsos",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "R. Soc. Open Sci.",
+      "journal_full":     "Royal Society Open Science",
+      "journal_url":      "https://royalsocietypublishing.org/journal/rsos",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "Science":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://science.sciencemag.org/rss/express.xml",
+      "feed2":            "http://science.sciencemag.org/rss/express.xml",
+      "host":             "None",
+      "id":               "link",
+      "journal_abbrev":   "Science",
+      "journal_full":     "Science",
+      "journal_url":      "https://science.sciencemag.org",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "SciAdv":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://advances.sciencemag.org/rss/current.xml",
+      "feed2":            "http://advances.sciencemag.org/rss/current.xml",
+      "host":             "None",
+      "id":               "link",
+      "journal_abbrev":   "Sci. Adv.",
+      "journal_full":     "Science Advances",
+      "journal_url":      "https://advances.sciencemag.org",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser",
+      "replace_in_title": {" | Science Advances": ""}
+    },
+    "SciRep":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/srep/rss/current",
+      "feed2":            "http://feeds.nature.com/srep/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Sci. Rep.",
+      "journal_full":     "Scientific Reports",
+      "journal_url":      "https://www.nature.com/srep",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "SIAMJApplDynSyst":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://epubs.siam.org/action/showFeed?type=etoc&feed=rss&jc=sjaday",
+      "feed2":            "https://epubs.siam.org/action/showFeed?type=etoc&feed=rss&jc=sjaday",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "SIAM J. Appl. Dyn. Syst.",
+      "journal_full":     "SIAM Journal on Applied Dynamical Systems",
+      "journal_url":      "https://epubs.siam.org/journal/sjaday",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "SIAMJApplMath":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://epubs.siam.org/action/showFeed?ui=0&mi=9cks17&ai=s3&jc=smjmap&type=etoc&feed=rss",
+      "feed2":            "https://epubs.siam.org/action/showFeed?ui=0&mi=9cks17&ai=s3&jc=smjmap&type=etoc&feed=rss",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "SIAM J. Appl. Math.",
+      "journal_full":     "SIAM Journal on Applied Mathematics",
+      "journal_url":      "https://epubs.siam.org/loi/smjmap",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "SIAMJDiscreteMath":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://epubs.siam.org/action/showFeed?ui=0&mi=9cks17&ai=sa&jc=sjdmec&type=etoc&feed=rss",
+      "feed2":            "https://epubs.siam.org/action/showFeed?ui=0&mi=9cks17&ai=sa&jc=sjdmec&type=etoc&feed=rss",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "SIAM J. Discrete Math.",
+      "journal_full":     "SIAM Journal on Discrete Mathematics",
+      "journal_url":      "https://epubs.siam.org/loi/sjdmec",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "SIAMJMathDataSci":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://epubs.siam.org/action/showFeed?type=etoc&feed=rss&jc=sjmdaq",
+      "feed2":            "https://epubs.siam.org/action/showFeed?type=etoc&feed=rss&jc=sjmdaq",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "SIAM J. Math. Data Sci.",
+      "journal_full":     "SIAM Journal on Mathematics of Data Science",
+      "journal_url":      "https://epubs.siam.org/loi/sjmdaq",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "SIAMRev":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://epubs.siam.org/action/showFeed?ui=0&mi=8vgswd&ai=s5&jc=siread&type=etoc&feed=rss",
+      "feed2":            "http://epubs.siam.org/action/showFeed?ui=0&mi=8vgswd&ai=s5&jc=siread&type=etoc&feed=rss",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "SIAM Rev.",
+      "journal_full":     "SIAM Review",
+      "journal_url":      "https://epubs.siam.org/journal/siread",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
+    "SocNetworks":
+    {
+      "abstract":         "None",
+      "feed1":            "http://rss.sciencedirect.com/publication/science/03788733",
+      "feed2":            "http://rss.sciencedirect.com/publication/science/03788733",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "Soc. Networks",
+      "journal_full":     "Social Networks",
+      "journal_url":      "https://www.sciencedirect.com/journal/social-networks",
+      "title":            "title",
+      "url":              "id",
+      "whitelist":        true,
+      "reader":           "feedparser"
+    }
+}
