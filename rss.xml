@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jun 2023 17:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2023 16:48:03 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Measuring the variability of local characteristics in complex networks: Empirical and analytical analysis</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/6/063106/2894489/Measuring-the-variability-of-local-characteristics</link>
+      <guid isPermaLink="false">NPINS.004566</guid>
+    </item>
+    <item>
+      <title>Chaos: Increased habitat connectivity induces diversity via noise-induced symmetry breaking</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/6/063118/2894466/Increased-habitat-connectivity-induces-diversity</link>
+      <guid isPermaLink="false">NPINS.004565</guid>
+    </item>
+    <item>
+      <title>Chaos: Heteroclinic switching between chimeras in a ring of six oscillator populations</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/6/063120/2894497/Heteroclinic-switching-between-chimeras-in-a-ring</link>
+      <guid isPermaLink="false">NPINS.004564</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Computational Translation Framework Identifies Biochemical Reaction Networks with Special Topologies and Their Long-Term Dynamics</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M150469X?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004563</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Placing Two Edge-disjoint Copies of a Tree into a Bipartite Graph</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032300214X</link>
+      <guid isPermaLink="false">NPINS.004562</guid>
+    </item>
     <item>
       <title>SIAM J. Math. Data Sci.: Nonbacktracking Spectral Clustering of Nonuniform Hypergraphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1494713?af=R</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Lett.: Critical Drift in a Neuro-Inspired Adaptive Network</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.188401</link>
       <guid isPermaLink="false">NPINS.004467</guid>
-    </item>
-    <item>
-      <title>SIAM Rev.: The Role of Directionality, Heterogeneity, and Correlations in Epidemic Risk and Spread</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/20M1383811?ai=s5&amp;mi=8vgswd&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004466</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Theory of the asynchronous state of structured rotator networks and its application to recurrent networks of excitatory and inhibitory units</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.044306</link>
-      <guid isPermaLink="false">NPINS.004465</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Impact of contact rate on epidemic spreading in complex networks</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00513-2</link>
-      <guid isPermaLink="false">NPINS.004464</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Neglecting complex network structures underestimates delays in a large-capital project</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/accef0</link>
-      <guid isPermaLink="false">NPINS.004463</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Analysis of the consensus of double-layer chain networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1141396</link>
-      <guid isPermaLink="false">NPINS.004462</guid>
     </item>
   </channel>
 </rss>
