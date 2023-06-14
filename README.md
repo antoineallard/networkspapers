@@ -72,3 +72,56 @@ The file `past_posts.json` contains every new paper in network science identifie
  - Social Networks ([journal's website](https://www.sciencedirect.com/journal/social-networks), [feed's url](http://rss.sciencedirect.com/publication/science/03788733))
 
 
+### Using this code
+
+If you wish to use this code, you will need to add your Twitter Access Keys in the file `config/twitter_cred.json` as
+
+```
+{
+  "consumer_key"        : "",
+  "consumer_secret"     : "",
+  "access_token"        : "",
+  "access_token_secret" : ""
+}
+```
+
+Posting on Mastodon is done via the Python wrapper for the Mastodon API [Mastodon.py](https://github.com/halcy/Mastodon.py). You will need to run the following script once
+
+```python
+from mastodon import Mastodon
+
+Mastodon.create_app(
+     "pytooterapp",
+     api_base_url = INSTANCE_URL,
+     to_file = "pytooter_clientcred.secret"
+)
+
+mastodon = Mastodon(
+    client_id = "pytooter_clientcred.secret",
+    api_base_url = INSTANCE_URL
+)
+
+mastodon.log_in(
+    USERNAME,
+    PASSWORD,
+    to_file = "pytooter_usercred.secret"
+)
+```
+
+and then create the file `config/mastodon_cred.json` with
+
+```
+{
+  "access_token": pytooter_usercred.secret,
+  "api_base_url": INSTANCE_URL
+}
+```
+
+Posting to a Slack channel is done via the [slack_sdk](https://slack.dev/python-slack-sdk/) Python package. Simple instructions can be found [here](https://plazagonzalo.medium.com/send-messages-to-slack-using-python-4b986586cb6e). You will have to create the file `config/slack_CUSTOMNAME_cred.json` with
+
+```
+{
+  "channel": CHANNEL_ID,,
+  "slack_bot_token": TOKEN
+}
+```
