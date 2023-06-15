@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jun 2023 03:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2023 13:25:46 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Preferential selection to promote cooperation on degree–degree correlation networks in spatial snowdrift games</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323002825</link>
+      <guid isPermaLink="false">NPINS.004571</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Influence of adaptive coupling points on coalition formation in multi-energy systems</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00553-8</link>
+      <guid isPermaLink="false">NPINS.004570</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Network structure and dynamics of effective models of nonequilibrium quantum transport</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023125</link>
+      <guid isPermaLink="false">NPINS.004569</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Signatures of climatic phenomena in climate networks: El Niño and La Niña</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.064306</link>
+      <guid isPermaLink="false">NPINS.004568</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. Royal Soc. B: Monitoring the fabric of nature: using allometric trophic network models and observations to assess policy effects on biodiversity</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0189?af=R</link>
+      <guid isPermaLink="false">NPINS.004567</guid>
+    </item>
     <item>
       <title>Chaos: Measuring the variability of local characteristics in complex networks: Empirical and analytical analysis</title>
       <link>https://pubs.aip.org/aip/cha/article/33/6/063106/2894489/Measuring-the-variability-of-local-characteristics</link>
@@ -488,31 +513,6 @@
       <title>Nat. Commun.: Next-generation large-scale binary protein interaction network for &lt;i&gt;Drosophila melanogaster&lt;/i&gt;</title>
       <link>https://www.nature.com/articles/s41467-023-37876-0</link>
       <guid isPermaLink="false">NPINS.004472</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Selective control of synaptic plasticity in heterogeneous networks through transcranial alternating current stimulation (tACS)</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010736</link>
-      <guid isPermaLink="false">NPINS.004471</guid>
-    </item>
-    <item>
-      <title>Chaos: Complexity of couplings in multivariate time series via ordinal persistent homology</title>
-      <link>https://aip.scitation.org/doi/10.1063/5.0136772?af=R&amp;feed=most-recent</link>
-      <guid isPermaLink="false">NPINS.004470</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: 12-year observation of tweets about rubella in Japan: A retrospective infodemiology study</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285101</link>
-      <guid isPermaLink="false">NPINS.004469</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Scientific debate on human migration: ethics, challenges, and solutions</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1088699</link>
-      <guid isPermaLink="false">NPINS.004468</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Critical Drift in a Neuro-Inspired Adaptive Network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.188401</link>
-      <guid isPermaLink="false">NPINS.004467</guid>
     </item>
   </channel>
 </rss>
