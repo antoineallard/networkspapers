@@ -2,10 +2,13 @@ import json
 import mastodon
 import os
 import re
+import requests
 import tweepy
 
+from datetime import datetime, timezone
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
+from typing import List, Dict
 
 
 class rss2social:
@@ -17,6 +20,7 @@ class rss2social:
                  past_posts_fname="../data/past_posts.json",
                  future_posts_fname="../data/future_posts.json",
                  posts_to_review_fname="../data/posts_to_review.json",
+                 bsky_cred="../config/bsky_cred.json",
                  twitter_cred="../config/twitter_cred.json",
                  mastodon_cred="../config/mastodon_cred.json",
                  slack_cred="../config/slack_dynamicalab_cred.json"):
@@ -26,6 +30,7 @@ class rss2social:
         self.future_posts_fname = future_posts_fname
         self.past_posts_fname = past_posts_fname
         self.posts_to_review_fname = posts_to_review_fname
+        self.bsky_cred_fname = bsky_cred
         self.mastodon_cred_fname = mastodon_cred
         self.twitter_cred_fname = twitter_cred
         self.slack_cred_fname = slack_cred
@@ -105,6 +110,10 @@ class rss2social:
         else:
             self.posts_to_review = []
 
+    def load_bsky_cred(self):
+        with open(self.bsky_cred_fname, "r") as bsky_cred_file:
+            self.bsky_cred = json.load(bsky_cred_file)
+
     def load_mastodon_cred(self):
         with open(self.mastodon_cred_fname, "r") as mastodon_cred_file:
             self.mastodon_cred = json.load(mastodon_cred_file)
@@ -116,6 +125,74 @@ class rss2social:
     def load_twitter_cred(self):
         with open(self.twitter_cred_fname, "r") as twitter_cred_file:
             self.twitter_cred = json.load(twitter_cred_file)
+
+    def post_to_bsky(self, text):
+
+        # taken from https://atproto.com/blog/create-post
+
+        resp = requests.post(
+            "https://bsky.social/xrpc/com.atproto.server.createSession",
+            json={"identifier": self.bsky_cred["handle"], "password": self.bsky_cred["app_password"]},
+        )
+        resp.raise_for_status()
+        session = resp.json()
+
+        def parse_urls(text: str) -> List[Dict]:
+            spans = []
+            # partial/naive URL regex based on: https://stackoverflow.com/a/3809435
+            # tweaked to disallow some training punctuation
+            url_regex = rb"[$|\W](https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*[-a-zA-Z0-9@%_\+~#//=])?)"
+            text_bytes = text.encode("UTF-8")
+            for m in re.finditer(url_regex, text_bytes):
+                spans.append({
+                    "start": m.start(1),
+                    "end": m.end(1),
+                    "url": m.group(1).decode("UTF-8"),
+                })
+            return spans
+
+        # Parse facets from text and resolve the handles to DIDs
+        def parse_facets(text: str) -> List[Dict]:
+            facets = []
+            for u in parse_urls(text):
+                facets.append({
+                    "index": {
+                        "byteStart": u["start"],
+                        "byteEnd": u["end"],
+                    },
+                    "features": [
+                        {
+                            "$type": "app.bsky.richtext.facet#link",
+                            # NOTE: URI ("I") not URL ("L")
+                            "uri": u["url"],
+                        }
+                    ],
+                })
+            return facets
+
+        # Fetch the current time
+        # Using a trailing "Z" is preferred over the "+00:00" format
+        now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+
+        # Required fields that each post must include
+        post = {
+            "$type": "app.bsky.feed.post",
+            "text": text,
+            "createdAt": now,
+            "langs": ["en-US"],
+        }
+        post["facets"] = parse_facets(post["text"])
+
+        resp = requests.post(
+            "https://bsky.social/xrpc/com.atproto.repo.createRecord",
+            headers={"Authorization": "Bearer " + session["accessJwt"]},
+            json={
+                "repo": session["did"],
+                "collection": "app.bsky.feed.post",
+                "record": post,
+            },
+        )
+        resp.raise_for_status()
 
     def post_to_mastodon(self, toot):
         api = mastodon.Mastodon(
@@ -133,10 +210,17 @@ class rss2social:
         # client.chat_postMessage(channel=slack_cred['channel'], text=tweet)
 
     def post_to_twitter(self, tweet):
-        auth = tweepy.OAuthHandler(self.twitter_cred['consumer_key'], self.twitter_cred['consumer_secret'])
-        auth.set_access_token(self.twitter_cred['access_token'], self.twitter_cred['access_token_secret'])
-        api = tweepy.API(auth)
-        api.update_status(status=tweet)
+        # auth = tweepy.OAuthHandler(self.twitter_cred['consumer_key'], self.twitter_cred['consumer_secret'])
+        # auth.set_access_token(self.twitter_cred['access_token'], self.twitter_cred['access_token_secret'])
+        # api = tweepy.API(auth)
+        # api.update_status(status=tweet)
+        # client = tweepy.Client(bearer_token=self.twitter_cred['bearer_token'])
+        client = tweepy.Client(consumer_key=self.twitter_cred['consumer_key'], consumer_secret=self.twitter_cred['consumer_secret'],
+                               access_token=self.twitter_cred['access_token'], access_token_secret=self.twitter_cred['access_token_secret'])
+        response = client.create_tweet(text=tweet)
+        print(f"https://twitter.com/user/status/{response.data['id']}")
+
+
 
     def save_already_seen_entries(self):
         with open(self.already_seen_entries_fname, "w") as already_seen_entries_file:

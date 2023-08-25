@@ -1,6 +1,6 @@
 ## New papers in Network Science
 
-The Mastodon account [@networkspapers@social.skewed.de](https://social.skewed.de/@networkspapers) and the Twitter account [@networkspapers](https://twitter.com/networkspapers) provide a semi-automatically curated list of new publications in Network Science.
+The  Bluesky account [@networkspapers.sky.social](https://bsky.app/profile/networkspapers.bsky.social), the Mastodon account [@networkspapers@social.skewed.de](https://social.skewed.de/@networkspapers) and the Twitter account [@networkspapers](https://twitter.com/networkspapers) provide a semi-automatically curated list of new publications in Network Science.
 
 New publications are flagged if their title or abstract (when available) contains any of the following keywords
 
@@ -121,7 +121,14 @@ Posting to a Slack channel is done via the [slack_sdk](https://slack.dev/python-
 
 ```
 {
-  "channel": CHANNEL_ID,,
+  "channel": CHANNEL_ID,
   "slack_bot_token": TOKEN
+}
+```Simple instructions to post on [Bluesky](bsky.social) can be found [here](https://atproto.com/blog/create-post). You will have to create the file `config/bsky_cred.json` with
+
+```
+{
+  "handle": USERNAME,
+  "app_password": PASSWORD
 }
 ```
