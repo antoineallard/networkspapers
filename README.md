@@ -12,7 +12,7 @@ Our wish is to make this account as useful as possible to the diverse Network Sc
 
 ### Archive
 
-The file `past_posts.json` contains every new paper in network science identified and posted by [@networkspapers](https://twitter.com/networkspapers) since Nov. 30th 2017. The Mastodon account [@networkspapers@social.skewed.de](https://social.skewed.de/@networkspapers) started posting on Nov. 8th 2022. We keep it updated in case this (incomplete and obviously biased) list could be useful in anyway to researchers.
+The file `past_posts.json` contains every new paper in network science identified and posted by [@networkspapers](https://twitter.com/networkspapers) since Nov. 30th 2017. The Mastodon account [@networkspapers@social.skewed.de](https://social.skewed.de/@networkspapers) started posting on Nov. 8th 2022. The Mastodon account [@networkspapers.bsky.social](https://bsky.app/profile/networkspapers.bsky.social) started posting on Aug. 25th 2023. We keep it updated in case this (incomplete and obviously biased) list could be useful in anyway to researchers.
 
 ### Feeds followed
 
