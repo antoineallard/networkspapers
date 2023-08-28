@@ -124,7 +124,9 @@ Posting to a Slack channel is done via the [slack_sdk](https://slack.dev/python-
   "channel": CHANNEL_ID,
   "slack_bot_token": TOKEN
 }
-```Simple instructions to post on [Bluesky](bsky.social) can be found [here](https://atproto.com/blog/create-post). You will have to create the file `config/bsky_cred.json` with
+```
+
+Simple instructions to post on [Bluesky](bsky.social) can be found [here](https://atproto.com/blog/create-post). You will have to create the file `config/bsky_cred.json` with
 
 ```
 {
