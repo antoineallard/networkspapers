@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Aug 2023 15:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 15:22:23 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Large-deviations of disease spreading dynamics with vaccination</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287932</link>
+      <guid isPermaLink="false">NPINS.004776</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A network analysis of the non-fungible token (NFT) market: structural characteristics, evolution, and interactions</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00565-4</link>
+      <guid isPermaLink="false">NPINS.004775</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Towards hypergraph cognitive networks as feature-rich models of knowledge</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00409-2</link>
+      <guid isPermaLink="false">NPINS.004774</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Metropolized Forest Recombination for Monte Carlo Sampling of Graph Partitions</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1418010?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004773</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Sensitivity analysis of biochemical systems using bond graphs</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0192?af=R</link>
+      <guid isPermaLink="false">NPINS.004772</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Pk-factors in squares and line graphs of trees</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323004137</link>
@@ -488,31 +513,6 @@
       <title>Philos. Trans. Royal Soc. B: Quantifying and estimating ecological network diversity based on incomplete sampling data</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0183?af=R</link>
       <guid isPermaLink="false">NPINS.004677</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Dirac gauge theory for topological spinors in 3+1 dimensional networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acdc6a</link>
-      <guid isPermaLink="false">NPINS.004676</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Combinatorial explanation of the weighted Laplacian characteristic polynomial of a graph and applications</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003569</link>
-      <guid isPermaLink="false">NPINS.004675</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Mapping moral language on US presidential primary campaigns reveals rhetorical networks of political division and unity</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad189</link>
-      <guid isPermaLink="false">NPINS.004674</guid>
-    </item>
-    <item>
-      <title>Chaos: Thermal properties of structurally balanced systems on classical random graphs</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073115/2901138/Thermal-properties-of-structurally-balanced</link>
-      <guid isPermaLink="false">NPINS.004673</guid>
-    </item>
-    <item>
-      <title>PNAS: Spreading processes with mutations over multilayer networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2302245120?af=R</link>
-      <guid isPermaLink="false">NPINS.004672</guid>
     </item>
   </channel>
 </rss>
