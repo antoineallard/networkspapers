@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Aug 2023 02:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 14:33:19 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: The Spectrum of Triangle-Free Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M150767X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004786</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Modeling and analysis of affiliation networks with preferential attachment and subsumption</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014310</link>
+      <guid isPermaLink="false">NPINS.004785</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Percolation and conductivity in evolving disordered media</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024132</link>
+      <guid isPermaLink="false">NPINS.004784</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Sleep disrupts complex spiking dynamics in the neocortex and hippocampus</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290146</link>
+      <guid isPermaLink="false">NPINS.004783</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: GraphTS: Graph-represented time series for subsequence anomaly detection</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290092</link>
+      <guid isPermaLink="false">NPINS.004782</guid>
+    </item>
+    <item>
+      <title>Chaos: Predicting aging transition using Echo state network</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/081102/2905533/Predicting-aging-transition-using-Echo-state</link>
+      <guid isPermaLink="false">NPINS.004781</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Less is different: Why sparse networks with inhibition differ from complete graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024315</link>
+      <guid isPermaLink="false">NPINS.004780</guid>
+    </item>
+    <item>
+      <title>PNAS: Climate change–induced stress disrupts ectomycorrhizal interaction networks at the boreal–temperate ecotone</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2221619120?af=R</link>
+      <guid isPermaLink="false">NPINS.004779</guid>
+    </item>
+    <item>
+      <title>Chaos: Sign patterns symbolization and its use in improved dependence test for complex network inference</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/083131/2906646/Sign-patterns-symbolization-and-its-use-in</link>
+      <guid isPermaLink="false">NPINS.004778</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Implicit models, latent compression, intrinsic biases, and cheap lunches in community detection</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024309</link>
+      <guid isPermaLink="false">NPINS.004777</guid>
+    </item>
     <item>
       <title>PLOS ONE: Large-deviations of disease spreading dynamics with vaccination</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287932</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Math. Data Sci.: Causal Structural Learning via Local Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/20M1362796?af=R</link>
       <guid isPermaLink="false">NPINS.004687</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Pretty good state transfer in discrete-time quantum walks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acc4f5</link>
-      <guid isPermaLink="false">NPINS.004686</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Exploring the formation dynamics of affective polarization by considering coupled feedback</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1213044</link>
-      <guid isPermaLink="false">NPINS.004685</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: An evolutionary game with revengers and sufferers on complex networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003375</link>
-      <guid isPermaLink="false">NPINS.004684</guid>
-    </item>
-    <item>
-      <title>PNAS: Comparative connectomics reveals noncanonical wiring for color vision in human foveal retina</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2300545120?af=R</link>
-      <guid isPermaLink="false">NPINS.004683</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Can weight hysteresis in a neural network judge the continuity/discontinuity of a phase transition?</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ace13e</link>
-      <guid isPermaLink="false">NPINS.004682</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Hierarchy of Multipartite Nonlocality and Device-Independent Effect Witnesses</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.250201</link>
-      <guid isPermaLink="false">NPINS.004681</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Invasive species modulate the structure and stability of a multilayer mutualistic network</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.0132?af=R</link>
-      <guid isPermaLink="false">NPINS.004680</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Learning attribute and homophily measures through random walks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00558-3</link>
-      <guid isPermaLink="false">NPINS.004679</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: HS-splitting fields of abelian mixed cayley graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003119</link>
-      <guid isPermaLink="false">NPINS.004678</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. Royal Soc. B: Quantifying and estimating ecological network diversity based on incomplete sampling data</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0183?af=R</link>
-      <guid isPermaLink="false">NPINS.004677</guid>
     </item>
   </channel>
 </rss>
