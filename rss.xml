@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2023 16:41:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 13:49:56 +0000</lastBuildDate>
+    <item>
+      <title>iScience: WGT: Tools and algorithms for recognizing, visualizing, and generating Wheeler graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223014797</link>
+      <guid isPermaLink="false">NPINS.004791</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: More is different in real-world multilayer networks</title>
+      <link>https://www.nature.com/articles/s41567-023-02132-1</link>
+      <guid isPermaLink="false">NPINS.004790</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Shor–Laflamme distributions of graph states and noise robustness of entanglement</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ace8d4</link>
+      <guid isPermaLink="false">NPINS.004789</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: The evolution of dam induced river fragmentation in the United States</title>
+      <link>https://www.nature.com/articles/s41467-023-39194-x</link>
+      <guid isPermaLink="false">NPINS.004788</guid>
+    </item>
+    <item>
+      <title>Chaos: Critical transition of thermal rectification on complex networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/083144/2907438/Critical-transition-of-thermal-rectification-on</link>
+      <guid isPermaLink="false">NPINS.004787</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: The Spectrum of Triangle-Free Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M150767X?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. X: Why Are There Six Degrees of Separation in a Social Network?</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevX.13.021032</link>
       <guid isPermaLink="false">NPINS.004692</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Balanced Subdivisions of a Large Clique in Graphs with High Average Degree</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1511266?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004691</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Memristive field effect in a single and multilayer neural network with different connection topologies</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003405</link>
-      <guid isPermaLink="false">NPINS.004690</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Memory capacity of adaptive flow networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.107.034407</link>
-      <guid isPermaLink="false">NPINS.004689</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Hybrid weighted communication network node importance evaluation method</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1133250</link>
-      <guid isPermaLink="false">NPINS.004688</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Causal Structural Learning via Local Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/20M1362796?af=R</link>
-      <guid isPermaLink="false">NPINS.004687</guid>
     </item>
   </channel>
 </rss>
