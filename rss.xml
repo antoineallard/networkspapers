@@ -13,7 +13,82 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 15:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 17:14:28 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Graph Attention Retrospective</title>
+      <link>http://jmlr.org/papers/v24/22-125.html</link>
+      <guid isPermaLink="false">NPINS.004806</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Forecasting landslides using community detection on geophysical satellite data</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014901</link>
+      <guid isPermaLink="false">NPINS.004805</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Random networks with $q$-exponential degree distribution</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033088</link>
+      <guid isPermaLink="false">NPINS.004804</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: The Role of Clearance in Neurodegenerative Diseases</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1487801?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004803</guid>
+    </item>
+    <item>
+      <title>PNAS: A persistent major mutation in canonical jasmonate signaling is embedded in an herbivory-elicited gene network</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2308500120?af=R</link>
+      <guid isPermaLink="false">NPINS.004802</guid>
+    </item>
+    <item>
+      <title>EPL: Weighted-elite-memory mechanism enhances cooperation in social dilemmas</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ace27f</link>
+      <guid isPermaLink="false">NPINS.004801</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: The population genetic structure and phylogeographic dispersal of &lt;i&gt;Nodularia breviconcha&lt;/i&gt; in the Korean Peninsula based on COI and 16S rRNA genes</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288518</link>
+      <guid isPermaLink="false">NPINS.004800</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Dynamics analysis of the two-layer complex propagation network with individual heterogeneous decreased behavior</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1239257</link>
+      <guid isPermaLink="false">NPINS.004799</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Using a Geometric Lens to Find k-Disjoint Shortest Paths</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1527398?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004798</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Response of the competitive balance model to the external field</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289543</link>
+      <guid isPermaLink="false">NPINS.004797</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: MICFuzzy: A maximal information content based fuzzy approach for reconstructing genetic networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288174</link>
+      <guid isPermaLink="false">NPINS.004796</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Inferring gene regulatory networks using transcriptional profiles as dynamical attractors</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010991</link>
+      <guid isPermaLink="false">NPINS.004795</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Exploring 3D community inconsistency in human chromosome contact networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acef9d</link>
+      <guid isPermaLink="false">NPINS.004794</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Name order effects in measuring adolescent social networks using rosters</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000485</link>
+      <guid isPermaLink="false">NPINS.004793</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Structural Conditions for Saddle-Node Bifurcations in Chemical Reaction Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1527933?af=R</link>
+      <guid isPermaLink="false">NPINS.004792</guid>
+    </item>
     <item>
       <title>iScience: WGT: Tools and algorithms for recognizing, visualizing, and generating Wheeler graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004223014797</link>
@@ -438,81 +513,6 @@
       <title>Sci. Adv.: Community detection in large hypergraphs</title>
       <link>https://www.science.org/doi/10.1126/sciadv.adg9159</link>
       <guid isPermaLink="false">NPINS.004707</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Food web differences between two neighboring tropical high mountain lakes and the influence of introducing a new top predator</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287066</link>
-      <guid isPermaLink="false">NPINS.004706</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Finding community structure using the ordered random graph model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014303</link>
-      <guid isPermaLink="false">NPINS.004705</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Hierarchical team structure and multidimensional localization (or siloing) on networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ace602</link>
-      <guid isPermaLink="false">NPINS.004704</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Cycle Saturation in Random Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1456479?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004703</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Graphs with small distance-based complexities</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003570</link>
-      <guid isPermaLink="false">NPINS.004702</guid>
-    </item>
-    <item>
-      <title>Chaos: Reinforcement learning relieves the vaccination dilemma</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073110/2901141/Reinforcement-learning-relieves-the-vaccination</link>
-      <guid isPermaLink="false">NPINS.004701</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Percolation in fractal spatial networks with long-range interactions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023129</link>
-      <guid isPermaLink="false">NPINS.004700</guid>
-    </item>
-    <item>
-      <title>PNAS: Network bypasses sustain complexity</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2305001120?af=R</link>
-      <guid isPermaLink="false">NPINS.004699</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Exact and rapid linear clustering of networks with dynamic programming</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2023.0159?af=R</link>
-      <guid isPermaLink="false">NPINS.004698</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Spotting anomalous trades in NFT markets: The case of NBA Topshot</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287262</link>
-      <guid isPermaLink="false">NPINS.004697</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Geometry of Nonequilibrium Reaction Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.13.021040</link>
-      <guid isPermaLink="false">NPINS.004696</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Compressing network populations with modal networks reveal structural diversity</title>
-      <link>https://www.nature.com/articles/s42005-023-01270-5</link>
-      <guid isPermaLink="false">NPINS.004695</guid>
-    </item>
-    <item>
-      <title>Nature: Transfer learning enables predictions in network biology</title>
-      <link>https://www.nature.com/articles/s41586-023-06139-9</link>
-      <guid isPermaLink="false">NPINS.004694</guid>
-    </item>
-    <item>
-      <title>Chaos: Promoting synchrony of power grids by restructuring network topologies</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/6/063149/2900123/Promoting-synchrony-of-power-grids-by</link>
-      <guid isPermaLink="false">NPINS.004693</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Why Are There Six Degrees of Separation in a Social Network?</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.13.021032</link>
-      <guid isPermaLink="false">NPINS.004692</guid>
     </item>
   </channel>
 </rss>
