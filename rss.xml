@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Sep 2023 17:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2023 20:05:12 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Commun.: Network-wide thermodynamic constraints shape NAD(P)H cofactor specificity of biochemical reactions</title>
+      <link>https://www.nature.com/articles/s41467-023-40297-8</link>
+      <guid isPermaLink="false">NPINS.004816</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Improvement of quantum walks search algorithm in single-marked vertex graph</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acf174</link>
+      <guid isPermaLink="false">NPINS.004815</guid>
+    </item>
+    <item>
+      <title>Chaos: Working memory depends on the excitatory–inhibitory balance in neuron–astrocyte network</title>
+      <link>https://pubs.aip.org/aip/cha/article-abstract/33/1/013127/2877594/Working-memory-depends-on-the-excitatory</link>
+      <guid isPermaLink="false">NPINS.004814</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Tree-Degenerate Graphs and Nested Dependent Random Choice</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1483554?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004813</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: The Excluded Minors for Three Classes of 2-Polymatroids Having Special Types of Natural Matroids</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1521134?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004812</guid>
+    </item>
+    <item>
+      <title>Chaos: The attractor structure of functional connectivity in coupled logistic maps</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/083147/2907846/The-attractor-structure-of-functional-connectivity</link>
+      <guid isPermaLink="false">NPINS.004811</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Sparse Graph Learning from Spatiotemporal Time Series</title>
+      <link>http://jmlr.org/papers/v24/22-1154.html</link>
+      <guid isPermaLink="false">NPINS.004810</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Selecting a significance level in sequential testing procedures for community detection</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00567-2</link>
+      <guid isPermaLink="false">NPINS.004809</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Detecting the driver nodes of temporal networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/aced66</link>
+      <guid isPermaLink="false">NPINS.004808</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model</title>
+      <link>https://www.nature.com/articles/s41467-023-39107-y</link>
+      <guid isPermaLink="false">NPINS.004807</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Graph Attention Retrospective</title>
       <link>http://jmlr.org/papers/v24/22-125.html</link>
@@ -463,56 +513,6 @@
       <title>EPL: Synchronization in networks of coupled oscillators with mismatches</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/acde5f</link>
       <guid isPermaLink="false">NPINS.004717</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Content-based comparison of communities in social networks: Ex-Yugoslavian reactions to the Russian invasion of Ukraine</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00561-8</link>
-      <guid isPermaLink="false">NPINS.004716</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Efficient simulations of epidemic models with tensor networks: Application to the one-dimensional susceptible-infected-susceptible model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024303</link>
-      <guid isPermaLink="false">NPINS.004715</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Inverse Problems for Discrete Heat Equations and Random Walks for a Class of Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1439936?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004714</guid>
-    </item>
-    <item>
-      <title>Chaos: Inhibition and activation of interactions in networked weak prisoner’s dilemma</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/6/063124/2894480/Inhibition-and-activation-of-interactions-in</link>
-      <guid isPermaLink="false">NPINS.004713</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Analysis of Mean-Field Approximation for Deffuant Opinion Dynamics on Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1499765?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004712</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Predicting attractors from spectral properties of stylized gene regulatory networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014402</link>
-      <guid isPermaLink="false">NPINS.004711</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Emergence of Geometric Turing Patterns in Complex Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.13.021038</link>
-      <guid isPermaLink="false">NPINS.004710</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Reconstructing dynamics of complex systems from noisy time series with hidden variables</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acd46d</link>
-      <guid isPermaLink="false">NPINS.004709</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Bounded-confidence model of opinion dynamics with heterogeneous node-activity levels</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023179</link>
-      <guid isPermaLink="false">NPINS.004708</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Community detection in large hypergraphs</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adg9159</link>
-      <guid isPermaLink="false">NPINS.004707</guid>
     </item>
   </channel>
 </rss>
