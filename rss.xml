@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Sep 2023 20:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2023 13:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Exploring nonlinear dynamics and network structures in Kuramoto systems using machine learning approaches</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/7/073148/2903887/Exploring-nonlinear-dynamics-and-network</link>
+      <guid isPermaLink="false">NPINS.004821</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Source identification via contact tracing in the presence of asymptomatic patients</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00566-3</link>
+      <guid isPermaLink="false">NPINS.004820</guid>
+    </item>
+    <item>
+      <title>Chaos: Perspectives on adaptive dynamical systems</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/7/071501/2904036/Perspectives-on-adaptive-dynamical-systems</link>
+      <guid isPermaLink="false">NPINS.004819</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Mathematical models of developmental vascular remodelling: A review</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011130</link>
+      <guid isPermaLink="false">NPINS.004818</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Transition analysis of boundary-based active configurations in temporal simplicial complexes for ingredient co-occurrences in recipe streams</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00577-0</link>
+      <guid isPermaLink="false">NPINS.004817</guid>
+    </item>
     <item>
       <title>Nat. Commun.: Network-wide thermodynamic constraints shape NAD(P)H cofactor specificity of biochemical reactions</title>
       <link>https://www.nature.com/articles/s41467-023-40297-8</link>
@@ -488,31 +513,6 @@
       <title>Chaos: Ranking cliques in higher-order complex networks</title>
       <link>https://pubs.aip.org/aip/cha/article/33/7/073139/2903051/Ranking-cliques-in-higher-order-complex-networks</link>
       <guid isPermaLink="false">NPINS.004722</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: A network intervention for natural resource management in the context of climate change</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873322000387</link>
-      <guid isPermaLink="false">NPINS.004721</guid>
-    </item>
-    <item>
-      <title>PNAS: Changes in patterns of age-related network connectivity are associated with risk for schizophrenia</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2221533120?af=R</link>
-      <guid isPermaLink="false">NPINS.004720</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Synchronization in Temporal Simplicial Complexes</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1525909?af=R</link>
-      <guid isPermaLink="false">NPINS.004719</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Spatiotemporal dynamics of periodic waves in SIR model with driving factors</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acdb91</link>
-      <guid isPermaLink="false">NPINS.004718</guid>
-    </item>
-    <item>
-      <title>EPL: Synchronization in networks of coupled oscillators with mismatches</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acde5f</link>
-      <guid isPermaLink="false">NPINS.004717</guid>
     </item>
   </channel>
 </rss>
