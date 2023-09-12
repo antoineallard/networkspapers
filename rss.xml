@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Sep 2023 15:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 13:42:50 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Bifractality of fractal scale-free networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024302</link>
+      <guid isPermaLink="false">NPINS.004826</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Stasis in heterogeneous networks of coupled oscillators: discontinuous transition with hysteresis</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ace1c4</link>
+      <guid isPermaLink="false">NPINS.004825</guid>
+    </item>
+    <item>
+      <title>Chaos: Epidemic spreading on multi-layer networks with active nodes</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/7/073128/2902969/Epidemic-spreading-on-multi-layer-networks-with</link>
+      <guid isPermaLink="false">NPINS.004824</guid>
+    </item>
+    <item>
+      <title>EPL: Effect of update rule transition triggered by Q-learning algorithm in evolutionary prisoner's dilemma game involving extortion</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ace3ee</link>
+      <guid isPermaLink="false">NPINS.004823</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Partial domination and irredundance numbers in graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003223</link>
+      <guid isPermaLink="false">NPINS.004822</guid>
+    </item>
     <item>
       <title>Chaos: Exploring nonlinear dynamics and network structures in Kuramoto systems using machine learning approaches</title>
       <link>https://pubs.aip.org/aip/cha/article/33/7/073148/2903887/Exploring-nonlinear-dynamics-and-network</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: Special concepts of edge regularity in the cubic fuzzy graph structure environment with an application</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1222150</link>
       <guid isPermaLink="false">NPINS.004727</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Hamiltonian Cycle Parameterized by Treedepth in Single Exponential Time and Polynomial Space</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1518943?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004726</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Detecting and generating overlapping nested communities</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00575-2</link>
-      <guid isPermaLink="false">NPINS.004725</guid>
-    </item>
-    <item>
-      <title>Chaos: NLSI: An innovative method to locate epidemic sources on the SEIR propagation model</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083125/2905800/NLSI-An-innovative-method-to-locate-epidemic</link>
-      <guid isPermaLink="false">NPINS.004724</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On the PoA Conjecture: Trees versus Biconnected Components</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1466426?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004723</guid>
-    </item>
-    <item>
-      <title>Chaos: Ranking cliques in higher-order complex networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073139/2903051/Ranking-cliques-in-higher-order-complex-networks</link>
-      <guid isPermaLink="false">NPINS.004722</guid>
     </item>
   </channel>
 </rss>
