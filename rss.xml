@@ -13,7 +13,82 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Sep 2023 13:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 14:57:53 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Neurosci.: Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders</title>
+      <link>https://www.nature.com/articles/s41593-023-01404-6</link>
+      <guid isPermaLink="false">NPINS.004841</guid>
+    </item>
+    <item>
+      <title>iScience: Integrating spatially- and temporally-heterogeneous data on river network dynamics using graph theory</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223014943</link>
+      <guid isPermaLink="false">NPINS.004840</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Emergence of chimeras: An impetus by exceptional points</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024220</link>
+      <guid isPermaLink="false">NPINS.004839</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Adolescent relational behaviour and the obesity pandemic: A descriptive study applying social network analysis and machine learning techniques</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289553</link>
+      <guid isPermaLink="false">NPINS.004838</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A novel metric to measure spatio-temporal proximity: a case study analyzing children’s social network in schoolyards</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00571-6</link>
+      <guid isPermaLink="false">NPINS.004837</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Structure-based approach to identify driver nodes in ensembles of biologically inspired Boolean networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033009</link>
+      <guid isPermaLink="false">NPINS.004836</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Novel stability criteria of generalized neural networks with time-varying delay based on the same augmented LKF and bounding technique</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004587</link>
+      <guid isPermaLink="false">NPINS.004835</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Complexity in the dengue spreading: A network analysis approach</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289690</link>
+      <guid isPermaLink="false">NPINS.004834</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Differential network analysis between sex of the genes related to comorbidities of type 2 mellitus diabetes</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00563-6</link>
+      <guid isPermaLink="false">NPINS.004833</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Ultrametric identities in glassy models of natural evolution</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acf101</link>
+      <guid isPermaLink="false">NPINS.004832</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Altered functional connectivity and network excitability in a model of cortical dysplasia</title>
+      <link>https://www.nature.com/articles/s41598-023-38717-2</link>
+      <guid isPermaLink="false">NPINS.004831</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: COVID-19 and social media: Beyond polarization</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad246</link>
+      <guid isPermaLink="false">NPINS.004830</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Stabilization of a structurally balanced complex network with similar nodes of different dimensions</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004071</link>
+      <guid isPermaLink="false">NPINS.004829</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On the network suppression of the pathogen spread within the healthcare system</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003387</link>
+      <guid isPermaLink="false">NPINS.004828</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Analysis on spatial structure characteristics and influencing factors of Beijing-Tianjin-Hebei Region MICE cities</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287695</link>
+      <guid isPermaLink="false">NPINS.004827</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Bifractality of fractal scale-free networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024302</link>
@@ -438,81 +513,6 @@
       <title>Phys. Rev. Research: Anomaly, reciprocity, and community detection in networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033084</link>
       <guid isPermaLink="false">NPINS.004742</guid>
-    </item>
-    <item>
-      <title>SIAM Rev.: What Are Higher-Order Networks?</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1414024?ai=s5&amp;mi=8vgswd&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004741</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Many Cliques in Bounded-Degree Hypergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1507565?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004740</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Navigating an incomplete network using a map</title>
-      <link>https://www.nature.com/articles/s42254-023-00623-x</link>
-      <guid isPermaLink="false">NPINS.004739</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Dynamics of international Trade: A 30-year analysis of key exporting nations</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289040</link>
-      <guid isPermaLink="false">NPINS.004738</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Networks with exactly six degrees of separation</title>
-      <link>https://www.nature.com/articles/s42254-023-00620-0</link>
-      <guid isPermaLink="false">NPINS.004737</guid>
-    </item>
-    <item>
-      <title>PNAS: Neuronal network complexity strengthens activity robustness</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2309988120?af=R</link>
-      <guid isPermaLink="false">NPINS.004736</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Identifying influential nodes in complex networks based on network embedding and local structure entropy</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acdceb</link>
-      <guid isPermaLink="false">NPINS.004735</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Keep around, drop, or revise? exploring what becomes of difficult ties in personal networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332300045X</link>
-      <guid isPermaLink="false">NPINS.004734</guid>
-    </item>
-    <item>
-      <title>iScience: SCING: Inference of robust, interpretable gene regulatory networks from single cell and spatial transcriptomics</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223012014</link>
-      <guid isPermaLink="false">NPINS.004733</guid>
-    </item>
-    <item>
-      <title>EPL: Helping networks to get synchronized: Effect of external stimulation</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aceb1a</link>
-      <guid isPermaLink="false">NPINS.004732</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Refined List Version of Hadwiger’s Conjecture</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1522413?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004731</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Multiple description encoding-decoding-based resilient filtering for complex networks under the round-Robin protocol</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004198</link>
-      <guid isPermaLink="false">NPINS.004730</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Noise-Induced Network Topologies</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.130.267401</link>
-      <guid isPermaLink="false">NPINS.004729</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Emergent information dynamics in many-body interconnected systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014312</link>
-      <guid isPermaLink="false">NPINS.004728</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Special concepts of edge regularity in the cubic fuzzy graph structure environment with an application</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1222150</link>
-      <guid isPermaLink="false">NPINS.004727</guid>
     </item>
   </channel>
 </rss>
