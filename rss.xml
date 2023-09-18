@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Sep 2023 01:38:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 12:49:26 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: General optimization framework for accurate and efficient reconstruction of symmetric complex networks from dynamical data</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034304</link>
+      <guid isPermaLink="false">NPINS.004851</guid>
+    </item>
+    <item>
+      <title>Chaos: Modeling directed weighted network based on event coincidence analysis and its application on spatial propagation characteristics</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/6/063155/2900374/Modeling-directed-weighted-network-based-on-event</link>
+      <guid isPermaLink="false">NPINS.004850</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Diversity-enhanced stability</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024206</link>
+      <guid isPermaLink="false">NPINS.004849</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Mechanisms for Producing Oscillatory Plane Waves in Discrete and Continuum Models</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1506523?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004848</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Random walks on modular chains: Detecting structure through statistics</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024135</link>
+      <guid isPermaLink="false">NPINS.004847</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Insights into Ordinal Embedding Algorithms: A Systematic Evaluation</title>
+      <link>http://jmlr.org/papers/v24/21-1170.html</link>
+      <guid isPermaLink="false">NPINS.004846</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Theoretical investigation of the pathway-based network of type 2 diabetes mellitus-related genes</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00540-z</link>
+      <guid isPermaLink="false">NPINS.004845</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Longitudinal multiplexity and structural constraints of online emergency collaborative networks: A tale of two Chinese societies</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289277</link>
+      <guid isPermaLink="false">NPINS.004844</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Influence and influenceability: global directionality in directed complex networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.221380?af=R</link>
+      <guid isPermaLink="false">NPINS.004843</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Two-mode relational similarities</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000461</link>
+      <guid isPermaLink="false">NPINS.004842</guid>
+    </item>
     <item>
       <title>Nat. Neurosci.: Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders</title>
       <link>https://www.nature.com/articles/s41593-023-01404-6</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Discrete Math.: Approximation Algorithms for the Random Field Ising Model</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/21M1467389?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.004752</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Intervening in networks to make minorities more visible</title>
-      <link>https://www.nature.com/articles/s42254-023-00627-7</link>
-      <guid isPermaLink="false">NPINS.004751</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Target control of complex networks: How to save control energy</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014301</link>
-      <guid isPermaLink="false">NPINS.004750</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Dynamics of information-awareness-epidemic-activity coevolution in multiplex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033065</link>
-      <guid isPermaLink="false">NPINS.004749</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Role of masks in mitigating viral spread on networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014306</link>
-      <guid isPermaLink="false">NPINS.004748</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Networks get more cliquey as they grow</title>
-      <link>https://www.nature.com/articles/s42254-023-00619-7</link>
-      <guid isPermaLink="false">NPINS.004747</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: From time-series transcriptomics to gene regulatory networks: A review on inference methods</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011254</link>
-      <guid isPermaLink="false">NPINS.004746</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Nonuniform Degrees and Rainbow Versions of the Caccetta–Häggkvist Conjecture</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1529658?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004745</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: 25 years of small-world network theory</title>
-      <link>https://www.nature.com/articles/s42254-023-00628-6</link>
-      <guid isPermaLink="false">NPINS.004744</guid>
-    </item>
-    <item>
-      <title>PNAS: Experimental evidence for structured information–sharing networks reducing medical errors</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2108290120?af=R</link>
-      <guid isPermaLink="false">NPINS.004743</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Anomaly, reciprocity, and community detection in networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033084</link>
-      <guid isPermaLink="false">NPINS.004742</guid>
     </item>
   </channel>
 </rss>
