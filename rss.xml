@@ -13,7 +13,107 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Sep 2023 19:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2023 17:42:51 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: FedDNA: Federated learning using dynamic node alignment</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288157</link>
+      <guid isPermaLink="false">NPINS.004871</guid>
+    </item>
+    <item>
+      <title>Chaos: Information dissemination evolution under group feedback</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/083140/2907436/Information-dissemination-evolution-under-group</link>
+      <guid isPermaLink="false">NPINS.004870</guid>
+    </item>
+    <item>
+      <title>Chaos: Eigenvector centrality in simplicial complexes of hypergraphs</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093109/2910263/Eigenvector-centrality-in-simplicial-complexes-of</link>
+      <guid isPermaLink="false">NPINS.004869</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Monte Carlo samplers for efficient network inference</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011256</link>
+      <guid isPermaLink="false">NPINS.004868</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Modeling self-propagating malware with epidemiological models</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00578-z</link>
+      <guid isPermaLink="false">NPINS.004867</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Dimension of Activity in Random Neural Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.118401</link>
+      <guid isPermaLink="false">NPINS.004866</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Naive regression requires weaker assumptions than factor models to adjust for multiple cause confounding</title>
+      <link>http://jmlr.org/papers/v24/21-0515.html</link>
+      <guid isPermaLink="false">NPINS.004865</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366</link>
+      <guid isPermaLink="false">NPINS.004864</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: The analysis and solution for intercity travel behaviors during holidays in the post-epidemic era based on big data</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288510</link>
+      <guid isPermaLink="false">NPINS.004863</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Non-Markovian Models of Opinion Dynamics on Temporal Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M151858X?af=R</link>
+      <guid isPermaLink="false">NPINS.004862</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Dynamic hypergraph embedding onto concentric hypersphere manifold intended for effective visualization</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00568-1</link>
+      <guid isPermaLink="false">NPINS.004861</guid>
+    </item>
+    <item>
+      <title>Chaos: Boundary effects on topological characteristics of urban road networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/7/073123/2901850/Boundary-effects-on-topological-characteristics-of</link>
+      <guid isPermaLink="false">NPINS.004860</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Laplacian eigenvalues of the unit graph of the ring Zn</title>
+      <link>https://www.sciencedirect.com/science/article/abs/pii/S009630032300437X</link>
+      <guid isPermaLink="false">NPINS.004859</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Inclusive random sampling in graphs and networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00579-y</link>
+      <guid isPermaLink="false">NPINS.004858</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: A possible quadruple point in networks of directed networks under targeted attacks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acf33d</link>
+      <guid isPermaLink="false">NPINS.004857</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Geometric properties of the complete-graph Ising model in the loop representation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024129</link>
+      <guid isPermaLink="false">NPINS.004856</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Planarity in cubic intuitionistic graphs and their application to control air traffic on a runway</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1254647</link>
+      <guid isPermaLink="false">NPINS.004855</guid>
+    </item>
+    <item>
+      <title>Chaos: Chimeras in globally coupled oscillators: A review</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/092101/2911040/Chimeras-in-globally-coupled-oscillators-A-review</link>
+      <guid isPermaLink="false">NPINS.004854</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Comparative evaluation of strategies for improving the robustness of complex networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00569-0</link>
+      <guid isPermaLink="false">NPINS.004853</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Learning capacity and function of stochastic reaction networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acf264</link>
+      <guid isPermaLink="false">NPINS.004852</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: General optimization framework for accurate and efficient reconstruction of symmetric complex networks from dynamical data</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034304</link>
@@ -413,106 +513,6 @@
       <title>J. R. Soc. Interface: Sensitivity analysis of biochemical systems using bond graphs</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0192?af=R</link>
       <guid isPermaLink="false">NPINS.004772</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Pk-factors in squares and line graphs of trees</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004137</link>
-      <guid isPermaLink="false">NPINS.004771</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Complexity Phase Transitions Generated by Entanglement</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.030601</link>
-      <guid isPermaLink="false">NPINS.004770</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Persistence and stability of generalized ribosome flow models with time-varying transition rates</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288148</link>
-      <guid isPermaLink="false">NPINS.004769</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Detecting partial synchrony in a complex oscillatory network using pseudovortices</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024307</link>
-      <guid isPermaLink="false">NPINS.004768</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. A: Passenger flow anomaly detection in urban rail transit networks with graph convolution network–informer and Gaussian Bayes models</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0253?af=R</link>
-      <guid isPermaLink="false">NPINS.004767</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Social network structure and the spread of complex contagions from a population genetics perspective</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024306</link>
-      <guid isPermaLink="false">NPINS.004766</guid>
-    </item>
-    <item>
-      <title>Chaos: Chimeras in phase oscillator networks locally coupled through an auxiliary field: Stability and bifurcations</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083141/2907441/Chimeras-in-phase-oscillator-networks-locally</link>
-      <guid isPermaLink="false">NPINS.004765</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Higher-order interactions in Kuramoto oscillators with inertia</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024215</link>
-      <guid isPermaLink="false">NPINS.004764</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Neurosci.: Brain network communication: concepts, models and applications</title>
-      <link>https://www.nature.com/articles/s41583-023-00718-5</link>
-      <guid isPermaLink="false">NPINS.004763</guid>
-    </item>
-    <item>
-      <title>Chaos: Multivariate recovery coupling in interdependent networks with cascading failure</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083103/2905532/Multivariate-recovery-coupling-in-interdependent</link>
-      <guid isPermaLink="false">NPINS.004762</guid>
-    </item>
-    <item>
-      <title>PNAS: Brokerage rents and intermediation networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2301929120?af=R</link>
-      <guid isPermaLink="false">NPINS.004761</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Heterogeneity in network structure switches the dominant transmission mode of infectious diseases</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad227</link>
-      <guid isPermaLink="false">NPINS.004760</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Robust estimation of cortical similarity networks from brain MRI</title>
-      <link>https://www.nature.com/articles/s41593-023-01376-7</link>
-      <guid isPermaLink="false">NPINS.004759</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Functional and spatial rewiring principles jointly regulate context-sensitive computation</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011325</link>
-      <guid isPermaLink="false">NPINS.004758</guid>
-    </item>
-    <item>
-      <title>PNAS: The antecedents and consequences of network mobility</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2306897120?af=R</link>
-      <guid isPermaLink="false">NPINS.004757</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Phase Transition of Discrepancy in Random Hypergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1451427?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004756</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Logistics hub location for high-speed rail freight transport with road-rail intermodal transport network</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288333</link>
-      <guid isPermaLink="false">NPINS.004755</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Perfect synchronization in complex networks with higher-order interactions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024304</link>
-      <guid isPermaLink="false">NPINS.004754</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Species-specific wiring of cortical circuits for small-world networks in the primary visual cortex</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011343</link>
-      <guid isPermaLink="false">NPINS.004753</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Approximation Algorithms for the Random Field Ising Model</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1467389?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004752</guid>
     </item>
   </channel>
 </rss>
