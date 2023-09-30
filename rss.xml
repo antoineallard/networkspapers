@@ -13,7 +13,107 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Sep 2023 19:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2023 14:56:25 +0000</lastBuildDate>
+    <item>
+      <title>New J. Phys.: Higher-order co-mutation interactions in mitochondrial genomes</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acf51a</link>
+      <guid isPermaLink="false">NPINS.004941</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Identifying key nodes in complex networks based on an improved gravity model</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1239660</link>
+      <guid isPermaLink="false">NPINS.004940</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: General Bound States in the Continuum in Momentum Space</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.013801</link>
+      <guid isPermaLink="false">NPINS.004939</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Generalization of generative model for neuronal ensemble inference method</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287708</link>
+      <guid isPermaLink="false">NPINS.004938</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Mapping the semi-nested community structure of 3D chromosome contact networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011185</link>
+      <guid isPermaLink="false">NPINS.004937</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Structural identifiability of biomolecular controller motifs with and without flow measurements as model output</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011398</link>
+      <guid isPermaLink="false">NPINS.004936</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Identifying influential nodes in complex contagion mechanism</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1046077</link>
+      <guid isPermaLink="false">NPINS.004935</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A network pharmacology approach to decipher the total flavonoid extract of Dracocephalum Moldavica L. in the treatment of cerebral ischemia- reperfusion injury</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289118</link>
+      <guid isPermaLink="false">NPINS.004934</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Combinatorial Generation via Permutation Languages. V. Acyclic Orientations</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1546567?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004933</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Simulation-based inference for efficient identification of generative models in computational connectomics</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011406</link>
+      <guid isPermaLink="false">NPINS.004932</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: FPLV: Enhancing recommender systems with fuzzy preference, vector similarity, and user community for rating prediction</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290622</link>
+      <guid isPermaLink="false">NPINS.004931</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Extremal Bounds for 3-Neighbor Bootstrap Percolation in Dimensions Two and Three</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1534195?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004930</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Augmented Sparsifiers for Generalized Hypergraph Cuts</title>
+      <link>http://jmlr.org/papers/v24/22-0305.html</link>
+      <guid isPermaLink="false">NPINS.004929</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Acquaintance immunization with limited knowledge of network structure</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acf067</link>
+      <guid isPermaLink="false">NPINS.004928</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Maximal 1-plane graphs with dominating vertices</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003752</link>
+      <guid isPermaLink="false">NPINS.004927</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Causal inference on networks under continuous treatment interference</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000515</link>
+      <guid isPermaLink="false">NPINS.004926</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A parallel PageRank algorithm for undirected graph</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004459</link>
+      <guid isPermaLink="false">NPINS.004925</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Self-loops in evolutionary graph theory: Friends or foes?</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011387</link>
+      <guid isPermaLink="false">NPINS.004924</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Torsor Structures on Spanning Trees</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M149154X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.004923</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: The dynamic resilience of urban labour networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230214?af=R</link>
+      <guid isPermaLink="false">NPINS.004922</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Hat Guessing Numbers of Strongly Degenerate Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1479154?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -413,106 +513,6 @@
       <title>Soc. Networks: Two-mode relational similarities</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873323000461</link>
       <guid isPermaLink="false">NPINS.004842</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Regional, circuit and network heterogeneity of brain abnormalities in psychiatric disorders</title>
-      <link>https://www.nature.com/articles/s41593-023-01404-6</link>
-      <guid isPermaLink="false">NPINS.004841</guid>
-    </item>
-    <item>
-      <title>iScience: Integrating spatially- and temporally-heterogeneous data on river network dynamics using graph theory</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223014943</link>
-      <guid isPermaLink="false">NPINS.004840</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Emergence of chimeras: An impetus by exceptional points</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024220</link>
-      <guid isPermaLink="false">NPINS.004839</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Adolescent relational behaviour and the obesity pandemic: A descriptive study applying social network analysis and machine learning techniques</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289553</link>
-      <guid isPermaLink="false">NPINS.004838</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A novel metric to measure spatio-temporal proximity: a case study analyzing children’s social network in schoolyards</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00571-6</link>
-      <guid isPermaLink="false">NPINS.004837</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Structure-based approach to identify driver nodes in ensembles of biologically inspired Boolean networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033009</link>
-      <guid isPermaLink="false">NPINS.004836</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Novel stability criteria of generalized neural networks with time-varying delay based on the same augmented LKF and bounding technique</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004587</link>
-      <guid isPermaLink="false">NPINS.004835</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Complexity in the dengue spreading: A network analysis approach</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289690</link>
-      <guid isPermaLink="false">NPINS.004834</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Differential network analysis between sex of the genes related to comorbidities of type 2 mellitus diabetes</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00563-6</link>
-      <guid isPermaLink="false">NPINS.004833</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Ultrametric identities in glassy models of natural evolution</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acf101</link>
-      <guid isPermaLink="false">NPINS.004832</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Altered functional connectivity and network excitability in a model of cortical dysplasia</title>
-      <link>https://www.nature.com/articles/s41598-023-38717-2</link>
-      <guid isPermaLink="false">NPINS.004831</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: COVID-19 and social media: Beyond polarization</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad246</link>
-      <guid isPermaLink="false">NPINS.004830</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Stabilization of a structurally balanced complex network with similar nodes of different dimensions</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004071</link>
-      <guid isPermaLink="false">NPINS.004829</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On the network suppression of the pathogen spread within the healthcare system</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003387</link>
-      <guid isPermaLink="false">NPINS.004828</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Analysis on spatial structure characteristics and influencing factors of Beijing-Tianjin-Hebei Region MICE cities</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287695</link>
-      <guid isPermaLink="false">NPINS.004827</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Bifractality of fractal scale-free networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024302</link>
-      <guid isPermaLink="false">NPINS.004826</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Stasis in heterogeneous networks of coupled oscillators: discontinuous transition with hysteresis</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ace1c4</link>
-      <guid isPermaLink="false">NPINS.004825</guid>
-    </item>
-    <item>
-      <title>Chaos: Epidemic spreading on multi-layer networks with active nodes</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073128/2902969/Epidemic-spreading-on-multi-layer-networks-with</link>
-      <guid isPermaLink="false">NPINS.004824</guid>
-    </item>
-    <item>
-      <title>EPL: Effect of update rule transition triggered by Q-learning algorithm in evolutionary prisoner's dilemma game involving extortion</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ace3ee</link>
-      <guid isPermaLink="false">NPINS.004823</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Partial domination and irredundance numbers in graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003223</link>
-      <guid isPermaLink="false">NPINS.004822</guid>
     </item>
   </channel>
 </rss>
