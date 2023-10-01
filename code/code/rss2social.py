@@ -10,6 +10,9 @@ from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 from typing import List, Dict
 
+import sib_api_v3_sdk
+from sib_api_v3_sdk.rest import ApiException
+
 
 class rss2social:
 
@@ -23,6 +26,7 @@ class rss2social:
                  bsky_cred="../config/bsky_cred.json",
                  twitter_cred="../config/twitter_cred.json",
                  mastodon_cred="../config/mastodon_cred.json",
+                 googlegroup_cred="../config/googlegroup_cred.json",
                  slack_cred="../config/slack_dynamicalab_cred.json"):
         self.journals_fname = journals_fname
         self.keywords_fname = keywords_fname
@@ -32,9 +36,10 @@ class rss2social:
         self.posts_to_review_fname = posts_to_review_fname
         self.bsky_cred_fname = bsky_cred
         self.mastodon_cred_fname = mastodon_cred
+        self.googlegroup_cred_fname = googlegroup_cred
         self.twitter_cred_fname = twitter_cred
         self.slack_cred_fname = slack_cred
-        self.memory_length = int(50000)
+        self.memory_length = int(75000)
 
     def check_for_new_potential_entries(self, entries, journal):
         number_of_potential_entries = 0
@@ -113,6 +118,10 @@ class rss2social:
     def load_bsky_cred(self):
         with open(self.bsky_cred_fname, "r") as bsky_cred_file:
             self.bsky_cred = json.load(bsky_cred_file)
+
+    def load_googlegroup_cred(self):
+        with open(self.googlegroup_cred_fname, "r") as googlegroup_cred_file:
+            self.googlegroup_cred = json.load(googlegroup_cred_file)
 
     def load_mastodon_cred(self):
         with open(self.mastodon_cred_fname, "r") as mastodon_cred_file:
@@ -207,18 +216,30 @@ class rss2social:
             response = client.chat_postMessage(channel=self.slack_cred['channel'], text=tweet)
         except SlackApiError as e:
             assert e.response["error"]
-        # client.chat_postMessage(channel=slack_cred['channel'], text=tweet)
 
     def post_to_twitter(self, tweet):
-        # auth = tweepy.OAuthHandler(self.twitter_cred['consumer_key'], self.twitter_cred['consumer_secret'])
-        # auth.set_access_token(self.twitter_cred['access_token'], self.twitter_cred['access_token_secret'])
-        # api = tweepy.API(auth)
-        # api.update_status(status=tweet)
-        # client = tweepy.Client(bearer_token=self.twitter_cred['bearer_token'])
         client = tweepy.Client(consumer_key=self.twitter_cred['consumer_key'], consumer_secret=self.twitter_cred['consumer_secret'],
                                access_token=self.twitter_cred['access_token'], access_token_secret=self.twitter_cred['access_token_secret'])
         response = client.create_tweet(text=tweet)
         print(f"https://twitter.com/user/status/{response.data['id']}")
+
+    def post_to_googlegroup(self, email):
+        # https://medium.com/@sangeeth123sj/wanna-send-emails-from-your-python-backend-lets-implement-this-feature-using-brevo-f507c87a7f52
+        configuration = sib_api_v3_sdk.Configuration()
+        configuration.api_key['api-key'] = self.googlegroup_cred['api-key']
+        api_instance = sib_api_v3_sdk.TransactionalEmailsApi(sib_api_v3_sdk.ApiClient(configuration))
+
+        send_smtp_email = sib_api_v3_sdk.SendSmtpEmail(
+            to=[{"name": "New papers in Network Science", "email": "networkspapers@googlegroups.com"}],
+            sender={"name": "New papers in Network Science", "email": "networkspapers@gmail.com"},
+            subject="New papers in Network Science - " + datetime.today().strftime('%Y/%m/%d'),
+            html_content=email)
+
+        try:
+            api_response = api_instance.send_transac_email(send_smtp_email)
+            return {"message": "Email sent successfully!"}
+        except ApiException as e:
+            print("Exception when calling SMTPApi->send_transac_email: %s\n" % e)
 
 
 
