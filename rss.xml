@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Oct 2023 00:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 12:44:08 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Synchronization transitions in Kuramoto networks with higher-mode interaction</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/7/073138/2903006/Synchronization-transitions-in-Kuramoto-networks</link>
+      <guid isPermaLink="false">NPINS.005021</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Packing 2- and 3-stars into cubic graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004563</link>
+      <guid isPermaLink="false">NPINS.005020</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Nudging cooperation among agents in an experimental social network</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00588-x</link>
+      <guid isPermaLink="false">NPINS.005019</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Revealing mechanism of Methazolamide for treatment of ankylosing spondylitis based on network pharmacology and GSEA</title>
+      <link>https://www.nature.com/articles/s41598-023-42721-x</link>
+      <guid isPermaLink="false">NPINS.005018</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A hypernetwork-based urn model for explaining collective dynamics</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291778</link>
+      <guid isPermaLink="false">NPINS.005017</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Entropy of microcanonical finite-graph ensembles</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acf01c</link>
+      <guid isPermaLink="false">NPINS.005016</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Is Bitcoin gathering dust? An analysis of low-amount Bitcoin transactions</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00557-4</link>
+      <guid isPermaLink="false">NPINS.005015</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A proposal for ranking through selective computation of centrality measures</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289488</link>
+      <guid isPermaLink="false">NPINS.005014</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Assessing the evolution of educational accessibility with self-avoiding random walk: insights from Helsinki</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00581-4</link>
+      <guid isPermaLink="false">NPINS.005013</guid>
+    </item>
+    <item>
+      <title>EPL: Dismantling networks abruptly by tree decomposition</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ace92c</link>
+      <guid isPermaLink="false">NPINS.005012</guid>
+    </item>
     <item>
       <title>SIAM J. Appl. Math.: Pattern Formation and Oscillations in Nonlinear Random Walks on Networks</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1536662?ai=s3&amp;mi=9cks17&amp;af=R</link>
@@ -463,56 +513,6 @@
       <title>R. Soc. Open Sci.: The dynamic resilience of urban labour networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230214?af=R</link>
       <guid isPermaLink="false">NPINS.004922</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Hat Guessing Numbers of Strongly Degenerate Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1479154?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004921</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Depolarization of opinions on social networks through random nudges</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034307</link>
-      <guid isPermaLink="false">NPINS.004920</guid>
-    </item>
-    <item>
-      <title>Chaos: Investigation on the influence of heterogeneous synergy in contagion processes on complex networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073147/2903579/Investigation-on-the-influence-of-heterogeneous</link>
-      <guid isPermaLink="false">NPINS.004919</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Graph Tilings in Incompatibility Systems</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1506353?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004918</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Predicting variable-length paths in networked systems using multi-order generative models</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00596-x</link>
-      <guid isPermaLink="false">NPINS.004917</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: A multisource transportation network model explaining allometric scaling</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/aceb4d</link>
-      <guid isPermaLink="false">NPINS.004916</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: Adaptive dynamical networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0370157323002685?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.004915</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Neurosci.: Connectome-based modelling of neurodegenerative diseases: towards precision medicine and mechanistic insight</title>
-      <link>https://www.nature.com/articles/s41583-023-00731-8</link>
-      <guid isPermaLink="false">NPINS.004914</guid>
-    </item>
-    <item>
-      <title>iScience: Tangent functional connectomes uncover more unique phenotypic traits</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223017017</link>
-      <guid isPermaLink="false">NPINS.004913</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Polypharmacology guided drug repositioning approach for SARS-CoV2</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289890</link>
-      <guid isPermaLink="false">NPINS.004912</guid>
     </item>
   </channel>
 </rss>
