@@ -134,3 +134,12 @@ Simple instructions to post on [Bluesky](bsky.social) can be found [here](https:
   "app_password": PASSWORD
 }
 ```
+Instruction to use GMail's SMTP server can be found [here](https://www.youtube.com/watch?v=g_j6ILT-X0k). You will have to create the file `config/googlegroup_cred.json` with
+
+```
+{
+  "email_sender": "write-email-here"
+  "email_password": "write-password-here"
+  "email_receiver": "write-email-receiver-here"
+}
+```
