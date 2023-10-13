@@ -1,10 +1,6 @@
 ## New papers in Network Science
 
-New papers in Network Science provides a semi-automatically curated list of new publications in Network Science. New publications are shared on weekdays
- - on Bluesky: [@networkspapers.sky.social](https://bsky.app/profile/networkspapers.bsky.social)
- - on Mastodon: [@networkspapers@social.skewed.de](https://social.skewed.de/@networkspapers)
- - on Twitter[@networkspapers](https://twitter.com/networkspapers)
- - via a mailing list [https://groups.google.com/g/networkspapers](https://groups.google.com/g/networkspapers).
+New papers in Network Science provides a semi-automatically curated list of new publications in Network Science. New publications are shared on weekdays on Bluesky ([@networkspapers.sky.social](https://bsky.app/profile/networkspapers.bsky.social)), on Mastodon ([@networkspapers@social.skewed.de](https://social.skewed.de/@networkspapers)), on Twitter ([@networkspapers](https://twitter.com/networkspapers)), and via a mailing list ([https://groups.google.com/g/networkspapers](https://groups.google.com/g/networkspapers)).
 
 New publications are flagged if their title or abstract (when available) contains any of the following keywords
 
