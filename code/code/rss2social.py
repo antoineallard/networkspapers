@@ -3,15 +3,16 @@ import mastodon
 import os
 import re
 import requests
+import smtplib
+import ssl
 import tweepy
 
 from datetime import datetime, timezone
+from email.message import EmailMessage
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 from typing import List, Dict
 
-import sib_api_v3_sdk
-from sib_api_v3_sdk.rest import ApiException
 
 
 class rss2social:
@@ -224,24 +225,18 @@ class rss2social:
         print(f"https://twitter.com/user/status/{response.data['id']}")
 
     def post_to_googlegroup(self, email):
-        # https://medium.com/@sangeeth123sj/wanna-send-emails-from-your-python-backend-lets-implement-this-feature-using-brevo-f507c87a7f52
-        configuration = sib_api_v3_sdk.Configuration()
-        configuration.api_key['api-key'] = self.googlegroup_cred['api-key']
-        api_instance = sib_api_v3_sdk.TransactionalEmailsApi(sib_api_v3_sdk.ApiClient(configuration))
-
-        send_smtp_email = sib_api_v3_sdk.SendSmtpEmail(
-            to=[{"name": "New papers in Network Science", "email": "networkspapers@googlegroups.com"}],
-            sender={"name": "New papers in Network Science", "email": "networkspapers@gmail.com"},
-            subject="New papers in Network Science - " + datetime.today().strftime('%Y/%m/%d'),
-            html_content=email)
-
-        try:
-            api_response = api_instance.send_transac_email(send_smtp_email)
-            return {"message": "Email sent successfully!"}
-        except ApiException as e:
-            print("Exception when calling SMTPApi->send_transac_email: %s\n" % e)
-
-
+        # https://www.youtube.com/watch?v=g_j6ILT-X0k
+        em = EmailMessage()
+        em['From'] = self.googlegroup_cred['email_sender']
+        em['To'] = self.googlegroup_cred['email_receiver']
+        em['Subject'] = "New papers in Network Science - " + datetime.today().strftime('%Y/%m/%d')
+        em.set_content(email)
+        # Add SSL (layer of security)
+        context = ssl.create_default_context()
+        # Log in and send the email
+        with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
+            smtp.login(self.googlegroup_cred['email_sender'], self.googlegroup_cred['email_password'])
+            smtp.sendmail(self.googlegroup_cred['email_sender'], self.googlegroup_cred['email_receiver'], em.as_string())
 
     def save_already_seen_entries(self):
         with open(self.already_seen_entries_fname, "w") as already_seen_entries_file:

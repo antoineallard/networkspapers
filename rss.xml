@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Oct 2023 20:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 01:46:51 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Threshold sensitivity of the production network topology</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00599-8</link>
+      <guid isPermaLink="false">NPINS.005031</guid>
+    </item>
+    <item>
+      <title>Chaos: Self-adapting infectious dynamics on random networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093110/2910601/Self-adapting-infectious-dynamics-on-random</link>
+      <guid isPermaLink="false">NPINS.005030</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Darcy's law of yield stress fluids on a treelike network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.L023102</link>
+      <guid isPermaLink="false">NPINS.005029</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Individualized network analysis reveals link between the gut microbiome, diet intervention and Gestational Diabetes Mellitus</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011193</link>
+      <guid isPermaLink="false">NPINS.005028</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Nonequilibrium phase transitions in metapopulation models of infectious diseases on heterogeneous networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acef7b</link>
+      <guid isPermaLink="false">NPINS.005027</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Dirac signal processing of higher-order topological signals</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acf33c</link>
+      <guid isPermaLink="false">NPINS.005026</guid>
+    </item>
+    <item>
+      <title>Chaos: Collective dynamics of nonlocally coupled Hindmarsh–Rose neurons modified by magnetic flux</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/083124/2905835/Collective-dynamics-of-nonlocally-coupled</link>
+      <guid isPermaLink="false">NPINS.005025</guid>
+    </item>
+    <item>
+      <title>Rev. Mod. Phys.: &lt;i&gt;Colloquium&lt;/i&gt;: Multiscale modeling of brain network organization</title>
+      <link>http://link.aps.org/doi/10.1103/RevModPhys.94.031002</link>
+      <guid isPermaLink="false">NPINS.005024</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Effects of noise on the critical points of Turing instability in complex ecosystems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014407</link>
+      <guid isPermaLink="false">NPINS.005023</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Generative complex networks within a dynamic memristor with intrinsic variability</title>
+      <link>https://www.nature.com/articles/s41467-023-41921-3</link>
+      <guid isPermaLink="false">NPINS.005022</guid>
+    </item>
     <item>
       <title>Chaos: Synchronization transitions in Kuramoto networks with higher-mode interaction</title>
       <link>https://pubs.aip.org/aip/cha/article/33/7/073138/2903006/Synchronization-transitions-in-Kuramoto-networks</link>
@@ -463,56 +513,6 @@
       <title>PLOS Comput. Biol.: Simulation-based inference for efficient identification of generative models in computational connectomics</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011406</link>
       <guid isPermaLink="false">NPINS.004932</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: FPLV: Enhancing recommender systems with fuzzy preference, vector similarity, and user community for rating prediction</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290622</link>
-      <guid isPermaLink="false">NPINS.004931</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Extremal Bounds for 3-Neighbor Bootstrap Percolation in Dimensions Two and Three</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1534195?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004930</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Augmented Sparsifiers for Generalized Hypergraph Cuts</title>
-      <link>http://jmlr.org/papers/v24/22-0305.html</link>
-      <guid isPermaLink="false">NPINS.004929</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Acquaintance immunization with limited knowledge of network structure</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acf067</link>
-      <guid isPermaLink="false">NPINS.004928</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Maximal 1-plane graphs with dominating vertices</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003752</link>
-      <guid isPermaLink="false">NPINS.004927</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Causal inference on networks under continuous treatment interference</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000515</link>
-      <guid isPermaLink="false">NPINS.004926</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A parallel PageRank algorithm for undirected graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004459</link>
-      <guid isPermaLink="false">NPINS.004925</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Self-loops in evolutionary graph theory: Friends or foes?</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011387</link>
-      <guid isPermaLink="false">NPINS.004924</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On Torsor Structures on Spanning Trees</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M149154X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004923</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: The dynamic resilience of urban labour networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230214?af=R</link>
-      <guid isPermaLink="false">NPINS.004922</guid>
     </item>
   </channel>
 </rss>
