@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Oct 2023 03:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 17:18:08 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Complex quantum network models from spin clusters</title>
+      <link>https://www.nature.com/articles/s42005-023-01394-8</link>
+      <guid isPermaLink="false">NPINS.005041</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The disjoint path cover in the data center network HSDC with prescribed vertices in each path</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004319</link>
+      <guid isPermaLink="false">NPINS.005040</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Opinion disparity in hypergraphs with community structure</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034311</link>
+      <guid isPermaLink="false">NPINS.005039</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Similarity and differences in age, gender, ethnicity, and education as explanatory factors of tie loss in the core discussion network</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332300062X</link>
+      <guid isPermaLink="false">NPINS.005038</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: The concept of decentralization through time and disciplines: a quantitative exploration</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00418-1</link>
+      <guid isPermaLink="false">NPINS.005037</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Network feature-based phenotyping of leaf venation robustly reconstructs the latent space</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010581</link>
+      <guid isPermaLink="false">NPINS.005036</guid>
+    </item>
+    <item>
+      <title>PNAS: Intrinsic neural diversity quenches the dynamic volatility of neural networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2218841120?af=R</link>
+      <guid isPermaLink="false">NPINS.005035</guid>
+    </item>
+    <item>
+      <title>Chaos: Topology switching during window thresholding fMRI-based functional networks of patients with major depressive disorder: Consensus network approach</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093122/2911513/Topology-switching-during-window-thresholding-fMRI</link>
+      <guid isPermaLink="false">NPINS.005034</guid>
+    </item>
+    <item>
+      <title>Chaos: Resilience of hybrid herbivore–plant–pollinator networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093129/2911852/Resilience-of-hybrid-herbivore-plant-pollinator</link>
+      <guid isPermaLink="false">NPINS.005033</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Graph drawing using Jaya</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287744</link>
+      <guid isPermaLink="false">NPINS.005032</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Threshold sensitivity of the production network topology</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00599-8</link>
@@ -463,56 +513,6 @@
       <title>Chaos: Digital contact tracing on hypergraphs</title>
       <link>https://pubs.aip.org/aip/cha/article/33/6/063146/2899697/Digital-contact-tracing-on-hypergraphs</link>
       <guid isPermaLink="false">NPINS.004942</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Higher-order co-mutation interactions in mitochondrial genomes</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acf51a</link>
-      <guid isPermaLink="false">NPINS.004941</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Identifying key nodes in complex networks based on an improved gravity model</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1239660</link>
-      <guid isPermaLink="false">NPINS.004940</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: General Bound States in the Continuum in Momentum Space</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.013801</link>
-      <guid isPermaLink="false">NPINS.004939</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Generalization of generative model for neuronal ensemble inference method</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287708</link>
-      <guid isPermaLink="false">NPINS.004938</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Mapping the semi-nested community structure of 3D chromosome contact networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011185</link>
-      <guid isPermaLink="false">NPINS.004937</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Structural identifiability of biomolecular controller motifs with and without flow measurements as model output</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011398</link>
-      <guid isPermaLink="false">NPINS.004936</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Identifying influential nodes in complex contagion mechanism</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1046077</link>
-      <guid isPermaLink="false">NPINS.004935</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A network pharmacology approach to decipher the total flavonoid extract of Dracocephalum Moldavica L. in the treatment of cerebral ischemia- reperfusion injury</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289118</link>
-      <guid isPermaLink="false">NPINS.004934</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Combinatorial Generation via Permutation Languages. V. Acyclic Orientations</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1546567?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004933</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Simulation-based inference for efficient identification of generative models in computational connectomics</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011406</link>
-      <guid isPermaLink="false">NPINS.004932</guid>
     </item>
   </channel>
 </rss>
