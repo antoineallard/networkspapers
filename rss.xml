@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Oct 2023 01:53:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 13:14:01 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Geometry of population activity in spiking networks with low-rank structure</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011315</link>
+      <guid isPermaLink="false">NPINS.005051</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: First-order transition to oscillation death in coupled oscillators with higher-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044207</link>
+      <guid isPermaLink="false">NPINS.005050</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Discovering a change point and piecewise linear structure in a time series of organoid networks via the iso-mirror</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00564-5</link>
+      <guid isPermaLink="false">NPINS.005049</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Emergent local structures in an ecosystem of social bots and humans on Twitter</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00406-5</link>
+      <guid isPermaLink="false">NPINS.005048</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Circular (1-epsilon)-Coloring of Some Classes of Signed Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1436257?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005047</guid>
+    </item>
+    <item>
+      <title>Chaos: Asymmetry of individual activity promotes cooperation in the spatial prisoner’s dilemma game</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093143/2913118/Asymmetry-of-individual-activity-promotes</link>
+      <guid isPermaLink="false">NPINS.005046</guid>
+    </item>
+    <item>
+      <title>EPL: Strategically positioning non-competitive individuals can rescue cooperation in scale-free networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acf1c9</link>
+      <guid isPermaLink="false">NPINS.005045</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Link prediction for ex ante influence maximization on temporal networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00594-z</link>
+      <guid isPermaLink="false">NPINS.005044</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: The combination of Hebbian and predictive plasticity learns invariant object representations in deep sensory networks</title>
+      <link>https://www.nature.com/articles/s41593-023-01460-y</link>
+      <guid isPermaLink="false">NPINS.005043</guid>
+    </item>
+    <item>
+      <title>Chaos: Desynchronizing oscillators coupled in multi-cluster networks through adaptively controlling partial networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/091101/2909897/Desynchronizing-oscillators-coupled-in-multi</link>
+      <guid isPermaLink="false">NPINS.005042</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Complex quantum network models from spin clusters</title>
       <link>https://www.nature.com/articles/s42005-023-01394-8</link>
@@ -463,56 +513,6 @@
       <title>Appl. Math. Comput.: Coloring graphs without induced P5 or K5-e</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323004836</link>
       <guid isPermaLink="false">NPINS.004952</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: The reliability of regional ecological knowledge to build local interaction networks: a test using seed-dispersal networks across land-bridge islands</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.1221?af=R</link>
-      <guid isPermaLink="false">NPINS.004951</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: iHerd: an &lt;i&gt;i&lt;/i&gt;ntegrative &lt;i&gt;h&lt;/i&gt;i&lt;i&gt;e&lt;/i&gt;rarchical graph &lt;i&gt;r&lt;/i&gt;epresentation learning framework to quantify network changes and prioritize risk genes in &lt;i&gt;d&lt;/i&gt;isease</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011444</link>
-      <guid isPermaLink="false">NPINS.004950</guid>
-    </item>
-    <item>
-      <title>Chaos: Traveling waves in a model for cortical spreading depolarization with slow–fast dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083154/2908461/Traveling-waves-in-a-model-for-cortical-spreading</link>
-      <guid isPermaLink="false">NPINS.004949</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Robust minimal strong reconstructibility problem of Boolean control networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003788</link>
-      <guid isPermaLink="false">NPINS.004948</guid>
-    </item>
-    <item>
-      <title>Chaos: How network structure affects the dynamics of a network of stochastic spiking neurons</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/093101/2908737/How-network-structure-affects-the-dynamics-of-a</link>
-      <guid isPermaLink="false">NPINS.004947</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Improving tobacco social contagion models using agent-based simulations on networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00580-5</link>
-      <guid isPermaLink="false">NPINS.004946</guid>
-    </item>
-    <item>
-      <title>Chaos: Can the PageRank centrality be manipulated to obtain any desired ranking?</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083152/2908315/Can-the-PageRank-centrality-be-manipulated-to</link>
-      <guid isPermaLink="false">NPINS.004945</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: Bioinformatic and systems biology approach revealing the shared genes and molecular mechanisms between COVID-19 and non-alcoholic hepatitis</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2023.1164220</link>
-      <guid isPermaLink="false">NPINS.004944</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Bayesian inference with finitely wide neural networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014311</link>
-      <guid isPermaLink="false">NPINS.004943</guid>
-    </item>
-    <item>
-      <title>Chaos: Digital contact tracing on hypergraphs</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/6/063146/2899697/Digital-contact-tracing-on-hypergraphs</link>
-      <guid isPermaLink="false">NPINS.004942</guid>
     </item>
   </channel>
 </rss>
