@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Oct 2023 23:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 13:07:36 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Leveraging epigenomes and three-dimensional genome organization for interpreting regulatory variation</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011286</link>
+      <guid isPermaLink="false">NPINS.005071</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Fault tolerance of recursive match networks based on g-good-neighbor fault pattern</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004873</link>
+      <guid isPermaLink="false">NPINS.005070</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Optimizing the geometry of transportation networks in the presence of congestion</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044302</link>
+      <guid isPermaLink="false">NPINS.005069</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Rapid memory encoding in a recurrent network model with behavioral time scale synaptic plasticity</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011139</link>
+      <guid isPermaLink="false">NPINS.005068</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Group-level differences in social network structure remain repeatable after accounting for environmental drivers</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230340?af=R</link>
+      <guid isPermaLink="false">NPINS.005067</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: A hybrid influence method based on information entropy to identify the key nodes</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1280537</link>
+      <guid isPermaLink="false">NPINS.005066</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: How does socioeconomic homophily emerge? Testing for the contribution of different processes to socioeconomic segregation in adolescent friendships</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000618</link>
+      <guid isPermaLink="false">NPINS.005065</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Spatial variability of the Po River food web and its comparison with the Danube River food web</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288652</link>
+      <guid isPermaLink="false">NPINS.005064</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Bayesian inference of transition matrices from incomplete graph data with a topological prior</title>
+      <link>https://doi.org/10.1140/epjds/s13688-023-00416-3</link>
+      <guid isPermaLink="false">NPINS.005063</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Geodesic packing in graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004460</link>
+      <guid isPermaLink="false">NPINS.005062</guid>
+    </item>
     <item>
       <title>Chaos: Sensitive dynamics of brain cognitive networks and its resource constraints</title>
       <link>https://pubs.aip.org/aip/cha/article/33/6/063139/2896778/Sensitive-dynamics-of-brain-cognitive-networks-and</link>
@@ -463,56 +513,6 @@
       <title>J. Phys. Complex.: A network approach to atomic spectra</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ace1c3</link>
       <guid isPermaLink="false">NPINS.004972</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Large-deviation properties of SIR model incorporating protective measures</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ace4a8</link>
-      <guid isPermaLink="false">NPINS.004971</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Intertemporal environmental efficiency assessment in China: A new network-based dynamic super-efficiency measure</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290896</link>
-      <guid isPermaLink="false">NPINS.004970</guid>
-    </item>
-    <item>
-      <title>Chaos: The synchronizing role of multiplexing noise: Exploring Kuramoto oscillators and breathing chimeras</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073140/2902988/The-synchronizing-role-of-multiplexing-noise</link>
-      <guid isPermaLink="false">NPINS.004969</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Anti-Ramsey Number of Matchings in 3-Uniform Hypergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1503178?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004968</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: From attitudes to social networks: National gender-role attitudes and gender differences in late-life social relationships</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000527</link>
-      <guid isPermaLink="false">NPINS.004967</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Phase Oscillator Networks with Nonlocal Higher-Order Interactions: Twisted States, Stability, and Bifurcations</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1500940?af=R</link>
-      <guid isPermaLink="false">NPINS.004966</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Reshaping the structure of the World Trade Network: a pivotal role for China?</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00560-9</link>
-      <guid isPermaLink="false">NPINS.004965</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Identifiability of Chemical Reaction Networks with Intrinsic and Extrinsic Noise from Stationary Distributions</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1517202?af=R</link>
-      <guid isPermaLink="false">NPINS.004964</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The path-index of a graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004812</link>
-      <guid isPermaLink="false">NPINS.004963</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Limits of Dense Simplicial Complexes</title>
-      <link>http://jmlr.org/papers/v24/22-0808.html</link>
-      <guid isPermaLink="false">NPINS.004962</guid>
     </item>
   </channel>
 </rss>
