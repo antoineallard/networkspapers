@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 01:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 12:48:36 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Analysis of the international trade networks of COVID-19 medical products</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00586-z</link>
+      <guid isPermaLink="false">NPINS.005081</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Network ecology: Tie fitness in social context(s)</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000643</link>
+      <guid isPermaLink="false">NPINS.005080</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Lyapunov spectra of chaotic recurrent neural networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043044</link>
+      <guid isPermaLink="false">NPINS.005079</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: The structure of segregation in co-authorship networks and its impact on scientific production</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00411-8</link>
+      <guid isPermaLink="false">NPINS.005078</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Crossover phenomenon in adversarial attacks on voter model</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acf90b</link>
+      <guid isPermaLink="false">NPINS.005077</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Ensnarled: Topological linkage of spatially embedded network pairs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033203</link>
+      <guid isPermaLink="false">NPINS.005076</guid>
+    </item>
+    <item>
+      <title>Chaos: Dynamical behavior mechanism in the network of interaction between group behavior and virus propagation</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093134/2912656/Dynamical-behavior-mechanism-in-the-network-of</link>
+      <guid isPermaLink="false">NPINS.005075</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Prospects of BRICS currency dominance in international trade</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00590-3</link>
+      <guid isPermaLink="false">NPINS.005074</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Evolutionary dynamics on sequential temporal networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011333</link>
+      <guid isPermaLink="false">NPINS.005073</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Bayes-optimal inference for spreading processes on random networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044308</link>
+      <guid isPermaLink="false">NPINS.005072</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Leveraging epigenomes and three-dimensional genome organization for interpreting regulatory variation</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011286</link>
@@ -463,56 +513,6 @@
       <title>J. Mach. Learn. Res.: Clustering with Tangles: Algorithmic Framework and Theoretical Guarantees</title>
       <link>http://jmlr.org/papers/v24/21-1160.html</link>
       <guid isPermaLink="false">NPINS.004982</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Entropic contribution to phenotype fitness</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ace8d6</link>
-      <guid isPermaLink="false">NPINS.004981</guid>
-    </item>
-    <item>
-      <title>Research: Computing Persistent Homology by Spanning Trees and Critical Simplices</title>
-      <link>https://spj.science.org/doi/abs/10.34133/research.0230?af=R</link>
-      <guid isPermaLink="false">NPINS.004980</guid>
-    </item>
-    <item>
-      <title>EPL: Study of power-law activity distributions in a spiking neural network model</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aceb19</link>
-      <guid isPermaLink="false">NPINS.004979</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Note for the conjecture on the generalized 4-connectivity of total graphs of the complete bipartite graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323003946</link>
-      <guid isPermaLink="false">NPINS.004978</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Breaking Indecision in Multiagent, Multioption Dynamics</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1507826?af=R</link>
-      <guid isPermaLink="false">NPINS.004977</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Graph-theoretic characterization of unextendible product bases</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033144</link>
-      <guid isPermaLink="false">NPINS.004976</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Rumor spreading in a dual-relationship network with diverse propagation abilities</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004022</link>
-      <guid isPermaLink="false">NPINS.004975</guid>
-    </item>
-    <item>
-      <title>PNAS: The structural basis of hyperpromiscuity in a core combinatorial network of type II toxin–antitoxin and related phage defense systems</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2305393120?af=R</link>
-      <guid isPermaLink="false">NPINS.004974</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Global carbon dioxide emissions analysis based on time series visualization</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1201983</link>
-      <guid isPermaLink="false">NPINS.004973</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: A network approach to atomic spectra</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ace1c3</link>
-      <guid isPermaLink="false">NPINS.004972</guid>
     </item>
   </channel>
 </rss>
