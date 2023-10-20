@@ -179,6 +179,21 @@
       "whitelist":        false,
       "reader":           "feedparser"
     },
+    "IEEEAccess":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://ieeexplore.ieee.org/rss/TOC6287639.XML",
+      "feed2":            "https://ieeexplore.ieee.org/rss/TOC6287639.XML",
+      "host":             "None",
+      "id":               "id",
+      "journal_abbrev":   "IEEE Access",
+      "journal_full":     "IEEE Access",
+      "journal_url":      "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
     "IScience":
     {
       "abstract":         "summary",
