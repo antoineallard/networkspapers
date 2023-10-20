@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 23:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 16:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Synchronization in networked systems with large parameter heterogeneity</title>
+      <link>https://www.nature.com/articles/s42005-023-01355-1</link>
+      <guid isPermaLink="false">NPINS.005091</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Catalyst: Fast and flexible modeling of reaction networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011530</link>
+      <guid isPermaLink="false">NPINS.005090</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Neurosci.: Towards a biologically annotated brain connectome</title>
+      <link>https://www.nature.com/articles/s41583-023-00752-3</link>
+      <guid isPermaLink="false">NPINS.005089</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Mapping change in higher-order networks with multilevel and overlapping communities</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00572-5</link>
+      <guid isPermaLink="false">NPINS.005088</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Extended-range percolation in complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044304</link>
+      <guid isPermaLink="false">NPINS.005087</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Event-triggered Hinfinity control for networked dynamic system with nonideal interconnection</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005428</link>
+      <guid isPermaLink="false">NPINS.005086</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Hopf Bifurcations of Reaction Networks with Zero-One Stoichiometric Coefficients</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1519754?af=R</link>
+      <guid isPermaLink="false">NPINS.005085</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Metric Dimension Parameterized by Feedback Vertex Set and Other Structural Parameters</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1510911?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005084</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Non-normal interactions create socio-economic bubbles</title>
+      <link>https://www.nature.com/articles/s42005-023-01379-7</link>
+      <guid isPermaLink="false">NPINS.005083</guid>
+    </item>
+    <item>
+      <title>Chaos: Evolutionary dynamics of N-player sender-receiver game in networks with community structure</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/10/103117/2916174/Evolutionary-dynamics-of-N-player-sender-receiver</link>
+      <guid isPermaLink="false">NPINS.005082</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Analysis of the international trade networks of COVID-19 medical products</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00586-z</link>
@@ -463,56 +513,6 @@
       <title>PLOS Comput. Biol.: Investigating the ability of astrocytes to drive neural network synchrony</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011290</link>
       <guid isPermaLink="false">NPINS.004992</guid>
-    </item>
-    <item>
-      <title>EPL: Impact of varied friendships and influence weights on opinion dynamics</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acf520</link>
-      <guid isPermaLink="false">NPINS.004991</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Saturation of Ordered Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1485735?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004990</guid>
-    </item>
-    <item>
-      <title>EPL: A survey on football network analysis</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/aceff7</link>
-      <guid isPermaLink="false">NPINS.004989</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: The 2013 Chikungunya outbreak in the Caribbean was structured by the network of cultural relationships among islands</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230909?af=R</link>
-      <guid isPermaLink="false">NPINS.004988</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Ranking influential nodes in networks from aggregate local information</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033123</link>
-      <guid isPermaLink="false">NPINS.004987</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: A multi-layer mean-field model of the cerebellum embedding microstructure and population-specific dynamics</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011434</link>
-      <guid isPermaLink="false">NPINS.004986</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Drivers and pressures behind insect decline in Central and Western Europe based on long-term monitoring data</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289565</link>
-      <guid isPermaLink="false">NPINS.004985</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Transitions between quasi-stationary states in traffic systems: Cologne orbital motorways as an example</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/acf210</link>
-      <guid isPermaLink="false">NPINS.004984</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Structured Systems of Nonlinear Equations</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1529178?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.004983</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Clustering with Tangles: Algorithmic Framework and Theoretical Guarantees</title>
-      <link>http://jmlr.org/papers/v24/21-1160.html</link>
-      <guid isPermaLink="false">NPINS.004982</guid>
     </item>
   </channel>
 </rss>

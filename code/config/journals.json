@@ -344,11 +344,26 @@
       "whitelist":        false,
       "reader":           "feedparser"
     },
+    "NatComputSci":
+    {
+      "abstract":         "summary",
+      "feed1":            "http://feeds.nature.com/natcomputsci/rss/current",
+      "feed2":            "http://feeds.nature.com/natcomputsci/rss/current",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "Nat. Comput. Sci.",
+      "journal_full":     "Nature Computational Science",
+      "journal_url":      "https://www.nature.com/natcomputsci",
+      "title":            "title",
+      "url":              "prism_url",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
     "NatHumBehav":
     {
       "abstract":         "summary",
-      "feed1":            "http://feeds.nature.com/ncomms/rss/current",
-      "feed2":            "http://feeds.nature.com/ncomms/rss/current",
+      "feed1":            "http://feeds.nature.com/nathumbehav/rss/current",
+      "feed2":            "http://feeds.nature.com/nathumbehav/rss/current",
       "host":             "None",
       "id":               "prism_doi",
       "journal_abbrev":   "Nat. Hum. Behav.",
