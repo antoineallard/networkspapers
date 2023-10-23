@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Oct 2023 20:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 13:54:46 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Efficient network exploration by means of resetting self-avoiding random walkers</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acff33</link>
+      <guid isPermaLink="false">NPINS.005101</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Global trade network patterns are coupled to fisheries sustainability</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad301</link>
+      <guid isPermaLink="false">NPINS.005100</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Smallworldness in hypergraphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acf430</link>
+      <guid isPermaLink="false">NPINS.005099</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Extremal Problems for Hypergraph Blowups of Trees</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1543318?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005098</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Self-adaptation of networks of nonidentical pulse-coupled excitatory and inhibitory oscillators in the presence of distance-related delays to achieve frequency synchronization</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034211</link>
+      <guid isPermaLink="false">NPINS.005097</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: She Must Be Seeing Things! Gender disparity in camera department networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000631</link>
+      <guid isPermaLink="false">NPINS.005096</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Comparing the efficiency of forward and backward contact tracing</title>
+      <link>https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.034308</link>
+      <guid isPermaLink="false">NPINS.005095</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: The spectral underpinnings of pathogen spread on animal networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.0951?af=R</link>
+      <guid isPermaLink="false">NPINS.005094</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Multicolor Ramsey Numbers of Triple System Paths of Length 3</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1518402?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005093</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Modeling opinion polarization on social media: Application to Covid-19 vaccination hesitancy in Italy</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291993</link>
+      <guid isPermaLink="false">NPINS.005092</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Synchronization in networked systems with large parameter heterogeneity</title>
       <link>https://www.nature.com/articles/s42005-023-01355-1</link>
@@ -463,56 +513,6 @@
       <title>PLOS ONE: Complex network-based classification of radiographic images for COVID-19 diagnosis</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290968</link>
       <guid isPermaLink="false">NPINS.005002</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Epidemic dynamics with non-Markovian travel in multilayer networks</title>
-      <link>https://www.nature.com/articles/s42005-023-01369-9</link>
-      <guid isPermaLink="false">NPINS.005001</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Identifying critical nodes in complex networks based on neighborhood information</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ace843</link>
-      <guid isPermaLink="false">NPINS.005000</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Multiscale effects of excitatory-inhibitory homeostasis in lesioned cortical networks: A computational study</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011279</link>
-      <guid isPermaLink="false">NPINS.004999</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Group polarization, influence, and domination in online interaction networks: a case study of the 2022 Brazilian elections</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acf6a4</link>
-      <guid isPermaLink="false">NPINS.004998</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Community detection in empirical kinase networks identifies new potential members of signalling pathways</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010459</link>
-      <guid isPermaLink="false">NPINS.004997</guid>
-    </item>
-    <item>
-      <title>Chaos: Causal interaction in high frequency turbulence at the biosphere–atmosphere interface: Structure–function coupling</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073144/2903089/Causal-interaction-in-high-frequency-turbulence-at</link>
-      <guid isPermaLink="false">NPINS.004996</guid>
-    </item>
-    <item>
-      <title>Chaos: A scalable electronic analog of the Burridge–Knopoff model of earthquake faults</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/093103/2909716/A-scalable-electronic-analog-of-the-Burridge</link>
-      <guid isPermaLink="false">NPINS.004995</guid>
-    </item>
-    <item>
-      <title>Chaos: Robustness of interdependent higher-order networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073121/2901566/Robustness-of-interdependent-higher-order-networks</link>
-      <guid isPermaLink="false">NPINS.004994</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Network comparison via encoding, decoding, and causality</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033129</link>
-      <guid isPermaLink="false">NPINS.004993</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Investigating the ability of astrocytes to drive neural network synchrony</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011290</link>
-      <guid isPermaLink="false">NPINS.004992</guid>
     </item>
   </channel>
 </rss>
