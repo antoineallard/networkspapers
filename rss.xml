@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Oct 2023 00:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 13:09:11 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Lett.: Network Effects Lead to Self-Organization in Metabolic Cycles of Self-Repelling Catalysts</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.128301</link>
+      <guid isPermaLink="false">NPINS.005111</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Network synchronization under periodic coupling of both positive and negative values</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00559-2</link>
+      <guid isPermaLink="false">NPINS.005110</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Modelling elephant corridors over two decades reveals opportunities for conserving connectivity across a large protected area network</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292918</link>
+      <guid isPermaLink="false">NPINS.005109</guid>
+    </item>
+    <item>
+      <title>Chaos: Phase-amplitude reduction and optimal phase locking of collectively oscillating networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/10/103111/2916005/Phase-amplitude-reduction-and-optimal-phase</link>
+      <guid isPermaLink="false">NPINS.005108</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Forecasting real-world complex networks’ robustness to node attack using network structure indexes</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1245564</link>
+      <guid isPermaLink="false">NPINS.005107</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Exploring the association between network centralities and passenger flows in metro systems</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00583-2</link>
+      <guid isPermaLink="false">NPINS.005106</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Universality of explosive percolation under product and sum rule</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034108</link>
+      <guid isPermaLink="false">NPINS.005105</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Social networks and voter turnout</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230704?af=R</link>
+      <guid isPermaLink="false">NPINS.005104</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A note on maximum size of a graph without isolated vertices under the given matching number</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004642</link>
+      <guid isPermaLink="false">NPINS.005103</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Sensitivity of Steady States in Networks with Application to Markov Chains and Chemical Reaction Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M150770X?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005102</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Efficient network exploration by means of resetting self-avoiding random walkers</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/acff33</link>
@@ -463,56 +513,6 @@
       <title>EPL: Dismantling networks abruptly by tree decomposition</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/ace92c</link>
       <guid isPermaLink="false">NPINS.005012</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Pattern Formation and Oscillations in Nonlinear Random Walks on Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1536662?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005011</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Functional connectivity varies across scales in a fragmented landscape</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289706</link>
-      <guid isPermaLink="false">NPINS.005010</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Asynchronous Semianonymous Dynamics over Large-Scale Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1492155?af=R</link>
-      <guid isPermaLink="false">NPINS.005009</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Spotting the stock and crypto markets’ rings of fire: measuring change proximities among spillover dependencies within inter and intra-market asset classes</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00589-w</link>
-      <guid isPermaLink="false">NPINS.005008</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Propagation Reversal for Bistable Differential Equations on Trees</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1502203?af=R</link>
-      <guid isPermaLink="false">NPINS.005007</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Russian propaganda on social media during the 2022 invasion of Ukraine</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00414-5</link>
-      <guid isPermaLink="false">NPINS.005006</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Impact of phase lag on synchronization in frustrated Kuramoto model with higher-order interactions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034208</link>
-      <guid isPermaLink="false">NPINS.005005</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Marked Graphs and the Chromatic Symmetric Function</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M148046X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005004</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Allotaxonometry and rank-turbulence divergence: a universal instrument for comparing complex systems</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00400-x</link>
-      <guid isPermaLink="false">NPINS.005003</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Complex network-based classification of radiographic images for COVID-19 diagnosis</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290968</link>
-      <guid isPermaLink="false">NPINS.005002</guid>
     </item>
   </channel>
 </rss>
