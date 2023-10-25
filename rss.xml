@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Oct 2023 23:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 15:18:35 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Autocorrelations from emergent bistability in homeostatic spiking neural networks on neuromorphic hardware</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033035</link>
+      <guid isPermaLink="false">NPINS.005121</guid>
+    </item>
+    <item>
+      <title>EPL: Perspective on the spatio-temporal spread of epidemics in metapopulation networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acfab8</link>
+      <guid isPermaLink="false">NPINS.005120</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: The rank of contextuality</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acdf78</link>
+      <guid isPermaLink="false">NPINS.005119</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: On strategies to help reduce contamination on public transit: a multilayer network approach</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00562-7</link>
+      <guid isPermaLink="false">NPINS.005118</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Unlocking the power of Twitter communities for startups</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00593-0</link>
+      <guid isPermaLink="false">NPINS.005117</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Model discovery of compartmental models with Graph-Supported Neural Networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005611</link>
+      <guid isPermaLink="false">NPINS.005116</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Constructing a full, multiple-layer interactome for SARS-CoV-2 in the context of lung disease: Linking the virus with human genes and microbes</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011222</link>
+      <guid isPermaLink="false">NPINS.005115</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Evolution of cooperation on interdependent networks: The impact of asymmetric punishment</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005192</link>
+      <guid isPermaLink="false">NPINS.005114</guid>
+    </item>
+    <item>
+      <title>PNAS: Brain-inspired neural circuit evolution for spiking neural networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2218173120?af=R</link>
+      <guid isPermaLink="false">NPINS.005113</guid>
+    </item>
+    <item>
+      <title>Chaos: Bifurcations in adaptive vascular networks: Toward model calibration</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093135/2912658/Bifurcations-in-adaptive-vascular-networks-Toward</link>
+      <guid isPermaLink="false">NPINS.005112</guid>
+    </item>
     <item>
       <title>Phys. Rev. Lett.: Network Effects Lead to Self-Organization in Metabolic Cycles of Self-Repelling Catalysts</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.128301</link>
@@ -463,56 +513,6 @@
       <title>Nat. Commun.: Generative complex networks within a dynamic memristor with intrinsic variability</title>
       <link>https://www.nature.com/articles/s41467-023-41921-3</link>
       <guid isPermaLink="false">NPINS.005022</guid>
-    </item>
-    <item>
-      <title>Chaos: Synchronization transitions in Kuramoto networks with higher-mode interaction</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/7/073138/2903006/Synchronization-transitions-in-Kuramoto-networks</link>
-      <guid isPermaLink="false">NPINS.005021</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Packing 2- and 3-stars into cubic graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004563</link>
-      <guid isPermaLink="false">NPINS.005020</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Nudging cooperation among agents in an experimental social network</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00588-x</link>
-      <guid isPermaLink="false">NPINS.005019</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Revealing mechanism of Methazolamide for treatment of ankylosing spondylitis based on network pharmacology and GSEA</title>
-      <link>https://www.nature.com/articles/s41598-023-42721-x</link>
-      <guid isPermaLink="false">NPINS.005018</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A hypernetwork-based urn model for explaining collective dynamics</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291778</link>
-      <guid isPermaLink="false">NPINS.005017</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Entropy of microcanonical finite-graph ensembles</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acf01c</link>
-      <guid isPermaLink="false">NPINS.005016</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Is Bitcoin gathering dust? An analysis of low-amount Bitcoin transactions</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00557-4</link>
-      <guid isPermaLink="false">NPINS.005015</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A proposal for ranking through selective computation of centrality measures</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289488</link>
-      <guid isPermaLink="false">NPINS.005014</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Assessing the evolution of educational accessibility with self-avoiding random walk: insights from Helsinki</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00581-4</link>
-      <guid isPermaLink="false">NPINS.005013</guid>
-    </item>
-    <item>
-      <title>EPL: Dismantling networks abruptly by tree decomposition</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ace92c</link>
-      <guid isPermaLink="false">NPINS.005012</guid>
     </item>
   </channel>
 </rss>
