@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Oct 2023 15:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2023 13:58:14 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Short-term neuronal and synaptic plasticity act in synergy for deviance detection in spiking networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011554</link>
+      <guid isPermaLink="false">NPINS.005131</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Impact of misinformation in the evolution of collective cooperation on networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0295?af=R</link>
+      <guid isPermaLink="false">NPINS.005130</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Interaction-motif-based classification of self-organizing metabolic cycles</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acfdc2</link>
+      <guid isPermaLink="false">NPINS.005129</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Extremal Graph Realizations and Graph Laplacian Eigenvalues</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1504421?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005128</guid>
+    </item>
+    <item>
+      <title>Chaos: Designing spiking neural networks for robust and reconfigurable computation</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/083143/2907442/Designing-spiking-neural-networks-for-robust-and</link>
+      <guid isPermaLink="false">NPINS.005127</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Equilibria Analysis of a Networked Bivirus Epidemic Model Using Poincaré–Hopf and Manifold Theory</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1529981?af=R</link>
+      <guid isPermaLink="false">NPINS.005126</guid>
+    </item>
+    <item>
+      <title>Chaos: Synchronization, clustering, and weak chimeras in a densely coupled transcription-based oscillator model for split circadian rhythms</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/083105/2905531/Synchronization-clustering-and-weak-chimeras-in-a</link>
+      <guid isPermaLink="false">NPINS.005125</guid>
+    </item>
+    <item>
+      <title>Chaos: Toward dynamic stability assessment of power grid topologies using graph neural networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/10/103103/2914062/Toward-dynamic-stability-assessment-of-power-grid</link>
+      <guid isPermaLink="false">NPINS.005124</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Unconventional criticality, scaling breakdown, and diverse universality classes in the Wilson-Cowan model of neural dynamics</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034110</link>
+      <guid isPermaLink="false">NPINS.005123</guid>
+    </item>
+    <item>
+      <title>Chaos: On epidemic spreading in metapopulation networks with time-varying contact patterns</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093142/2913279/On-epidemic-spreading-in-metapopulation-networks</link>
+      <guid isPermaLink="false">NPINS.005122</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Autocorrelations from emergent bistability in homeostatic spiking neural networks on neuromorphic hardware</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033035</link>
@@ -463,56 +513,6 @@
       <title>PLOS ONE: Graph drawing using Jaya</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287744</link>
       <guid isPermaLink="false">NPINS.005032</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Threshold sensitivity of the production network topology</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00599-8</link>
-      <guid isPermaLink="false">NPINS.005031</guid>
-    </item>
-    <item>
-      <title>Chaos: Self-adapting infectious dynamics on random networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/093110/2910601/Self-adapting-infectious-dynamics-on-random</link>
-      <guid isPermaLink="false">NPINS.005030</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Darcy's law of yield stress fluids on a treelike network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.L023102</link>
-      <guid isPermaLink="false">NPINS.005029</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Individualized network analysis reveals link between the gut microbiome, diet intervention and Gestational Diabetes Mellitus</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011193</link>
-      <guid isPermaLink="false">NPINS.005028</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Nonequilibrium phase transitions in metapopulation models of infectious diseases on heterogeneous networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acef7b</link>
-      <guid isPermaLink="false">NPINS.005027</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Dirac signal processing of higher-order topological signals</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acf33c</link>
-      <guid isPermaLink="false">NPINS.005026</guid>
-    </item>
-    <item>
-      <title>Chaos: Collective dynamics of nonlocally coupled Hindmarsh–Rose neurons modified by magnetic flux</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083124/2905835/Collective-dynamics-of-nonlocally-coupled</link>
-      <guid isPermaLink="false">NPINS.005025</guid>
-    </item>
-    <item>
-      <title>Rev. Mod. Phys.: &lt;i&gt;Colloquium&lt;/i&gt;: Multiscale modeling of brain network organization</title>
-      <link>http://link.aps.org/doi/10.1103/RevModPhys.94.031002</link>
-      <guid isPermaLink="false">NPINS.005024</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Effects of noise on the critical points of Turing instability in complex ecosystems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.014407</link>
-      <guid isPermaLink="false">NPINS.005023</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Generative complex networks within a dynamic memristor with intrinsic variability</title>
-      <link>https://www.nature.com/articles/s41467-023-41921-3</link>
-      <guid isPermaLink="false">NPINS.005022</guid>
     </item>
   </channel>
 </rss>
