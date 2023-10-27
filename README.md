@@ -28,7 +28,6 @@ The file `past_posts.json` contains every new paper in network science identifie
  - European Physical Journal B ([journal's website](https://epjb.epj.org), [feed's url](http://feeds.feedburner.com/edp_epjb?format=xml))
  - Frontiers in Molecular Biosciences ([journal's website](https://www.frontiersin.org/journals/molecular-biosciences), [feed's url](https://www.frontiersin.org/journals/molecular-biosciences/rss))
  - Frontiers in Physics ([journal's website](https://www.frontiersin.org/journals/physics), [feed's url](https://www.frontiersin.org/journals/physics/rss))
- - IEEE Access ([journal's website](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [feed's url](https://ieeexplore.ieee.org/rss/TOC6287639.XML))
  - iScience ([journal's website](https://www.cell.com/iscience/home), [feed's url](https://rss.sciencedirect.com/publication/science/25890042))
  - Journal of Complex Networks ([journal's website](https://academic.oup.com/comnet), [feed's url](http://academic.oup.com/rss/site_5126/advanceAccess_3051.xml))
  - Journal of Machine Learning Research ([journal's website](http://www.jmlr.org), [feed's url](http://www.jmlr.org/jmlr.xml))
