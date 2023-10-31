@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 13:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 12:45:11 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: Gaps labeling theorem for the bubble-diamond self-similar graphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad03a4</link>
+      <guid isPermaLink="false">NPINS.005161</guid>
+    </item>
+    <item>
+      <title>Research: Computing Persistent Homology by Spanning Trees and Critical Simplices</title>
+      <link>https://web114-aaas-prod-2492.literatumonline.com/doi/abs/10.34133/research.0230?af=R</link>
+      <guid isPermaLink="false">NPINS.005160</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Normalized closeness centrality of urban networks: impact of the location of the catchment area and evaluation based on an idealized network</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00585-0</link>
+      <guid isPermaLink="false">NPINS.005159</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Chimera dynamics of generalized Kuramoto–Sakaguchi oscillators in two-population networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acf4d6</link>
+      <guid isPermaLink="false">NPINS.005158</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Combing a Linkage in an Annulus</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M150914X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005157</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Network medicine framework reveals generic herb-symptom effectiveness of traditional Chinese medicine</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adh0215</link>
+      <guid isPermaLink="false">NPINS.005156</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Physical images of relative timescales in coevolution dynamics</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033220</link>
+      <guid isPermaLink="false">NPINS.005155</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Intersection of random spanning trees in complex networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00600-4</link>
+      <guid isPermaLink="false">NPINS.005154</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: Resampling reduces bias amplification in experimental social networks</title>
+      <link>https://www.nature.com/articles/s41562-023-01715-5</link>
+      <guid isPermaLink="false">NPINS.005153</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Neurosci.: How deep is the brain? The shallow brain hypothesis</title>
+      <link>https://www.nature.com/articles/s41583-023-00756-z</link>
+      <guid isPermaLink="false">NPINS.005152</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Small-correlation expansion to quantify information in noisy sensory systems</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024406</link>
@@ -463,56 +513,6 @@
       <title>Appl. Math. Comput.: Geodesic packing in graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300323004460</link>
       <guid isPermaLink="false">NPINS.005062</guid>
-    </item>
-    <item>
-      <title>Chaos: Sensitive dynamics of brain cognitive networks and its resource constraints</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/6/063139/2896778/Sensitive-dynamics-of-brain-cognitive-networks-and</link>
-      <guid isPermaLink="false">NPINS.005061</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Contagion dynamics on hypergraphs with nested hyperedges</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034313</link>
-      <guid isPermaLink="false">NPINS.005060</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Extremal unicyclic graphs of Sombor index</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032300543X</link>
-      <guid isPermaLink="false">NPINS.005059</guid>
-    </item>
-    <item>
-      <title>EPL: Pattern reconstruction through generalized eigenvectors on defective networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acfbad</link>
-      <guid isPermaLink="false">NPINS.005058</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Fingerprinting Bitcoin entities using money flow representation learning</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00591-2</link>
-      <guid isPermaLink="false">NPINS.005057</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Graph theory applications in congenital heart disease</title>
-      <link>https://www.nature.com/articles/s41598-023-38233-3</link>
-      <guid isPermaLink="false">NPINS.005056</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Neurosci.: Network models to enhance the translational impact of cross-species studies</title>
-      <link>https://www.nature.com/articles/s41583-023-00720-x</link>
-      <guid isPermaLink="false">NPINS.005055</guid>
-    </item>
-    <item>
-      <title>Chaos: Arbitrarily large heteroclinic networks in fixed low-dimensional state space</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083156/2908503/Arbitrarily-large-heteroclinic-networks-in-fixed</link>
-      <guid isPermaLink="false">NPINS.005054</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The evolution of k-shell in syndication networks reveals financial performance of venture capital institutions</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000655</link>
-      <guid isPermaLink="false">NPINS.005053</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Coloring the square of maximal planar graphs with diameter two</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004320</link>
-      <guid isPermaLink="false">NPINS.005052</guid>
     </item>
   </channel>
 </rss>
