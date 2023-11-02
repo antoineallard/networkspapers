@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Nov 2023 19:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 22:55:32 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Robustness of community structure under edge addition</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054302</link>
+      <guid isPermaLink="false">NPINS.005181</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Stability analysis of Boolean networks: An eigenvalue approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005301</link>
+      <guid isPermaLink="false">NPINS.005180</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Decentralizing the lightning network: a score-based recommendation strategy for the autopilot system</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2</link>
+      <guid isPermaLink="false">NPINS.005179</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Phase transitions in an adaptive network with the global order parameter adaptation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044307</link>
+      <guid isPermaLink="false">NPINS.005178</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Reconstructing multi-strain pathogen interactions from cross-sectional survey data via statistical network inference</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0912?af=R</link>
+      <guid isPermaLink="false">NPINS.005177</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Deterministic, quenched, and annealed parameter estimation for heterogeneous network models</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054301</link>
+      <guid isPermaLink="false">NPINS.005176</guid>
+    </item>
+    <item>
+      <title>Nature: Indirect effects shape species fitness in coevolved mutualistic networks</title>
+      <link>https://www.nature.com/articles/s41586-023-06319-7</link>
+      <guid isPermaLink="false">NPINS.005175</guid>
+    </item>
+    <item>
+      <title>Chaos: Multi-scroll attractor and its broken coexisting attractors in cyclic memristive neural network</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/8/083149/2907903/Multi-scroll-attractor-and-its-broken-coexisting</link>
+      <guid isPermaLink="false">NPINS.005174</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Lower (total) mutual-visibility number in graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005805</link>
+      <guid isPermaLink="false">NPINS.005173</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Vietoris–Rips Complexes (with Scale 3) of Hypercube Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1481440?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005172</guid>
+    </item>
     <item>
       <title>PLOS ONE: Scalable parallel and distributed simulation of an epidemic on a graph</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291871</link>
@@ -463,56 +513,6 @@
       <title>Chaos: Evolutionary dynamics of N-player sender-receiver game in networks with community structure</title>
       <link>https://pubs.aip.org/aip/cha/article/33/10/103117/2916174/Evolutionary-dynamics-of-N-player-sender-receiver</link>
       <guid isPermaLink="false">NPINS.005082</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Analysis of the international trade networks of COVID-19 medical products</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00586-z</link>
-      <guid isPermaLink="false">NPINS.005081</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Network ecology: Tie fitness in social context(s)</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000643</link>
-      <guid isPermaLink="false">NPINS.005080</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Lyapunov spectra of chaotic recurrent neural networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043044</link>
-      <guid isPermaLink="false">NPINS.005079</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: The structure of segregation in co-authorship networks and its impact on scientific production</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00411-8</link>
-      <guid isPermaLink="false">NPINS.005078</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Crossover phenomenon in adversarial attacks on voter model</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acf90b</link>
-      <guid isPermaLink="false">NPINS.005077</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Ensnarled: Topological linkage of spatially embedded network pairs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033203</link>
-      <guid isPermaLink="false">NPINS.005076</guid>
-    </item>
-    <item>
-      <title>Chaos: Dynamical behavior mechanism in the network of interaction between group behavior and virus propagation</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/093134/2912656/Dynamical-behavior-mechanism-in-the-network-of</link>
-      <guid isPermaLink="false">NPINS.005075</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Prospects of BRICS currency dominance in international trade</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00590-3</link>
-      <guid isPermaLink="false">NPINS.005074</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Evolutionary dynamics on sequential temporal networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011333</link>
-      <guid isPermaLink="false">NPINS.005073</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Bayes-optimal inference for spreading processes on random networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044308</link>
-      <guid isPermaLink="false">NPINS.005072</guid>
     </item>
   </channel>
 </rss>
