@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 01:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 14:17:52 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Condensation of eigenmodes in functional brain network and its correlation to chimera state</title>
+      <link>https://www.nature.com/articles/s42005-023-01405-8</link>
+      <guid isPermaLink="false">NPINS.005201</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Dynamic behaviors and non-instantaneous impulsive vaccination of an SAIQR model on complex networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005945</link>
+      <guid isPermaLink="false">NPINS.005200</guid>
+    </item>
+    <item>
+      <title>Chaos: Opinion cascade under perception bias in social networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/11/113107/2919246/Opinion-cascade-under-perception-bias-in-social</link>
+      <guid isPermaLink="false">NPINS.005199</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Dynamic Ranking with the BTL Model: A Nearest Neighbor based Rank Centrality Method</title>
+      <link>http://jmlr.org/papers/v24/21-1179.html</link>
+      <guid isPermaLink="false">NPINS.005198</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Green's functions for random resistor networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044148</link>
+      <guid isPermaLink="false">NPINS.005197</guid>
+    </item>
+    <item>
+      <title>Chaos: Finding influential nodes in networks using pinning control: Centrality measures confirmed with electrochemical oscillators</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093128/2911851/Finding-influential-nodes-in-networks-using</link>
+      <guid isPermaLink="false">NPINS.005196</guid>
+    </item>
+    <item>
+      <title>iScience: The Clinical Trials Puzzle: How Network Effects Limit Drug Discovery</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223024380</link>
+      <guid isPermaLink="false">NPINS.005195</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Modeling the role of the thalamus in resting-state functional connectivity: Nature or structure</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011007</link>
+      <guid isPermaLink="false">NPINS.005194</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Inhibition stabilization and paradoxical effects in recurrent neural networks with short-term plasticity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033023</link>
+      <guid isPermaLink="false">NPINS.005193</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Causal Bandits for Linear Structural Equation Models</title>
+      <link>http://jmlr.org/papers/v24/22-0969.html</link>
+      <guid isPermaLink="false">NPINS.005192</guid>
+    </item>
     <item>
       <title>Chaos: On relaxation times of heteroclinic dynamics</title>
       <link>https://pubs.aip.org/aip/cha/article/33/10/103138/2918361/On-relaxation-times-of-heteroclinic-dynamics</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Appl. Math.: Sensitivity of Steady States in Networks with Application to Markov Chains and Chemical Reaction Networks</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M150770X?ai=s3&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005102</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Efficient network exploration by means of resetting self-avoiding random walkers</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acff33</link>
-      <guid isPermaLink="false">NPINS.005101</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Global trade network patterns are coupled to fisheries sustainability</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad301</link>
-      <guid isPermaLink="false">NPINS.005100</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Smallworldness in hypergraphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acf430</link>
-      <guid isPermaLink="false">NPINS.005099</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Extremal Problems for Hypergraph Blowups of Trees</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1543318?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005098</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Self-adaptation of networks of nonidentical pulse-coupled excitatory and inhibitory oscillators in the presence of distance-related delays to achieve frequency synchronization</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034211</link>
-      <guid isPermaLink="false">NPINS.005097</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: She Must Be Seeing Things! Gender disparity in camera department networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000631</link>
-      <guid isPermaLink="false">NPINS.005096</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Comparing the efficiency of forward and backward contact tracing</title>
-      <link>https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.034308</link>
-      <guid isPermaLink="false">NPINS.005095</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: The spectral underpinnings of pathogen spread on animal networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.0951?af=R</link>
-      <guid isPermaLink="false">NPINS.005094</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On Multicolor Ramsey Numbers of Triple System Paths of Length 3</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1518402?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005093</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Modeling opinion polarization on social media: Application to Covid-19 vaccination hesitancy in Italy</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291993</link>
-      <guid isPermaLink="false">NPINS.005092</guid>
     </item>
   </channel>
 </rss>
