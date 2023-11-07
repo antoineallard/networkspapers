@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 14:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 17:49:29 +0000</lastBuildDate>
+    <item>
+      <title>iScience: A common spectrum underlying brain disorders across lifespan revealed by deep learning on brain networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223023210</link>
+      <guid isPermaLink="false">NPINS.005211</guid>
+    </item>
+    <item>
+      <title>Chaos: Global efficiency and network structure of urban traffic flows: A percolation-based empirical analysis</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/11/113104/2919227/Global-efficiency-and-network-structure-of-urban</link>
+      <guid isPermaLink="false">NPINS.005210</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Community models for networks observed through edge nominations</title>
+      <link>http://jmlr.org/papers/v24/22-0313.html</link>
+      <guid isPermaLink="false">NPINS.005209</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Competitive information propagation considering local-global prevalence on multi-layer interconnected networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1293177</link>
+      <guid isPermaLink="false">NPINS.005208</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Distribution of shortest path lengths on trees of a given size in subcritical Erdős-Rényi networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044310</link>
+      <guid isPermaLink="false">NPINS.005207</guid>
+    </item>
+    <item>
+      <title>Research: Transcriptomic and Macroscopic Architectures of Multimodal Covariance Network Reveal Molecular–Structural–Functional Co-alterations</title>
+      <link>https://web114-aaas-prod-2492.literatumonline.com/doi/abs/10.34133/research.0171?af=R</link>
+      <guid isPermaLink="false">NPINS.005206</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Multiscale network renormalization: Scale-invariance without geometry</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043101</link>
+      <guid isPermaLink="false">NPINS.005205</guid>
+    </item>
+    <item>
+      <title>Chaos: Random templex encodes topological tipping points in noise-driven chaotic dynamics</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/10/103141/2919107/Random-templex-encodes-topological-tipping-points</link>
+      <guid isPermaLink="false">NPINS.005204</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Reliability evaluation for bijection-connected networks based on the super Pk-connectivity</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005660</link>
+      <guid isPermaLink="false">NPINS.005203</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Maximization of the spectral radius of block graphs with a given dissociation number</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005933</link>
+      <guid isPermaLink="false">NPINS.005202</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Condensation of eigenmodes in functional brain network and its correlation to chimera state</title>
       <link>https://www.nature.com/articles/s42005-023-01405-8</link>
@@ -463,56 +513,6 @@
       <title>Chaos: Bifurcations in adaptive vascular networks: Toward model calibration</title>
       <link>https://pubs.aip.org/aip/cha/article/33/9/093135/2912658/Bifurcations-in-adaptive-vascular-networks-Toward</link>
       <guid isPermaLink="false">NPINS.005112</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Network Effects Lead to Self-Organization in Metabolic Cycles of Self-Repelling Catalysts</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.128301</link>
-      <guid isPermaLink="false">NPINS.005111</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Network synchronization under periodic coupling of both positive and negative values</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00559-2</link>
-      <guid isPermaLink="false">NPINS.005110</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Modelling elephant corridors over two decades reveals opportunities for conserving connectivity across a large protected area network</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292918</link>
-      <guid isPermaLink="false">NPINS.005109</guid>
-    </item>
-    <item>
-      <title>Chaos: Phase-amplitude reduction and optimal phase locking of collectively oscillating networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/10/103111/2916005/Phase-amplitude-reduction-and-optimal-phase</link>
-      <guid isPermaLink="false">NPINS.005108</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Forecasting real-world complex networks’ robustness to node attack using network structure indexes</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1245564</link>
-      <guid isPermaLink="false">NPINS.005107</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Exploring the association between network centralities and passenger flows in metro systems</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00583-2</link>
-      <guid isPermaLink="false">NPINS.005106</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Universality of explosive percolation under product and sum rule</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034108</link>
-      <guid isPermaLink="false">NPINS.005105</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Social networks and voter turnout</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230704?af=R</link>
-      <guid isPermaLink="false">NPINS.005104</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A note on maximum size of a graph without isolated vertices under the given matching number</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323004642</link>
-      <guid isPermaLink="false">NPINS.005103</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Sensitivity of Steady States in Networks with Application to Markov Chains and Chemical Reaction Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M150770X?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005102</guid>
     </item>
   </channel>
 </rss>
