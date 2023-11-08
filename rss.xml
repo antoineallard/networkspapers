@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Nov 2023 02:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 14:26:34 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Assur graphs, marginally jammed packings, and reconfigurable metamaterials</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042001</link>
+      <guid isPermaLink="false">NPINS.005221</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Implications of COVID-19 vaccination heterogeneity in mobility networks</title>
+      <link>https://www.nature.com/articles/s42005-023-01325-7</link>
+      <guid isPermaLink="false">NPINS.005220</guid>
+    </item>
+    <item>
+      <title>SIAM Rev.: Getting the Lay of the Land in Discrete Space: A Survey of Metric Dimension and Its Applications</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1409512?ai=s5&amp;mi=8vgswd&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005219</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Critical exponents of master-node network model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054303</link>
+      <guid isPermaLink="false">NPINS.005218</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Edges Not Covered by Monochromatic Bipartite Graph</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1530781?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005217</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Sensitivity of habitat network models to changes in maximum dispersal distance</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293966</link>
+      <guid isPermaLink="false">NPINS.005216</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: A Sublinear Bound on the Page Number of Upward Planar Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1522450?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005215</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Metastability due to a branching-merging structure in a simple network of an exclusion process</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044121</link>
+      <guid isPermaLink="false">NPINS.005214</guid>
+    </item>
+    <item>
+      <title>Chaos: The complementary contribution of each order topology into the synchronization of multi-order networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/11/111101/2919232/The-complementary-contribution-of-each-order</link>
+      <guid isPermaLink="false">NPINS.005213</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Evaluating the impact of test-trace-isolate for COVID-19 management and alternative strategies</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011423</link>
+      <guid isPermaLink="false">NPINS.005212</guid>
+    </item>
     <item>
       <title>iScience: A common spectrum underlying brain disorders across lifespan revealed by deep learning on brain networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004223023210</link>
@@ -463,56 +513,6 @@
       <title>Chaos: On epidemic spreading in metapopulation networks with time-varying contact patterns</title>
       <link>https://pubs.aip.org/aip/cha/article/33/9/093142/2913279/On-epidemic-spreading-in-metapopulation-networks</link>
       <guid isPermaLink="false">NPINS.005122</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Autocorrelations from emergent bistability in homeostatic spiking neural networks on neuromorphic hardware</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033035</link>
-      <guid isPermaLink="false">NPINS.005121</guid>
-    </item>
-    <item>
-      <title>EPL: Perspective on the spatio-temporal spread of epidemics in metapopulation networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acfab8</link>
-      <guid isPermaLink="false">NPINS.005120</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: The rank of contextuality</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acdf78</link>
-      <guid isPermaLink="false">NPINS.005119</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: On strategies to help reduce contamination on public transit: a multilayer network approach</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00562-7</link>
-      <guid isPermaLink="false">NPINS.005118</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Unlocking the power of Twitter communities for startups</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00593-0</link>
-      <guid isPermaLink="false">NPINS.005117</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Model discovery of compartmental models with Graph-Supported Neural Networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005611</link>
-      <guid isPermaLink="false">NPINS.005116</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Constructing a full, multiple-layer interactome for SARS-CoV-2 in the context of lung disease: Linking the virus with human genes and microbes</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011222</link>
-      <guid isPermaLink="false">NPINS.005115</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Evolution of cooperation on interdependent networks: The impact of asymmetric punishment</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005192</link>
-      <guid isPermaLink="false">NPINS.005114</guid>
-    </item>
-    <item>
-      <title>PNAS: Brain-inspired neural circuit evolution for spiking neural networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2218173120?af=R</link>
-      <guid isPermaLink="false">NPINS.005113</guid>
-    </item>
-    <item>
-      <title>Chaos: Bifurcations in adaptive vascular networks: Toward model calibration</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/093135/2912658/Bifurcations-in-adaptive-vascular-networks-Toward</link>
-      <guid isPermaLink="false">NPINS.005112</guid>
     </item>
   </channel>
 </rss>
