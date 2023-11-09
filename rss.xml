@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Nov 2023 02:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 18:48:04 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Fixation dynamics on hypergraphs</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011494</link>
+      <guid isPermaLink="false">NPINS.005231</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Mechanical criticality of fiber networks at a finite temperature</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054403</link>
+      <guid isPermaLink="false">NPINS.005230</guid>
+    </item>
+    <item>
+      <title>Chaos: Synchronization onset for contrarians with higher-order interactions in multilayer systems</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/091105/2911853/Synchronization-onset-for-contrarians-with-higher</link>
+      <guid isPermaLink="false">NPINS.005229</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Inferring causal connectivity from pairwise recordings and optogenetics</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011574</link>
+      <guid isPermaLink="false">NPINS.005228</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: A Framework for Minimal Hereditary Classes of Graphs of Unbounded Clique-Width</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1487448?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005227</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Identifiability of complex networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1290647</link>
+      <guid isPermaLink="false">NPINS.005226</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Algebraic degree of Cayley graphs over dicyclic and semi-dihedral groups</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005581</link>
+      <guid isPermaLink="false">NPINS.005225</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Semisupervised regression in latent structure networks on unknown manifolds</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00598-9</link>
+      <guid isPermaLink="false">NPINS.005224</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: Impact of physicality on network structure</title>
+      <link>https://www.nature.com/articles/s41567-023-02267-1</link>
+      <guid isPermaLink="false">NPINS.005223</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Distributed Sparse Regression via Penalization</title>
+      <link>http://jmlr.org/papers/v24/21-1333.html</link>
+      <guid isPermaLink="false">NPINS.005222</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Assur graphs, marginally jammed packings, and reconfigurable metamaterials</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042001</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Discrete Math.: Refinement on Spectral Turán’s Theorem</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1507814?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005132</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Short-term neuronal and synaptic plasticity act in synergy for deviance detection in spiking networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011554</link>
-      <guid isPermaLink="false">NPINS.005131</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Impact of misinformation in the evolution of collective cooperation on networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0295?af=R</link>
-      <guid isPermaLink="false">NPINS.005130</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Interaction-motif-based classification of self-organizing metabolic cycles</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/acfdc2</link>
-      <guid isPermaLink="false">NPINS.005129</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Extremal Graph Realizations and Graph Laplacian Eigenvalues</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1504421?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005128</guid>
-    </item>
-    <item>
-      <title>Chaos: Designing spiking neural networks for robust and reconfigurable computation</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083143/2907442/Designing-spiking-neural-networks-for-robust-and</link>
-      <guid isPermaLink="false">NPINS.005127</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Equilibria Analysis of a Networked Bivirus Epidemic Model Using Poincaré–Hopf and Manifold Theory</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1529981?af=R</link>
-      <guid isPermaLink="false">NPINS.005126</guid>
-    </item>
-    <item>
-      <title>Chaos: Synchronization, clustering, and weak chimeras in a densely coupled transcription-based oscillator model for split circadian rhythms</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083105/2905531/Synchronization-clustering-and-weak-chimeras-in-a</link>
-      <guid isPermaLink="false">NPINS.005125</guid>
-    </item>
-    <item>
-      <title>Chaos: Toward dynamic stability assessment of power grid topologies using graph neural networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/10/103103/2914062/Toward-dynamic-stability-assessment-of-power-grid</link>
-      <guid isPermaLink="false">NPINS.005124</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Unconventional criticality, scaling breakdown, and diverse universality classes in the Wilson-Cowan model of neural dynamics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034110</link>
-      <guid isPermaLink="false">NPINS.005123</guid>
-    </item>
-    <item>
-      <title>Chaos: On epidemic spreading in metapopulation networks with time-varying contact patterns</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/093142/2913279/On-epidemic-spreading-in-metapopulation-networks</link>
-      <guid isPermaLink="false">NPINS.005122</guid>
     </item>
   </channel>
 </rss>
