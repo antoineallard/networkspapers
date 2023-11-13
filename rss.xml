@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Nov 2023 00:14:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2023 16:05:35 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: Research on multi-layer network routing selection strategy based on cooperative evolutionary game in IoT environment</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1274578</link>
+      <guid isPermaLink="false">NPINS.005251</guid>
+    </item>
+    <item>
+      <title>Chaos: Dynamics of cascades in spatial interdependent networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/10/103116/2916126/Dynamics-of-cascades-in-spatial-interdependent</link>
+      <guid isPermaLink="false">NPINS.005250</guid>
+    </item>
+    <item>
+      <title>PNAS: Noncoding RNAs improve the predictive power of network medicine</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2301342120?af=R</link>
+      <guid isPermaLink="false">NPINS.005249</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Time-delay-induced spiral chimeras on a spherical surface of globally coupled oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054204</link>
+      <guid isPermaLink="false">NPINS.005248</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The role of sociopolitical workplace networks in involuntary employee turnover</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000692</link>
+      <guid isPermaLink="false">NPINS.005247</guid>
+    </item>
+    <item>
+      <title>EPL: Community detection from fuzzy and higher-order perspectives</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acfdc9</link>
+      <guid isPermaLink="false">NPINS.005246</guid>
+    </item>
+    <item>
+      <title>Nature: How AI could lead to a better understanding of the brain</title>
+      <link>https://www.nature.com/articles/d41586-023-03426-3</link>
+      <guid isPermaLink="false">NPINS.005245</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: Geometric description of clustering in directed networks</title>
+      <link>https://www.nature.com/articles/s41567-023-02246-6</link>
+      <guid isPermaLink="false">NPINS.005244</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Understanding networks with exponential-family random network models</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000497</link>
+      <guid isPermaLink="false">NPINS.005243</guid>
+    </item>
+    <item>
+      <title>Chaos: Chimera resonance in networks of chaotic maps</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/9/093138/2912659/Chimera-resonance-in-networks-of-chaotic-maps</link>
+      <guid isPermaLink="false">NPINS.005242</guid>
+    </item>
     <item>
       <title>Sci. Rep.: Proteomic characterization of aging-driven changes in the mouse brain by co-expression network analysis</title>
       <link>https://www.nature.com/articles/s41598-023-45570-w</link>
@@ -463,56 +513,6 @@
       <title>Nat. Rev. Neurosci.: How deep is the brain? The shallow brain hypothesis</title>
       <link>https://www.nature.com/articles/s41583-023-00756-z</link>
       <guid isPermaLink="false">NPINS.005152</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Small-correlation expansion to quantify information in noisy sensory systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.024406</link>
-      <guid isPermaLink="false">NPINS.005151</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Independence numbers of polyhedral graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005180</link>
-      <guid isPermaLink="false">NPINS.005150</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Simplicial q-Connectivity of Directed Graphs with Applications to Network Analysis</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1480021?af=R</link>
-      <guid isPermaLink="false">NPINS.005149</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Parameter estimation procedures for exponential-family random graph models on count-valued networks: A comparative simulation study</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000473</link>
-      <guid isPermaLink="false">NPINS.005148</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Spectral Erdős-Sós Theorem</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M150650X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005147</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Exploring temporal community evolution: algorithmic approaches and parallel optimization for dynamic community detection</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00592-1</link>
-      <guid isPermaLink="false">NPINS.005146</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Overcoming vaccine hesitancy by multiplex social network targeting: an analysis of targeting algorithms and implications</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00595-y</link>
-      <guid isPermaLink="false">NPINS.005145</guid>
-    </item>
-    <item>
-      <title>Research: Revealing Tissue Heterogeneity and Spatial Dark Genes from Spatially Resolved Transcriptomics by Multiview Graph Networks</title>
-      <link>https://web114-aaas-prod-2492.literatumonline.com/doi/abs/10.34133/research.0228?af=R</link>
-      <guid isPermaLink="false">NPINS.005144</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Lower Bounds for Maximum Weighted Cut</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1411913?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005143</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Assessing the impact of Byzantine attacks on coupled phase oscillators</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad0390</link>
-      <guid isPermaLink="false">NPINS.005142</guid>
     </item>
   </channel>
 </rss>
