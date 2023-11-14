@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Nov 2023 16:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 14:22:03 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Elevated emotion network connectivity is associated with fluctuations in depression</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2216499120?af=R</link>
+      <guid isPermaLink="false">NPINS.005261</guid>
+    </item>
+    <item>
+      <title>Chaos: Topological data analysis of the synchronization of a network of Rössler chaotic electronic oscillators</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/11/113110/2919888/Topological-data-analysis-of-the-synchronization</link>
+      <guid isPermaLink="false">NPINS.005260</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A Twitter network and discourse analysis of the Rana Plaza collapse</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00587-y</link>
+      <guid isPermaLink="false">NPINS.005259</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Low Tree-Rank Bayesian Vector Autoregression Models</title>
+      <link>http://jmlr.org/papers/v24/22-0360.html</link>
+      <guid isPermaLink="false">NPINS.005258</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Dynamical methods for target control of biological networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230542?af=R</link>
+      <guid isPermaLink="false">NPINS.005257</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Heterogeneous message passing for heterogeneous networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034310</link>
+      <guid isPermaLink="false">NPINS.005256</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Spatial organisation of the mesoscale connectome: A feature influencing synchrony and metastability of network dynamics</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011349</link>
+      <guid isPermaLink="false">NPINS.005255</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Robustness of Bell violation of graph states to qubit loss</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043099</link>
+      <guid isPermaLink="false">NPINS.005254</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Short- and long-term temporal network prediction based on network memory</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00597-w</link>
+      <guid isPermaLink="false">NPINS.005253</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Real-world data in rheumatoid arthritis: patient similarity networks as a tool for clinical evaluation of disease activity</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00582-3</link>
+      <guid isPermaLink="false">NPINS.005252</guid>
+    </item>
     <item>
       <title>Front. Phys.: Research on multi-layer network routing selection strategy based on cooperative evolutionary game in IoT environment</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1274578</link>
@@ -463,56 +513,6 @@
       <title>Phys. Rev. Lett.: Partial Self-Testing and Randomness Certification in the Triangle Network</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.100201</link>
       <guid isPermaLink="false">NPINS.005162</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Gaps labeling theorem for the bubble-diamond self-similar graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad03a4</link>
-      <guid isPermaLink="false">NPINS.005161</guid>
-    </item>
-    <item>
-      <title>Research: Computing Persistent Homology by Spanning Trees and Critical Simplices</title>
-      <link>https://web114-aaas-prod-2492.literatumonline.com/doi/abs/10.34133/research.0230?af=R</link>
-      <guid isPermaLink="false">NPINS.005160</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Normalized closeness centrality of urban networks: impact of the location of the catchment area and evaluation based on an idealized network</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00585-0</link>
-      <guid isPermaLink="false">NPINS.005159</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Chimera dynamics of generalized Kuramoto–Sakaguchi oscillators in two-population networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/acf4d6</link>
-      <guid isPermaLink="false">NPINS.005158</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Combing a Linkage in an Annulus</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M150914X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005157</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Network medicine framework reveals generic herb-symptom effectiveness of traditional Chinese medicine</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adh0215</link>
-      <guid isPermaLink="false">NPINS.005156</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Physical images of relative timescales in coevolution dynamics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033220</link>
-      <guid isPermaLink="false">NPINS.005155</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Intersection of random spanning trees in complex networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00600-4</link>
-      <guid isPermaLink="false">NPINS.005154</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Resampling reduces bias amplification in experimental social networks</title>
-      <link>https://www.nature.com/articles/s41562-023-01715-5</link>
-      <guid isPermaLink="false">NPINS.005153</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Neurosci.: How deep is the brain? The shallow brain hypothesis</title>
-      <link>https://www.nature.com/articles/s41583-023-00756-z</link>
-      <guid isPermaLink="false">NPINS.005152</guid>
     </item>
   </channel>
 </rss>
