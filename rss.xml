@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Nov 2023 14:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 14:32:07 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: The structure of global cultural networks: Evidence from the diffusion of music videos</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294149</link>
+      <guid isPermaLink="false">NPINS.005271</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: The shaping of social and symbolic capital during the transition to farming in the Western Mediterranean: Archaeological network analyses of pottery decorations and personal ornaments</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294111</link>
+      <guid isPermaLink="false">NPINS.005270</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Dissimilarity-based hypothesis testing for community detection in heterogeneous networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1251319</link>
+      <guid isPermaLink="false">NPINS.005269</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Scaling laws of failure dynamics on complex networks</title>
+      <link>https://www.nature.com/articles/s41598-023-47152-2</link>
+      <guid isPermaLink="false">NPINS.005268</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: How greedy is too greedy? A network toy model for evaluating the sustainability of biased evolutionary dynamics</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0260?af=R</link>
+      <guid isPermaLink="false">NPINS.005267</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: From co-location patterns to an informal social network of gig economy workers</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00603-1</link>
+      <guid isPermaLink="false">NPINS.005266</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Network traits driving knowledge evolution in open collaboration systems</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291097</link>
+      <guid isPermaLink="false">NPINS.005265</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Network percolation provides early warnings of abrupt changes in coupled oscillatory systems: An explanatory analysis</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054207</link>
+      <guid isPermaLink="false">NPINS.005264</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Social network analysis of manga: similarities to real-world social networks and trends over decades</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00604-0</link>
+      <guid isPermaLink="false">NPINS.005263</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Bayesian spatial modelling of localised SARS-CoV-2 transmission through mobility networks across England</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011580</link>
+      <guid isPermaLink="false">NPINS.005262</guid>
+    </item>
     <item>
       <title>PNAS: Elevated emotion network connectivity is associated with fluctuations in depression</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2216499120?af=R</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Discrete Math.: On Vietoris–Rips Complexes (with Scale 3) of Hypercube Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1481440?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005172</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Scalable parallel and distributed simulation of an epidemic on a graph</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291871</link>
-      <guid isPermaLink="false">NPINS.005171</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Rapid compensatory plasticity revealed by dynamic correlated activity in monkeys in vivo</title>
-      <link>https://www.nature.com/articles/s41593-023-01446-w</link>
-      <guid isPermaLink="false">NPINS.005170</guid>
-    </item>
-    <item>
-      <title>Research: Revealing Tissue Heterogeneity and Spatial Dark Genes from Spatially Resolved Transcriptomics by Multiview Graph Networks</title>
-      <link>https://spj.science.org/doi/abs/10.34133/research.0228?af=R</link>
-      <guid isPermaLink="false">NPINS.005169</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Sensitivity analysis of shock distributions in the world economy</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293524</link>
-      <guid isPermaLink="false">NPINS.005168</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Removing Data Heterogeneity Influence Enhances Network Topology Dependence of Decentralized SGD</title>
-      <link>http://jmlr.org/papers/v24/22-0283.html</link>
-      <guid isPermaLink="false">NPINS.005167</guid>
-    </item>
-    <item>
-      <title>iScience: Similarity network fusion to identify phenotypes of small-for-gestational-age fetuses</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223016978</link>
-      <guid isPermaLink="false">NPINS.005166</guid>
-    </item>
-    <item>
-      <title>EPL: Generalized limited penetrable vector visibility graph</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad0408</link>
-      <guid isPermaLink="false">NPINS.005165</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Packing Signatures in Signed Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1411883?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005164</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Influence of cumulative damage on synchronization of Kuramoto oscillators on networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad043b</link>
-      <guid isPermaLink="false">NPINS.005163</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Partial Self-Testing and Randomness Certification in the Triangle Network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.100201</link>
-      <guid isPermaLink="false">NPINS.005162</guid>
     </item>
   </channel>
 </rss>
