@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Nov 2023 14:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 15:17:23 +0000</lastBuildDate>
+    <item>
+      <title>Soc. Networks: Offence versatility among co-offenders: A dynamic network analysis</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000680</link>
+      <guid isPermaLink="false">NPINS.005281</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Sample Compression Schemes for Balls in Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1527817?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005280</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Architecture of the brain’s visual system enhances network stability and performance through layers, delays, and feedback</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011078</link>
+      <guid isPermaLink="false">NPINS.005279</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: How adolescents’ popularity perceptions change: Measuring interactions between popularity and friendship networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000709</link>
+      <guid isPermaLink="false">NPINS.005278</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Investigating the effect of selective exposure, audience fragmentation, and echo-chambers on polarization in dynamic media ecosystems</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00601-3</link>
+      <guid isPermaLink="false">NPINS.005277</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Modular tipping points: How local network structure impacts critical transitions in networked spin systems</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292935</link>
+      <guid isPermaLink="false">NPINS.005276</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Characterizing network circuity among heterogeneous urban amenities</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0296?af=R</link>
+      <guid isPermaLink="false">NPINS.005275</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Improving ERGM starting values using simulated annealing</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000679</link>
+      <guid isPermaLink="false">NPINS.005274</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Symmetric Layer-Rainbow Colorations of Cubes</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1494488?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005273</guid>
+    </item>
+    <item>
+      <title>EPL: Reconstructing networks via discrete state dynamical data: A mini-review</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad07b2</link>
+      <guid isPermaLink="false">NPINS.005272</guid>
+    </item>
     <item>
       <title>PLOS ONE: The structure of global cultural networks: Evidence from the diffusion of music videos</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294149</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Appl. Math.: Minimizing Congestion in Single-Source, Single-Sink Queueing Networks</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/21M1457515?ai=s3&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005182</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Robustness of community structure under edge addition</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054302</link>
-      <guid isPermaLink="false">NPINS.005181</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Stability analysis of Boolean networks: An eigenvalue approach</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005301</link>
-      <guid isPermaLink="false">NPINS.005180</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Decentralizing the lightning network: a score-based recommendation strategy for the autopilot system</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2</link>
-      <guid isPermaLink="false">NPINS.005179</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Phase transitions in an adaptive network with the global order parameter adaptation</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044307</link>
-      <guid isPermaLink="false">NPINS.005178</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Reconstructing multi-strain pathogen interactions from cross-sectional survey data via statistical network inference</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0912?af=R</link>
-      <guid isPermaLink="false">NPINS.005177</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Deterministic, quenched, and annealed parameter estimation for heterogeneous network models</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054301</link>
-      <guid isPermaLink="false">NPINS.005176</guid>
-    </item>
-    <item>
-      <title>Nature: Indirect effects shape species fitness in coevolved mutualistic networks</title>
-      <link>https://www.nature.com/articles/s41586-023-06319-7</link>
-      <guid isPermaLink="false">NPINS.005175</guid>
-    </item>
-    <item>
-      <title>Chaos: Multi-scroll attractor and its broken coexisting attractors in cyclic memristive neural network</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/8/083149/2907903/Multi-scroll-attractor-and-its-broken-coexisting</link>
-      <guid isPermaLink="false">NPINS.005174</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Lower (total) mutual-visibility number in graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005805</link>
-      <guid isPermaLink="false">NPINS.005173</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On Vietoris–Rips Complexes (with Scale 3) of Hypercube Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1481440?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005172</guid>
     </item>
   </channel>
 </rss>
