@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Nov 2023 13:53:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 13:59:00 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Resolving network clusters disparity based on dissimilarity measurements with nonmetric analysis of variance</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223024318</link>
+      <guid isPermaLink="false">NPINS.005291</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Effect of sparsity on network stability in random neural networks obeying Dale's law</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043132</link>
+      <guid isPermaLink="false">NPINS.005290</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Improved NP-Hardness of Approximation for Orthogonality Dimension and Minrank</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M155760X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005289</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Goal quest for an intelligent surfer moving in a chaotic flow</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054212</link>
+      <guid isPermaLink="false">NPINS.005288</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Fast Solver for Diffusive Transport Times on Dynamic Intracellular Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1509308?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005287</guid>
+    </item>
     <item>
       <title>PNAS: Emergent encoding of dispersal network topologies in spatial metapopulation models</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2311548120?af=R</link>
@@ -488,31 +513,6 @@
       <title>J. Mach. Learn. Res.: Causal Bandits for Linear Structural Equation Models</title>
       <link>http://jmlr.org/papers/v24/22-0969.html</link>
       <guid isPermaLink="false">NPINS.005192</guid>
-    </item>
-    <item>
-      <title>Chaos: On relaxation times of heteroclinic dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/10/103138/2918361/On-relaxation-times-of-heteroclinic-dynamics</link>
-      <guid isPermaLink="false">NPINS.005191</guid>
-    </item>
-    <item>
-      <title>Chaos: Directed recurrence networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/11/113103/2919230/Directed-recurrence-networks</link>
-      <guid isPermaLink="false">NPINS.005190</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Status, cognitive overload, and incomplete information in advice-seeking networks: An agent-based model</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000606</link>
-      <guid isPermaLink="false">NPINS.005189</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Exploring the impacts of Covid-19 on the electronic product trade of the G-7 countries: A complex network analysis approach and panel data analysis</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286694</link>
-      <guid isPermaLink="false">NPINS.005188</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: A glimpse into the fungal metabolomic abyss: Novel network analysis reveals relationships between exogenous compounds and their outputs</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad322</link>
-      <guid isPermaLink="false">NPINS.005187</guid>
     </item>
   </channel>
 </rss>
