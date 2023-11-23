@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Nov 2023 01:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 01:56:30 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Quasirandom-Forcing Orientations of Cycles</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1548700?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005296</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Generative models for two-ground-truth partitions in networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054308</link>
+      <guid isPermaLink="false">NPINS.005295</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Minimal pinning control for set stability of Boolean networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006021</link>
+      <guid isPermaLink="false">NPINS.005294</guid>
+    </item>
+    <item>
+      <title>Nature: The social and structural architecture of the yeast protein interactome</title>
+      <link>https://www.nature.com/articles/s41586-023-06739-5</link>
+      <guid isPermaLink="false">NPINS.005293</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Food availability leads to more connected contact networks among peridomestic zoonotic reservoir hosts</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230809?af=R</link>
+      <guid isPermaLink="false">NPINS.005292</guid>
+    </item>
     <item>
       <title>iScience: Resolving network clusters disparity based on dissimilarity measurements with nonmetric analysis of variance</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004223024318</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Green's functions for random resistor networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044148</link>
       <guid isPermaLink="false">NPINS.005197</guid>
-    </item>
-    <item>
-      <title>Chaos: Finding influential nodes in networks using pinning control: Centrality measures confirmed with electrochemical oscillators</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/093128/2911851/Finding-influential-nodes-in-networks-using</link>
-      <guid isPermaLink="false">NPINS.005196</guid>
-    </item>
-    <item>
-      <title>iScience: The Clinical Trials Puzzle: How Network Effects Limit Drug Discovery</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223024380</link>
-      <guid isPermaLink="false">NPINS.005195</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Modeling the role of the thalamus in resting-state functional connectivity: Nature or structure</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011007</link>
-      <guid isPermaLink="false">NPINS.005194</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Inhibition stabilization and paradoxical effects in recurrent neural networks with short-term plasticity</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033023</link>
-      <guid isPermaLink="false">NPINS.005193</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Causal Bandits for Linear Structural Equation Models</title>
-      <link>http://jmlr.org/papers/v24/22-0969.html</link>
-      <guid isPermaLink="false">NPINS.005192</guid>
     </item>
   </channel>
 </rss>
