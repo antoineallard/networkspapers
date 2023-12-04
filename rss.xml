@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Dec 2023 02:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 13:56:44 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Rep.: Impact of malt concentration in solid substrate on mycelial growth and network connectivity in &lt;i&gt;Ganoderma&lt;/i&gt; species</title>
+      <link>https://www.nature.com/articles/s41598-023-48203-4</link>
+      <guid isPermaLink="false">NPINS.005306</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Prevalence of Multistationarity and Absolute Concentration Robustness in Reaction Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1549316?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005305</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Poisson representation: a bridge between discrete and continuous models of stochastic gene regulatory networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0467?af=R</link>
+      <guid isPermaLink="false">NPINS.005304</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Homophily and the evolution of cooperation in the Volunteer’s Dilemma: A computational study on dynamic graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000795</link>
+      <guid isPermaLink="false">NPINS.005303</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: A Density Description of a Bounded-Confidence Model of Opinion Dynamics on Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M148608X?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005302</guid>
+    </item>
     <item>
       <title>Chaos: Breathing cluster in complex neuron–astrocyte networks</title>
       <link>https://pubs.aip.org/aip/cha/article/33/11/113118/2921457/Breathing-cluster-in-complex-neuron-astrocyte</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Distribution of shortest path lengths on trees of a given size in subcritical Erdős-Rényi networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044310</link>
       <guid isPermaLink="false">NPINS.005207</guid>
-    </item>
-    <item>
-      <title>Research: Transcriptomic and Macroscopic Architectures of Multimodal Covariance Network Reveal Molecular–Structural–Functional Co-alterations</title>
-      <link>https://web114-aaas-prod-2492.literatumonline.com/doi/abs/10.34133/research.0171?af=R</link>
-      <guid isPermaLink="false">NPINS.005206</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Multiscale network renormalization: Scale-invariance without geometry</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043101</link>
-      <guid isPermaLink="false">NPINS.005205</guid>
-    </item>
-    <item>
-      <title>Chaos: Random templex encodes topological tipping points in noise-driven chaotic dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/10/103141/2919107/Random-templex-encodes-topological-tipping-points</link>
-      <guid isPermaLink="false">NPINS.005204</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Reliability evaluation for bijection-connected networks based on the super Pk-connectivity</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005660</link>
-      <guid isPermaLink="false">NPINS.005203</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Maximization of the spectral radius of block graphs with a given dissociation number</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323005933</link>
-      <guid isPermaLink="false">NPINS.005202</guid>
     </item>
   </channel>
 </rss>
