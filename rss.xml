@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Dec 2023 22:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 14:56:29 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Endowing networks with desired symmetries and modular behavior</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054309</link>
+      <guid isPermaLink="false">NPINS.005316</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: The evolution of cooperation in the unidirectional division of labour on a tree network</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230830?af=R</link>
+      <guid isPermaLink="false">NPINS.005315</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Metamodelling of a two-population spiking neural network</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011625</link>
+      <guid isPermaLink="false">NPINS.005314</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Bayesian testing of scientific expectations under exponential random graph models</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000801</link>
+      <guid isPermaLink="false">NPINS.005313</guid>
+    </item>
+    <item>
+      <title>SIAM J. Math. Data Sci.: Entropic Optimal Transport on Random Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1518281?af=R</link>
+      <guid isPermaLink="false">NPINS.005312</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Encapsulation structure and dynamics in hypergraphs</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad0b39</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Edges Not Covered by Monochromatic Bipartite Graph</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1530781?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005217</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Sensitivity of habitat network models to changes in maximum dispersal distance</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293966</link>
-      <guid isPermaLink="false">NPINS.005216</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Sublinear Bound on the Page Number of Upward Planar Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1522450?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005215</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Metastability due to a branching-merging structure in a simple network of an exclusion process</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.044121</link>
-      <guid isPermaLink="false">NPINS.005214</guid>
-    </item>
-    <item>
-      <title>Chaos: The complementary contribution of each order topology into the synchronization of multi-order networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/11/111101/2919232/The-complementary-contribution-of-each-order</link>
-      <guid isPermaLink="false">NPINS.005213</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Evaluating the impact of test-trace-isolate for COVID-19 management and alternative strategies</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011423</link>
-      <guid isPermaLink="false">NPINS.005212</guid>
     </item>
   </channel>
 </rss>
