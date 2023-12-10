@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 00:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 14:45:16 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Complementary feature learning across multiple heterogeneous networks and multi-modal attribute learning for predicting disease-related miRNAs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223027165</link>
+      <guid isPermaLink="false">NPINS.005336</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Nonassortative relationships between groups of nodes are typical in complex networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad364</link>
+      <guid isPermaLink="false">NPINS.005335</guid>
+    </item>
+    <item>
+      <title>Chaos: Identifying the switching topology of dynamical networks based on adaptive synchronization</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/12/123109/2926223/Identifying-the-switching-topology-of-dynamical</link>
+      <guid isPermaLink="false">NPINS.005334</guid>
+    </item>
+    <item>
+      <title>iScience: Progression and trajectory network of age-related functional impairments and their combined associations with mortality</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223024458</link>
+      <guid isPermaLink="false">NPINS.005333</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Coarsening effects on k-partite network classification</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00606-y</link>
+      <guid isPermaLink="false">NPINS.005332</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Nearest-neighbor directed random hyperbolic graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054310</link>
+      <guid isPermaLink="false">NPINS.005331</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: The Success Probability in Levine’s Hat Problem, and Independent Sets in Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1515975?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005330</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Non-analytic behaviour in large-deviations of the susceptible-infected-recovered model under the influence of lockdowns</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad0991</link>
+      <guid isPermaLink="false">NPINS.005329</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Identifying key spreaders in complex networks based on local clustering coefficient and structural hole information</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad0e89</link>
+      <guid isPermaLink="false">NPINS.005328</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Rapid fluctuations in functional connectivity of cortical networks encode spontaneous behavior</title>
+      <link>https://www.nature.com/articles/s41593-023-01498-y</link>
+      <guid isPermaLink="false">NPINS.005327</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Optimizing search processes with stochastic resetting on the pseudofractal scale-free web</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.108.064109</link>
@@ -463,56 +513,6 @@
       <title>Chaos: Composed solutions of synchronized patterns in multiplex networks of Kuramoto oscillators</title>
       <link>https://pubs.aip.org/aip/cha/article/33/10/103128/2916965/Composed-solutions-of-synchronized-patterns-in</link>
       <guid isPermaLink="false">NPINS.005237</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Co-embedding of edges and nodes with deep graph convolutional neural networks</title>
-      <link>https://www.nature.com/articles/s41598-023-44224-1</link>
-      <guid isPermaLink="false">NPINS.005236</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Macroscopic Quantum Synchronization Effects</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.190402</link>
-      <guid isPermaLink="false">NPINS.005235</guid>
-    </item>
-    <item>
-      <title>Chaos: Emergence of chaotic cluster synchronization in heterogeneous networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/091103/2911039/Emergence-of-chaotic-cluster-synchronization-in</link>
-      <guid isPermaLink="false">NPINS.005234</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Quantum walks on simplexes and multiple perfect state transfer</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad034a</link>
-      <guid isPermaLink="false">NPINS.005233</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Effect of hidden geometry and higher-order interactions on the synchronization and hysteresis behavior of phase oscillators on 5-clique simplicial assemblies</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034309</link>
-      <guid isPermaLink="false">NPINS.005232</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Fixation dynamics on hypergraphs</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011494</link>
-      <guid isPermaLink="false">NPINS.005231</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Mechanical criticality of fiber networks at a finite temperature</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054403</link>
-      <guid isPermaLink="false">NPINS.005230</guid>
-    </item>
-    <item>
-      <title>Chaos: Synchronization onset for contrarians with higher-order interactions in multilayer systems</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/091105/2911853/Synchronization-onset-for-contrarians-with-higher</link>
-      <guid isPermaLink="false">NPINS.005229</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Inferring causal connectivity from pairwise recordings and optogenetics</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011574</link>
-      <guid isPermaLink="false">NPINS.005228</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Framework for Minimal Hereditary Classes of Graphs of Unbounded Clique-Width</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1487448?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005227</guid>
     </item>
   </channel>
 </rss>
