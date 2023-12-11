@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Dec 2023 18:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 15:16:01 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Stable chimera states: A geometric singular perturbation approach</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/11/113123/2921784/Stable-chimera-states-A-geometric-singular</link>
+      <guid isPermaLink="false">NPINS.005346</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Research on the generation mechanism and characteristics of an Energy Internet backbone network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1287889</link>
+      <guid isPermaLink="false">NPINS.005345</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Epidemic spreading on coupling network with higher-order information layer</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad0920</link>
+      <guid isPermaLink="false">NPINS.005344</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The interplay of structural features and observed dissimilarities among centrality indices</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000825</link>
+      <guid isPermaLink="false">NPINS.005343</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Network homophily via tail inequalities</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054130</link>
+      <guid isPermaLink="false">NPINS.005342</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Empirical analysis of congestion spreading in Seoul traffic network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054312</link>
+      <guid isPermaLink="false">NPINS.005341</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Only a topological method can identify &lt;i&gt;all possible&lt;/i&gt; network structures capable of Robust Perfect Adaptation</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011638</link>
+      <guid isPermaLink="false">NPINS.005340</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Graph model for the clustering of dark matter halos</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043187</link>
+      <guid isPermaLink="false">NPINS.005339</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Parameter estimation for contact tracing in graph-based models</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0409?af=R</link>
+      <guid isPermaLink="false">NPINS.005338</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A novel regularized weighted estimation method for information diffusion prediction in social networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00605-z</link>
+      <guid isPermaLink="false">NPINS.005337</guid>
+    </item>
     <item>
       <title>iScience: Complementary feature learning across multiple heterogeneous networks and multi-modal attribute learning for predicting disease-related miRNAs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004223027165</link>
@@ -463,56 +513,6 @@
       <title>Soc. Networks: The role of sociopolitical workplace networks in involuntary employee turnover</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873323000692</link>
       <guid isPermaLink="false">NPINS.005247</guid>
-    </item>
-    <item>
-      <title>EPL: Community detection from fuzzy and higher-order perspectives</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/acfdc9</link>
-      <guid isPermaLink="false">NPINS.005246</guid>
-    </item>
-    <item>
-      <title>Nature: How AI could lead to a better understanding of the brain</title>
-      <link>https://www.nature.com/articles/d41586-023-03426-3</link>
-      <guid isPermaLink="false">NPINS.005245</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Geometric description of clustering in directed networks</title>
-      <link>https://www.nature.com/articles/s41567-023-02246-6</link>
-      <guid isPermaLink="false">NPINS.005244</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Understanding networks with exponential-family random network models</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000497</link>
-      <guid isPermaLink="false">NPINS.005243</guid>
-    </item>
-    <item>
-      <title>Chaos: Chimera resonance in networks of chaotic maps</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/9/093138/2912659/Chimera-resonance-in-networks-of-chaotic-maps</link>
-      <guid isPermaLink="false">NPINS.005242</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Proteomic characterization of aging-driven changes in the mouse brain by co-expression network analysis</title>
-      <link>https://www.nature.com/articles/s41598-023-45570-w</link>
-      <guid isPermaLink="false">NPINS.005241</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011458</link>
-      <guid isPermaLink="false">NPINS.005240</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Maximizing Metapopulation Growth Rate and Biomass in Stream Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1556757?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005239</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Online conspiracy communities are more resilient to deplatforming</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad324</link>
-      <guid isPermaLink="false">NPINS.005238</guid>
-    </item>
-    <item>
-      <title>Chaos: Composed solutions of synchronized patterns in multiplex networks of Kuramoto oscillators</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/10/103128/2916965/Composed-solutions-of-synchronized-patterns-in</link>
-      <guid isPermaLink="false">NPINS.005237</guid>
     </item>
   </channel>
 </rss>
