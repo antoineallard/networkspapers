@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Dec 2023 19:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 14:40:48 +0000</lastBuildDate>
+    <item>
+      <title>EPL: Novel perturbation mechanism underlying the network fragility evolution</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad0c6e</link>
+      <guid isPermaLink="false">NPINS.005356</guid>
+    </item>
+    <item>
+      <title>EPL: Multifractality and statistical localization in highly heterogeneous random networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad1001</link>
+      <guid isPermaLink="false">NPINS.005355</guid>
+    </item>
+    <item>
+      <title>Nature: Human mobility networks reveal increased segregation in large cities</title>
+      <link>https://www.nature.com/articles/s41586-023-06757-3</link>
+      <guid isPermaLink="false">NPINS.005354</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The spatial public goods game on hypergraphs with heterogeneous investment</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006197</link>
+      <guid isPermaLink="false">NPINS.005353</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Using a Bayesian approach to reconstruct graph statistics after edge sampling</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00574-3</link>
+      <guid isPermaLink="false">NPINS.005352</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Power-Engine-Load Form for Dynamic Absolute Concentration Robustness</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1535450?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005351</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Machine learning-based prediction of Q-voter model in complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad06a6</link>
+      <guid isPermaLink="false">NPINS.005350</guid>
+    </item>
+    <item>
+      <title>PNAS: Abstract cognitive maps of social network structure aid adaptive inference</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2310801120?af=R</link>
+      <guid isPermaLink="false">NPINS.005349</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Network representations of attractors for change point detection</title>
+      <link>https://www.nature.com/articles/s42005-023-01463-y</link>
+      <guid isPermaLink="false">NPINS.005348</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Robust and efficient network reconstruction in complex system via adaptive signal lasso</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043200</link>
+      <guid isPermaLink="false">NPINS.005347</guid>
+    </item>
     <item>
       <title>Chaos: Stable chimera states: A geometric singular perturbation approach</title>
       <link>https://pubs.aip.org/aip/cha/article/33/11/113123/2921784/Stable-chimera-states-A-geometric-singular</link>
@@ -463,56 +513,6 @@
       <title>R. Soc. Open Sci.: Dynamical methods for target control of biological networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230542?af=R</link>
       <guid isPermaLink="false">NPINS.005257</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Heterogeneous message passing for heterogeneous networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.034310</link>
-      <guid isPermaLink="false">NPINS.005256</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Spatial organisation of the mesoscale connectome: A feature influencing synchrony and metastability of network dynamics</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011349</link>
-      <guid isPermaLink="false">NPINS.005255</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Robustness of Bell violation of graph states to qubit loss</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043099</link>
-      <guid isPermaLink="false">NPINS.005254</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Short- and long-term temporal network prediction based on network memory</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00597-w</link>
-      <guid isPermaLink="false">NPINS.005253</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Real-world data in rheumatoid arthritis: patient similarity networks as a tool for clinical evaluation of disease activity</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00582-3</link>
-      <guid isPermaLink="false">NPINS.005252</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Research on multi-layer network routing selection strategy based on cooperative evolutionary game in IoT environment</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1274578</link>
-      <guid isPermaLink="false">NPINS.005251</guid>
-    </item>
-    <item>
-      <title>Chaos: Dynamics of cascades in spatial interdependent networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/10/103116/2916126/Dynamics-of-cascades-in-spatial-interdependent</link>
-      <guid isPermaLink="false">NPINS.005250</guid>
-    </item>
-    <item>
-      <title>PNAS: Noncoding RNAs improve the predictive power of network medicine</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2301342120?af=R</link>
-      <guid isPermaLink="false">NPINS.005249</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Time-delay-induced spiral chimeras on a spherical surface of globally coupled oscillators</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054204</link>
-      <guid isPermaLink="false">NPINS.005248</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The role of sociopolitical workplace networks in involuntary employee turnover</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000692</link>
-      <guid isPermaLink="false">NPINS.005247</guid>
     </item>
   </channel>
 </rss>
