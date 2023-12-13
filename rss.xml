@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Dec 2023 17:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 15:31:17 +0000</lastBuildDate>
+    <item>
+      <title>Soc. Networks: Imaginary network motifs: Structural patterns of false positives and negatives in social networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000813</link>
+      <guid isPermaLink="false">NPINS.005366</guid>
+    </item>
+    <item>
+      <title>Chaos: Ergodicity bounds for stable Ornstein–Uhlenbeck systems in Wasserstein distance with applications to cutoff stability</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/11/113124/2922086/Ergodicity-bounds-for-stable-Ornstein-Uhlenbeck</link>
+      <guid isPermaLink="false">NPINS.005365</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Universal productivity patterns in research careers</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043203</link>
+      <guid isPermaLink="false">NPINS.005364</guid>
+    </item>
+    <item>
+      <title>Chaos: Stability of Kuramoto networks subject to large and small fluctuations from heterogeneous and spatially correlated noise</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/11/113129/2922897/Stability-of-Kuramoto-networks-subject-to-large</link>
+      <guid isPermaLink="false">NPINS.005363</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Centrality-Based Traffic Restriction in Delayed Epidemic Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1507760?af=R</link>
+      <guid isPermaLink="false">NPINS.005362</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Heavy-tailed distributions of confirmed COVID-19 cases and deaths in spatiotemporal space</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294445</link>
+      <guid isPermaLink="false">NPINS.005361</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Large-scale group-hierarchical DEMATEL method for complex systems</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288326</link>
+      <guid isPermaLink="false">NPINS.005360</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Unbalanced signed bicyclic graphs minimizing the least eigenvalue</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006471</link>
+      <guid isPermaLink="false">NPINS.005359</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Network analysis of patterns and relevance of enteric pathogen co-infections among infants in a diarrhea-endemic setting</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011624</link>
+      <guid isPermaLink="false">NPINS.005358</guid>
+    </item>
+    <item>
+      <title>iScience: A machine learning and directed network optimization approach to uncover &lt;em&gt;TP53&lt;/em&gt; regulatory patterns</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004223023684</link>
+      <guid isPermaLink="false">NPINS.005357</guid>
+    </item>
     <item>
       <title>EPL: Novel perturbation mechanism underlying the network fragility evolution</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad0c6e</link>
@@ -463,56 +513,6 @@
       <title>Philos. Trans. R. Soc. B: How greedy is too greedy? A network toy model for evaluating the sustainability of biased evolutionary dynamics</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0260?af=R</link>
       <guid isPermaLink="false">NPINS.005267</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: From co-location patterns to an informal social network of gig economy workers</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00603-1</link>
-      <guid isPermaLink="false">NPINS.005266</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Network traits driving knowledge evolution in open collaboration systems</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291097</link>
-      <guid isPermaLink="false">NPINS.005265</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Network percolation provides early warnings of abrupt changes in coupled oscillatory systems: An explanatory analysis</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054207</link>
-      <guid isPermaLink="false">NPINS.005264</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Social network analysis of manga: similarities to real-world social networks and trends over decades</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00604-0</link>
-      <guid isPermaLink="false">NPINS.005263</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Bayesian spatial modelling of localised SARS-CoV-2 transmission through mobility networks across England</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011580</link>
-      <guid isPermaLink="false">NPINS.005262</guid>
-    </item>
-    <item>
-      <title>PNAS: Elevated emotion network connectivity is associated with fluctuations in depression</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2216499120?af=R</link>
-      <guid isPermaLink="false">NPINS.005261</guid>
-    </item>
-    <item>
-      <title>Chaos: Topological data analysis of the synchronization of a network of Rössler chaotic electronic oscillators</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/11/113110/2919888/Topological-data-analysis-of-the-synchronization</link>
-      <guid isPermaLink="false">NPINS.005260</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A Twitter network and discourse analysis of the Rana Plaza collapse</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00587-y</link>
-      <guid isPermaLink="false">NPINS.005259</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Low Tree-Rank Bayesian Vector Autoregression Models</title>
-      <link>http://jmlr.org/papers/v24/22-0360.html</link>
-      <guid isPermaLink="false">NPINS.005258</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Dynamical methods for target control of biological networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230542?af=R</link>
-      <guid isPermaLink="false">NPINS.005257</guid>
     </item>
   </channel>
 </rss>
