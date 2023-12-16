@@ -40,7 +40,7 @@ class rss2social:
         self.googlegroup_cred_fname = googlegroup_cred
         self.twitter_cred_fname = twitter_cred
         self.slack_cred_fname = slack_cred
-        self.memory_length = int(75000)
+        self.memory_length = int(100000)
 
     def check_for_new_potential_entries(self, entries, journal):
         number_of_potential_entries = 0
