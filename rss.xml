@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Dec 2023 20:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:16:36 +0000</lastBuildDate>
+    <item>
+      <title>EPL: A research of a strategy to balance the importance and dispersion of multiple critical nodes</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad0ac3</link>
+      <guid isPermaLink="false">NPINS.005381</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Node-bound communities for partition of unity interpolation on graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006719</link>
+      <guid isPermaLink="false">NPINS.005380</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Social identity bias and communication network clustering interact to shape patterns of opinion dynamics</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0372?af=R</link>
+      <guid isPermaLink="false">NPINS.005379</guid>
+    </item>
+    <item>
+      <title>PNAS: Hyperedge prediction and the statistical mechanisms of higher-order and lower-order interactions in complex networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2303887120?af=R</link>
+      <guid isPermaLink="false">NPINS.005378</guid>
+    </item>
+    <item>
+      <title>iScience: Virus-host protein co-expression networks reveal temporal organization and strategies of viral infection</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S258900422302552X</link>
+      <guid isPermaLink="false">NPINS.005377</guid>
+    </item>
     <item>
       <title>Front. Mol. Biosci.: Editorial: Construction of transcriptional and alternative splicing regulatory networks</title>
       <link>https://www.frontiersin.org/articles/10.3389/fmolb.2023.1334202</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Further Exploiting c-Closure for FPT Algorithms and Kernels for Domination Problems</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1491721?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005282</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Offence versatility among co-offenders: A dynamic network analysis</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000680</link>
-      <guid isPermaLink="false">NPINS.005281</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Sample Compression Schemes for Balls in Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1527817?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005280</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Architecture of the brain’s visual system enhances network stability and performance through layers, delays, and feedback</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011078</link>
-      <guid isPermaLink="false">NPINS.005279</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: How adolescents’ popularity perceptions change: Measuring interactions between popularity and friendship networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000709</link>
-      <guid isPermaLink="false">NPINS.005278</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Investigating the effect of selective exposure, audience fragmentation, and echo-chambers on polarization in dynamic media ecosystems</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00601-3</link>
-      <guid isPermaLink="false">NPINS.005277</guid>
     </item>
   </channel>
 </rss>
