@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Dec 2023 18:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 13:49:42 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Partial remote synchronization in star-like networks with partial connections among leaf nodes</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043253</link>
+      <guid isPermaLink="false">NPINS.005386</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: The influence of the COVID-19 pandemic on the short- and long-term interactions in the agricultural market: Evidence from a connectedness network approach</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295294</link>
+      <guid isPermaLink="false">NPINS.005385</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Improved brain community structure detection by two-step weighted modularity maximization</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295428</link>
+      <guid isPermaLink="false">NPINS.005384</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Tipping point for pulsatile oscillations in dynamical networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043209</link>
+      <guid isPermaLink="false">NPINS.005383</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Statistical mechanics of inference in epidemic spreading</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.064302</link>
+      <guid isPermaLink="false">NPINS.005382</guid>
+    </item>
     <item>
       <title>EPL: A research of a strategy to balance the importance and dispersion of multiple critical nodes</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad0ac3</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Appl. Math.: Fast Solver for Diffusive Transport Times on Dynamic Intracellular Networks</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1509308?ai=s3&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005287</guid>
-    </item>
-    <item>
-      <title>PNAS: Emergent encoding of dispersal network topologies in spatial metapopulation models</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2311548120?af=R</link>
-      <guid isPermaLink="false">NPINS.005286</guid>
-    </item>
-    <item>
-      <title>Chaos: Modeling language ideologies for the dynamics of languages in contact</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/11/113117/2921020/Modeling-language-ideologies-for-the-dynamics-of</link>
-      <guid isPermaLink="false">NPINS.005285</guid>
-    </item>
-    <item>
-      <title>PNAS: Barriers for the performance of graph neural networks (GNN) in discrete random structures</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2314092120?af=R</link>
-      <guid isPermaLink="false">NPINS.005284</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Emergence and Control of Synchronization in Networks with Directed Many-Body Interactions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.207401</link>
-      <guid isPermaLink="false">NPINS.005283</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Further Exploiting c-Closure for FPT Algorithms and Kernels for Domination Problems</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1491721?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005282</guid>
     </item>
   </channel>
 </rss>
