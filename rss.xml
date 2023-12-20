@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Dec 2023 03:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 13:59:13 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Quantifying the hierarchical adherence of modular documents</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad0a9b</link>
+      <guid isPermaLink="false">NPINS.005391</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: The genetic relationships between brain structure and schizophrenia</title>
+      <link>https://www.nature.com/articles/s41467-023-43567-7</link>
+      <guid isPermaLink="false">NPINS.005390</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: Graph theory captures hard-core exclusion</title>
+      <link>https://www.nature.com/articles/s41567-023-02342-7</link>
+      <guid isPermaLink="false">NPINS.005389</guid>
+    </item>
+    <item>
+      <title>PNAS: An interaction network approach predicts protein cage architectures in bionanotechnology</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2303580120?af=R</link>
+      <guid isPermaLink="false">NPINS.005388</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Storage and Learning Phase Transitions in the Random-Features Hopfield Model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.257301</link>
+      <guid isPermaLink="false">NPINS.005387</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Partial remote synchronization in star-like networks with partial connections among leaf nodes</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043253</link>
@@ -488,31 +513,6 @@
       <title>R. Soc. Open Sci.: Food availability leads to more connected contact networks among peridomestic zoonotic reservoir hosts</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230809?af=R</link>
       <guid isPermaLink="false">NPINS.005292</guid>
-    </item>
-    <item>
-      <title>iScience: Resolving network clusters disparity based on dissimilarity measurements with nonmetric analysis of variance</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223024318</link>
-      <guid isPermaLink="false">NPINS.005291</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Effect of sparsity on network stability in random neural networks obeying Dale's law</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043132</link>
-      <guid isPermaLink="false">NPINS.005290</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Improved NP-Hardness of Approximation for Orthogonality Dimension and Minrank</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M155760X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005289</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Goal quest for an intelligent surfer moving in a chaotic flow</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054212</link>
-      <guid isPermaLink="false">NPINS.005288</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Fast Solver for Diffusive Transport Times on Dynamic Intracellular Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1509308?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005287</guid>
     </item>
   </channel>
 </rss>
