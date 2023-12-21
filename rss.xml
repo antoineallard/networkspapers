@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Dec 2023 20:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 14:44:21 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Beyond Spectral Gap: The Role of the Topology in Decentralized Learning</title>
+      <link>http://jmlr.org/papers/v24/22-1471.html</link>
+      <guid isPermaLink="false">NPINS.005396</guid>
+    </item>
+    <item>
+      <title>PNAS: Reply to Castro et al.: Do connectomes possess markers of activity-dependent synaptic plasticity?</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2317056120?af=R</link>
+      <guid isPermaLink="false">NPINS.005395</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Higher-Order Spectral Clustering Under Superimposed Stochastic Block Models</title>
+      <link>http://jmlr.org/papers/v24/19-183.html</link>
+      <guid isPermaLink="false">NPINS.005394</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Improved mean-field dynamical equations are able to detect the two-step relaxation in glassy dynamics at low temperatures</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad0f90</link>
+      <guid isPermaLink="false">NPINS.005393</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Effect of behavioral changes on epidemic spreading in coupled simplicial activity driven networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad0a83</link>
+      <guid isPermaLink="false">NPINS.005392</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Quantifying the hierarchical adherence of modular documents</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad0a9b</link>
@@ -488,31 +513,6 @@
       <title>PNAS Nexus: The systemic impact of deplatforming on social media</title>
       <link>http://doi.org/10.1093/pnasnexus/pgad346</link>
       <guid isPermaLink="false">NPINS.005297</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Quasirandom-Forcing Orientations of Cycles</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1548700?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005296</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Generative models for two-ground-truth partitions in networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054308</link>
-      <guid isPermaLink="false">NPINS.005295</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Minimal pinning control for set stability of Boolean networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006021</link>
-      <guid isPermaLink="false">NPINS.005294</guid>
-    </item>
-    <item>
-      <title>Nature: The social and structural architecture of the yeast protein interactome</title>
-      <link>https://www.nature.com/articles/s41586-023-06739-5</link>
-      <guid isPermaLink="false">NPINS.005293</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Food availability leads to more connected contact networks among peridomestic zoonotic reservoir hosts</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230809?af=R</link>
-      <guid isPermaLink="false">NPINS.005292</guid>
     </item>
   </channel>
 </rss>
