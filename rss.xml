@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Dec 2023 21:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 19:18:56 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: Decomposing the percolation backbone reveals novel scaling laws of the current distribution</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1335339</link>
+      <guid isPermaLink="false">NPINS.005401</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Transformations, trajectories, and similarities of national production structures: A comparative fingerprinting approach</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295568</link>
+      <guid isPermaLink="false">NPINS.005400</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Scaling in local to global condensation of wealth on sparse networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.064303</link>
+      <guid isPermaLink="false">NPINS.005399</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Community Recovery in the Geometric Block Model</title>
+      <link>http://jmlr.org/papers/v24/22-0572.html</link>
+      <guid isPermaLink="false">NPINS.005398</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Large data limit of the MBO scheme for data clustering: convergence of the dynamics</title>
+      <link>http://jmlr.org/papers/v24/22-1089.html</link>
+      <guid isPermaLink="false">NPINS.005397</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Beyond Spectral Gap: The Role of the Topology in Decentralized Learning</title>
       <link>http://jmlr.org/papers/v24/22-1471.html</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Appl. Math.: A Density Description of a Bounded-Confidence Model of Opinion Dynamics on Hypergraphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M148608X?ai=s3&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005302</guid>
-    </item>
-    <item>
-      <title>Chaos: Breathing cluster in complex neuron–astrocyte networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/11/113118/2921457/Breathing-cluster-in-complex-neuron-astrocyte</link>
-      <guid isPermaLink="false">NPINS.005301</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Energy landscapes of some matching-problem ensembles</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad0d88</link>
-      <guid isPermaLink="false">NPINS.005300</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Statistical physics of learning in high-dimensional chaotic systems</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad082d</link>
-      <guid isPermaLink="false">NPINS.005299</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: The event-driven nature of online political hostility: How offline political events make online interactions more hostile</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad382</link>
-      <guid isPermaLink="false">NPINS.005298</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: The systemic impact of deplatforming on social media</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad346</link>
-      <guid isPermaLink="false">NPINS.005297</guid>
     </item>
   </channel>
 </rss>
