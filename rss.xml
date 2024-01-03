@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jan 2024 15:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 19:39:35 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Lett.: Number of Attractors in the Critical Kauffman Model Is Exponential</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.267402</link>
+      <guid isPermaLink="false">NPINS.005411</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: A data-driven approach shows that individuals' characteristics are more important than their networks in predicting fertility preferences</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230988?af=R</link>
+      <guid isPermaLink="false">NPINS.005410</guid>
+    </item>
+    <item>
+      <title>EPL: Correspondence between the Hamiltonian cycle problem and the quantum lattice gauge theory</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad130b</link>
+      <guid isPermaLink="false">NPINS.005409</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A network approach to zooarchaeological datasets and human-centered ecosystems in southwestern Florida</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295906</link>
+      <guid isPermaLink="false">NPINS.005408</guid>
+    </item>
+    <item>
+      <title>Chaos: Impact of time varying interaction: Formation and annihilation of extreme events in dynamical systems</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/12/123134/2931784/Impact-of-time-varying-interaction-Formation-and</link>
+      <guid isPermaLink="false">NPINS.005407</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Metric information in cognitive maps: Euclidean embedding of non-Euclidean environments</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011748</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Math. Data Sci.: Entropic Optimal Transport on Random Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1518281?af=R</link>
       <guid isPermaLink="false">NPINS.005312</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Encapsulation structure and dynamics in hypergraphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad0b39</link>
-      <guid isPermaLink="false">NPINS.005311</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Gene communities in co-expression networks across different tissues</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011616</link>
-      <guid isPermaLink="false">NPINS.005310</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Frequent asymmetric migrations suppress natural selection in spatially structured populations</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad392</link>
-      <guid isPermaLink="false">NPINS.005309</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Polarization and multiscale structural balance in signed networks</title>
-      <link>https://www.nature.com/articles/s42005-023-01467-8</link>
-      <guid isPermaLink="false">NPINS.005308</guid>
-    </item>
-    <item>
-      <title>PNAS: Matrix Product Belief Propagation for reweighted stochastic dynamics over graphs</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2307935120?af=R</link>
-      <guid isPermaLink="false">NPINS.005307</guid>
     </item>
   </channel>
 </rss>
