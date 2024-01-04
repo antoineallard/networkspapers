@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 22:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 12:29:59 +0000</lastBuildDate>
+    <item>
+      <title>PNAS Nexus: Information-sharing and cooperation in networked collective action groups</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad399</link>
+      <guid isPermaLink="false">NPINS.005416</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Co-evolution of a socio-cognitive scientific network: A case study of citation dynamics among astronomers</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000837</link>
+      <guid isPermaLink="false">NPINS.005415</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Neural network-based robust consensus tracking for uncertain networked Euler-Lagrange systems with time-varying delays and output constraints</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006914</link>
+      <guid isPermaLink="false">NPINS.005414</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Accurate graph classification via two-staged contrastive curriculum learning</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296171</link>
+      <guid isPermaLink="false">NPINS.005413</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.267401</link>
+      <guid isPermaLink="false">NPINS.005412</guid>
+    </item>
     <item>
       <title>Phys. Rev. Lett.: Number of Attractors in the Critical Kauffman Model Is Exponential</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.267402</link>
@@ -488,31 +513,6 @@
       <title>New J. Phys.: Robustness of higher-order networks with synergistic protection</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad0a15</link>
       <guid isPermaLink="false">NPINS.005317</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Endowing networks with desired symmetries and modular behavior</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054309</link>
-      <guid isPermaLink="false">NPINS.005316</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: The evolution of cooperation in the unidirectional division of labour on a tree network</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230830?af=R</link>
-      <guid isPermaLink="false">NPINS.005315</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Metamodelling of a two-population spiking neural network</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011625</link>
-      <guid isPermaLink="false">NPINS.005314</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Bayesian testing of scientific expectations under exponential random graph models</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000801</link>
-      <guid isPermaLink="false">NPINS.005313</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Entropic Optimal Transport on Random Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1518281?af=R</link>
-      <guid isPermaLink="false">NPINS.005312</guid>
     </item>
   </channel>
 </rss>
