@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jan 2024 14:58:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 15:43:42 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Rate-induced tipping in complex high-dimensional ecological networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2308820120?af=R</link>
+      <guid isPermaLink="false">NPINS.005427</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Weighted Graph Separation Problems and Flow Augmentation</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M153118X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005426</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Possible origin for the similar phase transitions in k-core and interdependent networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad1539</link>
+      <guid isPermaLink="false">NPINS.005425</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Synaptic dependence of dynamic regimes when coupling neural populations</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014301</link>
+      <guid isPermaLink="false">NPINS.005424</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Correcting a nonparametric two-sample graph hypothesis test for graphs with different numbers of vertices with applications to connectomics</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00607-x</link>
+      <guid isPermaLink="false">NPINS.005423</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Individual mobility deep insight using mobile phones data</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00431-4</link>
+      <guid isPermaLink="false">NPINS.005422</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: PyRates—A code-generation tool for modeling dynamical systems in biology and beyond</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011761</link>
+      <guid isPermaLink="false">NPINS.005421</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Thermodynamic limit of spin systems on random graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013011</link>
+      <guid isPermaLink="false">NPINS.005420</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: SHEEP, a Signed Hamiltonian Eigenvector Embedding for Proximity</title>
+      <link>https://www.nature.com/articles/s42005-023-01504-6</link>
+      <guid isPermaLink="false">NPINS.005419</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Untangling pair synergy in the evolution of collaborative scientific impact</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00439-w</link>
+      <guid isPermaLink="false">NPINS.005418</guid>
+    </item>
     <item>
       <title>PNAS: A simplicial epidemic model for COVID-19 spread analysis</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2313171120?af=R</link>
@@ -463,56 +513,6 @@
       <title>New J. Phys.: Identifying key spreaders in complex networks based on local clustering coefficient and structural hole information</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad0e89</link>
       <guid isPermaLink="false">NPINS.005328</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Rapid fluctuations in functional connectivity of cortical networks encode spontaneous behavior</title>
-      <link>https://www.nature.com/articles/s41593-023-01498-y</link>
-      <guid isPermaLink="false">NPINS.005327</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Optimizing search processes with stochastic resetting on the pseudofractal scale-free web</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.064109</link>
-      <guid isPermaLink="false">NPINS.005326</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Innovation-facilitating networks create inequality</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2281?af=R</link>
-      <guid isPermaLink="false">NPINS.005325</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Kuramoto Networks with Infinitely Many Stable Equilibria</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M155400X?af=R</link>
-      <guid isPermaLink="false">NPINS.005324</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Emergency communications after earthquake reveal social network backbone of important ties</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad358</link>
-      <guid isPermaLink="false">NPINS.005323</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Network ecology: Tie fitness in social context(s)</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000783</link>
-      <guid isPermaLink="false">NPINS.005322</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Traditional Chinese Medicine studies for Alzheimer’s disease via network pharmacology based on entropy and random walk</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294772</link>
-      <guid isPermaLink="false">NPINS.005321</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Zoo guide to network embedding</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad0e23</link>
-      <guid isPermaLink="false">NPINS.005320</guid>
-    </item>
-    <item>
-      <title>J. Math. Sociol.: California Exodus? A network model of population redistribution in the United States</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2023.2284431?af=R</link>
-      <guid isPermaLink="false">NPINS.005319</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Hypernetworks: Cluster Synchronization Is a Higher-Order Effect</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1561075?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005318</guid>
     </item>
   </channel>
 </rss>
