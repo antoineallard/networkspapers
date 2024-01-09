@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jan 2024 09:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 11:48:15 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Assortative and preferential attachment lead to core-periphery networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043287</link>
+      <guid isPermaLink="false">NPINS.005437</guid>
+    </item>
+    <item>
+      <title>Chaos: Role of asymmetry and external noise in the development and synchronization of oscillations in the analog Hopfield neural networks with time delay</title>
+      <link>https://pubs.aip.org/aip/cha/article/33/12/123137/2932136/Role-of-asymmetry-and-external-noise-in-the</link>
+      <guid isPermaLink="false">NPINS.005436</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: $Q$-voter model with independence on signed random graphs: Homogeneous approximations</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014302</link>
+      <guid isPermaLink="false">NPINS.005435</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Multiple gravity laws for human mobility within cities</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00438-x</link>
+      <guid isPermaLink="false">NPINS.005434</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Spreading and Structural Balance on Signed Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1542325?af=R</link>
+      <guid isPermaLink="false">NPINS.005433</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Fidelity-estimation method for graph states with depolarizing noise</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043260</link>
+      <guid isPermaLink="false">NPINS.005432</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Down and out? the role of household income in students’ friendship formation in school-classes</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000874</link>
+      <guid isPermaLink="false">NPINS.005431</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Quantifying the distribution of feature values over data represented in arbitrary dimensional spaces</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011768</link>
+      <guid isPermaLink="false">NPINS.005430</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Packing and Covering a Given Directed Graph in a Directed Graph</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1534134?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005429</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Studying social networks in the age of computational social science</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00436-z</link>
+      <guid isPermaLink="false">NPINS.005428</guid>
+    </item>
     <item>
       <title>PNAS: Rate-induced tipping in complex high-dimensional ecological networks</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2308820120?af=R</link>
@@ -463,56 +513,6 @@
       <title>J. R. Soc. Interface: Parameter estimation for contact tracing in graph-based models</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0409?af=R</link>
       <guid isPermaLink="false">NPINS.005338</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A novel regularized weighted estimation method for information diffusion prediction in social networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00605-z</link>
-      <guid isPermaLink="false">NPINS.005337</guid>
-    </item>
-    <item>
-      <title>iScience: Complementary feature learning across multiple heterogeneous networks and multi-modal attribute learning for predicting disease-related miRNAs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223027165</link>
-      <guid isPermaLink="false">NPINS.005336</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Nonassortative relationships between groups of nodes are typical in complex networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad364</link>
-      <guid isPermaLink="false">NPINS.005335</guid>
-    </item>
-    <item>
-      <title>Chaos: Identifying the switching topology of dynamical networks based on adaptive synchronization</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/12/123109/2926223/Identifying-the-switching-topology-of-dynamical</link>
-      <guid isPermaLink="false">NPINS.005334</guid>
-    </item>
-    <item>
-      <title>iScience: Progression and trajectory network of age-related functional impairments and their combined associations with mortality</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223024458</link>
-      <guid isPermaLink="false">NPINS.005333</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Coarsening effects on k-partite network classification</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00606-y</link>
-      <guid isPermaLink="false">NPINS.005332</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Nearest-neighbor directed random hyperbolic graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054310</link>
-      <guid isPermaLink="false">NPINS.005331</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Success Probability in Levine’s Hat Problem, and Independent Sets in Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1515975?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005330</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Non-analytic behaviour in large-deviations of the susceptible-infected-recovered model under the influence of lockdowns</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad0991</link>
-      <guid isPermaLink="false">NPINS.005329</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Identifying key spreaders in complex networks based on local clustering coefficient and structural hole information</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad0e89</link>
-      <guid isPermaLink="false">NPINS.005328</guid>
     </item>
   </channel>
 </rss>
