@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 10:47:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 13:20:22 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: On Ramsey Size-Linear Graphs and Related Questions</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1481713?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005447</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Generating fine-grained surrogate temporal networks</title>
+      <link>https://www.nature.com/articles/s42005-023-01517-1</link>
+      <guid isPermaLink="false">NPINS.005446</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Erdős–Pósa Property for Long Holes in C4-Free Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1435239?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005445</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Inferring neural activity before plasticity as a foundation for learning beyond backpropagation</title>
+      <link>https://www.nature.com/articles/s41593-023-01514-1</link>
+      <guid isPermaLink="false">NPINS.005444</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Deflating the Chinese balloon: types of Twitter bots in US-China balloon incident</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00440-3</link>
+      <guid isPermaLink="false">NPINS.005443</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Computing Connection Matrices via Persistence-Like Reductions</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1562469?af=R</link>
+      <guid isPermaLink="false">NPINS.005442</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Tangles and Hierarchical Clustering</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1484936?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005441</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Highly Connected Subgraphs with Large Chromatic Number</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M150040X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005440</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Phys.: Robustness and resilience of complex networks</title>
+      <link>https://www.nature.com/articles/s42254-023-00676-y</link>
+      <guid isPermaLink="false">NPINS.005439</guid>
+    </item>
+    <item>
+      <title>Curr. Res. J. Biol. Sci.: SAGESDA: Multi-GraphSAGE networks for predicting SnoRNA-disease associations</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2665928X23000284</link>
+      <guid isPermaLink="false">NPINS.005438</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Assortative and preferential attachment lead to core-periphery networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043287</link>
@@ -463,56 +513,6 @@
       <title>Commun. Phys.: Network representations of attractors for change point detection</title>
       <link>https://www.nature.com/articles/s42005-023-01463-y</link>
       <guid isPermaLink="false">NPINS.005348</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Robust and efficient network reconstruction in complex system via adaptive signal lasso</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043200</link>
-      <guid isPermaLink="false">NPINS.005347</guid>
-    </item>
-    <item>
-      <title>Chaos: Stable chimera states: A geometric singular perturbation approach</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/11/113123/2921784/Stable-chimera-states-A-geometric-singular</link>
-      <guid isPermaLink="false">NPINS.005346</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Research on the generation mechanism and characteristics of an Energy Internet backbone network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1287889</link>
-      <guid isPermaLink="false">NPINS.005345</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Epidemic spreading on coupling network with higher-order information layer</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad0920</link>
-      <guid isPermaLink="false">NPINS.005344</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The interplay of structural features and observed dissimilarities among centrality indices</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000825</link>
-      <guid isPermaLink="false">NPINS.005343</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Network homophily via tail inequalities</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054130</link>
-      <guid isPermaLink="false">NPINS.005342</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Empirical analysis of congestion spreading in Seoul traffic network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.054312</link>
-      <guid isPermaLink="false">NPINS.005341</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Only a topological method can identify &lt;i&gt;all possible&lt;/i&gt; network structures capable of Robust Perfect Adaptation</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011638</link>
-      <guid isPermaLink="false">NPINS.005340</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Graph model for the clustering of dark matter halos</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043187</link>
-      <guid isPermaLink="false">NPINS.005339</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Parameter estimation for contact tracing in graph-based models</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0409?af=R</link>
-      <guid isPermaLink="false">NPINS.005338</guid>
     </item>
   </channel>
 </rss>
