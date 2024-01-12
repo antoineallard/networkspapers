@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jan 2024 10:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 14:36:23 +0000</lastBuildDate>
+    <item>
+      <title>EPJ Data Sci.: On the duration of face-to-face contacts</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00444-z</link>
+      <guid isPermaLink="false">NPINS.005462</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Women’s subsistence networks scaffold cultural transmission among BaYaka foragers in the Congo Basin</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adj2543</link>
+      <guid isPermaLink="false">NPINS.005461</guid>
+    </item>
+    <item>
+      <title>Chaos: Cooperation with dynamic asymmetric evaluation in complex networks from a risk perspective</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/1/013115/2932981/Cooperation-with-dynamic-asymmetric-evaluation-in</link>
+      <guid isPermaLink="false">NPINS.005460</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: New results on stability analysis for a class of generalized delayed neural networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000018</link>
+      <guid isPermaLink="false">NPINS.005459</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Identifying key players in complex networks via network entanglement</title>
+      <link>https://www.nature.com/articles/s42005-023-01483-8</link>
+      <guid isPermaLink="false">NPINS.005458</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Epidemic modelling requires knowledge of the social network</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad19e0</link>
+      <guid isPermaLink="false">NPINS.005457</guid>
+    </item>
+    <item>
+      <title>EPL: Coupled propagation dynamics on complex networks: A brief review</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad0f4f</link>
+      <guid isPermaLink="false">NPINS.005456</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Hypergraph patterns and collaboration structure</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1301994</link>
+      <guid isPermaLink="false">NPINS.005455</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Universal scaling relation and criticality in metabolism and growth of Escherichia coli</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013035</link>
+      <guid isPermaLink="false">NPINS.005454</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: American politics in 3D: measuring multidimensional issue alignment in social media using social graphs and text data</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00608-w</link>
+      <guid isPermaLink="false">NPINS.005453</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Landscape quantifies the intermediate state and transition dynamics in ecological networks</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011766</link>
@@ -463,56 +513,6 @@
       <title>Chaos: Stability of Kuramoto networks subject to large and small fluctuations from heterogeneous and spatially correlated noise</title>
       <link>https://pubs.aip.org/aip/cha/article/33/11/113129/2922897/Stability-of-Kuramoto-networks-subject-to-large</link>
       <guid isPermaLink="false">NPINS.005363</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Centrality-Based Traffic Restriction in Delayed Epidemic Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1507760?af=R</link>
-      <guid isPermaLink="false">NPINS.005362</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Heavy-tailed distributions of confirmed COVID-19 cases and deaths in spatiotemporal space</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294445</link>
-      <guid isPermaLink="false">NPINS.005361</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Large-scale group-hierarchical DEMATEL method for complex systems</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288326</link>
-      <guid isPermaLink="false">NPINS.005360</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Unbalanced signed bicyclic graphs minimizing the least eigenvalue</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006471</link>
-      <guid isPermaLink="false">NPINS.005359</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Network analysis of patterns and relevance of enteric pathogen co-infections among infants in a diarrhea-endemic setting</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011624</link>
-      <guid isPermaLink="false">NPINS.005358</guid>
-    </item>
-    <item>
-      <title>iScience: A machine learning and directed network optimization approach to uncover &lt;em&gt;TP53&lt;/em&gt; regulatory patterns</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004223023684</link>
-      <guid isPermaLink="false">NPINS.005357</guid>
-    </item>
-    <item>
-      <title>EPL: Novel perturbation mechanism underlying the network fragility evolution</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad0c6e</link>
-      <guid isPermaLink="false">NPINS.005356</guid>
-    </item>
-    <item>
-      <title>EPL: Multifractality and statistical localization in highly heterogeneous random networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad1001</link>
-      <guid isPermaLink="false">NPINS.005355</guid>
-    </item>
-    <item>
-      <title>Nature: Human mobility networks reveal increased segregation in large cities</title>
-      <link>https://www.nature.com/articles/s41586-023-06757-3</link>
-      <guid isPermaLink="false">NPINS.005354</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The spatial public goods game on hypergraphs with heterogeneous investment</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006197</link>
-      <guid isPermaLink="false">NPINS.005353</guid>
     </item>
   </channel>
 </rss>
