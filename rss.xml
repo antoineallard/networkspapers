@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jan 2024 22:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 11:39:36 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Geometric Network Creation Games</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/20M1376662?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005467</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Controlling target brain regions by optimal selection of input nodes</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011274</link>
+      <guid isPermaLink="false">NPINS.005466</guid>
+    </item>
+    <item>
+      <title>Chaos: Epidemic spreading under game-based self-quarantine behaviors: The different effects of local and global information</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/1/013112/2932961/Epidemic-spreading-under-game-based-self</link>
+      <guid isPermaLink="false">NPINS.005465</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Robustness of interdependent hypergraphs: A bipartite network framework</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013049</link>
+      <guid isPermaLink="false">NPINS.005464</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Monte Carlo study for the thermodynamic and dynamic phase transitions in the spin-S Ising model on Sierpiński carpet</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad0a91</link>
+      <guid isPermaLink="false">NPINS.005463</guid>
+    </item>
     <item>
       <title>EPJ Data Sci.: On the duration of face-to-face contacts</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00444-z</link>
@@ -488,31 +513,6 @@
       <title>Chaos: Phase synchronization in a sparse network of randomly connected neurons under the effect of Poissonian spike inputs</title>
       <link>https://pubs.aip.org/aip/cha/article/33/12/123115/2928923/Phase-synchronization-in-a-sparse-network-of</link>
       <guid isPermaLink="false">NPINS.005368</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Republished: Dynamics of Stochastic Integrate-and-Fire Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.13.041047</link>
-      <guid isPermaLink="false">NPINS.005367</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Imaginary network motifs: Structural patterns of false positives and negatives in social networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000813</link>
-      <guid isPermaLink="false">NPINS.005366</guid>
-    </item>
-    <item>
-      <title>Chaos: Ergodicity bounds for stable Ornstein–Uhlenbeck systems in Wasserstein distance with applications to cutoff stability</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/11/113124/2922086/Ergodicity-bounds-for-stable-Ornstein-Uhlenbeck</link>
-      <guid isPermaLink="false">NPINS.005365</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Universal productivity patterns in research careers</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043203</link>
-      <guid isPermaLink="false">NPINS.005364</guid>
-    </item>
-    <item>
-      <title>Chaos: Stability of Kuramoto networks subject to large and small fluctuations from heterogeneous and spatially correlated noise</title>
-      <link>https://pubs.aip.org/aip/cha/article/33/11/113129/2922897/Stability-of-Kuramoto-networks-subject-to-large</link>
-      <guid isPermaLink="false">NPINS.005363</guid>
     </item>
   </channel>
 </rss>
