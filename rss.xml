@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jan 2024 19:47:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 13:58:41 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: Identifying the key player in the diffusion network of global economic policy uncertainty</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1328736</link>
+      <guid isPermaLink="false">NPINS.005477</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Theorizing the concept of social tie using frames</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000017</link>
+      <guid isPermaLink="false">NPINS.005476</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Rewiring driven evolution of quenched frustrated signed network</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad1a1a</link>
+      <guid isPermaLink="false">NPINS.005475</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Explicit mutual information for simple networks and neurons with lognormal activities</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014117</link>
+      <guid isPermaLink="false">NPINS.005474</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Exploring universality of the $β\text{−}\text{Gaussian}$ ensemble in complex networks via intermediate eigenvalue statistics</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014218</link>
+      <guid isPermaLink="false">NPINS.005473</guid>
+    </item>
     <item>
       <title>Phys. Life Rev.: Does the brain behave like a (complex) network? I. Dynamics</title>
       <link>https://www.sciencedirect.com/science/article/pii/S1571064523002105</link>
@@ -488,31 +513,6 @@
       <title>PNAS: Hyperedge prediction and the statistical mechanisms of higher-order and lower-order interactions in complex networks</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2303887120?af=R</link>
       <guid isPermaLink="false">NPINS.005378</guid>
-    </item>
-    <item>
-      <title>iScience: Virus-host protein co-expression networks reveal temporal organization and strategies of viral infection</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S258900422302552X</link>
-      <guid isPermaLink="false">NPINS.005377</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: Editorial: Construction of transcriptional and alternative splicing regulatory networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2023.1334202</link>
-      <guid isPermaLink="false">NPINS.005376</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: The mass of simple and higher-order networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad0fb5</link>
-      <guid isPermaLink="false">NPINS.005375</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Normal 5-edge-coloring of some snarks superpositioned by the Petersen graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006628</link>
-      <guid isPermaLink="false">NPINS.005374</guid>
-    </item>
-    <item>
-      <title>PNAS: Socioeconomic reorganization of communication and mobility networks in response to external shocks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2305285120?af=R</link>
-      <guid isPermaLink="false">NPINS.005373</guid>
     </item>
   </channel>
 </rss>
