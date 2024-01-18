@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 20:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 13:35:10 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Phys.: Heavy-tailed neuronal connectivity arises from Hebbian self-organization</title>
+      <link>https://www.nature.com/articles/s41567-023-02332-9</link>
+      <guid isPermaLink="false">NPINS.005482</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: A Property on Monochromatic Copies of Graphs Containing a Triangle</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1564894?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005481</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Ordering dynamics and aging in the symmetrical threshold model</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad1ad4</link>
+      <guid isPermaLink="false">NPINS.005480</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Persistence of chimera states and the challenge for synchronization in real-world networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-023-00630-y</link>
+      <guid isPermaLink="false">NPINS.005479</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Stable Synchronous Propagation of Signals by Feedforward Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1552267?af=R</link>
+      <guid isPermaLink="false">NPINS.005478</guid>
+    </item>
     <item>
       <title>Front. Phys.: Identifying the key player in the diffusion network of global economic policy uncertainty</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1328736</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Research: Tipping point for pulsatile oscillations in dynamical networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043209</link>
       <guid isPermaLink="false">NPINS.005383</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Statistical mechanics of inference in epidemic spreading</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.064302</link>
-      <guid isPermaLink="false">NPINS.005382</guid>
-    </item>
-    <item>
-      <title>EPL: A research of a strategy to balance the importance and dispersion of multiple critical nodes</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad0ac3</link>
-      <guid isPermaLink="false">NPINS.005381</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Node-bound communities for partition of unity interpolation on graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006719</link>
-      <guid isPermaLink="false">NPINS.005380</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Social identity bias and communication network clustering interact to shape patterns of opinion dynamics</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0372?af=R</link>
-      <guid isPermaLink="false">NPINS.005379</guid>
-    </item>
-    <item>
-      <title>PNAS: Hyperedge prediction and the statistical mechanisms of higher-order and lower-order interactions in complex networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2303887120?af=R</link>
-      <guid isPermaLink="false">NPINS.005378</guid>
     </item>
   </channel>
 </rss>
