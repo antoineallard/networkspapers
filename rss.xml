@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jan 2024 03:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 12:12:44 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Neural heterogeneity controls computations in spiking neural networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2311885121?af=R</link>
+      <guid isPermaLink="false">NPINS.005492</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Geometric Deep Learning sub-network extraction for Maximum Clique Enumeration</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296185</link>
+      <guid isPermaLink="false">NPINS.005491</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Percolation and Topological Properties of Temporal Higher-Order Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.037401</link>
+      <guid isPermaLink="false">NPINS.005490</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Mastering percolation-like games with deep learning</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013067</link>
+      <guid isPermaLink="false">NPINS.005489</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Epidemic extinction in a simplicial susceptible-infected-susceptible model</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad138d</link>
+      <guid isPermaLink="false">NPINS.005488</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: High-Dimensional Cointegration and Kuramoto Inspired Systems</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1509771?af=R</link>
+      <guid isPermaLink="false">NPINS.005487</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Theory of percolation on hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014306</link>
+      <guid isPermaLink="false">NPINS.005486</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Higher-order random network models</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad106a</link>
+      <guid isPermaLink="false">NPINS.005485</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Invertibility of Digraphs and Tournaments</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1547135?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005484</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: Exploration of the hypoglycemic mechanism of Fuzhuan brick tea based on integrating global metabolomics and network pharmacology analysis</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2023.1266156</link>
+      <guid isPermaLink="false">NPINS.005483</guid>
+    </item>
     <item>
       <title>Nat. Phys.: Heavy-tailed neuronal connectivity arises from Hebbian self-organization</title>
       <link>https://www.nature.com/articles/s41567-023-02332-9</link>
@@ -463,56 +513,6 @@
       <title>J. Stat. Mech.: Improved mean-field dynamical equations are able to detect the two-step relaxation in glassy dynamics at low temperatures</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad0f90</link>
       <guid isPermaLink="false">NPINS.005393</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Effect of behavioral changes on epidemic spreading in coupled simplicial activity driven networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad0a83</link>
-      <guid isPermaLink="false">NPINS.005392</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Quantifying the hierarchical adherence of modular documents</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad0a9b</link>
-      <guid isPermaLink="false">NPINS.005391</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: The genetic relationships between brain structure and schizophrenia</title>
-      <link>https://www.nature.com/articles/s41467-023-43567-7</link>
-      <guid isPermaLink="false">NPINS.005390</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Graph theory captures hard-core exclusion</title>
-      <link>https://www.nature.com/articles/s41567-023-02342-7</link>
-      <guid isPermaLink="false">NPINS.005389</guid>
-    </item>
-    <item>
-      <title>PNAS: An interaction network approach predicts protein cage architectures in bionanotechnology</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2303580120?af=R</link>
-      <guid isPermaLink="false">NPINS.005388</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Storage and Learning Phase Transitions in the Random-Features Hopfield Model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.257301</link>
-      <guid isPermaLink="false">NPINS.005387</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Partial remote synchronization in star-like networks with partial connections among leaf nodes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043253</link>
-      <guid isPermaLink="false">NPINS.005386</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: The influence of the COVID-19 pandemic on the short- and long-term interactions in the agricultural market: Evidence from a connectedness network approach</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295294</link>
-      <guid isPermaLink="false">NPINS.005385</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Improved brain community structure detection by two-step weighted modularity maximization</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295428</link>
-      <guid isPermaLink="false">NPINS.005384</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Tipping point for pulsatile oscillations in dynamical networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043209</link>
-      <guid isPermaLink="false">NPINS.005383</guid>
     </item>
   </channel>
 </rss>
