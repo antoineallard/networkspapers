@@ -46,7 +46,7 @@ for i in range(nb_entries-1, -1, -1):
     #     quit()
 
     if prompt(query="Open in browser? [Y/n/q]", if_empty=True):
-        webbrowser.get('Safari').open(feeds.posts_to_review[i].split("\n")[-1])
+        webbrowser.get('Safari').open_new(feeds.posts_to_review[i].split("\n")[-1])
 
     if prompt(query="Save tweet/toot? [Y/n/q]", if_empty=True):
         # feeds.post_to_twitter(feeds.posts_to_review[i])
