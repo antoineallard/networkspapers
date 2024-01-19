@@ -36,7 +36,6 @@ random.shuffle(feeds.posts_to_review)
 
 # Loops over all entries.
 nb_entries = len(feeds.posts_to_review)
-first_tab = True
 for i in range(nb_entries-1, -1, -1):
 
     # Review the tweet.
@@ -47,13 +46,7 @@ for i in range(nb_entries-1, -1, -1):
     #     quit()
 
     if prompt(query="Open in browser? [Y/n/q]", if_empty=True):
-        browser = webbrowser.get('Safari')
-        url = feeds.posts_to_review[i].split("\n")[-1]
-        if first_tab:
-            browser.open_new(url)
-            first = False
-        else:
-            browser.open_new_tab(url)
+        webbrowser.get('Safari').open(feeds.posts_to_review[i].split("\n")[-1])
 
     if prompt(query="Save tweet/toot? [Y/n/q]", if_empty=True):
         # feeds.post_to_twitter(feeds.posts_to_review[i])
