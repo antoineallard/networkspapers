@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jan 2024 01:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 14:47:07 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Square Coloring Planar Graphs with Automatic Discharging</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1492623?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005502</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Improving structure-based protein-ligand affinity prediction by graph representation learning and ensemble learning</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296676</link>
+      <guid isPermaLink="false">NPINS.005501</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Hebbian and anti-Hebbian adaptation-induced dynamical states in adaptive networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014221</link>
+      <guid isPermaLink="false">NPINS.005500</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Cover times of many random walkers on a discrete network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014121</link>
+      <guid isPermaLink="false">NPINS.005499</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Group structure and individual relationships of sanctuary-living Grauer’s gorillas (&lt;i&gt;Gorilla beringei graueri)&lt;/i&gt;</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295561</link>
+      <guid isPermaLink="false">NPINS.005498</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Nature of hypergraph $k$-core percolation problems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014307</link>
+      <guid isPermaLink="false">NPINS.005497</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A new approach based on system solutions for passivity analysis of discrete-time memristor-based neural networks with time-varying delays</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000237</link>
+      <guid isPermaLink="false">NPINS.005496</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Delay-induced amplitude death in multiplex oscillator network with frequency-mismatched layers</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014220</link>
+      <guid isPermaLink="false">NPINS.005495</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: The structure and robustness of ecological networks with two interaction types</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011770</link>
+      <guid isPermaLink="false">NPINS.005494</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Information cascade prediction of complex networks based on physics-informed graph convolutional network</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad1b29</link>
+      <guid isPermaLink="false">NPINS.005493</guid>
+    </item>
     <item>
       <title>PNAS: Neural heterogeneity controls computations in spiking neural networks</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2311885121?af=R</link>
@@ -463,56 +513,6 @@
       <title>Chaos: Heterogeneous decision-making dynamics of threshold-switching agents on complex networks</title>
       <link>https://pubs.aip.org/aip/cha/article/33/12/123133/2931569/Heterogeneous-decision-making-dynamics-of</link>
       <guid isPermaLink="false">NPINS.005403</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Human-network regions as effective geographic units for disease mitigation</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00426-1</link>
-      <guid isPermaLink="false">NPINS.005402</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Decomposing the percolation backbone reveals novel scaling laws of the current distribution</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1335339</link>
-      <guid isPermaLink="false">NPINS.005401</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Transformations, trajectories, and similarities of national production structures: A comparative fingerprinting approach</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295568</link>
-      <guid isPermaLink="false">NPINS.005400</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Scaling in local to global condensation of wealth on sparse networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.108.064303</link>
-      <guid isPermaLink="false">NPINS.005399</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Community Recovery in the Geometric Block Model</title>
-      <link>http://jmlr.org/papers/v24/22-0572.html</link>
-      <guid isPermaLink="false">NPINS.005398</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Large data limit of the MBO scheme for data clustering: convergence of the dynamics</title>
-      <link>http://jmlr.org/papers/v24/22-1089.html</link>
-      <guid isPermaLink="false">NPINS.005397</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Beyond Spectral Gap: The Role of the Topology in Decentralized Learning</title>
-      <link>http://jmlr.org/papers/v24/22-1471.html</link>
-      <guid isPermaLink="false">NPINS.005396</guid>
-    </item>
-    <item>
-      <title>PNAS: Reply to Castro et al.: Do connectomes possess markers of activity-dependent synaptic plasticity?</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2317056120?af=R</link>
-      <guid isPermaLink="false">NPINS.005395</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Higher-Order Spectral Clustering Under Superimposed Stochastic Block Models</title>
-      <link>http://jmlr.org/papers/v24/19-183.html</link>
-      <guid isPermaLink="false">NPINS.005394</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Improved mean-field dynamical equations are able to detect the two-step relaxation in glassy dynamics at low temperatures</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad0f90</link>
-      <guid isPermaLink="false">NPINS.005393</guid>
     </item>
   </channel>
 </rss>
