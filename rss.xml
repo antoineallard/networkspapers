@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 23:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 14:49:25 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Complex localization mechanisms in networks of coupled oscillators: Two case studies</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/1/013131/3061429/Complex-localization-mechanisms-in-networks-of</link>
+      <guid isPermaLink="false">NPINS.005517</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: On the advances in machine learning and complex network measures to an EEG dataset from DMT experiments</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad1c68</link>
+      <guid isPermaLink="false">NPINS.005516</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Equity and spatial accessibility of healthcare resources in online health community network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1336624</link>
+      <guid isPermaLink="false">NPINS.005515</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Optimal conditions for environment-assisted quantum transport on the fully connected network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014310</link>
+      <guid isPermaLink="false">NPINS.005514</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Temporal network compression via network hashing</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00609-9</link>
+      <guid isPermaLink="false">NPINS.005513</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Spontaneous emergence of groups and signaling diversity in dynamic networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014309</link>
+      <guid isPermaLink="false">NPINS.005512</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: Jeans and language: kin networks and reproductive success are associated with the adoption of outgroup norms</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0031?af=R</link>
+      <guid isPermaLink="false">NPINS.005511</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Modeling teams performance using deep representational learning on graphs</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00442-1</link>
+      <guid isPermaLink="false">NPINS.005510</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Sufficient Conditions for Linear Stability of Complex-Balanced Equilibria in Generalized Mass-Action Systems</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M154260X?af=R</link>
+      <guid isPermaLink="false">NPINS.005509</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Reduction of Chemical Reaction Networks with Approximate Conservation Laws</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1543963?af=R</link>
+      <guid isPermaLink="false">NPINS.005508</guid>
+    </item>
     <item>
       <title>Chaos: Resilience of transportation infrastructure networks to road failures</title>
       <link>https://pubs.aip.org/aip/cha/article/34/1/013124/3037471/Resilience-of-transportation-infrastructure</link>
@@ -463,56 +513,6 @@
       <title>EPJ Data Sci.: Untangling pair synergy in the evolution of collaborative scientific impact</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00439-w</link>
       <guid isPermaLink="false">NPINS.005418</guid>
-    </item>
-    <item>
-      <title>PNAS: A simplicial epidemic model for COVID-19 spread analysis</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2313171120?af=R</link>
-      <guid isPermaLink="false">NPINS.005417</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Information-sharing and cooperation in networked collective action groups</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad399</link>
-      <guid isPermaLink="false">NPINS.005416</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Co-evolution of a socio-cognitive scientific network: A case study of citation dynamics among astronomers</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000837</link>
-      <guid isPermaLink="false">NPINS.005415</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Neural network-based robust consensus tracking for uncertain networked Euler-Lagrange systems with time-varying delays and output constraints</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006914</link>
-      <guid isPermaLink="false">NPINS.005414</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Accurate graph classification via two-staged contrastive curriculum learning</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296171</link>
-      <guid isPermaLink="false">NPINS.005413</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.267401</link>
-      <guid isPermaLink="false">NPINS.005412</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Number of Attractors in the Critical Kauffman Model Is Exponential</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.131.267402</link>
-      <guid isPermaLink="false">NPINS.005411</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: A data-driven approach shows that individuals' characteristics are more important than their networks in predicting fertility preferences</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230988?af=R</link>
-      <guid isPermaLink="false">NPINS.005410</guid>
-    </item>
-    <item>
-      <title>EPL: Correspondence between the Hamiltonian cycle problem and the quantum lattice gauge theory</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad130b</link>
-      <guid isPermaLink="false">NPINS.005409</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A network approach to zooarchaeological datasets and human-centered ecosystems in southwestern Florida</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295906</link>
-      <guid isPermaLink="false">NPINS.005408</guid>
     </item>
   </channel>
 </rss>
