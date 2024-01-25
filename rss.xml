@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jan 2024 01:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 14:16:44 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Understanding random-walk dynamical phase coexistence through waiting times</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013077</link>
+      <guid isPermaLink="false">NPINS.005522</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Revealing and reshaping attractor dynamics in large networks of cortical neurons</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011784</link>
+      <guid isPermaLink="false">NPINS.005521</guid>
+    </item>
+    <item>
+      <title>Chaos: Reconfiguration of Amazon’s connectivity in the climate system</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/1/013134/3061541/Reconfiguration-of-Amazon-s-connectivity-in-the</link>
+      <guid isPermaLink="false">NPINS.005520</guid>
+    </item>
+    <item>
+      <title>Chaos: Predicting Braess's paradox of power grids using graph neural networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/1/013127/3061430/Predicting-Braess-s-paradox-of-power-grids-using</link>
+      <guid isPermaLink="false">NPINS.005519</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Economic policy uncertainty on stock market risk contagion: a network-based approach</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1094659</link>
+      <guid isPermaLink="false">NPINS.005518</guid>
+    </item>
     <item>
       <title>Chaos: Complex localization mechanisms in networks of coupled oscillators: Two case studies</title>
       <link>https://pubs.aip.org/aip/cha/article/34/1/013131/3061429/Complex-localization-mechanisms-in-networks-of</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Correcting a nonparametric two-sample graph hypothesis test for graphs with different numbers of vertices with applications to connectomics</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00607-x</link>
       <guid isPermaLink="false">NPINS.005423</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Individual mobility deep insight using mobile phones data</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00431-4</link>
-      <guid isPermaLink="false">NPINS.005422</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: PyRates—A code-generation tool for modeling dynamical systems in biology and beyond</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011761</link>
-      <guid isPermaLink="false">NPINS.005421</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Thermodynamic limit of spin systems on random graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013011</link>
-      <guid isPermaLink="false">NPINS.005420</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: SHEEP, a Signed Hamiltonian Eigenvector Embedding for Proximity</title>
-      <link>https://www.nature.com/articles/s42005-023-01504-6</link>
-      <guid isPermaLink="false">NPINS.005419</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Untangling pair synergy in the evolution of collaborative scientific impact</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00439-w</link>
-      <guid isPermaLink="false">NPINS.005418</guid>
     </item>
   </channel>
 </rss>
