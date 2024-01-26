@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 14:24:32 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Locating sources of Szegedy's quantum network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014311</link>
+      <guid isPermaLink="false">NPINS.005527</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Stochastic actor oriented model with random effects</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000029</link>
+      <guid isPermaLink="false">NPINS.005526</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Fault resilience in network of energy harvesters</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad1db7</link>
+      <guid isPermaLink="false">NPINS.005525</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Inferring country-specific import risk of diseases from the world air transportation network</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011775</link>
+      <guid isPermaLink="false">NPINS.005524</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The spectral radius of H2k-free graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000328</link>
+      <guid isPermaLink="false">NPINS.005523</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Understanding random-walk dynamical phase coexistence through waiting times</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013077</link>
@@ -488,31 +513,6 @@
       <title>EPJ Data Sci.: Studying social networks in the age of computational social science</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00436-z</link>
       <guid isPermaLink="false">NPINS.005428</guid>
-    </item>
-    <item>
-      <title>PNAS: Rate-induced tipping in complex high-dimensional ecological networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2308820120?af=R</link>
-      <guid isPermaLink="false">NPINS.005427</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On Weighted Graph Separation Problems and Flow Augmentation</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M153118X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005426</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Possible origin for the similar phase transitions in k-core and interdependent networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad1539</link>
-      <guid isPermaLink="false">NPINS.005425</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Synaptic dependence of dynamic regimes when coupling neural populations</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014301</link>
-      <guid isPermaLink="false">NPINS.005424</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Correcting a nonparametric two-sample graph hypothesis test for graphs with different numbers of vertices with applications to connectomics</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00607-x</link>
-      <guid isPermaLink="false">NPINS.005423</guid>
     </item>
   </channel>
 </rss>
