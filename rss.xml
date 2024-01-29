@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jan 2024 02:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 14:02:10 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Modeling disinformation networks on Twitter: structure, behavior, and impact</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00610-w</link>
+      <guid isPermaLink="false">NPINS.005532</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Adapting to disruptions: Managing supply chain resilience through product rerouting</title>
+      <link>https://doi.org/10.1126/sciadv.adj1194</link>
+      <guid isPermaLink="false">NPINS.005531</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Self-organized bistability on globally coupled higher-order networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014225</link>
+      <guid isPermaLink="false">NPINS.005530</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Detecting possible pairs of materials for composites using a material word co-occurrence network</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297361</link>
+      <guid isPermaLink="false">NPINS.005529</guid>
+    </item>
+    <item>
+      <title>Chaos: Predicting dynamic stability from static features in power grid models using machine learning</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/1/013139/3130841/Predicting-dynamic-stability-from-static-features</link>
+      <guid isPermaLink="false">NPINS.005528</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Locating sources of Szegedy's quantum network</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014311</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Appl. Dyn. Syst.: Spreading and Structural Balance on Signed Networks</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1542325?af=R</link>
       <guid isPermaLink="false">NPINS.005433</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Fidelity-estimation method for graph states with depolarizing noise</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043260</link>
-      <guid isPermaLink="false">NPINS.005432</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Down and out? the role of household income in students’ friendship formation in school-classes</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000874</link>
-      <guid isPermaLink="false">NPINS.005431</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Quantifying the distribution of feature values over data represented in arbitrary dimensional spaces</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011768</link>
-      <guid isPermaLink="false">NPINS.005430</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Packing and Covering a Given Directed Graph in a Directed Graph</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1534134?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005429</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Studying social networks in the age of computational social science</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00436-z</link>
-      <guid isPermaLink="false">NPINS.005428</guid>
     </item>
   </channel>
 </rss>
