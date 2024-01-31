@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jan 2024 22:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 13:59:53 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Finding optimal pathways in chemical reaction networks using Ising machines</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013115</link>
+      <guid isPermaLink="false">NPINS.005542</guid>
+    </item>
+    <item>
+      <title>Chaos: Diversity-induced trivialization and resilience of neural dynamics</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/1/013147/3222751/Diversity-induced-trivialization-and-resilience-of</link>
+      <guid isPermaLink="false">NPINS.005541</guid>
+    </item>
+    <item>
+      <title>Chaos: Fundamental patterns of signal propagation in complex networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/1/013149/3222763/Fundamental-patterns-of-signal-propagation-in</link>
+      <guid isPermaLink="false">NPINS.005540</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Structure of road networks and the shape of the macroscopic fundamental diagram</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014314</link>
+      <guid isPermaLink="false">NPINS.005539</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Minor intron–containing genes as an ancient backbone for viral infection?</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgad479</link>
+      <guid isPermaLink="false">NPINS.005538</guid>
+    </item>
     <item>
       <title>Chaos: Insights into oscillator network dynamics using a phase-isostable framework</title>
       <link>https://pubs.aip.org/aip/cha/article/34/1/013141/3130838/Insights-into-oscillator-network-dynamics-using-a</link>
@@ -488,31 +513,6 @@
       <title>EPJ Data Sci.: Deflating the Chinese balloon: types of Twitter bots in US-China balloon incident</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00440-3</link>
       <guid isPermaLink="false">NPINS.005443</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Computing Connection Matrices via Persistence-Like Reductions</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1562469?af=R</link>
-      <guid isPermaLink="false">NPINS.005442</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Tangles and Hierarchical Clustering</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1484936?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005441</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Highly Connected Subgraphs with Large Chromatic Number</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M150040X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005440</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Robustness and resilience of complex networks</title>
-      <link>https://www.nature.com/articles/s42254-023-00676-y</link>
-      <guid isPermaLink="false">NPINS.005439</guid>
-    </item>
-    <item>
-      <title>Curr. Res. J. Biol. Sci.: SAGESDA: Multi-GraphSAGE networks for predicting SnoRNA-disease associations</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2665928X23000284</link>
-      <guid isPermaLink="false">NPINS.005438</guid>
     </item>
   </channel>
 </rss>
