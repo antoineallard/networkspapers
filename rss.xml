@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 02:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 18:45:41 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Adv.: Cell-cell communication network-based interpretable machine learning predicts cancer patient response to immune checkpoint inhibitors</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adj0785</link>
+      <guid isPermaLink="false">NPINS.005547</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Impact of medical technologies may be predicted using constructed graph bibliometrics</title>
+      <link>https://www.nature.com/articles/s41598-024-52233-x</link>
+      <guid isPermaLink="false">NPINS.005546</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Conversion of spikers to bursters in pituitary cell networks: Is it better to disperse for maximum exposure or circle the wagons?</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011811</link>
+      <guid isPermaLink="false">NPINS.005545</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Exact low-dimensional description for fast neural oscillations with low firing rates</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014229</link>
+      <guid isPermaLink="false">NPINS.005544</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A note on decomposing graphs to locally almost irregular subgraphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000560</link>
+      <guid isPermaLink="false">NPINS.005543</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Finding optimal pathways in chemical reaction networks using Ising machines</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013115</link>
@@ -488,31 +513,6 @@
       <title>Sci. Adv.: Transformation of social relationships in COVID-19 America: Remote communication may amplify political echo chambers</title>
       <link>https://www.science.org/doi/10.1126/sciadv.adi1540</link>
       <guid isPermaLink="false">NPINS.005448</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On Ramsey Size-Linear Graphs and Related Questions</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1481713?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005447</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Generating fine-grained surrogate temporal networks</title>
-      <link>https://www.nature.com/articles/s42005-023-01517-1</link>
-      <guid isPermaLink="false">NPINS.005446</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On the Erdős–Pósa Property for Long Holes in C4-Free Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1435239?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005445</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Inferring neural activity before plasticity as a foundation for learning beyond backpropagation</title>
-      <link>https://www.nature.com/articles/s41593-023-01514-1</link>
-      <guid isPermaLink="false">NPINS.005444</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Deflating the Chinese balloon: types of Twitter bots in US-China balloon incident</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00440-3</link>
-      <guid isPermaLink="false">NPINS.005443</guid>
     </item>
   </channel>
 </rss>
