@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Feb 2024 03:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 13:53:31 +0000</lastBuildDate>
+    <item>
+      <title>R. Soc. Open Sci.: Fibre crosslinking drives the emergence of order in a three-dimensional dynamical network model</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231456?af=R</link>
+      <guid isPermaLink="false">NPINS.005552</guid>
+    </item>
+    <item>
+      <title>PNAS: Network architecture of intrinsic connectivity in a mammalian spinal cord (the central nervous system’s caudal sector)</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2320953121?af=R</link>
+      <guid isPermaLink="false">NPINS.005551</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Application of connectivity index of cubic fuzzy graphs for identification of danger zones of tsunami threat</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297197</link>
+      <guid isPermaLink="false">NPINS.005550</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Account credibility inference based on news-sharing networks</title>
+      <link>https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-024-00450-9</link>
+      <guid isPermaLink="false">NPINS.005549</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Which sport is becoming more predictable? A cross-discipline analysis of predictability in team sports</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00448-3</link>
+      <guid isPermaLink="false">NPINS.005548</guid>
+    </item>
     <item>
       <title>Sci. Adv.: Cell-cell communication network-based interpretable machine learning predicts cancer patient response to immune checkpoint inhibitors</title>
       <link>https://www.science.org/doi/10.1126/sciadv.adj0785</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: American politics in 3D: measuring multidimensional issue alignment in social media using social graphs and text data</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00608-w</link>
       <guid isPermaLink="false">NPINS.005453</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Landscape quantifies the intermediate state and transition dynamics in ecological networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011766</link>
-      <guid isPermaLink="false">NPINS.005452</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: The low-rank hypothesis of complex systems</title>
-      <link>https://www.nature.com/articles/s41567-023-02303-0</link>
-      <guid isPermaLink="false">NPINS.005451</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Treewidth and Pathwidth of Graph Unions</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1524047?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005450</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Cross-sectional social network study of adolescent peer group variation in substance use and mental wellbeing: The importance of the meso level</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000862</link>
-      <guid isPermaLink="false">NPINS.005449</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Transformation of social relationships in COVID-19 America: Remote communication may amplify political echo chambers</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adi1540</link>
-      <guid isPermaLink="false">NPINS.005448</guid>
     </item>
   </channel>
 </rss>
