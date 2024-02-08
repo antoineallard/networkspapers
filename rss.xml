@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 01:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 15:46:33 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Information content of note transitions in the music of J. S. Bach</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013136</link>
+      <guid isPermaLink="false">NPINS.005572</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Applications of information geometry to spiking neural network activity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024302</link>
+      <guid isPermaLink="false">NPINS.005571</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: A Unified Approach to Reverse Engineering and Data Selection for Unique Network Identification</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1540570?af=R</link>
+      <guid isPermaLink="false">NPINS.005570</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Detecting potential cooperative network for tourist attractions in a destination using search data</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298035</link>
+      <guid isPermaLink="false">NPINS.005569</guid>
+    </item>
+    <item>
+      <title>PNAS: Positive associations fuel soil biodiversity and ecological networks worldwide</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2308769121?af=R</link>
+      <guid isPermaLink="false">NPINS.005568</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Pure Pairs. IX. Transversal Trees</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/21M1456509?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Exploring universality of the $β\text{−}\text{Gaussian}$ ensemble in complex networks via intermediate eigenvalue statistics</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014218</link>
       <guid isPermaLink="false">NPINS.005473</guid>
-    </item>
-    <item>
-      <title>Phys. Life Rev.: Does the brain behave like a (complex) network? I. Dynamics</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1571064523002105</link>
-      <guid isPermaLink="false">NPINS.005472</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Roman [1,2]-domination of graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300323006896</link>
-      <guid isPermaLink="false">NPINS.005471</guid>
-    </item>
-    <item>
-      <title>Curr. Opin. Struct. Biol.: Generative AI for graph-based drug design: Recent advances and the way forward</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0959440X23002439</link>
-      <guid isPermaLink="false">NPINS.005470</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Predicting species emergence in simulated complex pre-biotic networks</title>
-      <link>https://doi.org/10.1371/journal.pone.0192871</link>
-      <guid isPermaLink="false">NPINS.005469</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Ramsey Equivalence for Asymmetric Pairs of Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1558239?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005468</guid>
     </item>
   </channel>
 </rss>
