@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 18:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 15:11:19 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Motion states identification of underwater glider based on complex networks and graph convolutional networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023108/3262394/Motion-states-identification-of-underwater-glider</link>
+      <guid isPermaLink="false">NPINS.005577</guid>
+    </item>
+    <item>
+      <title>Chaos: Order parameter dynamics in complex systems: From models to data</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/022101/3261859/Order-parameter-dynamics-in-complex-systems-From</link>
+      <guid isPermaLink="false">NPINS.005576</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Cytotoxic metabolites from &lt;i&gt;Sinularia levi&lt;/i&gt; supported by network pharmacology</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294311</link>
+      <guid isPermaLink="false">NPINS.005575</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Some Cubic Time Regularity Algorithms for Triple Systems</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M145046X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005574</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Learning interpretable collective variables for spreading processes on networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L022301</link>
+      <guid isPermaLink="false">NPINS.005573</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Information content of note transitions in the music of J. S. Bach</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013136</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Appl. Dyn. Syst.: Stable Synchronous Propagation of Signals by Feedforward Networks</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1552267?af=R</link>
       <guid isPermaLink="false">NPINS.005478</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Identifying the key player in the diffusion network of global economic policy uncertainty</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1328736</link>
-      <guid isPermaLink="false">NPINS.005477</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Theorizing the concept of social tie using frames</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000017</link>
-      <guid isPermaLink="false">NPINS.005476</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Rewiring driven evolution of quenched frustrated signed network</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad1a1a</link>
-      <guid isPermaLink="false">NPINS.005475</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Explicit mutual information for simple networks and neurons with lognormal activities</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014117</link>
-      <guid isPermaLink="false">NPINS.005474</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Exploring universality of the $β\text{−}\text{Gaussian}$ ensemble in complex networks via intermediate eigenvalue statistics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014218</link>
-      <guid isPermaLink="false">NPINS.005473</guid>
     </item>
   </channel>
 </rss>
