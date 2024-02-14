@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Feb 2024 02:47:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 13:56:25 +0000</lastBuildDate>
+    <item>
+      <title>PNAS Nexus: From populations to networks: Relating diversity indices and frustration in signed graphs</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae046</link>
+      <guid isPermaLink="false">NPINS.005592</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Strongly clustered random graphs via triadic closure: An exactly solvable model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024306</link>
+      <guid isPermaLink="false">NPINS.005591</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Learning what matters: Synaptic plasticity with invariance to second-order input correlations</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011844</link>
+      <guid isPermaLink="false">NPINS.005590</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: New method for global exponential synchronization of multi-link memristive neural networks with three kinds of time-varying delays</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000651</link>
+      <guid isPermaLink="false">NPINS.005589</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Strong Cocomparability Graphs and Slash-Free Orderings of Matrices</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M153238X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005588</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Effectiveness of contact tracing on networks with cliques</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024303</link>
@@ -488,31 +513,6 @@
       <title>New J. Phys.: Information cascade prediction of complex networks based on physics-informed graph convolutional network</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad1b29</link>
       <guid isPermaLink="false">NPINS.005493</guid>
-    </item>
-    <item>
-      <title>PNAS: Neural heterogeneity controls computations in spiking neural networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2311885121?af=R</link>
-      <guid isPermaLink="false">NPINS.005492</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Geometric Deep Learning sub-network extraction for Maximum Clique Enumeration</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296185</link>
-      <guid isPermaLink="false">NPINS.005491</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Percolation and Topological Properties of Temporal Higher-Order Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.037401</link>
-      <guid isPermaLink="false">NPINS.005490</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Mastering percolation-like games with deep learning</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013067</link>
-      <guid isPermaLink="false">NPINS.005489</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Epidemic extinction in a simplicial susceptible-infected-susceptible model</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad138d</link>
-      <guid isPermaLink="false">NPINS.005488</guid>
     </item>
   </channel>
 </rss>
