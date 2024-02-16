@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Feb 2024 00:57:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 15:15:18 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Adaptation rules inducing synchronization of heterogeneous Kuramoto oscillator network with triadic couplings</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023112/3265382/Adaptation-rules-inducing-synchronization-of</link>
+      <guid isPermaLink="false">NPINS.005597</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Diffusive persistence on disordered lattices and random networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024113</link>
+      <guid isPermaLink="false">NPINS.005596</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Compressing the Chronology of a Temporal Network with Graph Commutators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.077402</link>
+      <guid isPermaLink="false">NPINS.005595</guid>
+    </item>
+    <item>
+      <title>Chaos: Influence maximization based on threshold models in hypergraphs</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023111/3265378/Influence-maximization-based-on-threshold-models</link>
+      <guid isPermaLink="false">NPINS.005594</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Triadic Approximation Reveals the Role of Interaction Overlap on the Spread of Complex Contagions on Higher-Order Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.077401</link>
+      <guid isPermaLink="false">NPINS.005593</guid>
+    </item>
     <item>
       <title>PNAS Nexus: From populations to networks: Relating diversity indices and frustration in signed graphs</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae046</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Group structure and individual relationships of sanctuary-living Grauer’s gorillas (&lt;i&gt;Gorilla beringei graueri)&lt;/i&gt;</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295561</link>
       <guid isPermaLink="false">NPINS.005498</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Nature of hypergraph $k$-core percolation problems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014307</link>
-      <guid isPermaLink="false">NPINS.005497</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A new approach based on system solutions for passivity analysis of discrete-time memristor-based neural networks with time-varying delays</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000237</link>
-      <guid isPermaLink="false">NPINS.005496</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Delay-induced amplitude death in multiplex oscillator network with frequency-mismatched layers</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014220</link>
-      <guid isPermaLink="false">NPINS.005495</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: The structure and robustness of ecological networks with two interaction types</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011770</link>
-      <guid isPermaLink="false">NPINS.005494</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Information cascade prediction of complex networks based on physics-informed graph convolutional network</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad1b29</link>
-      <guid isPermaLink="false">NPINS.005493</guid>
     </item>
   </channel>
 </rss>
