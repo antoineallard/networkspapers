@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Feb 2024 01:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 16:20:42 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Suppression of chaos in a partially driven recurrent neural network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013172</link>
+      <guid isPermaLink="false">NPINS.005602</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Networks of Limited-Valency Patchy Particles</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.078203</link>
+      <guid isPermaLink="false">NPINS.005601</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Evolution of cooperation in deme-structured populations on graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024307</link>
+      <guid isPermaLink="false">NPINS.005600</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Multidimensional political polarization in online social networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013170</link>
+      <guid isPermaLink="false">NPINS.005599</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Mean-field method for generic conductance-based integrate-and-fire neurons with finite timescales</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024406</link>
+      <guid isPermaLink="false">NPINS.005598</guid>
+    </item>
     <item>
       <title>Chaos: Adaptation rules inducing synchronization of heterogeneous Kuramoto oscillator network with triadic couplings</title>
       <link>https://pubs.aip.org/aip/cha/article/34/2/023112/3265382/Adaptation-rules-inducing-synchronization-of</link>
@@ -488,31 +513,6 @@
       <title>Nat. Phys.: Diversity of information pathways drives sparsity in real-world networks</title>
       <link>https://www.nature.com/articles/s41567-023-02330-x</link>
       <guid isPermaLink="false">NPINS.005503</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Square Coloring Planar Graphs with Automatic Discharging</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1492623?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005502</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Improving structure-based protein-ligand affinity prediction by graph representation learning and ensemble learning</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296676</link>
-      <guid isPermaLink="false">NPINS.005501</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Hebbian and anti-Hebbian adaptation-induced dynamical states in adaptive networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014221</link>
-      <guid isPermaLink="false">NPINS.005500</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Cover times of many random walkers on a discrete network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014121</link>
-      <guid isPermaLink="false">NPINS.005499</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Group structure and individual relationships of sanctuary-living Grauer’s gorillas (&lt;i&gt;Gorilla beringei graueri)&lt;/i&gt;</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295561</link>
-      <guid isPermaLink="false">NPINS.005498</guid>
     </item>
   </channel>
 </rss>
