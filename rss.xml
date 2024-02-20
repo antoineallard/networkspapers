@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Feb 2024 18:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 18:33:22 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Coevolution of relationship and interaction in cooperative dynamical multiplex networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023118/3265383/Coevolution-of-relationship-and-interaction-in</link>
+      <guid isPermaLink="false">NPINS.005607</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Pygmtools: A Python Graph Matching Toolkit</title>
+      <link>http://jmlr.org/papers/v25/23-0572.html</link>
+      <guid isPermaLink="false">NPINS.005606</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Seeded Graph Matching for the Correlated Gaussian Wigner Model via the Projected Power Method</title>
+      <link>http://jmlr.org/papers/v25/22-0402.html</link>
+      <guid isPermaLink="false">NPINS.005605</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Strength of minority ties: the role of homophily and group composition in a weighted social network</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad2720</link>
+      <guid isPermaLink="false">NPINS.005604</guid>
+    </item>
+    <item>
+      <title>Chaos: Relationship between magnetic rigidity cutoff and chaotic behavior in cosmic ray time series using visibility graph and network analysis techniques</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023114/3265377/Relationship-between-magnetic-rigidity-cutoff-and</link>
+      <guid isPermaLink="false">NPINS.005603</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Suppression of chaos in a partially driven recurrent neural network</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013172</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Appl. Dyn. Syst.: Reduction of Chemical Reaction Networks with Approximate Conservation Laws</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1543963?af=R</link>
       <guid isPermaLink="false">NPINS.005508</guid>
-    </item>
-    <item>
-      <title>Chaos: Resilience of transportation infrastructure networks to road failures</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/1/013124/3037471/Resilience-of-transportation-infrastructure</link>
-      <guid isPermaLink="false">NPINS.005507</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: Epidemic spreading on higher-order networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0370157324000176?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.005506</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Bifurcation and hysteresis in a nonlinear transport model on network motifs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013059</link>
-      <guid isPermaLink="false">NPINS.005505</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Heterogeneity can markedly increase final outbreak size in the SIR model of epidemics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L012010</link>
-      <guid isPermaLink="false">NPINS.005504</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Diversity of information pathways drives sparsity in real-world networks</title>
-      <link>https://www.nature.com/articles/s41567-023-02330-x</link>
-      <guid isPermaLink="false">NPINS.005503</guid>
     </item>
   </channel>
 </rss>
