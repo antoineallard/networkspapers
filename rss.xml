@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Feb 2024 21:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 13:41:15 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Intra-ripple frequency accommodation in an inhibitory network model for hippocampal ripple oscillations</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011886</link>
+      <guid isPermaLink="false">NPINS.005612</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Recreational mobility prior and during the COVID-19 pandemic</title>
+      <link>https://www.nature.com/articles/s42005-024-01535-7</link>
+      <guid isPermaLink="false">NPINS.005611</guid>
+    </item>
+    <item>
+      <title>Chaos: Rapid changes in synchronizability in conductance-based neuronal networks with conductance-based coupling</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023123/3266652/Rapid-changes-in-synchronizability-in-conductance</link>
+      <guid isPermaLink="false">NPINS.005610</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Modeling Random Networks with Heterogeneous Reciprocity</title>
+      <link>http://jmlr.org/papers/v25/22-1317.html</link>
+      <guid isPermaLink="false">NPINS.005609</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Nonrandom behavior in the projection of random bipartite networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024308</link>
+      <guid isPermaLink="false">NPINS.005608</guid>
+    </item>
     <item>
       <title>Chaos: Coevolution of relationship and interaction in cooperative dynamical multiplex networks</title>
       <link>https://pubs.aip.org/aip/cha/article/34/2/023118/3265383/Coevolution-of-relationship-and-interaction-in</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Temporal network compression via network hashing</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00609-9</link>
       <guid isPermaLink="false">NPINS.005513</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Spontaneous emergence of groups and signaling diversity in dynamic networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014309</link>
-      <guid isPermaLink="false">NPINS.005512</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: Jeans and language: kin networks and reproductive success are associated with the adoption of outgroup norms</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0031?af=R</link>
-      <guid isPermaLink="false">NPINS.005511</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Modeling teams performance using deep representational learning on graphs</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00442-1</link>
-      <guid isPermaLink="false">NPINS.005510</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Sufficient Conditions for Linear Stability of Complex-Balanced Equilibria in Generalized Mass-Action Systems</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M154260X?af=R</link>
-      <guid isPermaLink="false">NPINS.005509</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Reduction of Chemical Reaction Networks with Approximate Conservation Laws</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1543963?af=R</link>
-      <guid isPermaLink="false">NPINS.005508</guid>
     </item>
   </channel>
 </rss>
