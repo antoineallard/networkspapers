@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 13:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 14:25:38 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: A novel self-adaptive SIS model based on the mutual interaction between a graph and its line graph</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023117/3265381/A-novel-self-adaptive-SIS-model-based-on-the</link>
+      <guid isPermaLink="false">NPINS.005617</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Higher-Order Components Dictate Higher-Order Contagion Dynamics in Hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.087401</link>
+      <guid isPermaLink="false">NPINS.005616</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Analysis of traffic in communication networks based on percolation transition</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00652-0</link>
+      <guid isPermaLink="false">NPINS.005615</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: EPINEST, an agent-based model to simulate epidemic dynamics in large-scale poultry production and distribution networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011375</link>
+      <guid isPermaLink="false">NPINS.005614</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Effects of topological structure and destination selection strategies on agent dynamics in complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad2971</link>
+      <guid isPermaLink="false">NPINS.005613</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Intra-ripple frequency accommodation in an inhibitory network model for hippocampal ripple oscillations</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011886</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: Economic policy uncertainty on stock market risk contagion: a network-based approach</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1094659</link>
       <guid isPermaLink="false">NPINS.005518</guid>
-    </item>
-    <item>
-      <title>Chaos: Complex localization mechanisms in networks of coupled oscillators: Two case studies</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/1/013131/3061429/Complex-localization-mechanisms-in-networks-of</link>
-      <guid isPermaLink="false">NPINS.005517</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: On the advances in machine learning and complex network measures to an EEG dataset from DMT experiments</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad1c68</link>
-      <guid isPermaLink="false">NPINS.005516</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Equity and spatial accessibility of healthcare resources in online health community network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1336624</link>
-      <guid isPermaLink="false">NPINS.005515</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Optimal conditions for environment-assisted quantum transport on the fully connected network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014310</link>
-      <guid isPermaLink="false">NPINS.005514</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Temporal network compression via network hashing</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00609-9</link>
-      <guid isPermaLink="false">NPINS.005513</guid>
     </item>
   </channel>
 </rss>
