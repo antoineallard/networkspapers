@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 19:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 19:38:58 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Determining bifurcations to explosive synchronization for networks of coupled oscillators with higher-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L022202</link>
+      <guid isPermaLink="false">NPINS.005622</guid>
+    </item>
+    <item>
+      <title>PNAS: Homophily modulates double descent generalization in graph convolution networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2309504121?af=R</link>
+      <guid isPermaLink="false">NPINS.005621</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Triadic signatures of global human mobility networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298876</link>
+      <guid isPermaLink="false">NPINS.005620</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Genome scale metabolic network modelling for metabolic profile predictions</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011381</link>
+      <guid isPermaLink="false">NPINS.005619</guid>
+    </item>
+    <item>
+      <title>Chaos: Optimizing parameter search for community detection in time-evolving networks of complex systems</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023133/3266999/Optimizing-parameter-search-for-community</link>
+      <guid isPermaLink="false">NPINS.005618</guid>
+    </item>
     <item>
       <title>Chaos: A novel self-adaptive SIS model based on the mutual interaction between a graph and its line graph</title>
       <link>https://pubs.aip.org/aip/cha/article/34/2/023117/3265381/A-novel-self-adaptive-SIS-model-based-on-the</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: The spectral radius of H2k-free graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324000328</link>
       <guid isPermaLink="false">NPINS.005523</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Understanding random-walk dynamical phase coexistence through waiting times</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013077</link>
-      <guid isPermaLink="false">NPINS.005522</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Revealing and reshaping attractor dynamics in large networks of cortical neurons</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011784</link>
-      <guid isPermaLink="false">NPINS.005521</guid>
-    </item>
-    <item>
-      <title>Chaos: Reconfiguration of Amazon’s connectivity in the climate system</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/1/013134/3061541/Reconfiguration-of-Amazon-s-connectivity-in-the</link>
-      <guid isPermaLink="false">NPINS.005520</guid>
-    </item>
-    <item>
-      <title>Chaos: Predicting Braess's paradox of power grids using graph neural networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/1/013127/3061430/Predicting-Braess-s-paradox-of-power-grids-using</link>
-      <guid isPermaLink="false">NPINS.005519</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Economic policy uncertainty on stock market risk contagion: a network-based approach</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1094659</link>
-      <guid isPermaLink="false">NPINS.005518</guid>
     </item>
   </channel>
 </rss>
