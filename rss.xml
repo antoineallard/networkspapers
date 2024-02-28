@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 02:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 15:31:44 +0000</lastBuildDate>
+    <item>
+      <title>PNAS Nexus: Fractured columnar small-world functional network organization in volumes of L2/3 of mouse auditory cortex</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae074</link>
+      <guid isPermaLink="false">NPINS.005637</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Fast adaptation to rule switching using neuronal surprise</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011839</link>
+      <guid isPermaLink="false">NPINS.005636</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Discord in the voter model for complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024312</link>
+      <guid isPermaLink="false">NPINS.005635</guid>
+    </item>
+    <item>
+      <title>Chaos: Probabilistic activity driven model of temporal simplicial networks and its application on higher-order dynamics</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023137/3267337/Probabilistic-activity-driven-model-of-temporal</link>
+      <guid isPermaLink="false">NPINS.005634</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Cryptocurrency co-investment network: token returns reflect investment patterns</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00446-x</link>
+      <guid isPermaLink="false">NPINS.005633</guid>
+    </item>
     <item>
       <title>PLOS ONE: Research on the characteristics and influencing factors of the spatial correlation network of cultivated land utilization ecological efficiency in the upper reaches of the Yangtze River, China</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297933</link>
@@ -488,31 +513,6 @@
       <title>PNAS Nexus: Minor intron–containing genes as an ancient backbone for viral infection?</title>
       <link>http://doi.org/10.1093/pnasnexus/pgad479</link>
       <guid isPermaLink="false">NPINS.005538</guid>
-    </item>
-    <item>
-      <title>Chaos: Insights into oscillator network dynamics using a phase-isostable framework</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/1/013141/3130838/Insights-into-oscillator-network-dynamics-using-a</link>
-      <guid isPermaLink="false">NPINS.005537</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Isomorphism Testing Parameterized by Genus and Beyond</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1514076?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005536</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: (alpha,beta)-Modules in Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1443534?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005535</guid>
-    </item>
-    <item>
-      <title>Chaos: Higher-order clustering patterns in simplicial financial systems</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/1/013144/3147160/Higher-order-clustering-patterns-in-simplicial</link>
-      <guid isPermaLink="false">NPINS.005534</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. A: On geometrical aspects of the graph approach to contextuality</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2023.0008?af=R</link>
-      <guid isPermaLink="false">NPINS.005533</guid>
     </item>
   </channel>
 </rss>
