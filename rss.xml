@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Feb 2024 03:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 17:00:17 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Modelling the creation of friends and foes groups in small real social networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298791</link>
+      <guid isPermaLink="false">NPINS.005642</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. A: Legal hypergraphs</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2023.0141?af=R</link>
+      <guid isPermaLink="false">NPINS.005641</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Reconstruction of multiplex networks via graph embeddings</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024313</link>
+      <guid isPermaLink="false">NPINS.005640</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Phase transitions and critical phenomena of the Blume–Capel model in complex networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00659-7</link>
+      <guid isPermaLink="false">NPINS.005639</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: The role of social attraction and social avoidance in shaping modular networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231619?af=R</link>
+      <guid isPermaLink="false">NPINS.005638</guid>
+    </item>
     <item>
       <title>PNAS Nexus: Fractured columnar small-world functional network organization in volumes of L2/3 of mouse auditory cortex</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae074</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: A note on decomposing graphs to locally almost irregular subgraphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324000560</link>
       <guid isPermaLink="false">NPINS.005543</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Finding optimal pathways in chemical reaction networks using Ising machines</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013115</link>
-      <guid isPermaLink="false">NPINS.005542</guid>
-    </item>
-    <item>
-      <title>Chaos: Diversity-induced trivialization and resilience of neural dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/1/013147/3222751/Diversity-induced-trivialization-and-resilience-of</link>
-      <guid isPermaLink="false">NPINS.005541</guid>
-    </item>
-    <item>
-      <title>Chaos: Fundamental patterns of signal propagation in complex networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/1/013149/3222763/Fundamental-patterns-of-signal-propagation-in</link>
-      <guid isPermaLink="false">NPINS.005540</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Structure of road networks and the shape of the macroscopic fundamental diagram</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014314</link>
-      <guid isPermaLink="false">NPINS.005539</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Minor intron–containing genes as an ancient backbone for viral infection?</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgad479</link>
-      <guid isPermaLink="false">NPINS.005538</guid>
     </item>
   </channel>
 </rss>
