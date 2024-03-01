@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 02:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 12:17:56 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Complex networks with complex weights</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024314</link>
+      <guid isPermaLink="false">NPINS.005647</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Critical computational social science</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-023-00433-2</link>
+      <guid isPermaLink="false">NPINS.005646</guid>
+    </item>
+    <item>
+      <title>Chaos: Synchronization enhancement subjected to adaptive blinking coupling</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/2/023120/3266657/Synchronization-enhancement-subjected-to-adaptive</link>
+      <guid isPermaLink="false">NPINS.005645</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Cops and Robbers on P5-Free Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1549912?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005644</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Rainbow Spanning Trees in Randomly Colored Gk-out</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1537497?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005643</guid>
+    </item>
     <item>
       <title>PLOS ONE: Modelling the creation of friends and foes groups in small real social networks</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298791</link>
@@ -488,31 +513,6 @@
       <title>EPJ Data Sci.: Which sport is becoming more predictable? A cross-discipline analysis of predictability in team sports</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00448-3</link>
       <guid isPermaLink="false">NPINS.005548</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Cell-cell communication network-based interpretable machine learning predicts cancer patient response to immune checkpoint inhibitors</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adj0785</link>
-      <guid isPermaLink="false">NPINS.005547</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Impact of medical technologies may be predicted using constructed graph bibliometrics</title>
-      <link>https://www.nature.com/articles/s41598-024-52233-x</link>
-      <guid isPermaLink="false">NPINS.005546</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Conversion of spikers to bursters in pituitary cell networks: Is it better to disperse for maximum exposure or circle the wagons?</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011811</link>
-      <guid isPermaLink="false">NPINS.005545</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Exact low-dimensional description for fast neural oscillations with low firing rates</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.014229</link>
-      <guid isPermaLink="false">NPINS.005544</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A note on decomposing graphs to locally almost irregular subgraphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000560</link>
-      <guid isPermaLink="false">NPINS.005543</guid>
     </item>
   </channel>
 </rss>
