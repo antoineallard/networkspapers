@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2024 01:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 14:23:07 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Lett.: Exploration-Exploitation Paradigm for Networked Biological Systems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.098402</link>
+      <guid isPermaLink="false">NPINS.005657</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Population-level comparisons of gene regulatory networks modeled on high-throughput single-cell transcriptomics data</title>
+      <link>https://www.nature.com/articles/s43588-024-00597-5</link>
+      <guid isPermaLink="false">NPINS.005656</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Signed double Roman domination on cubic graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000845</link>
+      <guid isPermaLink="false">NPINS.005655</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: The potential for cascading failures in the international trade network</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299833</link>
+      <guid isPermaLink="false">NPINS.005654</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Older adults’ mental health during the COVID-19 pandemic: The association with social networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000145</link>
+      <guid isPermaLink="false">NPINS.005653</guid>
+    </item>
     <item>
       <title>Chaos: Chaos in gene regulatory networks: Effects of time delays and interaction structure</title>
       <link>https://pubs.aip.org/aip/cha/article/34/3/033102/3268027/Chaos-in-gene-regulatory-networks-Effects-of-time</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Hidden multiscale organization and robustness of real multiplex networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024301</link>
       <guid isPermaLink="false">NPINS.005558</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On the Szeged and Wiener complexities in graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000043</link>
-      <guid isPermaLink="false">NPINS.005557</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Positive dependence for colored percolation</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L022101</link>
-      <guid isPermaLink="false">NPINS.005556</guid>
-    </item>
-    <item>
-      <title>Chaos: Influence of human motion patterns on epidemic spreading dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023101/3261507/Influence-of-human-motion-patterns-on-epidemic</link>
-      <guid isPermaLink="false">NPINS.005555</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Graph Limits and Spectral Extremal Problems for Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1508807?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005554</guid>
-    </item>
-    <item>
-      <title>Chaos: The spark of synchronization in heterogeneous networks of chaotic maps</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/021101/3261513/The-spark-of-synchronization-in-heterogeneous</link>
-      <guid isPermaLink="false">NPINS.005553</guid>
     </item>
   </channel>
 </rss>
