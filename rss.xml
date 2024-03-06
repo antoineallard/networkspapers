@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2024 02:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 13:35:15 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Efficient parameter inference in networked dynamical systems via steady states: A surrogate objective function approach integrating mean-field and nonlinear least squares</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034301</link>
+      <guid isPermaLink="false">NPINS.005662</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Network topology facilitates internet traffic control in autocracies</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae069</link>
+      <guid isPermaLink="false">NPINS.005661</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Interaction network rewiring and species’ contributions to community-scale flexibility</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae047</link>
+      <guid isPermaLink="false">NPINS.005660</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Eigenpolytope Universality and Graphical Designs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1528768?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005659</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Higher-order structures of local collaboration networks are associated with individual scientific productivity</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00453-6</link>
+      <guid isPermaLink="false">NPINS.005658</guid>
+    </item>
     <item>
       <title>Phys. Rev. Lett.: Exploration-Exploitation Paradigm for Networked Biological Systems</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.098402</link>
@@ -488,31 +513,6 @@
       <title>Commun. Phys.: Criticality in FitzHugh-Nagumo oscillator ensembles: Design, robustness, and spatial invariance</title>
       <link>https://www.nature.com/articles/s42005-024-01530-y</link>
       <guid isPermaLink="false">NPINS.005563</guid>
-    </item>
-    <item>
-      <title>iScience: Emergence of brain-inspired small-world spiking neural network through neuroevolution</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S258900422400066X</link>
-      <guid isPermaLink="false">NPINS.005562</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Simulated dynamics of virus spreading on social networks with various topologies</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000523</link>
-      <guid isPermaLink="false">NPINS.005561</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Identifying the systemic importance and systemic vulnerability of financial institutions based on portfolio similarity correlation network</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00449-2</link>
-      <guid isPermaLink="false">NPINS.005560</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Graphs without a Rainbow Path of Length 3</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1535048?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005559</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Hidden multiscale organization and robustness of real multiplex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024301</link>
-      <guid isPermaLink="false">NPINS.005558</guid>
     </item>
   </channel>
 </rss>
