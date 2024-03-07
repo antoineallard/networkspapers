@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2024 00:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 13:36:51 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Impact of multiple doses of vaccination on epidemiological spread in multiple networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000894</link>
+      <guid isPermaLink="false">NPINS.005667</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Unstable cores are the source of instability in chemical reaction networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2023.0694?af=R</link>
+      <guid isPermaLink="false">NPINS.005666</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Large-scale quantum approximate optimization on nonplanar graphs with machine learning noise mitigation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013223</link>
+      <guid isPermaLink="false">NPINS.005665</guid>
+    </item>
+    <item>
+      <title>Chaos: Emergence of innovations in networked populations with reputation-driven interactions</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/3/033106/3268275/Emergence-of-innovations-in-networked-populations</link>
+      <guid isPermaLink="false">NPINS.005664</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Efficacy of &lt;i&gt;Wolbachia&lt;/i&gt;-based mosquito control: Predictions of a spatially discrete mathematical model</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297964</link>
+      <guid isPermaLink="false">NPINS.005663</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Efficient parameter inference in networked dynamical systems via steady states: A surrogate objective function approach integrating mean-field and nonlinear least squares</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034301</link>
@@ -488,31 +513,6 @@
       <title>PNAS: Positive associations fuel soil biodiversity and ecological networks worldwide</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2308769121?af=R</link>
       <guid isPermaLink="false">NPINS.005568</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Pure Pairs. IX. Transversal Trees</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1456509?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005567</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Breaking reflection symmetry: evolving long dynamical cycles in Boolean systems</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad1bdd</link>
-      <guid isPermaLink="false">NPINS.005566</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Small dense on-line arbitrarily partitionable graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000547</link>
-      <guid isPermaLink="false">NPINS.005565</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The minimum Wiener index of unicyclic graphs with maximum degree</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000535</link>
-      <guid isPermaLink="false">NPINS.005564</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Criticality in FitzHugh-Nagumo oscillator ensembles: Design, robustness, and spatial invariance</title>
-      <link>https://www.nature.com/articles/s42005-024-01530-y</link>
-      <guid isPermaLink="false">NPINS.005563</guid>
     </item>
   </channel>
 </rss>
