@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 14:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 14:45:27 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: Noise-induced synchronization and regularity in feed-forward-loop motifs</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1328616</link>
+      <guid isPermaLink="false">NPINS.005672</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: How neuronal morphology impacts the synchronisation state of neuronal networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011874</link>
+      <guid isPermaLink="false">NPINS.005671</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Local sign stability and its implications for spectra of sparse random graphs and stability of ecosystems</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad2698</link>
+      <guid isPermaLink="false">NPINS.005670</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Cavity approach for the approximation of spectral density of graphs with heterogeneous structures</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034303</link>
+      <guid isPermaLink="false">NPINS.005669</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Concentration of the Maximum Degree in the Duplication-Divergence Models</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1592766?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005668</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Impact of multiple doses of vaccination on epidemiological spread in multiple networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324000894</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Learning interpretable collective variables for spreading processes on networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L022301</link>
       <guid isPermaLink="false">NPINS.005573</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Information content of note transitions in the music of J. S. Bach</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013136</link>
-      <guid isPermaLink="false">NPINS.005572</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Applications of information geometry to spiking neural network activity</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024302</link>
-      <guid isPermaLink="false">NPINS.005571</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: A Unified Approach to Reverse Engineering and Data Selection for Unique Network Identification</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1540570?af=R</link>
-      <guid isPermaLink="false">NPINS.005570</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Detecting potential cooperative network for tourist attractions in a destination using search data</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298035</link>
-      <guid isPermaLink="false">NPINS.005569</guid>
-    </item>
-    <item>
-      <title>PNAS: Positive associations fuel soil biodiversity and ecological networks worldwide</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2308769121?af=R</link>
-      <guid isPermaLink="false">NPINS.005568</guid>
     </item>
   </channel>
 </rss>
