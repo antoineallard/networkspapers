@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 14:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 17:08:57 +0000</lastBuildDate>
+    <item>
+      <title>EPJ Data Sci.: Early warning signals for stock market crashes: empirical and analytical insights utilizing nonlinear methods</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00457-2</link>
+      <guid isPermaLink="false">NPINS.005677</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Positive, negative, and ambivalent dyads and triads with family and friends: A personal network study on how they are associated with young adults’ well-being</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332400011X</link>
+      <guid isPermaLink="false">NPINS.005676</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Quantifying the global film festival circuit: Networks, diversity, and public value creation</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297404</link>
+      <guid isPermaLink="false">NPINS.005675</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Treewidth, Circle Graphs, and Circular Drawings</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1542854?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005674</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Critical behavior of cascading failures in overloaded networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034302</link>
+      <guid isPermaLink="false">NPINS.005673</guid>
+    </item>
     <item>
       <title>Front. Phys.: Noise-induced synchronization and regularity in feed-forward-loop motifs</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1328616</link>
@@ -488,31 +513,6 @@
       <title>PNAS Nexus: Perceived experts are prevalent and influential within an antivaccine community on Twitter</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae007</link>
       <guid isPermaLink="false">NPINS.005578</guid>
-    </item>
-    <item>
-      <title>Chaos: Motion states identification of underwater glider based on complex networks and graph convolutional networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023108/3262394/Motion-states-identification-of-underwater-glider</link>
-      <guid isPermaLink="false">NPINS.005577</guid>
-    </item>
-    <item>
-      <title>Chaos: Order parameter dynamics in complex systems: From models to data</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/022101/3261859/Order-parameter-dynamics-in-complex-systems-From</link>
-      <guid isPermaLink="false">NPINS.005576</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Cytotoxic metabolites from &lt;i&gt;Sinularia levi&lt;/i&gt; supported by network pharmacology</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294311</link>
-      <guid isPermaLink="false">NPINS.005575</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Some Cubic Time Regularity Algorithms for Triple Systems</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M145046X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005574</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Learning interpretable collective variables for spreading processes on networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L022301</link>
-      <guid isPermaLink="false">NPINS.005573</guid>
     </item>
   </channel>
 </rss>
