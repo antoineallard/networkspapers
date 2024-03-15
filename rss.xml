@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Mar 2024 00:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 13:41:19 +0000</lastBuildDate>
+    <item>
+      <title>PNAS Nexus: Containing misinformation: Modeling spatial games of fake news</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae090</link>
+      <guid isPermaLink="false">NPINS.005697</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Shallow Minors, Graph Products, and Beyond-Planar Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1540296?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005696</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Anomalous and Chern topological waves in hyperbolic networks</title>
+      <link>https://www.nature.com/articles/s41467-024-46551-x</link>
+      <guid isPermaLink="false">NPINS.005695</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Network analysis of spread of SARS-CoV-2 within dialysis clinics: A multi-center network analysis</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299855</link>
+      <guid isPermaLink="false">NPINS.005694</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Preserving Bifurcations through Moment Closures</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M158440X?af=R</link>
+      <guid isPermaLink="false">NPINS.005693</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Diversity of Emergent Dynamics in Competitive Threshold-Linear Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1541666?af=R</link>
+      <guid isPermaLink="false">NPINS.005692</guid>
+    </item>
+    <item>
+      <title>PNAS: Metabolomes evolve faster than metabolic network structures</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2400519121?af=R</link>
+      <guid isPermaLink="false">NPINS.005691</guid>
+    </item>
+    <item>
+      <title>iScience: scGREAT: Transformer-based deep-language model for gene regulatory network inference from single-cell transcriptomics</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S258900422400573X</link>
+      <guid isPermaLink="false">NPINS.005690</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Not all friends are created equal: Friendship ties across different social contexts in South Korea</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000133</link>
+      <guid isPermaLink="false">NPINS.005689</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Strategies to enhance the level of service and safety of rural roads: A case study</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300525</link>
+      <guid isPermaLink="false">NPINS.005688</guid>
+    </item>
     <item>
       <title>Soc. Networks: Streams of interactions: Social connectedness in daily life</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873324000169</link>
@@ -463,56 +513,6 @@
       <title>Phys. Rev. E: Mean-field method for generic conductance-based integrate-and-fire neurons with finite timescales</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024406</link>
       <guid isPermaLink="false">NPINS.005598</guid>
-    </item>
-    <item>
-      <title>Chaos: Adaptation rules inducing synchronization of heterogeneous Kuramoto oscillator network with triadic couplings</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023112/3265382/Adaptation-rules-inducing-synchronization-of</link>
-      <guid isPermaLink="false">NPINS.005597</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Diffusive persistence on disordered lattices and random networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024113</link>
-      <guid isPermaLink="false">NPINS.005596</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Compressing the Chronology of a Temporal Network with Graph Commutators</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.077402</link>
-      <guid isPermaLink="false">NPINS.005595</guid>
-    </item>
-    <item>
-      <title>Chaos: Influence maximization based on threshold models in hypergraphs</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023111/3265378/Influence-maximization-based-on-threshold-models</link>
-      <guid isPermaLink="false">NPINS.005594</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Triadic Approximation Reveals the Role of Interaction Overlap on the Spread of Complex Contagions on Higher-Order Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.077401</link>
-      <guid isPermaLink="false">NPINS.005593</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: From populations to networks: Relating diversity indices and frustration in signed graphs</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae046</link>
-      <guid isPermaLink="false">NPINS.005592</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Strongly clustered random graphs via triadic closure: An exactly solvable model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024306</link>
-      <guid isPermaLink="false">NPINS.005591</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Learning what matters: Synaptic plasticity with invariance to second-order input correlations</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011844</link>
-      <guid isPermaLink="false">NPINS.005590</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: New method for global exponential synchronization of multi-link memristive neural networks with three kinds of time-varying delays</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000651</link>
-      <guid isPermaLink="false">NPINS.005589</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Strong Cocomparability Graphs and Slash-Free Orderings of Matrices</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M153238X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005588</guid>
     </item>
   </channel>
 </rss>
