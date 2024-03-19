@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 01:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 14:01:35 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Analyzing the robustness of LEO satellite networks based on two different attacks and load distribution methods</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/3/033123/3272486/Analyzing-the-robustness-of-LEO-satellite-networks</link>
+      <guid isPermaLink="false">NPINS.005707</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Tensor Network Message Passing</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.117401</link>
+      <guid isPermaLink="false">NPINS.005706</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Rotating clusters in phase-lagged Kuramoto oscillators with higher-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034211</link>
+      <guid isPermaLink="false">NPINS.005705</guid>
+    </item>
+    <item>
+      <title>PNAS: Cell reprogramming design by transfer learning of functional transcriptional networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2312942121?af=R</link>
+      <guid isPermaLink="false">NPINS.005704</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Domination of triangulated discs and maximal outerplanar graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001206</link>
+      <guid isPermaLink="false">NPINS.005703</guid>
+    </item>
     <item>
       <title>PLOS ONE: Associative linking for collaborative thinking: Self-organization of content in online Q&amp;A communities via user-generated links</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300179</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Nonrandom behavior in the projection of random bipartite networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024308</link>
       <guid isPermaLink="false">NPINS.005608</guid>
-    </item>
-    <item>
-      <title>Chaos: Coevolution of relationship and interaction in cooperative dynamical multiplex networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023118/3265383/Coevolution-of-relationship-and-interaction-in</link>
-      <guid isPermaLink="false">NPINS.005607</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Pygmtools: A Python Graph Matching Toolkit</title>
-      <link>http://jmlr.org/papers/v25/23-0572.html</link>
-      <guid isPermaLink="false">NPINS.005606</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Seeded Graph Matching for the Correlated Gaussian Wigner Model via the Projected Power Method</title>
-      <link>http://jmlr.org/papers/v25/22-0402.html</link>
-      <guid isPermaLink="false">NPINS.005605</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Strength of minority ties: the role of homophily and group composition in a weighted social network</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad2720</link>
-      <guid isPermaLink="false">NPINS.005604</guid>
-    </item>
-    <item>
-      <title>Chaos: Relationship between magnetic rigidity cutoff and chaotic behavior in cosmic ray time series using visibility graph and network analysis techniques</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023114/3265377/Relationship-between-magnetic-rigidity-cutoff-and</link>
-      <guid isPermaLink="false">NPINS.005603</guid>
     </item>
   </channel>
 </rss>
