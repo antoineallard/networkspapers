@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Mar 2024 13:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 01:30:50 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Associative linking for collaborative thinking: Self-organization of content in online Q&amp;A communities via user-generated links</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300179</link>
+      <guid isPermaLink="false">NPINS.005702</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Geometric renormalization of weighted networks</title>
+      <link>https://www.nature.com/articles/s42005-024-01589-7</link>
+      <guid isPermaLink="false">NPINS.005701</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Unlocking ensemble ecosystem modelling for large and complex networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011976</link>
+      <guid isPermaLink="false">NPINS.005700</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Cocaine diminishes functional network robustness and destabilizes the energy landscape of neuronal activity in the medial prefrontal cortex</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae092</link>
+      <guid isPermaLink="false">NPINS.005699</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Identification of gene regulatory networks affected across drug-resistant epilepsies</title>
+      <link>https://www.nature.com/articles/s41467-024-46592-2</link>
+      <guid isPermaLink="false">NPINS.005698</guid>
+    </item>
     <item>
       <title>PNAS Nexus: Containing misinformation: Modeling spatial games of fake news</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae090</link>
@@ -488,31 +513,6 @@
       <title>Chaos: Relationship between magnetic rigidity cutoff and chaotic behavior in cosmic ray time series using visibility graph and network analysis techniques</title>
       <link>https://pubs.aip.org/aip/cha/article/34/2/023114/3265377/Relationship-between-magnetic-rigidity-cutoff-and</link>
       <guid isPermaLink="false">NPINS.005603</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Suppression of chaos in a partially driven recurrent neural network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013172</link>
-      <guid isPermaLink="false">NPINS.005602</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Networks of Limited-Valency Patchy Particles</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.078203</link>
-      <guid isPermaLink="false">NPINS.005601</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Evolution of cooperation in deme-structured populations on graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024307</link>
-      <guid isPermaLink="false">NPINS.005600</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Multidimensional political polarization in online social networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013170</link>
-      <guid isPermaLink="false">NPINS.005599</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Mean-field method for generic conductance-based integrate-and-fire neurons with finite timescales</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.024406</link>
-      <guid isPermaLink="false">NPINS.005598</guid>
     </item>
   </channel>
 </rss>
