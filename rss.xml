@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Mar 2024 00:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 12:41:08 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Rainbow Saturation for Complete Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1565875?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005722</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Collective dynamics of coupled Lorenz oscillators near the Hopf boundary: Intermittency and chimera states</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034208</link>
+      <guid isPermaLink="false">NPINS.005721</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Trust development in online competitive game environments: a network analysis approach</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00614-6</link>
+      <guid isPermaLink="false">NPINS.005720</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Rainbow disjoint union of &lt;em&gt;P&lt;/em&gt;&lt;sub&gt;4&lt;/sub&gt; and a matching in complete graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001516</link>
+      <guid isPermaLink="false">NPINS.005719</guid>
+    </item>
+    <item>
+      <title>SIAM J. Math. Data Sci.: Network Online Change Point Localization</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1529816?af=R</link>
+      <guid isPermaLink="false">NPINS.005718</guid>
+    </item>
+    <item>
+      <title>PNAS: Higher-order homophily on simplicial complexes</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2315931121?af=R</link>
+      <guid isPermaLink="false">NPINS.005717</guid>
+    </item>
+    <item>
+      <title>Chaos: Stability analysis of synchronization in long-range temporal networks using theory of dichotomy</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/3/033114/3272732/Stability-analysis-of-synchronization-in-long</link>
+      <guid isPermaLink="false">NPINS.005716</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Open problems on Sombor index of unicyclic and bicyclic graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032400119X</link>
+      <guid isPermaLink="false">NPINS.005715</guid>
+    </item>
+    <item>
+      <title>iScience: Emergence of complex oscillatory dynamics in the neuronal networks with long activity time of inhibitory synapses</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004224006229</link>
+      <guid isPermaLink="false">NPINS.005714</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Co-dependent excitatory and inhibitory plasticity accounts for quick, stable and long-lasting memories in biological networks</title>
+      <link>https://www.nature.com/articles/s41593-024-01597-4</link>
+      <guid isPermaLink="false">NPINS.005713</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Identifying hubs in directed networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034310</link>
@@ -463,56 +513,6 @@
       <title>Philos. Trans. R. Soc. A: A network model of legal relations</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2023.0153?af=R</link>
       <guid isPermaLink="false">NPINS.005623</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Determining bifurcations to explosive synchronization for networks of coupled oscillators with higher-order interactions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L022202</link>
-      <guid isPermaLink="false">NPINS.005622</guid>
-    </item>
-    <item>
-      <title>PNAS: Homophily modulates double descent generalization in graph convolution networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2309504121?af=R</link>
-      <guid isPermaLink="false">NPINS.005621</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Triadic signatures of global human mobility networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298876</link>
-      <guid isPermaLink="false">NPINS.005620</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Genome scale metabolic network modelling for metabolic profile predictions</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011381</link>
-      <guid isPermaLink="false">NPINS.005619</guid>
-    </item>
-    <item>
-      <title>Chaos: Optimizing parameter search for community detection in time-evolving networks of complex systems</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023133/3266999/Optimizing-parameter-search-for-community</link>
-      <guid isPermaLink="false">NPINS.005618</guid>
-    </item>
-    <item>
-      <title>Chaos: A novel self-adaptive SIS model based on the mutual interaction between a graph and its line graph</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023117/3265381/A-novel-self-adaptive-SIS-model-based-on-the</link>
-      <guid isPermaLink="false">NPINS.005617</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Higher-Order Components Dictate Higher-Order Contagion Dynamics in Hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.087401</link>
-      <guid isPermaLink="false">NPINS.005616</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Analysis of traffic in communication networks based on percolation transition</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00652-0</link>
-      <guid isPermaLink="false">NPINS.005615</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: EPINEST, an agent-based model to simulate epidemic dynamics in large-scale poultry production and distribution networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011375</link>
-      <guid isPermaLink="false">NPINS.005614</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Effects of topological structure and destination selection strategies on agent dynamics in complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad2971</link>
-      <guid isPermaLink="false">NPINS.005613</guid>
     </item>
   </channel>
 </rss>
