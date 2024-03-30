@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Mar 2024 17:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 02:43:22 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Fractal and first-passage properties of a class of self-similar networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/3/033134/3278937/Fractal-and-first-passage-properties-of-a-class-of</link>
+      <guid isPermaLink="false">NPINS.005752</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Online disinformation in the 2020 U.S. election: swing vs. safe states</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00461-6</link>
+      <guid isPermaLink="false">NPINS.005751</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Shaping opinions in social networks with shadow banning</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299977</link>
+      <guid isPermaLink="false">NPINS.005750</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Cooperation emerged and survived in scale-free networks in co-evolution and betrayer-prevailing circumstances</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032400153X</link>
+      <guid isPermaLink="false">NPINS.005749</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Unveiling public perception of AI ethics: an exploration on Wikipedia data</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00462-5</link>
+      <guid isPermaLink="false">NPINS.005748</guid>
+    </item>
     <item>
       <title>Chaos: When selection pays: Structured public goods game with a generalized interaction mode</title>
       <link>https://pubs.aip.org/aip/cha/article/34/3/033124/3272487/When-selection-pays-Structured-public-goods-game</link>
@@ -488,31 +513,6 @@
       <title>Soc. Networks: Older adults’ mental health during the COVID-19 pandemic: The association with social networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873324000145</link>
       <guid isPermaLink="false">NPINS.005653</guid>
-    </item>
-    <item>
-      <title>Chaos: Chaos in gene regulatory networks: Effects of time delays and interaction structure</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033102/3268027/Chaos-in-gene-regulatory-networks-Effects-of-time</link>
-      <guid isPermaLink="false">NPINS.005652</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Robust Factorizations and Colorings of Tensor Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1552474?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005651</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Walk-Independence Probabilities and WIP Centrality: A new heuristic for diffusion probabilities in networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873323000849</link>
-      <guid isPermaLink="false">NPINS.005650</guid>
-    </item>
-    <item>
-      <title>Chaos: Filtration evolution of hypergraphs: A novel approach to studying multidimensional datasets</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/2/023142/3267934/Filtration-evolution-of-hypergraphs-A-novel</link>
-      <guid isPermaLink="false">NPINS.005649</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Developmental hourglass: Verification by numerical evolution and elucidation by dynamical-systems theory</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011867</link>
-      <guid isPermaLink="false">NPINS.005648</guid>
     </item>
   </channel>
 </rss>
