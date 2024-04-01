@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Mar 2024 02:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 12:56:09 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: A spectral approach to Hebbian-like neural networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001619</link>
+      <guid isPermaLink="false">NPINS.005757</guid>
+    </item>
+    <item>
+      <title>EPL: Synchronization on higher-order networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad2cb6</link>
+      <guid isPermaLink="false">NPINS.005756</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Editorial: Advances in nonlinear systems and networks, volume II</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1396178</link>
+      <guid isPermaLink="false">NPINS.005755</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Evolutionary graph theory beyond pairwise interactions: Higher-order network motifs shape times to fixation in structured populations</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011905</link>
+      <guid isPermaLink="false">NPINS.005754</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: On the information-theoretic formulation of network participation</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad32da</link>
+      <guid isPermaLink="false">NPINS.005753</guid>
+    </item>
     <item>
       <title>Chaos: Fractal and first-passage properties of a class of self-similar networks</title>
       <link>https://pubs.aip.org/aip/cha/article/34/3/033134/3278937/Fractal-and-first-passage-properties-of-a-class-of</link>
@@ -488,31 +513,6 @@
       <title>EPJ Data Sci.: Higher-order structures of local collaboration networks are associated with individual scientific productivity</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00453-6</link>
       <guid isPermaLink="false">NPINS.005658</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Exploration-Exploitation Paradigm for Networked Biological Systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.098402</link>
-      <guid isPermaLink="false">NPINS.005657</guid>
-    </item>
-    <item>
-      <title>Nat. Comput. Sci.: Population-level comparisons of gene regulatory networks modeled on high-throughput single-cell transcriptomics data</title>
-      <link>https://www.nature.com/articles/s43588-024-00597-5</link>
-      <guid isPermaLink="false">NPINS.005656</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Signed double Roman domination on cubic graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324000845</link>
-      <guid isPermaLink="false">NPINS.005655</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: The potential for cascading failures in the international trade network</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299833</link>
-      <guid isPermaLink="false">NPINS.005654</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Older adults’ mental health during the COVID-19 pandemic: The association with social networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000145</link>
-      <guid isPermaLink="false">NPINS.005653</guid>
     </item>
   </channel>
 </rss>
