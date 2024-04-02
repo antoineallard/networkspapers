@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2024 02:21:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 12:54:17 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Random graphs and real networks with weak geometric coupling</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013337</link>
+      <guid isPermaLink="false">NPINS.005762</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Network portfolio diversity and social innovation: An egocentric approach to cross-sector partnerships</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000170</link>
+      <guid isPermaLink="false">NPINS.005761</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Using network science to examine audio-visual speech perception with a multi-layer graph</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300926</link>
+      <guid isPermaLink="false">NPINS.005760</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Network science for museums</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300957</link>
+      <guid isPermaLink="false">NPINS.005759</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Anti-modularization for both high robustness and efficiency including the optimal case</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301269</link>
+      <guid isPermaLink="false">NPINS.005758</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: A spectral approach to Hebbian-like neural networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324001619</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Efficacy of &lt;i&gt;Wolbachia&lt;/i&gt;-based mosquito control: Predictions of a spatially discrete mathematical model</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297964</link>
       <guid isPermaLink="false">NPINS.005663</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Efficient parameter inference in networked dynamical systems via steady states: A surrogate objective function approach integrating mean-field and nonlinear least squares</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034301</link>
-      <guid isPermaLink="false">NPINS.005662</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Network topology facilitates internet traffic control in autocracies</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae069</link>
-      <guid isPermaLink="false">NPINS.005661</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Interaction network rewiring and species’ contributions to community-scale flexibility</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae047</link>
-      <guid isPermaLink="false">NPINS.005660</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Eigenpolytope Universality and Graphical Designs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1528768?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005659</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Higher-order structures of local collaboration networks are associated with individual scientific productivity</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00453-6</link>
-      <guid isPermaLink="false">NPINS.005658</guid>
     </item>
   </channel>
 </rss>
