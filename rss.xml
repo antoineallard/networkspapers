@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 13:37:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 13:10:58 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Higher-order connection Laplacians for directed simplicial complexes</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad353b</link>
+      <guid isPermaLink="false">NPINS.005777</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Evolutionary accessibility of random and structured fitness landscapes</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad3197</link>
+      <guid isPermaLink="false">NPINS.005776</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A sufficient condition for planar graphs with girth 5 to be (1,6)-colorable</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001784</link>
+      <guid isPermaLink="false">NPINS.005775</guid>
+    </item>
+    <item>
+      <title>Chaos: Opinion dynamics on biased dynamical networks: Beyond rare opinion updating</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/3/033133/3280227/Opinion-dynamics-on-biased-dynamical-networks</link>
+      <guid isPermaLink="false">NPINS.005774</guid>
+    </item>
+    <item>
+      <title>Chaos: A multilayer network model of interaction between rumor propagation and media influence</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/4/043104/3280367/A-multilayer-network-model-of-interaction-between</link>
+      <guid isPermaLink="false">NPINS.005773</guid>
+    </item>
     <item>
       <title>PNAS Nexus: Estimating the loss of economic predictability from aggregating firm-level production networks</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae064</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Understanding the impact of network structure on air travel pattern at different scales</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299897</link>
       <guid isPermaLink="false">NPINS.005678</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Early warning signals for stock market crashes: empirical and analytical insights utilizing nonlinear methods</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00457-2</link>
-      <guid isPermaLink="false">NPINS.005677</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Positive, negative, and ambivalent dyads and triads with family and friends: A personal network study on how they are associated with young adults’ well-being</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332400011X</link>
-      <guid isPermaLink="false">NPINS.005676</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Quantifying the global film festival circuit: Networks, diversity, and public value creation</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297404</link>
-      <guid isPermaLink="false">NPINS.005675</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Treewidth, Circle Graphs, and Circular Drawings</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1542854?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005674</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Critical behavior of cascading failures in overloaded networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034302</link>
-      <guid isPermaLink="false">NPINS.005673</guid>
     </item>
   </channel>
 </rss>
