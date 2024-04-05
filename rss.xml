@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Apr 2024 01:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 17:04:09 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Predicting network congestion by extending betweenness centrality to interacting agents</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044302</link>
+      <guid isPermaLink="false">NPINS.005782</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Epidemic models in well-mixed multiplex networks with distributed time delay</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001541</link>
+      <guid isPermaLink="false">NPINS.005781</guid>
+    </item>
+    <item>
+      <title>PNAS: Distilling dynamical knowledge from stochastic reaction networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2317422121?af=R</link>
+      <guid isPermaLink="false">NPINS.005780</guid>
+    </item>
+    <item>
+      <title>Chaos: Evolution of cooperation on reinforcement-learning driven-adaptive networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/4/041101/3280329/Evolution-of-cooperation-on-reinforcement-learning</link>
+      <guid isPermaLink="false">NPINS.005779</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Reconstructing the evolution history of networked complex systems</title>
+      <link>https://www.nature.com/articles/s41467-024-47248-x</link>
+      <guid isPermaLink="false">NPINS.005778</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Higher-order connection Laplacians for directed simplicial complexes</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad353b</link>
@@ -488,31 +513,6 @@
       <title>Chaos: Non-Markovian processes on heteroclinic networks</title>
       <link>https://pubs.aip.org/aip/cha/article/34/3/033120/3270986/Non-Markovian-processes-on-heteroclinic-networks</link>
       <guid isPermaLink="false">NPINS.005683</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Social network shrinking is explained by active and passive effects but not increasing selectivity with age in wild macaques</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2736?af=R</link>
-      <guid isPermaLink="false">NPINS.005682</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Guarantees for Spontaneous Synchronization on Random Geometric Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1559270?af=R</link>
-      <guid isPermaLink="false">NPINS.005681</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Universal Transitions between Growth and Dormancy via Intermediate Complex Formation</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.118401</link>
-      <guid isPermaLink="false">NPINS.005680</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On minimal directed strongly regular Cayley graphs over dihedral groups</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001176</link>
-      <guid isPermaLink="false">NPINS.005679</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Understanding the impact of network structure on air travel pattern at different scales</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299897</link>
-      <guid isPermaLink="false">NPINS.005678</guid>
     </item>
   </channel>
 </rss>
