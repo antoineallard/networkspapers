@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Apr 2024 01:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 12:26:25 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: The competitive diffusion of knowledge and rumor in a multiplex network: A mathematical model</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001917</link>
+      <guid isPermaLink="false">NPINS.005787</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Two-disjoint-cycle-cover pancyclicity of data center networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001887</link>
+      <guid isPermaLink="false">NPINS.005786</guid>
+    </item>
+    <item>
+      <title>PNAS: Identifying outbreaks in sewer networks: An adaptive sampling scheme under network’s uncertainty</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2316616121?af=R</link>
+      <guid isPermaLink="false">NPINS.005785</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Identification of critical links based on the optimal reliable path in stochastic traffic networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301272</link>
+      <guid isPermaLink="false">NPINS.005784</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Universal slow dynamics of chemical reaction networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044105</link>
+      <guid isPermaLink="false">NPINS.005783</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Predicting network congestion by extending betweenness centrality to interacting agents</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044302</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Strategies to enhance the level of service and safety of rural roads: A case study</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300525</link>
       <guid isPermaLink="false">NPINS.005688</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Streams of interactions: Social connectedness in daily life</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000169</link>
-      <guid isPermaLink="false">NPINS.005687</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Online Spanners in Metric Spaces</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1534572?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005686</guid>
-    </item>
-    <item>
-      <title>Chaos: Bridge synergy and simplicial interaction in complex contagions</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033118/3269943/Bridge-synergy-and-simplicial-interaction-in</link>
-      <guid isPermaLink="false">NPINS.005685</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: The simpliciality of higher-order networks</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00458-1</link>
-      <guid isPermaLink="false">NPINS.005684</guid>
-    </item>
-    <item>
-      <title>Chaos: Non-Markovian processes on heteroclinic networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033120/3270986/Non-Markovian-processes-on-heteroclinic-networks</link>
-      <guid isPermaLink="false">NPINS.005683</guid>
     </item>
   </channel>
 </rss>
