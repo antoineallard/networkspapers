@@ -2,10 +2,8 @@ import cloudscraper
 import feedparser
 import requests
 import io
-import logging
 import os
 import random
-import re
 import ssl
 import sys
 from requests_html import HTMLSession
