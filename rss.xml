@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Apr 2024 02:36:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 13:31:18 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Information geometric bound on general chemical reaction networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044308</link>
+      <guid isPermaLink="false">NPINS.005807</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On the minimum driver node set of &lt;em&gt;k&lt;/em&gt;-uniform linear hypertree networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001747</link>
+      <guid isPermaLink="false">NPINS.005806</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: LDA2Net Digging under the surface of &lt;i&gt;COVID-19 scientific literature&lt;/i&gt; topics via a network-based approach</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300194</link>
+      <guid isPermaLink="false">NPINS.005805</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Vaccination strategies in the disease–behavior evolution model</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1387267</link>
+      <guid isPermaLink="false">NPINS.005804</guid>
+    </item>
+    <item>
+      <title>EPL: The effect of nonlinear diffusive coupling on the synchronization of coupled oscillators</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad33e7</link>
+      <guid isPermaLink="false">NPINS.005803</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Nonlinear social evolution and the emergence of collective action</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae131</link>
+      <guid isPermaLink="false">NPINS.005802</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Sublattice-selective percolation on bipartite planar lattices</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044108</link>
+      <guid isPermaLink="false">NPINS.005801</guid>
+    </item>
+    <item>
+      <title>PNAS: Causal connectivity measures for pulse-output network reconstruction: Analysis and applications</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2305297121?af=R</link>
+      <guid isPermaLink="false">NPINS.005800</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Partitioning planar graphs into bounded degree forests</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001772</link>
+      <guid isPermaLink="false">NPINS.005799</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: A probabilistic knowledge graph for target identification</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011945</link>
+      <guid isPermaLink="false">NPINS.005798</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Multi-information and epidemic coupling propagation considering indirect contact on two-layer networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324001723</link>
@@ -463,56 +513,6 @@
       <title>Phys. Rev. E: Framework to generate hypergraphs with community structure</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034309</link>
       <guid isPermaLink="false">NPINS.005708</guid>
-    </item>
-    <item>
-      <title>Chaos: Analyzing the robustness of LEO satellite networks based on two different attacks and load distribution methods</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033123/3272486/Analyzing-the-robustness-of-LEO-satellite-networks</link>
-      <guid isPermaLink="false">NPINS.005707</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Tensor Network Message Passing</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.117401</link>
-      <guid isPermaLink="false">NPINS.005706</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Rotating clusters in phase-lagged Kuramoto oscillators with higher-order interactions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034211</link>
-      <guid isPermaLink="false">NPINS.005705</guid>
-    </item>
-    <item>
-      <title>PNAS: Cell reprogramming design by transfer learning of functional transcriptional networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2312942121?af=R</link>
-      <guid isPermaLink="false">NPINS.005704</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Domination of triangulated discs and maximal outerplanar graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001206</link>
-      <guid isPermaLink="false">NPINS.005703</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Associative linking for collaborative thinking: Self-organization of content in online Q&amp;A communities via user-generated links</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300179</link>
-      <guid isPermaLink="false">NPINS.005702</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Geometric renormalization of weighted networks</title>
-      <link>https://www.nature.com/articles/s42005-024-01589-7</link>
-      <guid isPermaLink="false">NPINS.005701</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Unlocking ensemble ecosystem modelling for large and complex networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011976</link>
-      <guid isPermaLink="false">NPINS.005700</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Cocaine diminishes functional network robustness and destabilizes the energy landscape of neuronal activity in the medial prefrontal cortex</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae092</link>
-      <guid isPermaLink="false">NPINS.005699</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Identification of gene regulatory networks affected across drug-resistant epilepsies</title>
-      <link>https://www.nature.com/articles/s41467-024-46592-2</link>
-      <guid isPermaLink="false">NPINS.005698</guid>
     </item>
   </channel>
 </rss>
