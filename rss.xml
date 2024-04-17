@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Apr 2024 18:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 13:30:29 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Axiomatic effect propagation in structural causal models</title>
+      <link>http://jmlr.org/papers/v25/22-0285.html</link>
+      <guid isPermaLink="false">NPINS.005817</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Strategy evolution on higher-order networks</title>
+      <link>https://www.nature.com/articles/s43588-024-00621-8</link>
+      <guid isPermaLink="false">NPINS.005816</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Stochastic modeling of cascade dynamics: A unified approach for simple and complex contagions across homogeneous and heterogeneous threshold distributions on networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044307</link>
+      <guid isPermaLink="false">NPINS.005815</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Effect of the degree of an initial mutant in Moran processes in structured populations</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044406</link>
+      <guid isPermaLink="false">NPINS.005814</guid>
+    </item>
+    <item>
+      <title>Chaos: Synchronization dynamics of phase oscillators on power grid models</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/4/043131/3282305/Synchronization-dynamics-of-phase-oscillators-on</link>
+      <guid isPermaLink="false">NPINS.005813</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Mean-field elastic moduli of a three-dimensional, cell-based vertex model</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad3099</link>
+      <guid isPermaLink="false">NPINS.005812</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Statistically inferred neuronal connections in subsampled neural networks strongly correlate with spike train covariances</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044404</link>
+      <guid isPermaLink="false">NPINS.005811</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Describing financial crisis propagation through epidemic modelling on multiplex networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2023.0787?af=R</link>
+      <guid isPermaLink="false">NPINS.005810</guid>
+    </item>
+    <item>
+      <title>Nature: A milestone map of mouse-brain connectivity reveals challenging new terrain for scientists</title>
+      <link>https://www.nature.com/articles/d41586-024-01096-3</link>
+      <guid isPermaLink="false">NPINS.005809</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: StellarPath: Hierarchical-vertical multi-omics classifier synergizes stable markers and interpretable similarity networks for patient profiling</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012022</link>
+      <guid isPermaLink="false">NPINS.005808</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Information geometric bound on general chemical reaction networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044308</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Math. Data Sci.: Network Online Change Point Localization</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1529816?af=R</link>
       <guid isPermaLink="false">NPINS.005718</guid>
-    </item>
-    <item>
-      <title>PNAS: Higher-order homophily on simplicial complexes</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2315931121?af=R</link>
-      <guid isPermaLink="false">NPINS.005717</guid>
-    </item>
-    <item>
-      <title>Chaos: Stability analysis of synchronization in long-range temporal networks using theory of dichotomy</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033114/3272732/Stability-analysis-of-synchronization-in-long</link>
-      <guid isPermaLink="false">NPINS.005716</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Open problems on Sombor index of unicyclic and bicyclic graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032400119X</link>
-      <guid isPermaLink="false">NPINS.005715</guid>
-    </item>
-    <item>
-      <title>iScience: Emergence of complex oscillatory dynamics in the neuronal networks with long activity time of inhibitory synapses</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004224006229</link>
-      <guid isPermaLink="false">NPINS.005714</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Co-dependent excitatory and inhibitory plasticity accounts for quick, stable and long-lasting memories in biological networks</title>
-      <link>https://www.nature.com/articles/s41593-024-01597-4</link>
-      <guid isPermaLink="false">NPINS.005713</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Identifying hubs in directed networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034310</link>
-      <guid isPermaLink="false">NPINS.005712</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Global synchronization on time-varying higher-order structures</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad3262</link>
-      <guid isPermaLink="false">NPINS.005711</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Measuring the significance of higher-order dependency in networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad2db6</link>
-      <guid isPermaLink="false">NPINS.005710</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Transition from time-variant to static networks: Timescale separation in N-intertwined mean-field approximation of susceptible-infectious-susceptible epidemics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034308</link>
-      <guid isPermaLink="false">NPINS.005709</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Framework to generate hypergraphs with community structure</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034309</link>
-      <guid isPermaLink="false">NPINS.005708</guid>
     </item>
   </channel>
 </rss>
