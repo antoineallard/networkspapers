@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 00:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 12:23:28 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Complete synchronization of three-layer Rulkov neuron network coupled by electrical and chemical synapses</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/4/043127/3282005/Complete-synchronization-of-three-layer-Rulkov</link>
+      <guid isPermaLink="false">NPINS.005827</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Coarse graining and criticality in the human connectome</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044303</link>
+      <guid isPermaLink="false">NPINS.005826</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Regulation of phonon localization on thermal transport in complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044311</link>
+      <guid isPermaLink="false">NPINS.005825</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Effect of constraint relaxation on the minimum vertex cover problem in random graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044304</link>
+      <guid isPermaLink="false">NPINS.005824</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Critical properties of Heider balance on multiplex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044306</link>
+      <guid isPermaLink="false">NPINS.005823</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Leveraging epidemic network models towards wildfire resilience</title>
+      <link>https://www.nature.com/articles/s43588-024-00619-2</link>
+      <guid isPermaLink="false">NPINS.005822</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The polyomino graphs whose resonance graphs have a 1-degree vertex</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001760</link>
+      <guid isPermaLink="false">NPINS.005821</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Contingent bridge supervision: New evidence and cautions for network theory</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000182</link>
+      <guid isPermaLink="false">NPINS.005820</guid>
+    </item>
+    <item>
+      <title>Chaos: Robustness of coupled networks with multiple support from functional components at different scales</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/4/043122/3281066/Robustness-of-coupled-networks-with-multiple</link>
+      <guid isPermaLink="false">NPINS.005819</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Production networks and resilience: How dense production networks shield economies in financial crisis</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302012</link>
+      <guid isPermaLink="false">NPINS.005818</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Axiomatic effect propagation in structural causal models</title>
       <link>http://jmlr.org/papers/v25/22-0285.html</link>
@@ -463,56 +513,6 @@
       <title>PLOS ONE: Propagation and control of congestion risk in scale-free networks based on information entropy</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300422</link>
       <guid isPermaLink="false">NPINS.005728</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Goldilocks Fluctuations: Dynamic Constraints on Loop Formation in Scale-Free Transport Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.137401</link>
-      <guid isPermaLink="false">NPINS.005727</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Computation of the resistance distance and the Kirchhoff index for the two types of claw-free cubic graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001425</link>
-      <guid isPermaLink="false">NPINS.005726</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Reconstructing supply networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad30bf</link>
-      <guid isPermaLink="false">NPINS.005725</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Generalized connectivity in cubic fuzzy graphs with application in the trade deficit problem</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2023.1328116</link>
-      <guid isPermaLink="false">NPINS.005724</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On the weighted reverse cover cost of trees and unicyclic graphs with given diameter</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001462</link>
-      <guid isPermaLink="false">NPINS.005723</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Rainbow Saturation for Complete Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1565875?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005722</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Collective dynamics of coupled Lorenz oscillators near the Hopf boundary: Intermittency and chimera states</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.034208</link>
-      <guid isPermaLink="false">NPINS.005721</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Trust development in online competitive game environments: a network analysis approach</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00614-6</link>
-      <guid isPermaLink="false">NPINS.005720</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Rainbow disjoint union of &lt;em&gt;P&lt;/em&gt;&lt;sub&gt;4&lt;/sub&gt; and a matching in complete graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001516</link>
-      <guid isPermaLink="false">NPINS.005719</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Network Online Change Point Localization</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1529816?af=R</link>
-      <guid isPermaLink="false">NPINS.005718</guid>
     </item>
   </channel>
 </rss>
