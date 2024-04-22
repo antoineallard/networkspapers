@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Apr 2024 18:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 19:06:02 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Enhancing predictive accuracy in social contagion dynamics via directed hypergraph structures</title>
+      <link>https://www.nature.com/articles/s42005-024-01614-9</link>
+      <guid isPermaLink="false">NPINS.005842</guid>
+    </item>
+    <item>
+      <title>Nat. Ecol. Evol.: Interaction network structure explains species’ temporal persistence in empirical plant–pollinator communities</title>
+      <link>https://www.nature.com/articles/s41559-023-02314-3</link>
+      <guid isPermaLink="false">NPINS.005841</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Enumerating maximal dissociation sets in three classes of grid graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001838</link>
+      <guid isPermaLink="false">NPINS.005840</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Scaling law of real traffic jams under varying travel demand</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00471-4</link>
+      <guid isPermaLink="false">NPINS.005839</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Corner transfer matrix renormalization group approach in the zoo of Archimedean lattices</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.045305</link>
+      <guid isPermaLink="false">NPINS.005838</guid>
+    </item>
     <item>
       <title>Phys. Rev. Lett.: Explosive Cooperation in Social Dilemmas on Higher-Order Networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.167401</link>
@@ -488,31 +513,6 @@
       <title>J. Stat. Mech.: Epidemic process on partially overlapped multi-layer networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad2dd7</link>
       <guid isPermaLink="false">NPINS.005743</guid>
-    </item>
-    <item>
-      <title>Chaos: Data-driven control of oscillator networks with population-level measurement</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033138/3278934/Data-driven-control-of-oscillator-networks-with</link>
-      <guid isPermaLink="false">NPINS.005742</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Injective edge chromatic number of sparse graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001401</link>
-      <guid isPermaLink="false">NPINS.005741</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Topological assessment of recoverability in public transport networks</title>
-      <link>https://www.nature.com/articles/s42005-024-01596-8</link>
-      <guid isPermaLink="false">NPINS.005740</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Fault tolerability evaluation for the component edge-connectivity of folded Petersen networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001450</link>
-      <guid isPermaLink="false">NPINS.005739</guid>
-    </item>
-    <item>
-      <title>Chaos: Chimera-like states in neural networks and power systems</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033135/3278935/Chimera-like-states-in-neural-networks-and-power</link>
-      <guid isPermaLink="false">NPINS.005738</guid>
     </item>
   </channel>
 </rss>
