@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Apr 2024 01:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:55:59 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Discursive Voter Models on the Supercritical Scale-Free Network</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1544373?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005852</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: The role of zyxin in signal transduction and its relationship with diseases</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2024.1371549</link>
+      <guid isPermaLink="false">NPINS.005851</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Social and genetic connectivity despite ecological variation in a killer whale network</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0524?af=R</link>
+      <guid isPermaLink="false">NPINS.005850</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Social contagions with information sensitivity in complex networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00668-6</link>
+      <guid isPermaLink="false">NPINS.005849</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Mechanistic interactions as the origin of modularity in biological networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0269?af=R</link>
+      <guid isPermaLink="false">NPINS.005848</guid>
+    </item>
+    <item>
+      <title>Chaos: An integrative dynamical perspective for graph theory and the analysis of complex networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/4/041501/3282989/An-integrative-dynamical-perspective-for-graph</link>
+      <guid isPermaLink="false">NPINS.005847</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Identifying influential nodes based on the disassortativity and community structure of complex network</title>
+      <link>https://www.nature.com/articles/s41598-024-59071-x</link>
+      <guid isPermaLink="false">NPINS.005846</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Malware traffic detection based on type II fuzzy recognition</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1350117</link>
+      <guid isPermaLink="false">NPINS.005845</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Temperature-driven coordination of circadian transcriptional regulation</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012029</link>
+      <guid isPermaLink="false">NPINS.005844</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Complex networks approach to study comorbidities in patients with unruptured intracranial aneurysms</title>
+      <link>https://www.nature.com/articles/s41598-024-59919-2</link>
+      <guid isPermaLink="false">NPINS.005843</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Enhancing predictive accuracy in social contagion dynamics via directed hypergraph structures</title>
       <link>https://www.nature.com/articles/s42005-024-01614-9</link>
@@ -463,56 +513,6 @@
       <title>J. Phys. Complex.: On the information-theoretic formulation of network participation</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad32da</link>
       <guid isPermaLink="false">NPINS.005753</guid>
-    </item>
-    <item>
-      <title>Chaos: Fractal and first-passage properties of a class of self-similar networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033134/3278937/Fractal-and-first-passage-properties-of-a-class-of</link>
-      <guid isPermaLink="false">NPINS.005752</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Online disinformation in the 2020 U.S. election: swing vs. safe states</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00461-6</link>
-      <guid isPermaLink="false">NPINS.005751</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Shaping opinions in social networks with shadow banning</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299977</link>
-      <guid isPermaLink="false">NPINS.005750</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Cooperation emerged and survived in scale-free networks in co-evolution and betrayer-prevailing circumstances</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032400153X</link>
-      <guid isPermaLink="false">NPINS.005749</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Unveiling public perception of AI ethics: an exploration on Wikipedia data</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00462-5</link>
-      <guid isPermaLink="false">NPINS.005748</guid>
-    </item>
-    <item>
-      <title>Chaos: When selection pays: Structured public goods game with a generalized interaction mode</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033124/3272487/When-selection-pays-Structured-public-goods-game</link>
-      <guid isPermaLink="false">NPINS.005747</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: The maximum capability of a topological feature in link prediction</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae113</link>
-      <guid isPermaLink="false">NPINS.005746</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Module-based regularization improves Gaussian graphical models when observing noisy data</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00612-8</link>
-      <guid isPermaLink="false">NPINS.005745</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Ensemble dynamics and information flow deduction from whole-brain imaging data</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011848</link>
-      <guid isPermaLink="false">NPINS.005744</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Epidemic process on partially overlapped multi-layer networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad2dd7</link>
-      <guid isPermaLink="false">NPINS.005743</guid>
     </item>
   </channel>
 </rss>
