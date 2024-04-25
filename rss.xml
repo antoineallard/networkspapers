@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 23:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 13:12:53 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Hierarchical Bayesian adaptive lasso methods on exponential random graph models</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00619-1</link>
+      <guid isPermaLink="false">NPINS.005867</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Localization transition in non-Hermitian systems depending on reciprocity and hopping asymmetry</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044315</link>
+      <guid isPermaLink="false">NPINS.005866</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Multifaceted online coordinated behavior in the 2020 US presidential election</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00467-0</link>
+      <guid isPermaLink="false">NPINS.005865</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Early career wins and tournament prestige characterize tennis players’ trajectories</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00472-3</link>
+      <guid isPermaLink="false">NPINS.005864</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Persistent homology based Bottleneck distance in hypergraph products</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00617-3</link>
+      <guid isPermaLink="false">NPINS.005863</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Anomalous process detection for Internet of Things based on K-Core</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1391266</link>
+      <guid isPermaLink="false">NPINS.005862</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Tropicalizing the Graph Profile of Some Almost-Stars</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1594947?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005861</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Message-passing on hypergraphs: detectability, phase transitions and higher-order information</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad343b</link>
+      <guid isPermaLink="false">NPINS.005860</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Bioinformatics and system biology approaches to determine the connection of SARS-CoV-2 infection and intrahepatic cholangiocarcinoma</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300441</link>
+      <guid isPermaLink="false">NPINS.005859</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A note on graphs with purely imaginary per-spectrum</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002248</link>
+      <guid isPermaLink="false">NPINS.005858</guid>
+    </item>
     <item>
       <title>Nat. Hum. Behav.: Long ties accelerate noisy threshold-based contagions</title>
       <link>https://www.nature.com/articles/s41562-024-01865-0</link>
@@ -463,56 +513,6 @@
       <title>Chaos: Clustering coefficients for networks with higher order interactions</title>
       <link>https://pubs.aip.org/aip/cha/article/34/4/043102/3280414/Clustering-coefficients-for-networks-with-higher</link>
       <guid isPermaLink="false">NPINS.005768</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Early detection of emerging viral variants through analysis of community structure of coordinated substitution networks</title>
-      <link>https://www.nature.com/articles/s41467-024-47304-6</link>
-      <guid isPermaLink="false">NPINS.005767</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Dissimilarity between synchronization processes on networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044301</link>
-      <guid isPermaLink="false">NPINS.005766</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Amplifiers of selection for the Moran process with both Birth-death and death-Birth updating</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012008</link>
-      <guid isPermaLink="false">NPINS.005765</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Theory of Coupled Neuronal-Synaptic Dynamics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.14.021001</link>
-      <guid isPermaLink="false">NPINS.005764</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Predictive coding networks for temporal prediction</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011183</link>
-      <guid isPermaLink="false">NPINS.005763</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Random graphs and real networks with weak geometric coupling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013337</link>
-      <guid isPermaLink="false">NPINS.005762</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Network portfolio diversity and social innovation: An egocentric approach to cross-sector partnerships</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000170</link>
-      <guid isPermaLink="false">NPINS.005761</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Using network science to examine audio-visual speech perception with a multi-layer graph</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300926</link>
-      <guid isPermaLink="false">NPINS.005760</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Network science for museums</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300957</link>
-      <guid isPermaLink="false">NPINS.005759</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Anti-modularization for both high robustness and efficiency including the optimal case</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301269</link>
-      <guid isPermaLink="false">NPINS.005758</guid>
     </item>
   </channel>
 </rss>
