@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 00:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:46:29 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: HodgeRank as a new tool to explore the structure of a social representation</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1333727</link>
+      <guid isPermaLink="false">NPINS.005872</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Chromatic Number of Random Regular Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1544476?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005871</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Hierarchically embedded scales of movement shape the social networks of vampire bats</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2880?af=R</link>
+      <guid isPermaLink="false">NPINS.005870</guid>
+    </item>
+    <item>
+      <title>EPL: Advanced progress of network resilience</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad3362</link>
+      <guid isPermaLink="false">NPINS.005869</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: In search of the most cooperative network</title>
+      <link>https://www.nature.com/articles/s43588-024-00623-6</link>
+      <guid isPermaLink="false">NPINS.005868</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Hierarchical Bayesian adaptive lasso methods on exponential random graph models</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00619-1</link>
@@ -488,31 +513,6 @@
       <title>Chaos: A multilayer network model of interaction between rumor propagation and media influence</title>
       <link>https://pubs.aip.org/aip/cha/article/34/4/043104/3280367/A-multilayer-network-model-of-interaction-between</link>
       <guid isPermaLink="false">NPINS.005773</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Estimating the loss of economic predictability from aggregating firm-level production networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae064</link>
-      <guid isPermaLink="false">NPINS.005772</guid>
-    </item>
-    <item>
-      <title>Chaos: Dynamical modulation of hypersynchronous seizure onset with transcranial magneto-acoustic stimulation in a hippocampal computational model</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043107/3280327/Dynamical-modulation-of-hypersynchronous-seizure</link>
-      <guid isPermaLink="false">NPINS.005771</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Inferring networks from time series: A neural approach</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae063</link>
-      <guid isPermaLink="false">NPINS.005770</guid>
-    </item>
-    <item>
-      <title>Chaos: Asymptotic stability of nonlinear fractional delay differential equations with   α    ∈  (1, 2): An application to fractional delay neural networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043109/3280340/Asymptotic-stability-of-nonlinear-fractional-delay</link>
-      <guid isPermaLink="false">NPINS.005769</guid>
-    </item>
-    <item>
-      <title>Chaos: Clustering coefficients for networks with higher order interactions</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043102/3280414/Clustering-coefficients-for-networks-with-higher</link>
-      <guid isPermaLink="false">NPINS.005768</guid>
     </item>
   </channel>
 </rss>
