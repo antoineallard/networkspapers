@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 00:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 13:16:16 +0000</lastBuildDate>
+    <item>
+      <title>R. Soc. Open Sci.: Stability in social networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231500?af=R</link>
+      <guid isPermaLink="false">NPINS.005877</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Human connectome topology directs cortical traveling waves and shapes frequency gradients</title>
+      <link>https://www.nature.com/articles/s41467-024-47860-x</link>
+      <guid isPermaLink="false">NPINS.005876</guid>
+    </item>
+    <item>
+      <title>Nature: Network of large pedigrees reveals social practices of Avar communities</title>
+      <link>https://www.nature.com/articles/s41586-024-07312-4</link>
+      <guid isPermaLink="false">NPINS.005875</guid>
+    </item>
+    <item>
+      <title>iScience: Network-based approach elucidates critical genes in BRCA subtypes and chemotherapy response in triple negative breast cancer</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S258900422400974X</link>
+      <guid isPermaLink="false">NPINS.005874</guid>
+    </item>
+    <item>
+      <title>Chaos: How representative are air transport functional complex networks? A quantitative validation</title>
+      <link>https://pubs.aip.org/aip/cha/article/34/4/043133/3282304/How-representative-are-air-transport-functional</link>
+      <guid isPermaLink="false">NPINS.005873</guid>
+    </item>
     <item>
       <title>Front. Phys.: HodgeRank as a new tool to explore the structure of a social representation</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1333727</link>
@@ -488,31 +513,6 @@
       <title>Nat. Commun.: Reconstructing the evolution history of networked complex systems</title>
       <link>https://www.nature.com/articles/s41467-024-47248-x</link>
       <guid isPermaLink="false">NPINS.005778</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Higher-order connection Laplacians for directed simplicial complexes</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad353b</link>
-      <guid isPermaLink="false">NPINS.005777</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Evolutionary accessibility of random and structured fitness landscapes</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad3197</link>
-      <guid isPermaLink="false">NPINS.005776</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A sufficient condition for planar graphs with girth 5 to be (1,6)-colorable</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001784</link>
-      <guid isPermaLink="false">NPINS.005775</guid>
-    </item>
-    <item>
-      <title>Chaos: Opinion dynamics on biased dynamical networks: Beyond rare opinion updating</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/3/033133/3280227/Opinion-dynamics-on-biased-dynamical-networks</link>
-      <guid isPermaLink="false">NPINS.005774</guid>
-    </item>
-    <item>
-      <title>Chaos: A multilayer network model of interaction between rumor propagation and media influence</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043104/3280367/A-multilayer-network-model-of-interaction-between</link>
-      <guid isPermaLink="false">NPINS.005773</guid>
     </item>
   </channel>
 </rss>
