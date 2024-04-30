@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 13:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 12:13:32 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Cluster formation due to repulsive spanning trees in attractively coupled networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044314</link>
+      <guid isPermaLink="false">NPINS.005882</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Pacemaker effects on online social rhythms on a social network</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad3ed5</link>
+      <guid isPermaLink="false">NPINS.005881</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Private list sharing leads to cooperation and central hubs emergence in ABM</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad3f9b</link>
+      <guid isPermaLink="false">NPINS.005880</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Master stability functions of networks of Izhikevich neurons</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044213</link>
+      <guid isPermaLink="false">NPINS.005879</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Interplays between variations of arbitrarily partitionable graphs under minimality constraints</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002236</link>
+      <guid isPermaLink="false">NPINS.005878</guid>
+    </item>
     <item>
       <title>R. Soc. Open Sci.: Stability in social networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231500?af=R</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Universal slow dynamics of chemical reaction networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044105</link>
       <guid isPermaLink="false">NPINS.005783</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Predicting network congestion by extending betweenness centrality to interacting agents</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044302</link>
-      <guid isPermaLink="false">NPINS.005782</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Epidemic models in well-mixed multiplex networks with distributed time delay</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001541</link>
-      <guid isPermaLink="false">NPINS.005781</guid>
-    </item>
-    <item>
-      <title>PNAS: Distilling dynamical knowledge from stochastic reaction networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2317422121?af=R</link>
-      <guid isPermaLink="false">NPINS.005780</guid>
-    </item>
-    <item>
-      <title>Chaos: Evolution of cooperation on reinforcement-learning driven-adaptive networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/041101/3280329/Evolution-of-cooperation-on-reinforcement-learning</link>
-      <guid isPermaLink="false">NPINS.005779</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Reconstructing the evolution history of networked complex systems</title>
-      <link>https://www.nature.com/articles/s41467-024-47248-x</link>
-      <guid isPermaLink="false">NPINS.005778</guid>
     </item>
   </channel>
 </rss>
