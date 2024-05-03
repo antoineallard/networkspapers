@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 May 2024 00:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 00:38:45 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: A generalized eigenvector centrality for multilayer networks with inter-layer constraints on adjacent node importance</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00620-8</link>
+      <guid isPermaLink="false">NPINS.005887</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Approximate inference for longitudinal mechanistic HIV contact network</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00616-4</link>
+      <guid isPermaLink="false">NPINS.005886</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Two common and distinct forms of variation in human functional brain networks</title>
+      <link>https://www.nature.com/articles/s41593-024-01618-2</link>
+      <guid isPermaLink="false">NPINS.005885</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: A novel hypergraph model for identifying and prioritizing personalized drivers in cancer</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012068</link>
+      <guid isPermaLink="false">NPINS.005884</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Structure of resilience: A Machiavellian contribution or ‘paddle your own canoe’</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302257</link>
+      <guid isPermaLink="false">NPINS.005883</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Cluster formation due to repulsive spanning trees in attractively coupled networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044314</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Research: From asynchronous states to Griffiths phases and back: Structural heterogeneity and homeostasis in excitatory-inhibitory networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.023018</link>
       <guid isPermaLink="false">NPINS.005788</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The competitive diffusion of knowledge and rumor in a multiplex network: A mathematical model</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001917</link>
-      <guid isPermaLink="false">NPINS.005787</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Two-disjoint-cycle-cover pancyclicity of data center networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001887</link>
-      <guid isPermaLink="false">NPINS.005786</guid>
-    </item>
-    <item>
-      <title>PNAS: Identifying outbreaks in sewer networks: An adaptive sampling scheme under network’s uncertainty</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2316616121?af=R</link>
-      <guid isPermaLink="false">NPINS.005785</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Identification of critical links based on the optimal reliable path in stochastic traffic networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301272</link>
-      <guid isPermaLink="false">NPINS.005784</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Universal slow dynamics of chemical reaction networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044105</link>
-      <guid isPermaLink="false">NPINS.005783</guid>
     </item>
   </channel>
 </rss>
