@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 03 May 2024 01:51:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 13:40:20 +0000</lastBuildDate>
+    <item>
+      <title>Curr. Opin. Struct. Biol.: Probing allosteric communication with combined molecular dynamics simulations and network analysis</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0959440X24000472</link>
+      <guid isPermaLink="false">NPINS.005892</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Enhanced network inference from sparse incomplete time series through automatically adapted \(L_1\) regularization</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00621-7</link>
+      <guid isPermaLink="false">NPINS.005891</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Ensemble learning and ground-truth validation of synaptic connectivity inferred from spike trains</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011964</link>
+      <guid isPermaLink="false">NPINS.005890</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Synchronizability in randomized weighted simplicial complexes</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054302</link>
+      <guid isPermaLink="false">NPINS.005889</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Fiedler value: The cumulated dynamical contribution value of all edges in a complex network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054301</link>
+      <guid isPermaLink="false">NPINS.005888</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: A generalized eigenvector centrality for multilayer networks with inter-layer constraints on adjacent node importance</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00620-8</link>
@@ -488,31 +513,6 @@
       <title>Chaos: Deep-learning reconstruction of complex dynamical networks from incomplete data</title>
       <link>https://pubs.aip.org/aip/cha/article/34/4/043115/3280837/Deep-learning-reconstruction-of-complex-dynamical</link>
       <guid isPermaLink="false">NPINS.005793</guid>
-    </item>
-    <item>
-      <title>iScience: Social network centrality predicts dietary decisions in a wild bird population</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004224008034</link>
-      <guid isPermaLink="false">NPINS.005792</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Towards a general method to classify personal network structures</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000194</link>
-      <guid isPermaLink="false">NPINS.005791</guid>
-    </item>
-    <item>
-      <title>Chaos: A generalized simplicial model and its application</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043113/3280751/A-generalized-simplicial-model-and-its-application</link>
-      <guid isPermaLink="false">NPINS.005790</guid>
-    </item>
-    <item>
-      <title>Chaos: Fractal networks: Topology, dimension, and complexity</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/042101/3282308/Fractal-networks-Topology-dimension-and-complexity</link>
-      <guid isPermaLink="false">NPINS.005789</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: From asynchronous states to Griffiths phases and back: Structural heterogeneity and homeostasis in excitatory-inhibitory networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.023018</link>
-      <guid isPermaLink="false">NPINS.005788</guid>
     </item>
   </channel>
 </rss>
