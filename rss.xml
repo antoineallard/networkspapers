@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 May 2024 01:31:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:55:20 +0000</lastBuildDate>
+    <item>
+      <title>R. Soc. Open Sci.: A mathematical framework for analysing particle flow in a network with multiple pools</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231588?af=R</link>
+      <guid isPermaLink="false">NPINS.005922</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: A Simple Path to Component Sizes in Critical Random Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M151056X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005921</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Individual-centralized seeding strategy for influence maximization in information-limited networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0625?af=R</link>
+      <guid isPermaLink="false">NPINS.005920</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Who makes open source code? The hybridisation of commercial and open source practices</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00475-0</link>
+      <guid isPermaLink="false">NPINS.005919</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: Long ties across networks accelerate the spread of social contagions</title>
+      <link>https://www.nature.com/articles/s41562-024-01866-z</link>
+      <guid isPermaLink="false">NPINS.005918</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Learning the effective order of a hypergraph dynamical system</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adh4053</link>
+      <guid isPermaLink="false">NPINS.005917</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: A Precise Condition for Independent Transversals in Bipartite Covers</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1600384?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005916</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Tying the knot: Unraveling the intricacies of the coronavirus frameshift pseudoknot</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011787</link>
+      <guid isPermaLink="false">NPINS.005915</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Network science: Ising states of matter</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054305</link>
+      <guid isPermaLink="false">NPINS.005914</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Research on proactive defense and dynamic repair of complex networks considering cascading effects</title>
+      <link>https://www.nature.com/articles/s41598-024-61188-y</link>
+      <guid isPermaLink="false">NPINS.005913</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Breathing and switching cyclops states in Kuramoto networks with higher-mode coupling</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054202</link>
@@ -463,56 +513,6 @@
       <title>Phys. Rev. E: Critical properties of Heider balance on multiplex networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044306</link>
       <guid isPermaLink="false">NPINS.005823</guid>
-    </item>
-    <item>
-      <title>Nat. Comput. Sci.: Leveraging epidemic network models towards wildfire resilience</title>
-      <link>https://www.nature.com/articles/s43588-024-00619-2</link>
-      <guid isPermaLink="false">NPINS.005822</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The polyomino graphs whose resonance graphs have a 1-degree vertex</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324001760</link>
-      <guid isPermaLink="false">NPINS.005821</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Contingent bridge supervision: New evidence and cautions for network theory</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000182</link>
-      <guid isPermaLink="false">NPINS.005820</guid>
-    </item>
-    <item>
-      <title>Chaos: Robustness of coupled networks with multiple support from functional components at different scales</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043122/3281066/Robustness-of-coupled-networks-with-multiple</link>
-      <guid isPermaLink="false">NPINS.005819</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Production networks and resilience: How dense production networks shield economies in financial crisis</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302012</link>
-      <guid isPermaLink="false">NPINS.005818</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Axiomatic effect propagation in structural causal models</title>
-      <link>http://jmlr.org/papers/v25/22-0285.html</link>
-      <guid isPermaLink="false">NPINS.005817</guid>
-    </item>
-    <item>
-      <title>Nat. Comput. Sci.: Strategy evolution on higher-order networks</title>
-      <link>https://www.nature.com/articles/s43588-024-00621-8</link>
-      <guid isPermaLink="false">NPINS.005816</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Stochastic modeling of cascade dynamics: A unified approach for simple and complex contagions across homogeneous and heterogeneous threshold distributions on networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044307</link>
-      <guid isPermaLink="false">NPINS.005815</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Effect of the degree of an initial mutant in Moran processes in structured populations</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044406</link>
-      <guid isPermaLink="false">NPINS.005814</guid>
-    </item>
-    <item>
-      <title>Chaos: Synchronization dynamics of phase oscillators on power grid models</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043131/3282305/Synchronization-dynamics-of-phase-oscillators-on</link>
-      <guid isPermaLink="false">NPINS.005813</guid>
     </item>
   </channel>
 </rss>
