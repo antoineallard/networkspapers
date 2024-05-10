@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 May 2024 19:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 14:22:34 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Influence of subsidy policies against insurances on controlling the propagation of epidemic security risks in networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002583</link>
+      <guid isPermaLink="false">NPINS.005927</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Spiral wave dynamics in a neuronal network model</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad42f6</link>
+      <guid isPermaLink="false">NPINS.005926</guid>
+    </item>
+    <item>
+      <title>PNAS: Interdependence of cellular and network properties in respiratory rhythm generation</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2318757121?af=R</link>
+      <guid isPermaLink="false">NPINS.005925</guid>
+    </item>
+    <item>
+      <title>J. Math. Sociol.: Influence, inertia, and independence: a diffusion model for temporal social networks</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2024.2340134?af=R</link>
+      <guid isPermaLink="false">NPINS.005924</guid>
+    </item>
+    <item>
+      <title>Science: Induction of social contagion for diverse outcomes in structured experiments in isolated villages</title>
+      <link>https://www.science.org/doi/10.1126/science.adi5147</link>
+      <guid isPermaLink="false">NPINS.005923</guid>
+    </item>
     <item>
       <title>R. Soc. Open Sci.: A mathematical framework for analysing particle flow in a network with multiple pools</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231588?af=R</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Maximum Matchings and Popularity</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1523248?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005828</guid>
-    </item>
-    <item>
-      <title>Chaos: Complete synchronization of three-layer Rulkov neuron network coupled by electrical and chemical synapses</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043127/3282005/Complete-synchronization-of-three-layer-Rulkov</link>
-      <guid isPermaLink="false">NPINS.005827</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Coarse graining and criticality in the human connectome</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044303</link>
-      <guid isPermaLink="false">NPINS.005826</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Regulation of phonon localization on thermal transport in complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044311</link>
-      <guid isPermaLink="false">NPINS.005825</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Effect of constraint relaxation on the minimum vertex cover problem in random graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044304</link>
-      <guid isPermaLink="false">NPINS.005824</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Critical properties of Heider balance on multiplex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044306</link>
-      <guid isPermaLink="false">NPINS.005823</guid>
     </item>
   </channel>
 </rss>
