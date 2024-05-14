@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 May 2024 17:57:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 14:00:14 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Finding regulatory modules of chemical reaction systems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.023150</link>
+      <guid isPermaLink="false">NPINS.005932</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: The Maximal Running Time of Hypergraph Bootstrap Percolation</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M151995X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005931</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Amplitude chimeras and bump states with and without frequency entanglement: a toy model</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad4228</link>
+      <guid isPermaLink="false">NPINS.005930</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Random maps with sociological flavor</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad4321</link>
+      <guid isPermaLink="false">NPINS.005929</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Intrinsic functional connectivity of motor and heteromodal association cortex predicts individual differences in regulatory focus</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae167</link>
+      <guid isPermaLink="false">NPINS.005928</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Influence of subsidy policies against insurances on controlling the propagation of epidemic security risks in networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324002583</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: The Rainbow Saturation Number Is Linear</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1566881?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.005833</guid>
-    </item>
-    <item>
-      <title>Chaos: Fixed-time synchronization for two-dimensional coupled reaction–diffusion complex networks: Boundary conditions analysis</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043116/3280762/Fixed-time-synchronization-for-two-dimensional</link>
-      <guid isPermaLink="false">NPINS.005832</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Dynamical phase transitions in graph cellular automata</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044312</link>
-      <guid isPermaLink="false">NPINS.005831</guid>
-    </item>
-    <item>
-      <title>Chaos: Robustness of the emergence of synchronized clusters in branching hierarchical systems under parametric noise</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043132/3282303/Robustness-of-the-emergence-of-synchronized</link>
-      <guid isPermaLink="false">NPINS.005830</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Human learning of hierarchical graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044305</link>
-      <guid isPermaLink="false">NPINS.005829</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Maximum Matchings and Popularity</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1523248?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005828</guid>
     </item>
   </channel>
 </rss>
