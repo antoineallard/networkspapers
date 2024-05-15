@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 May 2024 19:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 12:40:54 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Topological Node2vec: Enhanced Graph Embedding via Persistent Homology</title>
+      <link>http://jmlr.org/papers/v25/23-1185.html</link>
+      <guid isPermaLink="false">NPINS.005937</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Flocks with Nonlinear Inherent Dynamics under Fixed and Switching Digraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1574270?af=R</link>
+      <guid isPermaLink="false">NPINS.005936</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Testing structural balance theories in heterogeneous signed networks</title>
+      <link>https://www.nature.com/articles/s42005-024-01640-7</link>
+      <guid isPermaLink="false">NPINS.005935</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Granger Causal Inference in Multivariate Hawkes Processes  by Minimum Message Length</title>
+      <link>http://jmlr.org/papers/v25/23-1066.html</link>
+      <guid isPermaLink="false">NPINS.005934</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Practical stabilization of multi-links highly nonlinear Takagi-Sugeno fuzzy complex networks with Lévy noise based on aperiodically intermittent discrete-time observation control</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002200</link>
+      <guid isPermaLink="false">NPINS.005933</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Finding regulatory modules of chemical reaction systems</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.023150</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Corner transfer matrix renormalization group approach in the zoo of Archimedean lattices</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.045305</link>
       <guid isPermaLink="false">NPINS.005838</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Explosive Cooperation in Social Dilemmas on Higher-Order Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.167401</link>
-      <guid isPermaLink="false">NPINS.005837</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Suspended accounts align with the Internet Research Agency misinformation campaign to influence the 2016 US election</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00464-3</link>
-      <guid isPermaLink="false">NPINS.005836</guid>
-    </item>
-    <item>
-      <title>Chaos: Quantifying the potential of cascade outbreaks via early infected nodes using network percolation</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043141/3283063/Quantifying-the-potential-of-cascade-outbreaks-via</link>
-      <guid isPermaLink="false">NPINS.005835</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: An Algorithmic Framework for Locally Constrained Homomorphisms</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1513290?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005834</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Rainbow Saturation Number Is Linear</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1566881?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005833</guid>
     </item>
   </channel>
 </rss>
