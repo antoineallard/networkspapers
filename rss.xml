@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 May 2024 19:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 13:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Impossibility result for Markov chain Monte Carlo sampling from microcanonical bipartite graph ensembles</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L053301</link>
+      <guid isPermaLink="false">NPINS.005947</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Layout analysis of the RCEP international airline network based on hub identification using improved contribution matrix</title>
+      <link>https://www.nature.com/articles/s41598-024-61513-5</link>
+      <guid isPermaLink="false">NPINS.005946</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Hue selectivity from recurrent circuitry in &lt;i&gt;Drosophila&lt;/i&gt;</title>
+      <link>https://www.nature.com/articles/s41593-024-01640-4</link>
+      <guid isPermaLink="false">NPINS.005945</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Explosive transitions in coupled Lorenz oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054206</link>
+      <guid isPermaLink="false">NPINS.005944</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Disparity-driven heterogeneous nucleation in finite-size adaptive networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L052301</link>
+      <guid isPermaLink="false">NPINS.005943</guid>
+    </item>
     <item>
       <title>J. Phys. A: The spectrum of asymptotic Cayley trees</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad469a</link>
@@ -488,31 +513,6 @@
       <title>Proc. R. Soc. B: Mechanistic interactions as the origin of modularity in biological networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0269?af=R</link>
       <guid isPermaLink="false">NPINS.005848</guid>
-    </item>
-    <item>
-      <title>Chaos: An integrative dynamical perspective for graph theory and the analysis of complex networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/041501/3282989/An-integrative-dynamical-perspective-for-graph</link>
-      <guid isPermaLink="false">NPINS.005847</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Identifying influential nodes based on the disassortativity and community structure of complex network</title>
-      <link>https://www.nature.com/articles/s41598-024-59071-x</link>
-      <guid isPermaLink="false">NPINS.005846</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Malware traffic detection based on type II fuzzy recognition</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1350117</link>
-      <guid isPermaLink="false">NPINS.005845</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Temperature-driven coordination of circadian transcriptional regulation</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012029</link>
-      <guid isPermaLink="false">NPINS.005844</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Complex networks approach to study comorbidities in patients with unruptured intracranial aneurysms</title>
-      <link>https://www.nature.com/articles/s41598-024-59919-2</link>
-      <guid isPermaLink="false">NPINS.005843</guid>
     </item>
   </channel>
 </rss>
