@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 19 May 2024 18:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 20:59:51 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Unified scaling for the optimal path length in disordered lattices</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054114</link>
+      <guid isPermaLink="false">NPINS.005952</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Biased Ising Model Using Two Coupled Kerr Parametric Oscillators with External Force</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.207401</link>
+      <guid isPermaLink="false">NPINS.005951</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: A complex network approach to analyse pre-trained language models for ancient Chinese</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240061?af=R</link>
+      <guid isPermaLink="false">NPINS.005950</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Comparing discriminating abilities of evaluation metrics in link prediction</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad46be</link>
+      <guid isPermaLink="false">NPINS.005949</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Constructing and sampling partite, 3-uniform hypergraphs with given degree sequence</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303155</link>
+      <guid isPermaLink="false">NPINS.005948</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Impossibility result for Markov chain Monte Carlo sampling from microcanonical bipartite graph ensembles</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L053301</link>
@@ -488,31 +513,6 @@
       <title>Soc. Networks: Socio-economic segregation in a population-scale social network</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873324000157</link>
       <guid isPermaLink="false">NPINS.005853</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Discursive Voter Models on the Supercritical Scale-Free Network</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1544373?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005852</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: The role of zyxin in signal transduction and its relationship with diseases</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2024.1371549</link>
-      <guid isPermaLink="false">NPINS.005851</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Social and genetic connectivity despite ecological variation in a killer whale network</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0524?af=R</link>
-      <guid isPermaLink="false">NPINS.005850</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Social contagions with information sensitivity in complex networks</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00668-6</link>
-      <guid isPermaLink="false">NPINS.005849</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Mechanistic interactions as the origin of modularity in biological networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0269?af=R</link>
-      <guid isPermaLink="false">NPINS.005848</guid>
     </item>
   </channel>
 </rss>
