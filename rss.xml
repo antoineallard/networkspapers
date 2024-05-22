@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 May 2024 20:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 13:53:27 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Synchronization through frequency shuffling</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L052302</link>
+      <guid isPermaLink="false">NPINS.005957</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Beyond the aggregated paradigm: phenology and structure in mutualistic networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad459e</link>
+      <guid isPermaLink="false">NPINS.005956</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: Not your private tête-à-tête: leveraging the power of higher-order networks to study animal communication</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0190?af=R</link>
+      <guid isPermaLink="false">NPINS.005955</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Proper interval vertex colorings of graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002741</link>
+      <guid isPermaLink="false">NPINS.005954</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Bounding and Computing Obstacle Numbers of Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1585088?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005953</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Unified scaling for the optimal path length in disordered lattices</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054114</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: A note on graphs with purely imaginary per-spectrum</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324002248</link>
       <guid isPermaLink="false">NPINS.005858</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Long ties accelerate noisy threshold-based contagions</title>
-      <link>https://www.nature.com/articles/s41562-024-01865-0</link>
-      <guid isPermaLink="false">NPINS.005857</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Functional Directed Acyclic Graphs</title>
-      <link>http://jmlr.org/papers/v25/22-1038.html</link>
-      <guid isPermaLink="false">NPINS.005856</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Quantifying the impact of homophily and influencer networks on song popularity prediction</title>
-      <link>https://www.nature.com/articles/s41598-024-58969-w</link>
-      <guid isPermaLink="false">NPINS.005855</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Epidemic criticality in temporal networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L022017</link>
-      <guid isPermaLink="false">NPINS.005854</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Socio-economic segregation in a population-scale social network</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000157</link>
-      <guid isPermaLink="false">NPINS.005853</guid>
     </item>
   </channel>
 </rss>
