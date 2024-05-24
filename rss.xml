@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 May 2024 00:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 12:35:59 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Emergence of phase clusters and coexisting states reveals the structure-function relationship</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054312</link>
+      <guid isPermaLink="false">NPINS.005967</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: How networks shape diversity for better or worse</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230505?af=R</link>
+      <guid isPermaLink="false">NPINS.005966</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Near packings with restriction on degrees in graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002893</link>
+      <guid isPermaLink="false">NPINS.005965</guid>
+    </item>
+    <item>
+      <title>PNAS: An encompassed representation of timescale hierarchies in first-order reaction network</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2317781121?af=R</link>
+      <guid isPermaLink="false">NPINS.005964</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Estimating network dimension when the spectrum struggles</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230898?af=R</link>
+      <guid isPermaLink="false">NPINS.005963</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Random Apollonian networks with tailored clustering coefficient</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054311</link>
@@ -488,31 +513,6 @@
       <title>Nat. Comput. Sci.: In search of the most cooperative network</title>
       <link>https://www.nature.com/articles/s43588-024-00623-6</link>
       <guid isPermaLink="false">NPINS.005868</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Hierarchical Bayesian adaptive lasso methods on exponential random graph models</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00619-1</link>
-      <guid isPermaLink="false">NPINS.005867</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Localization transition in non-Hermitian systems depending on reciprocity and hopping asymmetry</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044315</link>
-      <guid isPermaLink="false">NPINS.005866</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Multifaceted online coordinated behavior in the 2020 US presidential election</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00467-0</link>
-      <guid isPermaLink="false">NPINS.005865</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Early career wins and tournament prestige characterize tennis players’ trajectories</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00472-3</link>
-      <guid isPermaLink="false">NPINS.005864</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Persistent homology based Bottleneck distance in hypergraph products</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00617-3</link>
-      <guid isPermaLink="false">NPINS.005863</guid>
     </item>
   </channel>
 </rss>
