@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 May 2024 19:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 13:11:14 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Genotyping-by-sequencing and weighted gene co-expression network analysis of genes responsive against &lt;i&gt;Potato virus Y&lt;/i&gt; in commercial potato cultivars</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303783</link>
+      <guid isPermaLink="false">NPINS.005977</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Homophily and social mixing in a small community: Implications for infectious disease transmission</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303677</link>
+      <guid isPermaLink="false">NPINS.005976</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Social contagions on higher-order community networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002935</link>
+      <guid isPermaLink="false">NPINS.005975</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Research on multi-layer network topology optimization strategy for railway internet of things based on game theory benefits</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1409427</link>
+      <guid isPermaLink="false">NPINS.005974</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Topology of Cut Complexes of Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1569034?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.005973</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Left-Cut-Percolation and Induced-Sidorenko Bigraphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/22M1526794?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Interplays between variations of arbitrarily partitionable graphs under minimality constraints</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324002236</link>
       <guid isPermaLink="false">NPINS.005878</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Stability in social networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231500?af=R</link>
-      <guid isPermaLink="false">NPINS.005877</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Human connectome topology directs cortical traveling waves and shapes frequency gradients</title>
-      <link>https://www.nature.com/articles/s41467-024-47860-x</link>
-      <guid isPermaLink="false">NPINS.005876</guid>
-    </item>
-    <item>
-      <title>Nature: Network of large pedigrees reveals social practices of Avar communities</title>
-      <link>https://www.nature.com/articles/s41586-024-07312-4</link>
-      <guid isPermaLink="false">NPINS.005875</guid>
-    </item>
-    <item>
-      <title>iScience: Network-based approach elucidates critical genes in BRCA subtypes and chemotherapy response in triple negative breast cancer</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S258900422400974X</link>
-      <guid isPermaLink="false">NPINS.005874</guid>
-    </item>
-    <item>
-      <title>Chaos: How representative are air transport functional complex networks? A quantitative validation</title>
-      <link>https://pubs.aip.org/aip/cha/article/34/4/043133/3282304/How-representative-are-air-transport-functional</link>
-      <guid isPermaLink="false">NPINS.005873</guid>
     </item>
   </channel>
 </rss>
