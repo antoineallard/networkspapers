@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 May 2024 00:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 14:26:07 +0000</lastBuildDate>
+    <item>
+      <title>Soc. Networks: Indicators of the formation of precedent at the International Court of Justice</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000200</link>
+      <guid isPermaLink="false">NPINS.005982</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Sensitivity to network perturbations in the randomized shortest paths framework: theory and applications in ecological connectivity</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad4841</link>
+      <guid isPermaLink="false">NPINS.005981</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: The small-world effect for interferometer networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad4c45</link>
+      <guid isPermaLink="false">NPINS.005980</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: Study of hub nodes of transcription factor-target gene regulatory network and immune mechanism for type 2 diabetes based on chip analysis of GEO database</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2024.1410004</link>
+      <guid isPermaLink="false">NPINS.005979</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Microscopic Intervention Yields Abrupt Transition in Interdependent Ferromagnetic Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.227401</link>
+      <guid isPermaLink="false">NPINS.005978</guid>
+    </item>
     <item>
       <title>PLOS ONE: Genotyping-by-sequencing and weighted gene co-expression network analysis of genes responsive against &lt;i&gt;Potato virus Y&lt;/i&gt; in commercial potato cultivars</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303783</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Structure of resilience: A Machiavellian contribution or ‘paddle your own canoe’</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302257</link>
       <guid isPermaLink="false">NPINS.005883</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Cluster formation due to repulsive spanning trees in attractively coupled networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044314</link>
-      <guid isPermaLink="false">NPINS.005882</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Pacemaker effects on online social rhythms on a social network</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad3ed5</link>
-      <guid isPermaLink="false">NPINS.005881</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Private list sharing leads to cooperation and central hubs emergence in ABM</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad3f9b</link>
-      <guid isPermaLink="false">NPINS.005880</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Master stability functions of networks of Izhikevich neurons</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.044213</link>
-      <guid isPermaLink="false">NPINS.005879</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Interplays between variations of arbitrarily partitionable graphs under minimality constraints</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002236</link>
-      <guid isPermaLink="false">NPINS.005878</guid>
     </item>
   </channel>
 </rss>
