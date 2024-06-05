@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Jun 2024 17:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 12:52:16 +0000</lastBuildDate>
+    <item>
+      <title>EPL: The equivalences of community detection methods for bipartite networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad41be</link>
+      <guid isPermaLink="false">NPINS.006002</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Reinforcement learning-based secure synchronization for two-time-scale complex dynamical networks with malicious attacks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003011</link>
+      <guid isPermaLink="false">NPINS.006001</guid>
+    </item>
+    <item>
+      <title>EPL: Hyper-network models for civil aviation systems</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad4173</link>
+      <guid isPermaLink="false">NPINS.006000</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: PyGOD: A Python Library for Graph Outlier Detection</title>
+      <link>http://jmlr.org/papers/v25/23-0963.html</link>
+      <guid isPermaLink="false">NPINS.005999</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: Evidence for dynastic succession among early Celtic elites in Central Europe</title>
+      <link>https://www.nature.com/articles/s41562-024-01888-7</link>
+      <guid isPermaLink="false">NPINS.005998</guid>
+    </item>
     <item>
       <title>Nat. Hum. Behav.: Musical instruments, tools, language and genetic data reveal ancient hunter-gatherer networks</title>
       <link>https://www.nature.com/articles/s41562-024-01893-w</link>
@@ -488,31 +513,6 @@
       <title>Sci. Adv.: Stony coral tissue loss disease indirectly alters reef communities</title>
       <link>https://www.science.org/doi/10.1126/sciadv.adk6808</link>
       <guid isPermaLink="false">NPINS.005903</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Long ties accelerate noisy threshold-based contagions</title>
-      <link>https://www.nature.com/articles/s41562-024-01865-0</link>
-      <guid isPermaLink="false">NPINS.005902</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Impact of information adoption and the resulted self-protective actions on epidemic spreading in awareness-disease coupled multiplex networks</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00693-5</link>
-      <guid isPermaLink="false">NPINS.005901</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Inference of dynamic hypergraph representations in temporal interaction data</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054306</link>
-      <guid isPermaLink="false">NPINS.005900</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Estimator of entropy production for partially accessible Markov networks based on the observation of blurred transitions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054109</link>
-      <guid isPermaLink="false">NPINS.005899</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Topology-dependent coalescence controls scaling exponents in finite networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.023131</link>
-      <guid isPermaLink="false">NPINS.005898</guid>
     </item>
   </channel>
 </rss>
