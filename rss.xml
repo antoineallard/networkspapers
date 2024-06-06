@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jun 2024 16:49:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 13:09:56 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Variational Estimators of the Degree-corrected Latent Block Model for Bipartite Networks</title>
+      <link>http://jmlr.org/papers/v25/23-0984.html</link>
+      <guid isPermaLink="false">NPINS.006007</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Binary system modes of matrix-coupled multidimensional oscillators</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a</link>
+      <guid isPermaLink="false">NPINS.006006</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Temporal local clustering coefficient uncovers the hidden pattern in temporal networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064302</link>
+      <guid isPermaLink="false">NPINS.006005</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Augmented degree correction for bipartite networks with applications to recommender systems</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00630-6</link>
+      <guid isPermaLink="false">NPINS.006004</guid>
+    </item>
+    <item>
+      <title>Nature: Descending networks transform command signals into population motor control</title>
+      <link>https://www.nature.com/articles/s41586-024-07523-9</link>
+      <guid isPermaLink="false">NPINS.006003</guid>
+    </item>
     <item>
       <title>EPL: The equivalences of community detection methods for bipartite networks</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad41be</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: Analysis of professional competency awareness based on visible network graphs</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1341725</link>
       <guid isPermaLink="false">NPINS.005908</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Phase Transition in a Periodic Tubular Structure</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M157274X?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005907</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Energy Formulation for Infinite Structures: Order Parameter for Percolation, Critical Bonds, and Power-Law Scaling of Contact-Based Transport</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.196101</link>
-      <guid isPermaLink="false">NPINS.005906</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Rapid disease spread on dense networks with power-law topology</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00675-7</link>
-      <guid isPermaLink="false">NPINS.005905</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Coupled connectivity in the global complex network: the case of United Kingdom (1880–1925)</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00622-6</link>
-      <guid isPermaLink="false">NPINS.005904</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Stony coral tissue loss disease indirectly alters reef communities</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adk6808</link>
-      <guid isPermaLink="false">NPINS.005903</guid>
     </item>
   </channel>
 </rss>
