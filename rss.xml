@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jun 2024 21:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 13:03:53 +0000</lastBuildDate>
+    <item>
+      <title>J. R. Soc. Interface: The speed of neutral evolution on graphs</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0594?af=R</link>
+      <guid isPermaLink="false">NPINS.006012</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: A mathematical framework for understanding the spontaneous emergence of complexity applicable to growing multicellular systems</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011882</link>
+      <guid isPermaLink="false">NPINS.006011</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Tale of two emergent games: Opinion dynamics in dynamical directed networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L062301</link>
+      <guid isPermaLink="false">NPINS.006010</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On r-hued coloring of connected P5-free tripartite graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003229</link>
+      <guid isPermaLink="false">NPINS.006009</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Higher-order non-Markovian social contagions in simplicial complexes</title>
+      <link>https://www.nature.com/articles/s42005-024-01666-x</link>
+      <guid isPermaLink="false">NPINS.006008</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Variational Estimators of the Degree-corrected Latent Block Model for Bipartite Networks</title>
       <link>http://jmlr.org/papers/v25/23-0984.html</link>
@@ -488,31 +513,6 @@
       <title>Sci. Rep.: Research on proactive defense and dynamic repair of complex networks considering cascading effects</title>
       <link>https://www.nature.com/articles/s41598-024-61188-y</link>
       <guid isPermaLink="false">NPINS.005913</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Breathing and switching cyclops states in Kuramoto networks with higher-mode coupling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054202</link>
-      <guid isPermaLink="false">NPINS.005912</guid>
-    </item>
-    <item>
-      <title>EPL: The influence patterns of carbon flux in different climatic zones in China —Based on the complex network approach</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad397d</link>
-      <guid isPermaLink="false">NPINS.005911</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Menger-Type Theorem for Two Induced Paths</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1573082?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005910</guid>
-    </item>
-    <item>
-      <title>Research: Uncovering the Pre-Deterioration State during Disease Progression Based on Sample-Specific Causality Network Entropy (SCNE)</title>
-      <link>https://spj.science.org/doi/abs/10.34133/research.0368?af=R</link>
-      <guid isPermaLink="false">NPINS.005909</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Analysis of professional competency awareness based on visible network graphs</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1341725</link>
-      <guid isPermaLink="false">NPINS.005908</guid>
     </item>
   </channel>
 </rss>
