@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jun 2024 01:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 14:55:14 +0000</lastBuildDate>
+    <item>
+      <title>EPJ Data Sci.: Detecting coordinated and bot-like behavior in Twitter: the Jürgen Conings case</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00477-y</link>
+      <guid isPermaLink="false">NPINS.006022</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: BERT4FCA: A method for bipartite link prediction using formal concept analysis and BERT</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304858</link>
+      <guid isPermaLink="false">NPINS.006021</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Tiling Edge-Ordered Graphs with Monotone Paths and Other Structures</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1572519?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006020</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: A Stability Result of the Pósa Lemma</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/20M1382143?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006019</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Fundamental interactions in self-organised critical dynamics on higher order networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00705-4</link>
+      <guid isPermaLink="false">NPINS.006018</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Interaction dynamics in classroom group work</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000303</link>
+      <guid isPermaLink="false">NPINS.006017</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Complete synchronization of delayed discrete-time fractional-order competitive neural networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003333</link>
+      <guid isPermaLink="false">NPINS.006016</guid>
+    </item>
+    <item>
+      <title>EPL: A generalized stochastic block model for overlapping community detection</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad4172</link>
+      <guid isPermaLink="false">NPINS.006015</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A psychological network analysis of the relationship among component importance measures</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00631-5</link>
+      <guid isPermaLink="false">NPINS.006014</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Efficient self-organization of informal public transport networks</title>
+      <link>https://www.nature.com/articles/s41467-024-49193-1</link>
+      <guid isPermaLink="false">NPINS.006013</guid>
+    </item>
     <item>
       <title>J. R. Soc. Interface: The speed of neutral evolution on graphs</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0594?af=R</link>
@@ -463,56 +513,6 @@
       <title>Science: Induction of social contagion for diverse outcomes in structured experiments in isolated villages</title>
       <link>https://www.science.org/doi/10.1126/science.adi5147</link>
       <guid isPermaLink="false">NPINS.005923</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: A mathematical framework for analysing particle flow in a network with multiple pools</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231588?af=R</link>
-      <guid isPermaLink="false">NPINS.005922</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Simple Path to Component Sizes in Critical Random Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M151056X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005921</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Individual-centralized seeding strategy for influence maximization in information-limited networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0625?af=R</link>
-      <guid isPermaLink="false">NPINS.005920</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Who makes open source code? The hybridisation of commercial and open source practices</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00475-0</link>
-      <guid isPermaLink="false">NPINS.005919</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Long ties across networks accelerate the spread of social contagions</title>
-      <link>https://www.nature.com/articles/s41562-024-01866-z</link>
-      <guid isPermaLink="false">NPINS.005918</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Learning the effective order of a hypergraph dynamical system</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adh4053</link>
-      <guid isPermaLink="false">NPINS.005917</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Precise Condition for Independent Transversals in Bipartite Covers</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1600384?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005916</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Tying the knot: Unraveling the intricacies of the coronavirus frameshift pseudoknot</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011787</link>
-      <guid isPermaLink="false">NPINS.005915</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Network science: Ising states of matter</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054305</link>
-      <guid isPermaLink="false">NPINS.005914</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Research on proactive defense and dynamic repair of complex networks considering cascading effects</title>
-      <link>https://www.nature.com/articles/s41598-024-61188-y</link>
-      <guid isPermaLink="false">NPINS.005913</guid>
     </item>
   </channel>
 </rss>
