@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jun 2024 22:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 13:27:42 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Infection patterns in simple and complex contagion processes on networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012206</link>
+      <guid isPermaLink="false">NPINS.006037</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Physical networks as network-of-networks</title>
+      <link>https://www.nature.com/articles/s41467-024-49227-8</link>
+      <guid isPermaLink="false">NPINS.006036</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Graphs Coverable by k Shortest Paths</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1564511?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006035</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Asymptotic dynamic graph order evolution analysis</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00615-5</link>
+      <guid isPermaLink="false">NPINS.006034</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Glitter or gold? Deriving structured insights from sustainability reports via large language models</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00481-2</link>
+      <guid isPermaLink="false">NPINS.006033</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Certifying Network Topologies and Nonlocalities of Triangle Quantum Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.240801</link>
+      <guid isPermaLink="false">NPINS.006032</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Certifying the Topology of Quantum Networks: Theory and Experiment</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.240802</link>
+      <guid isPermaLink="false">NPINS.006031</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Exponential synchronization of complex networks with unmeasured coupling delays via impulsive observer and impulsive control</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003047</link>
+      <guid isPermaLink="false">NPINS.006030</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Universal Fragility of Spin Glass Ground States under Single Bond Changes</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.247101</link>
+      <guid isPermaLink="false">NPINS.006029</guid>
+    </item>
+    <item>
+      <title>SIAM J. Math. Data Sci.: Scalable Tensor Methods for Nonuniform Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1584472?af=R</link>
+      <guid isPermaLink="false">NPINS.006028</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Simple evolving random graphs</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064304</link>
@@ -463,56 +513,6 @@
       <title>PLOS Comput. Biol.: Topological state-space estimation of functional human brain networks</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011869</link>
       <guid isPermaLink="false">NPINS.005938</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Topological Node2vec: Enhanced Graph Embedding via Persistent Homology</title>
-      <link>http://jmlr.org/papers/v25/23-1185.html</link>
-      <guid isPermaLink="false">NPINS.005937</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Flocks with Nonlinear Inherent Dynamics under Fixed and Switching Digraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1574270?af=R</link>
-      <guid isPermaLink="false">NPINS.005936</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Testing structural balance theories in heterogeneous signed networks</title>
-      <link>https://www.nature.com/articles/s42005-024-01640-7</link>
-      <guid isPermaLink="false">NPINS.005935</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Granger Causal Inference in Multivariate Hawkes Processes  by Minimum Message Length</title>
-      <link>http://jmlr.org/papers/v25/23-1066.html</link>
-      <guid isPermaLink="false">NPINS.005934</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Practical stabilization of multi-links highly nonlinear Takagi-Sugeno fuzzy complex networks with Lévy noise based on aperiodically intermittent discrete-time observation control</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002200</link>
-      <guid isPermaLink="false">NPINS.005933</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Finding regulatory modules of chemical reaction systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.023150</link>
-      <guid isPermaLink="false">NPINS.005932</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Maximal Running Time of Hypergraph Bootstrap Percolation</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M151995X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005931</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Amplitude chimeras and bump states with and without frequency entanglement: a toy model</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad4228</link>
-      <guid isPermaLink="false">NPINS.005930</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Random maps with sociological flavor</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad4321</link>
-      <guid isPermaLink="false">NPINS.005929</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Intrinsic functional connectivity of motor and heteromodal association cortex predicts individual differences in regulatory focus</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae167</link>
-      <guid isPermaLink="false">NPINS.005928</guid>
     </item>
   </channel>
 </rss>
