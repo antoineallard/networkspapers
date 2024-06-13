@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jun 2024 00:34:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 12:52:34 +0000</lastBuildDate>
+    <item>
+      <title>Proc. R. Soc. A: Random walk models for the propagation of signalling molecules in one-dimensional spatial networks and their continuum limit</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2023.0906?af=R</link>
+      <guid isPermaLink="false">NPINS.006042</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Towards Understanding the Endemic Behavior of a Competitive Tri-virus SIS Networked Model</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1563074?af=R</link>
+      <guid isPermaLink="false">NPINS.006041</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Book Crossing Numbers of the Complete Graph</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/20M138260X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006040</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Which is the Worst-Case Nash Equilibrium?</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1542635?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006039</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Mapping the Evolutionary Space of SARS-CoV-2 Variants to Anticipate Emergence of Subvariants Resistant to COVID-19 Therapeutics</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012215</link>
+      <guid isPermaLink="false">NPINS.006038</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Infection patterns in simple and complex contagion processes on networks</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012206</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Disparity-driven heterogeneous nucleation in finite-size adaptive networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L052301</link>
       <guid isPermaLink="false">NPINS.005943</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: The spectrum of asymptotic Cayley trees</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad469a</link>
-      <guid isPermaLink="false">NPINS.005942</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: From unbiased to maximal-entropy random walks on hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054309</link>
-      <guid isPermaLink="false">NPINS.005941</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Explosive percolation on the Bethe lattice is ordinary</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00699-z</link>
-      <guid isPermaLink="false">NPINS.005940</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Random Subgraph Detection Using Queries</title>
-      <link>http://jmlr.org/papers/v25/22-0395.html</link>
-      <guid isPermaLink="false">NPINS.005939</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Topological state-space estimation of functional human brain networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011869</link>
-      <guid isPermaLink="false">NPINS.005938</guid>
     </item>
   </channel>
 </rss>
