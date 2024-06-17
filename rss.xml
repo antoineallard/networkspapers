@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Jun 2024 20:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 15:29:18 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: End-stage renal disease accompanied by mild cognitive impairment: A study and analysis of trimodal brain network fusion</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305079</link>
+      <guid isPermaLink="false">NPINS.006057</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Network-based time series modeling for COVID-19 incidence in the Republic of Ireland</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00634-2</link>
+      <guid isPermaLink="false">NPINS.006056</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Analyzing Russia’s propaganda tactics on Twitter using mixed methods network analysis and natural language processing: a case study of the 2022 invasion of Ukraine</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00479-w</link>
+      <guid isPermaLink="false">NPINS.006055</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: The network of sports: using network analysis to understand the relationship between sports and socio-physiological factors in contemporary China</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00628-0</link>
+      <guid isPermaLink="false">NPINS.006054</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Flexible information routing by transient synchrony</title>
+      <link>https://www.nature.com/articles/nn.4569</link>
+      <guid isPermaLink="false">NPINS.006053</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: The topology of spatial networks affects stability in experimental metacommunities</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0567?af=R</link>
+      <guid isPermaLink="false">NPINS.006052</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Combinatorics and topological weights of chromatin loop networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064405</link>
+      <guid isPermaLink="false">NPINS.006051</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Impact of message fatigue in information-disease coupled dynamics on temporal simplicial networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003400</link>
+      <guid isPermaLink="false">NPINS.006050</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: The information propagation mechanism of individual heterogeneous adoption behavior under the heterogeneous network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1404464</link>
+      <guid isPermaLink="false">NPINS.006049</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Topological Spectra and Entropy of Chromatin Loop Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.248403</link>
+      <guid isPermaLink="false">NPINS.006048</guid>
+    </item>
     <item>
       <title>New J. Phys.: Coexistence of asynchronous and clustered dynamics in noisy inhibitory neural networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad4dd5</link>
@@ -463,56 +513,6 @@
       <title>Philos. Trans. R. Soc. B: Collective signalling is shaped by feedbacks between signaller variation, receiver perception and acoustic environment in a simulated communication network</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0186?af=R</link>
       <guid isPermaLink="false">NPINS.005958</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Synchronization through frequency shuffling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L052302</link>
-      <guid isPermaLink="false">NPINS.005957</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Beyond the aggregated paradigm: phenology and structure in mutualistic networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad459e</link>
-      <guid isPermaLink="false">NPINS.005956</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: Not your private tête-à-tête: leveraging the power of higher-order networks to study animal communication</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0190?af=R</link>
-      <guid isPermaLink="false">NPINS.005955</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Proper interval vertex colorings of graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002741</link>
-      <guid isPermaLink="false">NPINS.005954</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Bounding and Computing Obstacle Numbers of Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1585088?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005953</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Unified scaling for the optimal path length in disordered lattices</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054114</link>
-      <guid isPermaLink="false">NPINS.005952</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Biased Ising Model Using Two Coupled Kerr Parametric Oscillators with External Force</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.207401</link>
-      <guid isPermaLink="false">NPINS.005951</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: A complex network approach to analyse pre-trained language models for ancient Chinese</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240061?af=R</link>
-      <guid isPermaLink="false">NPINS.005950</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Comparing discriminating abilities of evaluation metrics in link prediction</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad46be</link>
-      <guid isPermaLink="false">NPINS.005949</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Constructing and sampling partite, 3-uniform hypergraphs with given degree sequence</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303155</link>
-      <guid isPermaLink="false">NPINS.005948</guid>
     </item>
   </channel>
 </rss>
