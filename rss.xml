@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jun 2024 19:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 21:50:12 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: The number of connected sets in Apollonian networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003448</link>
+      <guid isPermaLink="false">NPINS.006062</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Cairo lattice with time-reversal non-invariant vertex couplings</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad52d6</link>
+      <guid isPermaLink="false">NPINS.006061</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: N-Body Oscillator Interactions of Higher-Order Coupling Functions</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1594182?af=R</link>
+      <guid isPermaLink="false">NPINS.006060</guid>
+    </item>
+    <item>
+      <title>PNAS: A mechanistic model of gossip, reputations, and cooperation</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2400689121</link>
+      <guid isPermaLink="false">NPINS.006059</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Occupational selection and the reliability of position generator measures of social capital</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000297</link>
+      <guid isPermaLink="false">NPINS.006058</guid>
+    </item>
     <item>
       <title>PLOS ONE: End-stage renal disease accompanied by mild cognitive impairment: A study and analysis of trimodal brain network fusion</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305079</link>
@@ -488,31 +513,6 @@
       <title>R. Soc. Open Sci.: Estimating network dimension when the spectrum struggles</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230898?af=R</link>
       <guid isPermaLink="false">NPINS.005963</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Random Apollonian networks with tailored clustering coefficient</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054311</link>
-      <guid isPermaLink="false">NPINS.005962</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Bifurcation delay in a network of nonlocally coupled slow-fast FitzHugh–Nagumo neurons</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00707-2</link>
-      <guid isPermaLink="false">NPINS.005961</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Turán problem for K4-free signed graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002753</link>
-      <guid isPermaLink="false">NPINS.005960</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Extra connectivity of networks modeled by the strong product graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002868</link>
-      <guid isPermaLink="false">NPINS.005959</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: Collective signalling is shaped by feedbacks between signaller variation, receiver perception and acoustic environment in a simulated communication network</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0186?af=R</link>
-      <guid isPermaLink="false">NPINS.005958</guid>
     </item>
   </channel>
 </rss>
