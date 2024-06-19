@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jun 2024 21:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 18:50:48 +0000</lastBuildDate>
+    <item>
+      <title>PNAS Nexus: Enhancing social cohesion with cooperative bots in societies of greedy, mobile individuals</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae223</link>
+      <guid isPermaLink="false">NPINS.006067</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Minimum Number of Arcs in k-Dicritical Oriented Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1553753?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006066</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Fundamental Dynamics of Popularity-Similarity Trajectories in Real Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.257401</link>
+      <guid isPermaLink="false">NPINS.006065</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Cascading failures in bipartite networks with directional support links</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064307</link>
+      <guid isPermaLink="false">NPINS.006064</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Reconstructing higher-order interactions in coupled dynamical systems</title>
+      <link>https://www.nature.com/articles/s41467-024-49278-x</link>
+      <guid isPermaLink="false">NPINS.006063</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: The number of connected sets in Apollonian networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324003448</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Link-limited bypass rewiring for enhancing the robustness of complex networks</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00624-4</link>
       <guid isPermaLink="false">NPINS.005968</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Emergence of phase clusters and coexisting states reveals the structure-function relationship</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054312</link>
-      <guid isPermaLink="false">NPINS.005967</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: How networks shape diversity for better or worse</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230505?af=R</link>
-      <guid isPermaLink="false">NPINS.005966</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Near packings with restriction on degrees in graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324002893</link>
-      <guid isPermaLink="false">NPINS.005965</guid>
-    </item>
-    <item>
-      <title>PNAS: An encompassed representation of timescale hierarchies in first-order reaction network</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2317781121?af=R</link>
-      <guid isPermaLink="false">NPINS.005964</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Estimating network dimension when the spectrum struggles</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230898?af=R</link>
-      <guid isPermaLink="false">NPINS.005963</guid>
     </item>
   </channel>
 </rss>
