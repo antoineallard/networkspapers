@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jun 2024 01:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 17:12:02 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Evaluation and threshold-based mutual supervision promotes the evolution of cooperation on interdependent networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003242</link>
+      <guid isPermaLink="false">NPINS.006087</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Dirac walks on regular trees</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad4d2e</link>
+      <guid isPermaLink="false">NPINS.006086</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Hopf bifurcations of twisted states in phase oscillators rings with nonpairwise higher-order interactions</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad5635</link>
+      <guid isPermaLink="false">NPINS.006085</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Structural dynamics of plant–pollinator mutualistic networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae209</link>
+      <guid isPermaLink="false">NPINS.006084</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Bayesian hierarchical network autocorrelation models for estimating direct and indirect effects of peer hospitals on outcomes of hospitalized patients</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00627-1</link>
+      <guid isPermaLink="false">NPINS.006083</guid>
+    </item>
     <item>
       <title>Nat. Commun.: BiœmuS: A new tool for neurological disorders studies through real-time emulation and hybridization using biomimetic Spiking Neural Network</title>
       <link>https://www.nature.com/articles/s41467-024-48905-x</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: Efficiency and controllability of stochastic boolean function generation by a random network of non-linear nanoparticle junctions</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1400919</link>
       <guid isPermaLink="false">NPINS.005988</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Tuza’s Conjecture for Binary Geometries</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1511229?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.005987</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Linking perspectives: a field experiment on the role of multi-layer networks in refugee information sharing</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00626-2</link>
-      <guid isPermaLink="false">NPINS.005986</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Nonequilibrium generation of charge defects in kagome spin ice under slow cooling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.054133</link>
-      <guid isPermaLink="false">NPINS.005985</guid>
-    </item>
-    <item>
-      <title>PNAS: A network model to predict ionic transport in porous materials</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2401656121?af=R</link>
-      <guid isPermaLink="false">NPINS.005984</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Spatial roost networks and resource selection of female wild turkeys</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231938?af=R</link>
-      <guid isPermaLink="false">NPINS.005983</guid>
     </item>
   </channel>
 </rss>
