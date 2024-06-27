@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Jun 2024 01:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 13:24:06 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Phys.: Critical delay accumulation</title>
+      <link>https://www.nature.com/articles/s41567-024-02507-y</link>
+      <guid isPermaLink="false">NPINS.006107</guid>
+    </item>
+    <item>
+      <title>Nature: Connectomic reconstruction of a female &lt;i&gt;Drosophila&lt;/i&gt; ventral nerve cord</title>
+      <link>https://www.nature.com/articles/s41586-024-07389-x</link>
+      <guid isPermaLink="false">NPINS.006106</guid>
+    </item>
+    <item>
+      <title>PNAS: The structure and function of antagonistic ties in village social networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2401257121?af=R</link>
+      <guid isPermaLink="false">NPINS.006105</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Comparative analysis of course prerequisite networks for five Midwestern public institutions</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00637-z</link>
+      <guid isPermaLink="false">NPINS.006104</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Information propagation characteristic by individual hesitant-common trend on weighted network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1410089</link>
+      <guid isPermaLink="false">NPINS.006103</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Differences in the consolidation by spontaneous and evoked ripples in the presence of active dendrites</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012218</link>
@@ -488,31 +513,6 @@
       <title>Commun. Phys.: Higher-order non-Markovian social contagions in simplicial complexes</title>
       <link>https://www.nature.com/articles/s42005-024-01666-x</link>
       <guid isPermaLink="false">NPINS.006008</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Variational Estimators of the Degree-corrected Latent Block Model for Bipartite Networks</title>
-      <link>http://jmlr.org/papers/v25/23-0984.html</link>
-      <guid isPermaLink="false">NPINS.006007</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Binary system modes of matrix-coupled multidimensional oscillators</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a</link>
-      <guid isPermaLink="false">NPINS.006006</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Temporal local clustering coefficient uncovers the hidden pattern in temporal networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064302</link>
-      <guid isPermaLink="false">NPINS.006005</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Augmented degree correction for bipartite networks with applications to recommender systems</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00630-6</link>
-      <guid isPermaLink="false">NPINS.006004</guid>
-    </item>
-    <item>
-      <title>Nature: Descending networks transform command signals into population motor control</title>
-      <link>https://www.nature.com/articles/s41586-024-07523-9</link>
-      <guid isPermaLink="false">NPINS.006003</guid>
     </item>
   </channel>
 </rss>
