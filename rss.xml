@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:57:58 +0000</lastBuildDate>
+    <item>
+      <title>Eur. Phys. J. B: Super-diffusion in multiplex networks with long-range interactions</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00722-3</link>
+      <guid isPermaLink="false">NPINS.006112</guid>
+    </item>
+    <item>
+      <title>Nature: Synaptic architecture of leg and wing premotor control networks in &lt;i&gt;Drosophila&lt;/i&gt;</title>
+      <link>https://www.nature.com/articles/s41586-024-07600-z</link>
+      <guid isPermaLink="false">NPINS.006111</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Thermodynamics of Growth in Open Chemical Reaction Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.268001</link>
+      <guid isPermaLink="false">NPINS.006110</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Spectral properties of the Laplacian of temporal networks following a constant block Jacobi model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064309</link>
+      <guid isPermaLink="false">NPINS.006109</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Cliques in High-Dimensional Geometric Inhomogeneous Random Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M157394X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006108</guid>
+    </item>
     <item>
       <title>Nat. Phys.: Critical delay accumulation</title>
       <link>https://www.nature.com/articles/s41567-024-02507-y</link>
@@ -488,31 +513,6 @@
       <title>Nat. Commun.: Efficient self-organization of informal public transport networks</title>
       <link>https://www.nature.com/articles/s41467-024-49193-1</link>
       <guid isPermaLink="false">NPINS.006013</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: The speed of neutral evolution on graphs</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0594?af=R</link>
-      <guid isPermaLink="false">NPINS.006012</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: A mathematical framework for understanding the spontaneous emergence of complexity applicable to growing multicellular systems</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011882</link>
-      <guid isPermaLink="false">NPINS.006011</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Tale of two emergent games: Opinion dynamics in dynamical directed networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.L062301</link>
-      <guid isPermaLink="false">NPINS.006010</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On r-hued coloring of connected P5-free tripartite graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003229</link>
-      <guid isPermaLink="false">NPINS.006009</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Higher-order non-Markovian social contagions in simplicial complexes</title>
-      <link>https://www.nature.com/articles/s42005-024-01666-x</link>
-      <guid isPermaLink="false">NPINS.006008</guid>
     </item>
   </channel>
 </rss>
