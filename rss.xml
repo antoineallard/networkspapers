@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jul 2024 00:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 14:05:17 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Prioritizing drug targets by perturbing biological network response functions</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012195</link>
+      <guid isPermaLink="false">NPINS.006117</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Enhancing the robustness of interdependent networks by positively correlating a portion of nodes</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad5753</link>
+      <guid isPermaLink="false">NPINS.006116</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Dynamics of a plant–pollinator network: extending the Bianconi–Barabási model</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00636-0</link>
+      <guid isPermaLink="false">NPINS.006115</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Distinguishing subsampled power laws from other heavy-tailed distributions</title>
+      <link>https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.054308</link>
+      <guid isPermaLink="false">NPINS.006114</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Non-fragile projective synchronization of delayed discrete-time neural networks via generalized weighted summation inequality</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003461</link>
+      <guid isPermaLink="false">NPINS.006113</guid>
+    </item>
     <item>
       <title>Eur. Phys. J. B: Super-diffusion in multiplex networks with long-range interactions</title>
       <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00722-3</link>
@@ -488,31 +513,6 @@
       <title>Eur. Phys. J. B: Fundamental interactions in self-organised critical dynamics on higher order networks</title>
       <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00705-4</link>
       <guid isPermaLink="false">NPINS.006018</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Interaction dynamics in classroom group work</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000303</link>
-      <guid isPermaLink="false">NPINS.006017</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Complete synchronization of delayed discrete-time fractional-order competitive neural networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003333</link>
-      <guid isPermaLink="false">NPINS.006016</guid>
-    </item>
-    <item>
-      <title>EPL: A generalized stochastic block model for overlapping community detection</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad4172</link>
-      <guid isPermaLink="false">NPINS.006015</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A psychological network analysis of the relationship among component importance measures</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00631-5</link>
-      <guid isPermaLink="false">NPINS.006014</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Efficient self-organization of informal public transport networks</title>
-      <link>https://www.nature.com/articles/s41467-024-49193-1</link>
-      <guid isPermaLink="false">NPINS.006013</guid>
     </item>
   </channel>
 </rss>
