@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jul 2024 00:49:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 14:46:47 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Unraveling emergent network indeterminacy in complex ecosystems: A random matrix approach</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322939121?af=R</link>
+      <guid isPermaLink="false">NPINS.006127</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Network embedding based on DepDist contraction</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00639-x</link>
+      <guid isPermaLink="false">NPINS.006126</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Optimizing information-driven awareness allocation for controlling activity-triggered epidemic spread</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad5b7f</link>
+      <guid isPermaLink="false">NPINS.006125</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Predicting COVID-19 infections using multi-layer centrality measures in population-scale networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00632-4</link>
+      <guid isPermaLink="false">NPINS.006124</guid>
+    </item>
+    <item>
+      <title>PNAS: A hierarchy index for networks in the brain reveals a complex entangled organizational structure</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2314291121?af=R</link>
+      <guid isPermaLink="false">NPINS.006123</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Co-existence of synaptic plasticity and metastable dynamics in a spiking model of cortical circuits</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012220</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Math. Data Sci.: Scalable Tensor Methods for Nonuniform Hypergraphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1584472?af=R</link>
       <guid isPermaLink="false">NPINS.006028</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Simple evolving random graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064304</link>
-      <guid isPermaLink="false">NPINS.006027</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Gene regulatory network topology governs resistance and treatment escape in glioma stem-like cells</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adj7706</link>
-      <guid isPermaLink="false">NPINS.006026</guid>
-    </item>
-    <item>
-      <title>EPL: Interplay of synchronization and cortical input in models of brain networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad438e</link>
-      <guid isPermaLink="false">NPINS.006025</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Day-to-day behaviour for pedestrians in a circle antipode scenario: experiment and simulation</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad41c3</link>
-      <guid isPermaLink="false">NPINS.006024</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Stability Result for C2k+1-Free Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M158718X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006023</guid>
     </item>
   </channel>
 </rss>
