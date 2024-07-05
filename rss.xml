@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jul 2024 00:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 13:21:12 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rep.: Dynamical robustness of network of oscillators</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0370157324002515?dgcid=rss_sd_all</link>
+      <guid isPermaLink="false">NPINS.006132</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Categorical closure: Transitivity and identities in longitudinal networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000340</link>
+      <guid isPermaLink="false">NPINS.006131</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On spanning laceability of bipartite graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003801</link>
+      <guid isPermaLink="false">NPINS.006130</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Social norms and cooperation in higher-order networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0066?af=R</link>
+      <guid isPermaLink="false">NPINS.006129</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Partial Reflections and Globally Linked Pairs in Rigid Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M157065X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006128</guid>
+    </item>
     <item>
       <title>PNAS: Unraveling emergent network indeterminacy in complex ecosystems: A random matrix approach</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322939121?af=R</link>
@@ -488,31 +513,6 @@
       <title>EPJ Data Sci.: Glitter or gold? Deriving structured insights from sustainability reports via large language models</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00481-2</link>
       <guid isPermaLink="false">NPINS.006033</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Certifying Network Topologies and Nonlocalities of Triangle Quantum Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.240801</link>
-      <guid isPermaLink="false">NPINS.006032</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Certifying the Topology of Quantum Networks: Theory and Experiment</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.240802</link>
-      <guid isPermaLink="false">NPINS.006031</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Exponential synchronization of complex networks with unmeasured coupling delays via impulsive observer and impulsive control</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003047</link>
-      <guid isPermaLink="false">NPINS.006030</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Universal Fragility of Spin Glass Ground States under Single Bond Changes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.247101</link>
-      <guid isPermaLink="false">NPINS.006029</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Scalable Tensor Methods for Nonuniform Hypergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1584472?af=R</link>
-      <guid isPermaLink="false">NPINS.006028</guid>
     </item>
   </channel>
 </rss>
