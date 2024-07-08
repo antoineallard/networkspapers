@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jul 2024 02:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 13:06:34 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: DyHANE: dynamic heterogeneous attributed network embedding through experience node replay</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00633-3</link>
+      <guid isPermaLink="false">NPINS.006137</guid>
+    </item>
+    <item>
+      <title>iScience: Module control of network analysis in psychopathology</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S258900422401527X</link>
+      <guid isPermaLink="false">NPINS.006136</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Phys.: Contagion dynamics on higher-order networks</title>
+      <link>https://www.nature.com/articles/s42254-024-00733-0</link>
+      <guid isPermaLink="false">NPINS.006135</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A novel control chart scheme for online social network monitoring using multivariate nonparametric profile techniques</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00641-3</link>
+      <guid isPermaLink="false">NPINS.006134</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Decomposability of regular graphs to 4 locally irregular subgraphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003771</link>
+      <guid isPermaLink="false">NPINS.006133</guid>
+    </item>
     <item>
       <title>Phys. Rep.: Dynamical robustness of network of oscillators</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0370157324002515?dgcid=rss_sd_all</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: Mapping the Evolutionary Space of SARS-CoV-2 Variants to Anticipate Emergence of Subvariants Resistant to COVID-19 Therapeutics</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012215</link>
       <guid isPermaLink="false">NPINS.006038</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Infection patterns in simple and complex contagion processes on networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012206</link>
-      <guid isPermaLink="false">NPINS.006037</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Physical networks as network-of-networks</title>
-      <link>https://www.nature.com/articles/s41467-024-49227-8</link>
-      <guid isPermaLink="false">NPINS.006036</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On Graphs Coverable by k Shortest Paths</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1564511?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006035</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Asymptotic dynamic graph order evolution analysis</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00615-5</link>
-      <guid isPermaLink="false">NPINS.006034</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Glitter or gold? Deriving structured insights from sustainability reports via large language models</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00481-2</link>
-      <guid isPermaLink="false">NPINS.006033</guid>
     </item>
   </channel>
 </rss>
