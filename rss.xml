@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jul 2024 00:43:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 13:30:51 +0000</lastBuildDate>
+    <item>
+      <title>arXiv: Uncovering the hidden core-periphery structure in hyperbolic networks</title>
+      <link>https://arxiv.org/abs/2406.19953</link>
+      <guid isPermaLink="false">NPINS.006142</guid>
+    </item>
+    <item>
+      <title>arXiv: Anomalous random networks</title>
+      <link>https://arxiv.org/abs/2406.18882</link>
+      <guid isPermaLink="false">NPINS.006141</guid>
+    </item>
+    <item>
+      <title>arXiv: Dynamical robustness of network of oscillators</title>
+      <link>https://arxiv.org/abs/2407.02260</link>
+      <guid isPermaLink="false">NPINS.006140</guid>
+    </item>
+    <item>
+      <title>arXiv: Hypergraph Animals</title>
+      <link>https://arxiv.org/abs/2304.00841</link>
+      <guid isPermaLink="false">NPINS.006139</guid>
+    </item>
+    <item>
+      <title>EPL: Quantum steering in a star network</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad4fbc</link>
+      <guid isPermaLink="false">NPINS.006138</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: DyHANE: dynamic heterogeneous attributed network embedding through experience node replay</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00633-3</link>
@@ -488,31 +513,6 @@
       <title>J. Stat. Mech.: Minimum connected dominating set and backbone of a random graph</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad4026</link>
       <guid isPermaLink="false">NPINS.006043</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Random walk models for the propagation of signalling molecules in one-dimensional spatial networks and their continuum limit</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2023.0906?af=R</link>
-      <guid isPermaLink="false">NPINS.006042</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Towards Understanding the Endemic Behavior of a Competitive Tri-virus SIS Networked Model</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1563074?af=R</link>
-      <guid isPermaLink="false">NPINS.006041</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On Book Crossing Numbers of the Complete Graph</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/20M138260X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006040</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Which is the Worst-Case Nash Equilibrium?</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1542635?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006039</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Mapping the Evolutionary Space of SARS-CoV-2 Variants to Anticipate Emergence of Subvariants Resistant to COVID-19 Therapeutics</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012215</link>
-      <guid isPermaLink="false">NPINS.006038</guid>
     </item>
   </channel>
 </rss>
