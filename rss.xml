@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jul 2024 18:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 12:57:46 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Deterministic discrete-time quantum walk search on complete bipartite graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033042</link>
+      <guid isPermaLink="false">NPINS.006152</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Emergent scale-free networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae236</link>
+      <guid isPermaLink="false">NPINS.006151</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Reverse social contagion as a mechanism for regulating mass behaviors in highly integrated social systems</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae246</link>
+      <guid isPermaLink="false">NPINS.006150</guid>
+    </item>
+    <item>
+      <title>arXiv: Rate of epidemic spreading on complex networks</title>
+      <link>https://arxiv.org/abs/2406.15449</link>
+      <guid isPermaLink="false">NPINS.006149</guid>
+    </item>
+    <item>
+      <title>arXiv: Designing self-adaptive network with thermodynamics</title>
+      <link>https://arxiv.org/abs/2407.04930</link>
+      <guid isPermaLink="false">NPINS.006148</guid>
+    </item>
+    <item>
+      <title>arXiv: Medfluencer: A Network Representation of Medical Influencers' Identities and Discourse on Social Media</title>
+      <link>https://arxiv.org/abs/2407.05198</link>
+      <guid isPermaLink="false">NPINS.006147</guid>
+    </item>
+    <item>
+      <title>arXiv: A linear-time algorithm for $(1+ε)Δ$-edge-coloring</title>
+      <link>https://arxiv.org/abs/2407.04887</link>
+      <guid isPermaLink="false">NPINS.006146</guid>
+    </item>
+    <item>
+      <title>arXiv: Multiplexity is temporal: effects of social times on network structure</title>
+      <link>https://arxiv.org/abs/2407.05929</link>
+      <guid isPermaLink="false">NPINS.006145</guid>
+    </item>
+    <item>
+      <title>arXiv: General theory for extended-range percolation on simple and multiplex networks</title>
+      <link>https://arxiv.org/abs/2407.04585</link>
+      <guid isPermaLink="false">NPINS.006144</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Fixed-time bipartite synchronization of nonlinear impulsive time-varying signed networks with delays</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003667</link>
+      <guid isPermaLink="false">NPINS.006143</guid>
+    </item>
     <item>
       <title>arXiv: Uncovering the hidden core-periphery structure in hyperbolic networks</title>
       <link>https://arxiv.org/abs/2406.19953</link>
@@ -463,56 +513,6 @@
       <title>Nat. Neurosci.: Flexible information routing by transient synchrony</title>
       <link>https://www.nature.com/articles/nn.4569</link>
       <guid isPermaLink="false">NPINS.006053</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: The topology of spatial networks affects stability in experimental metacommunities</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0567?af=R</link>
-      <guid isPermaLink="false">NPINS.006052</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Combinatorics and topological weights of chromatin loop networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064405</link>
-      <guid isPermaLink="false">NPINS.006051</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Impact of message fatigue in information-disease coupled dynamics on temporal simplicial networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003400</link>
-      <guid isPermaLink="false">NPINS.006050</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: The information propagation mechanism of individual heterogeneous adoption behavior under the heterogeneous network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1404464</link>
-      <guid isPermaLink="false">NPINS.006049</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Topological Spectra and Entropy of Chromatin Loop Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.132.248403</link>
-      <guid isPermaLink="false">NPINS.006048</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Coexistence of asynchronous and clustered dynamics in noisy inhibitory neural networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad4dd5</link>
-      <guid isPermaLink="false">NPINS.006047</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: To update or to create? The influence of novelty and prior knowledge on memory networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0238?af=R</link>
-      <guid isPermaLink="false">NPINS.006046</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: An algorithm to build synthetic temporal contact networks based on close-proximity interactions data</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012227</link>
-      <guid isPermaLink="false">NPINS.006045</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Emergence of Polarization in a Sigmoidal Bounded-Confidence Model of Opinion Dynamics</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1527258?af=R</link>
-      <guid isPermaLink="false">NPINS.006044</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Minimum connected dominating set and backbone of a random graph</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad4026</link>
-      <guid isPermaLink="false">NPINS.006043</guid>
     </item>
   </channel>
 </rss>
