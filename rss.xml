@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jul 2024 01:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 12:40:13 +0000</lastBuildDate>
+    <item>
+      <title>R. Soc. Open Sci.: Design of a stand-alone hybrid dispersed generation network unified by passivity-based control</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230458?af=R</link>
+      <guid isPermaLink="false">NPINS.006162</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Synaptic reorganization of synchronized neuronal networks with synaptic weight and structural plasticity</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012261</link>
+      <guid isPermaLink="false">NPINS.006161</guid>
+    </item>
+    <item>
+      <title>arXiv: Faster single-source shortest paths with negative real weights via proper hop distance</title>
+      <link>https://arxiv.org/abs/2407.04872</link>
+      <guid isPermaLink="false">NPINS.006160</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Analyzing breast cancer comorbidities: a network approach using community detection algorithms</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00644-0</link>
+      <guid isPermaLink="false">NPINS.006159</guid>
+    </item>
+    <item>
+      <title>arXiv: Time-dependent Personalized PageRank for temporal networks: discrete and continuous scales</title>
+      <link>https://arxiv.org/abs/2407.06198</link>
+      <guid isPermaLink="false">NPINS.006158</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Too many options: How to identify coalitions in a policy network?</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000376</link>
+      <guid isPermaLink="false">NPINS.006157</guid>
+    </item>
+    <item>
+      <title>PNAS: Unraveling the mesoscale organization induced by network-driven processes</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2317608121?af=R</link>
+      <guid isPermaLink="false">NPINS.006156</guid>
+    </item>
+    <item>
+      <title>arXiv: Paradise-disorder transition in structural balance dynamics on Erdös-Rényi graphs</title>
+      <link>https://arxiv.org/abs/2407.06793</link>
+      <guid isPermaLink="false">NPINS.006155</guid>
+    </item>
+    <item>
+      <title>arXiv: Chronological Analysis of Rigvedic Mandalas using Social Networks</title>
+      <link>https://arxiv.org/abs/2407.06205</link>
+      <guid isPermaLink="false">NPINS.006154</guid>
+    </item>
+    <item>
+      <title>arXiv: An efficient implementation for solving the all pairs minimax path problem in an undirected dense graph</title>
+      <link>https://arxiv.org/abs/2407.07058</link>
+      <guid isPermaLink="false">NPINS.006153</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Deterministic discrete-time quantum walk search on complete bipartite graphs</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033042</link>
@@ -463,56 +513,6 @@
       <title>Nat. Commun.: Reconstructing higher-order interactions in coupled dynamical systems</title>
       <link>https://www.nature.com/articles/s41467-024-49278-x</link>
       <guid isPermaLink="false">NPINS.006063</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The number of connected sets in Apollonian networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003448</link>
-      <guid isPermaLink="false">NPINS.006062</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Cairo lattice with time-reversal non-invariant vertex couplings</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad52d6</link>
-      <guid isPermaLink="false">NPINS.006061</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: N-Body Oscillator Interactions of Higher-Order Coupling Functions</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1594182?af=R</link>
-      <guid isPermaLink="false">NPINS.006060</guid>
-    </item>
-    <item>
-      <title>PNAS: A mechanistic model of gossip, reputations, and cooperation</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2400689121</link>
-      <guid isPermaLink="false">NPINS.006059</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Occupational selection and the reliability of position generator measures of social capital</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000297</link>
-      <guid isPermaLink="false">NPINS.006058</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: End-stage renal disease accompanied by mild cognitive impairment: A study and analysis of trimodal brain network fusion</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305079</link>
-      <guid isPermaLink="false">NPINS.006057</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Network-based time series modeling for COVID-19 incidence in the Republic of Ireland</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00634-2</link>
-      <guid isPermaLink="false">NPINS.006056</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Analyzing Russia’s propaganda tactics on Twitter using mixed methods network analysis and natural language processing: a case study of the 2022 invasion of Ukraine</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00479-w</link>
-      <guid isPermaLink="false">NPINS.006055</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: The network of sports: using network analysis to understand the relationship between sports and socio-physiological factors in contemporary China</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00628-0</link>
-      <guid isPermaLink="false">NPINS.006054</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Flexible information routing by transient synchrony</title>
-      <link>https://www.nature.com/articles/nn.4569</link>
-      <guid isPermaLink="false">NPINS.006053</guid>
     </item>
   </channel>
 </rss>
