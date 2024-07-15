@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jul 2024 14:42:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 13:14:14 +0000</lastBuildDate>
+    <item>
+      <title>arXiv: Fairness and Consensus in Opinion Models (Technical Report)</title>
+      <link>https://arxiv.org/abs/2312.12251</link>
+      <guid isPermaLink="false">NPINS.006207</guid>
+    </item>
+    <item>
+      <title>arXiv: Counting Small Induced Subgraphs: Hardness via Fourier Analysis</title>
+      <link>https://arxiv.org/abs/2407.07051</link>
+      <guid isPermaLink="false">NPINS.006206</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Profile update: the effects of identity disclosure on network connections and language</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00483-0</link>
+      <guid isPermaLink="false">NPINS.006205</guid>
+    </item>
+    <item>
+      <title>arXiv: Authenticity and exclusion: social media recommendation algorithms and the dynamics of belonging in professional networks</title>
+      <link>https://arxiv.org/abs/2407.08552</link>
+      <guid isPermaLink="false">NPINS.006204</guid>
+    </item>
+    <item>
+      <title>arXiv: Chaotic synchronization in adaptive networks of pulse-coupled oscillators</title>
+      <link>https://arxiv.org/abs/2407.08453</link>
+      <guid isPermaLink="false">NPINS.006203</guid>
+    </item>
+    <item>
+      <title>arXiv: The SIS process on Erd\"os-R\'enyi graphs: determining the infected fraction</title>
+      <link>https://arxiv.org/abs/2403.12560</link>
+      <guid isPermaLink="false">NPINS.006202</guid>
+    </item>
+    <item>
+      <title>arXiv: Evolving Network Modeling Driven by the Degree Increase and Decrease Mechanism</title>
+      <link>https://arxiv.org/abs/2407.08299</link>
+      <guid isPermaLink="false">NPINS.006201</guid>
+    </item>
+    <item>
+      <title>arXiv: Patterns of link reciprocity in directed, signed networks</title>
+      <link>https://arxiv.org/abs/2407.08697</link>
+      <guid isPermaLink="false">NPINS.006200</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: The complex network patterns of human migration at different geographical scales: network science meets regression analysis</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00635-1</link>
+      <guid isPermaLink="false">NPINS.006199</guid>
+    </item>
+    <item>
+      <title>arXiv: Spectral Toolkit of Algorithms for Graphs: Technical Report (2)</title>
+      <link>https://arxiv.org/abs/2407.07096</link>
+      <guid isPermaLink="false">NPINS.006198</guid>
+    </item>
     <item>
       <title>arXiv: Modularity aided consistent attributed graph clustering via coarsening</title>
       <link>https://arxiv.org/abs/2407.07128</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Discrete Math.: Cliques in High-Dimensional Geometric Inhomogeneous Random Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M157394X?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.006108</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Critical delay accumulation</title>
-      <link>https://www.nature.com/articles/s41567-024-02507-y</link>
-      <guid isPermaLink="false">NPINS.006107</guid>
-    </item>
-    <item>
-      <title>Nature: Connectomic reconstruction of a female &lt;i&gt;Drosophila&lt;/i&gt; ventral nerve cord</title>
-      <link>https://www.nature.com/articles/s41586-024-07389-x</link>
-      <guid isPermaLink="false">NPINS.006106</guid>
-    </item>
-    <item>
-      <title>PNAS: The structure and function of antagonistic ties in village social networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2401257121?af=R</link>
-      <guid isPermaLink="false">NPINS.006105</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Comparative analysis of course prerequisite networks for five Midwestern public institutions</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00637-z</link>
-      <guid isPermaLink="false">NPINS.006104</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Information propagation characteristic by individual hesitant-common trend on weighted network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1410089</link>
-      <guid isPermaLink="false">NPINS.006103</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Differences in the consolidation by spontaneous and evoked ripples in the presence of active dendrites</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012218</link>
-      <guid isPermaLink="false">NPINS.006102</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: A Bifurcation Lemma for Invariant Subspaces</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1595540?af=R</link>
-      <guid isPermaLink="false">NPINS.006101</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On the Weisfeiler–Leman Dimension of Permutation Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1575019?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006100</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Characterizing the conditions for indefinite growth in open chemical reaction networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.109.064153</link>
-      <guid isPermaLink="false">NPINS.006099</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Emergence of Complex Network Topologies from Flow-Weighted Optimization of Network Efficiency</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.14.021050</link>
-      <guid isPermaLink="false">NPINS.006098</guid>
     </item>
   </channel>
 </rss>
