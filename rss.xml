@@ -13,7 +13,107 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jul 2024 17:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 13:39:10 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Visualization system to identify structurally vulnerable links in OHT railway network in semiconductor FAB using betweenness centrality</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307059</link>
+      <guid isPermaLink="false">NPINS.006242</guid>
+    </item>
+    <item>
+      <title>arXiv: Uplifting edges in higher order networks: spectral centralities for non-uniform hypergraphs</title>
+      <link>https://arxiv.org/abs/2310.20335</link>
+      <guid isPermaLink="false">NPINS.006241</guid>
+    </item>
+    <item>
+      <title>arXiv: Unsplittable Flow on a Short Path</title>
+      <link>https://arxiv.org/abs/2407.10138</link>
+      <guid isPermaLink="false">NPINS.006240</guid>
+    </item>
+    <item>
+      <title>arXiv: The impact of social noise on the majority-rule model across various network topologies</title>
+      <link>https://arxiv.org/abs/2310.01731</link>
+      <guid isPermaLink="false">NPINS.006239</guid>
+    </item>
+    <item>
+      <title>arXiv: Low Sensitivity Hopsets</title>
+      <link>https://arxiv.org/abs/2407.10249</link>
+      <guid isPermaLink="false">NPINS.006238</guid>
+    </item>
+    <item>
+      <title>arXiv: Better Diameter Algorithms for Bounded VC-dimension Graphs and Geometric Intersection Graphs</title>
+      <link>https://arxiv.org/abs/2307.08162</link>
+      <guid isPermaLink="false">NPINS.006237</guid>
+    </item>
+    <item>
+      <title>arXiv: Emergence and long-term maintenance of modularity in plastic networks of spiking neurons</title>
+      <link>https://arxiv.org/abs/2405.18587</link>
+      <guid isPermaLink="false">NPINS.006236</guid>
+    </item>
+    <item>
+      <title>arXiv: Constraints on Meso-Scale Structure in Complex Networks</title>
+      <link>https://arxiv.org/abs/2407.10100</link>
+      <guid isPermaLink="false">NPINS.006235</guid>
+    </item>
+    <item>
+      <title>arXiv: A Comprehensive Review of Community Detection in Graphs</title>
+      <link>https://arxiv.org/abs/2309.11798</link>
+      <guid isPermaLink="false">NPINS.006234</guid>
+    </item>
+    <item>
+      <title>arXiv: A mean field analysis of the role of indirect transmission in emergent infection events</title>
+      <link>https://arxiv.org/abs/2407.09587</link>
+      <guid isPermaLink="false">NPINS.006233</guid>
+    </item>
+    <item>
+      <title>arXiv: Investigating shocking events in the Ethereum stablecoin ecosystem through temporal multilayer graph structure</title>
+      <link>https://arxiv.org/abs/2407.10614</link>
+      <guid isPermaLink="false">NPINS.006232</guid>
+    </item>
+    <item>
+      <title>arXiv: Spanning Trees Minimizing Branching Costs</title>
+      <link>https://arxiv.org/abs/2407.10571</link>
+      <guid isPermaLink="false">NPINS.006231</guid>
+    </item>
+    <item>
+      <title>arXiv: Orientability of undirected phylogenetic networks to a desired class: Practical algorithms and application to tree-child orientation</title>
+      <link>https://arxiv.org/abs/2407.09776</link>
+      <guid isPermaLink="false">NPINS.006230</guid>
+    </item>
+    <item>
+      <title>arXiv: Fence decompositions and cherry covers in non-binary phylogenetic networks</title>
+      <link>https://arxiv.org/abs/2407.08812</link>
+      <guid isPermaLink="false">NPINS.006229</guid>
+    </item>
+    <item>
+      <title>arXiv: Fine-Grained Optimality of Partially Dynamic Shortest Paths and More</title>
+      <link>https://arxiv.org/abs/2407.09651</link>
+      <guid isPermaLink="false">NPINS.006228</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Improving the performance of mutation-based evolving artificial neural networks with self-adaptive mutations</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307084</link>
+      <guid isPermaLink="false">NPINS.006227</guid>
+    </item>
+    <item>
+      <title>arXiv: Obstructions to Erdős-Pósa Dualities for Minors</title>
+      <link>https://arxiv.org/abs/2407.09671</link>
+      <guid isPermaLink="false">NPINS.006226</guid>
+    </item>
+    <item>
+      <title>arXiv: 9/7-Approximation for Two-Edge-Connectivity</title>
+      <link>https://arxiv.org/abs/2407.10526</link>
+      <guid isPermaLink="false">NPINS.006225</guid>
+    </item>
+    <item>
+      <title>arXiv: Recoverable robust shortest path problem under interval budgeted uncertainty representations</title>
+      <link>https://arxiv.org/abs/2401.05715</link>
+      <guid isPermaLink="false">NPINS.006224</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Nucleation phenomena and extreme vulnerability of spatial k-core systems</title>
+      <link>https://www.nature.com/articles/s41467-024-50273-5</link>
+      <guid isPermaLink="false">NPINS.006223</guid>
+    </item>
     <item>
       <title>PNAS Nexus: Nondifferentiable activity in the brain</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae261</link>
@@ -413,106 +513,6 @@
       <title>Appl. Math. Comput.: Fixed-time bipartite synchronization of nonlinear impulsive time-varying signed networks with delays</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324003667</link>
       <guid isPermaLink="false">NPINS.006143</guid>
-    </item>
-    <item>
-      <title>arXiv: Uncovering the hidden core-periphery structure in hyperbolic networks</title>
-      <link>https://arxiv.org/abs/2406.19953</link>
-      <guid isPermaLink="false">NPINS.006142</guid>
-    </item>
-    <item>
-      <title>arXiv: Anomalous random networks</title>
-      <link>https://arxiv.org/abs/2406.18882</link>
-      <guid isPermaLink="false">NPINS.006141</guid>
-    </item>
-    <item>
-      <title>arXiv: Dynamical robustness of network of oscillators</title>
-      <link>https://arxiv.org/abs/2407.02260</link>
-      <guid isPermaLink="false">NPINS.006140</guid>
-    </item>
-    <item>
-      <title>arXiv: Hypergraph Animals</title>
-      <link>https://arxiv.org/abs/2304.00841</link>
-      <guid isPermaLink="false">NPINS.006139</guid>
-    </item>
-    <item>
-      <title>EPL: Quantum steering in a star network</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad4fbc</link>
-      <guid isPermaLink="false">NPINS.006138</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: DyHANE: dynamic heterogeneous attributed network embedding through experience node replay</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00633-3</link>
-      <guid isPermaLink="false">NPINS.006137</guid>
-    </item>
-    <item>
-      <title>iScience: Module control of network analysis in psychopathology</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S258900422401527X</link>
-      <guid isPermaLink="false">NPINS.006136</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Contagion dynamics on higher-order networks</title>
-      <link>https://www.nature.com/articles/s42254-024-00733-0</link>
-      <guid isPermaLink="false">NPINS.006135</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A novel control chart scheme for online social network monitoring using multivariate nonparametric profile techniques</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00641-3</link>
-      <guid isPermaLink="false">NPINS.006134</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Decomposability of regular graphs to 4 locally irregular subgraphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003771</link>
-      <guid isPermaLink="false">NPINS.006133</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: Dynamical robustness of network of oscillators</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0370157324002515?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.006132</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Categorical closure: Transitivity and identities in longitudinal networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000340</link>
-      <guid isPermaLink="false">NPINS.006131</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On spanning laceability of bipartite graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003801</link>
-      <guid isPermaLink="false">NPINS.006130</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Social norms and cooperation in higher-order networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0066?af=R</link>
-      <guid isPermaLink="false">NPINS.006129</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Partial Reflections and Globally Linked Pairs in Rigid Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M157065X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006128</guid>
-    </item>
-    <item>
-      <title>PNAS: Unraveling emergent network indeterminacy in complex ecosystems: A random matrix approach</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322939121?af=R</link>
-      <guid isPermaLink="false">NPINS.006127</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Network embedding based on DepDist contraction</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00639-x</link>
-      <guid isPermaLink="false">NPINS.006126</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Optimizing information-driven awareness allocation for controlling activity-triggered epidemic spread</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad5b7f</link>
-      <guid isPermaLink="false">NPINS.006125</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Predicting COVID-19 infections using multi-layer centrality measures in population-scale networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00632-4</link>
-      <guid isPermaLink="false">NPINS.006124</guid>
-    </item>
-    <item>
-      <title>PNAS: A hierarchy index for networks in the brain reveals a complex entangled organizational structure</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2314291121?af=R</link>
-      <guid isPermaLink="false">NPINS.006123</guid>
     </item>
   </channel>
 </rss>
