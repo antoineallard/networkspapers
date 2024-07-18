@@ -13,7 +13,107 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jul 2024 03:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 12:56:35 +0000</lastBuildDate>
+    <item>
+      <title>arXiv: On the Houdré-Tetali conjecture about an isoperimetric constant of graphs</title>
+      <link>https://arxiv.org/abs/2407.11357</link>
+      <guid isPermaLink="false">NPINS.006262</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Two-Colored Ramsey–Turán Densities Involving Triangles</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1609658?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006261</guid>
+    </item>
+    <item>
+      <title>arXiv: Competition between group interactions and nonlinearity in voter dynamics on hypergraphs</title>
+      <link>https://arxiv.org/abs/2407.11261</link>
+      <guid isPermaLink="false">NPINS.006260</guid>
+    </item>
+    <item>
+      <title>arXiv: A Network Lens on Social Costs: Demolishing a Historic Street for a New Subway Station</title>
+      <link>https://arxiv.org/abs/2407.10952</link>
+      <guid isPermaLink="false">NPINS.006259</guid>
+    </item>
+    <item>
+      <title>arXiv: Error Bounds for the Network Scale-Up Method</title>
+      <link>https://arxiv.org/abs/2407.10640</link>
+      <guid isPermaLink="false">NPINS.006258</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Planar graphs with distance of 3-cycles at least 2 and no cycles of lengths 5, 6, 7</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004077</link>
+      <guid isPermaLink="false">NPINS.006257</guid>
+    </item>
+    <item>
+      <title>arXiv: Group actions on codes in graphs</title>
+      <link>https://arxiv.org/abs/2407.09803</link>
+      <guid isPermaLink="false">NPINS.006256</guid>
+    </item>
+    <item>
+      <title>arXiv: Monotone convergence of spreading processes on networks</title>
+      <link>https://arxiv.org/abs/2407.10816</link>
+      <guid isPermaLink="false">NPINS.006255</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Coupled unidirectional chaotic microwave graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014206</link>
+      <guid isPermaLink="false">NPINS.006254</guid>
+    </item>
+    <item>
+      <title>arXiv: Team careers in science: formation, composition and success of persistent collaborations</title>
+      <link>https://arxiv.org/abs/2407.09326</link>
+      <guid isPermaLink="false">NPINS.006253</guid>
+    </item>
+    <item>
+      <title>arXiv: Cut-Preserving Vertex Sparsifiers for Planar and Quasi-bipartite Graphs</title>
+      <link>https://arxiv.org/abs/2407.10852</link>
+      <guid isPermaLink="false">NPINS.006252</guid>
+    </item>
+    <item>
+      <title>arXiv: Almost-Linear Time Algorithms for Decremental Graphs: Min-Cost Flow and More via Duality</title>
+      <link>https://arxiv.org/abs/2407.10830</link>
+      <guid isPermaLink="false">NPINS.006251</guid>
+    </item>
+    <item>
+      <title>arXiv: Obstructions to Erd\H{o}s-P\'osa Dualities for Minors</title>
+      <link>https://arxiv.org/abs/2407.09671</link>
+      <guid isPermaLink="false">NPINS.006250</guid>
+    </item>
+    <item>
+      <title>arXiv: A Distance for Geometric Graphs via the Labeled Merge Tree Interleaving Distance</title>
+      <link>https://arxiv.org/abs/2407.09442</link>
+      <guid isPermaLink="false">NPINS.006249</guid>
+    </item>
+    <item>
+      <title>arXiv: Introducing Total Harmonic Resistance for Graph Robustness under Edge Deletions</title>
+      <link>https://arxiv.org/abs/2407.11521</link>
+      <guid isPermaLink="false">NPINS.006248</guid>
+    </item>
+    <item>
+      <title>arXiv: Explosive percolation in finite dimensions</title>
+      <link>https://arxiv.org/abs/2407.10492</link>
+      <guid isPermaLink="false">NPINS.006247</guid>
+    </item>
+    <item>
+      <title>arXiv: Analyzing X's Web of Influence: Dissecting News Sharing Dynamics through Credibility and Popularity with Transfer Entropy and Multiplex Network Measures</title>
+      <link>https://arxiv.org/abs/2407.09657</link>
+      <guid isPermaLink="false">NPINS.006246</guid>
+    </item>
+    <item>
+      <title>arXiv: Nearly-Tight Bounds for Flow Sparsifiers in Quasi-Bipartite Graphs</title>
+      <link>https://arxiv.org/abs/2407.09433</link>
+      <guid isPermaLink="false">NPINS.006245</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Modeling epidemic dynamics using Graph Attention based Spatial Temporal networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307159</link>
+      <guid isPermaLink="false">NPINS.006244</guid>
+    </item>
+    <item>
+      <title>arXiv: Opinion formation under mass media influence on the Barabasi-Albert network</title>
+      <link>https://arxiv.org/abs/2407.10035</link>
+      <guid isPermaLink="false">NPINS.006243</guid>
+    </item>
     <item>
       <title>PLOS ONE: Visualization system to identify structurally vulnerable links in OHT railway network in semiconductor FAB using betweenness centrality</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307059</link>
@@ -413,106 +513,6 @@
       <title>Commun. Phys.: Structural constraints limit the regime of optimal flux in autocatalytic reaction networks</title>
       <link>https://www.nature.com/articles/s42005-024-01704-8</link>
       <guid isPermaLink="false">NPINS.006163</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Design of a stand-alone hybrid dispersed generation network unified by passivity-based control</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.230458?af=R</link>
-      <guid isPermaLink="false">NPINS.006162</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Synaptic reorganization of synchronized neuronal networks with synaptic weight and structural plasticity</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012261</link>
-      <guid isPermaLink="false">NPINS.006161</guid>
-    </item>
-    <item>
-      <title>arXiv: Faster single-source shortest paths with negative real weights via proper hop distance</title>
-      <link>https://arxiv.org/abs/2407.04872</link>
-      <guid isPermaLink="false">NPINS.006160</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Analyzing breast cancer comorbidities: a network approach using community detection algorithms</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00644-0</link>
-      <guid isPermaLink="false">NPINS.006159</guid>
-    </item>
-    <item>
-      <title>arXiv: Time-dependent Personalized PageRank for temporal networks: discrete and continuous scales</title>
-      <link>https://arxiv.org/abs/2407.06198</link>
-      <guid isPermaLink="false">NPINS.006158</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Too many options: How to identify coalitions in a policy network?</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000376</link>
-      <guid isPermaLink="false">NPINS.006157</guid>
-    </item>
-    <item>
-      <title>PNAS: Unraveling the mesoscale organization induced by network-driven processes</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2317608121?af=R</link>
-      <guid isPermaLink="false">NPINS.006156</guid>
-    </item>
-    <item>
-      <title>arXiv: Paradise-disorder transition in structural balance dynamics on Erdös-Rényi graphs</title>
-      <link>https://arxiv.org/abs/2407.06793</link>
-      <guid isPermaLink="false">NPINS.006155</guid>
-    </item>
-    <item>
-      <title>arXiv: Chronological Analysis of Rigvedic Mandalas using Social Networks</title>
-      <link>https://arxiv.org/abs/2407.06205</link>
-      <guid isPermaLink="false">NPINS.006154</guid>
-    </item>
-    <item>
-      <title>arXiv: An efficient implementation for solving the all pairs minimax path problem in an undirected dense graph</title>
-      <link>https://arxiv.org/abs/2407.07058</link>
-      <guid isPermaLink="false">NPINS.006153</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Deterministic discrete-time quantum walk search on complete bipartite graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033042</link>
-      <guid isPermaLink="false">NPINS.006152</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Emergent scale-free networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae236</link>
-      <guid isPermaLink="false">NPINS.006151</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Reverse social contagion as a mechanism for regulating mass behaviors in highly integrated social systems</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae246</link>
-      <guid isPermaLink="false">NPINS.006150</guid>
-    </item>
-    <item>
-      <title>arXiv: Rate of epidemic spreading on complex networks</title>
-      <link>https://arxiv.org/abs/2406.15449</link>
-      <guid isPermaLink="false">NPINS.006149</guid>
-    </item>
-    <item>
-      <title>arXiv: Designing self-adaptive network with thermodynamics</title>
-      <link>https://arxiv.org/abs/2407.04930</link>
-      <guid isPermaLink="false">NPINS.006148</guid>
-    </item>
-    <item>
-      <title>arXiv: Medfluencer: A Network Representation of Medical Influencers' Identities and Discourse on Social Media</title>
-      <link>https://arxiv.org/abs/2407.05198</link>
-      <guid isPermaLink="false">NPINS.006147</guid>
-    </item>
-    <item>
-      <title>arXiv: A linear-time algorithm for $(1+ε)Δ$-edge-coloring</title>
-      <link>https://arxiv.org/abs/2407.04887</link>
-      <guid isPermaLink="false">NPINS.006146</guid>
-    </item>
-    <item>
-      <title>arXiv: Multiplexity is temporal: effects of social times on network structure</title>
-      <link>https://arxiv.org/abs/2407.05929</link>
-      <guid isPermaLink="false">NPINS.006145</guid>
-    </item>
-    <item>
-      <title>arXiv: General theory for extended-range percolation on simple and multiplex networks</title>
-      <link>https://arxiv.org/abs/2407.04585</link>
-      <guid isPermaLink="false">NPINS.006144</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Fixed-time bipartite synchronization of nonlinear impulsive time-varying signed networks with delays</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003667</link>
-      <guid isPermaLink="false">NPINS.006143</guid>
     </item>
   </channel>
 </rss>
