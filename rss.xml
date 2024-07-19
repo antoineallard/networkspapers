@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jul 2024 04:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 13:39:59 +0000</lastBuildDate>
+    <item>
+      <title>arXiv: Friedkin-Johnsen Model for Opinion Dynamics on Signed Graphs</title>
+      <link>https://arxiv.org/abs/2407.10680</link>
+      <guid isPermaLink="false">NPINS.006272</guid>
+    </item>
+    <item>
+      <title>arXiv: Exact Label Recovery in Euclidean Random Graphs</title>
+      <link>https://arxiv.org/abs/2407.11163</link>
+      <guid isPermaLink="false">NPINS.006271</guid>
+    </item>
+    <item>
+      <title>arXiv: Infinite families of optimal and minimal codes over rings using simplicial complexes</title>
+      <link>https://arxiv.org/abs/2407.09783</link>
+      <guid isPermaLink="false">NPINS.006270</guid>
+    </item>
+    <item>
+      <title>arXiv: Bipartite Graph Variational Auto-Encoder with Fair Latent Representation to Account for Sampling Bias in Ecological Networks</title>
+      <link>https://arxiv.org/abs/2403.02011</link>
+      <guid isPermaLink="false">NPINS.006269</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Emergence of biconnected clusters in explosive percolation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014122</link>
+      <guid isPermaLink="false">NPINS.006268</guid>
+    </item>
+    <item>
+      <title>arXiv: Emergence of biconnected clusters in explosive percolation</title>
+      <link>https://arxiv.org/abs/2403.02789</link>
+      <guid isPermaLink="false">NPINS.006267</guid>
+    </item>
+    <item>
+      <title>arXiv: EVOLVE: Predicting User Evolution and Network Dynamics in Social Media Using Fine-Tuned GPT-like Model</title>
+      <link>https://arxiv.org/abs/2407.09691</link>
+      <guid isPermaLink="false">NPINS.006266</guid>
+    </item>
+    <item>
+      <title>PNAS: Breakthrough-induced loop formation in evolving transport networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2401200121?af=R</link>
+      <guid isPermaLink="false">NPINS.006265</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Finding synchronization state of higher-order motif networks by dynamic learning</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033071</link>
+      <guid isPermaLink="false">NPINS.006264</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A bridge between influence models and control methods</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00647-x</link>
+      <guid isPermaLink="false">NPINS.006263</guid>
+    </item>
     <item>
       <title>arXiv: On the Houdré-Tetali conjecture about an isoperimetric constant of graphs</title>
       <link>https://arxiv.org/abs/2407.11357</link>
@@ -463,56 +513,6 @@
       <title>Appl. Netw. Sci.: From time series to networks in R with the ts2net package</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00642-2</link>
       <guid isPermaLink="false">NPINS.006173</guid>
-    </item>
-    <item>
-      <title>arXiv: On the Relation between Graph Ricci Curvature and Community Structure</title>
-      <link>https://arxiv.org/abs/2407.06197</link>
-      <guid isPermaLink="false">NPINS.006172</guid>
-    </item>
-    <item>
-      <title>arXiv: A New Approach for Approximating Directed Rooted Networks</title>
-      <link>https://arxiv.org/abs/2407.07543</link>
-      <guid isPermaLink="false">NPINS.006171</guid>
-    </item>
-    <item>
-      <title>arXiv: Empirical Networks are Sparse: Enhancing Multi-Edge Models with Zero-Inflation</title>
-      <link>https://arxiv.org/abs/2406.09169</link>
-      <guid isPermaLink="false">NPINS.006170</guid>
-    </item>
-    <item>
-      <title>arXiv: Scalable Multilevel and Memetic Signed Graph Clustering</title>
-      <link>https://arxiv.org/abs/2208.13618</link>
-      <guid isPermaLink="false">NPINS.006169</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Flexible multitask computation in recurrent networks utilizes shared dynamical motifs</title>
-      <link>https://www.nature.com/articles/s41593-024-01668-6</link>
-      <guid isPermaLink="false">NPINS.006168</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Downscaling spatial interaction with socioeconomic attributes</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00487-w</link>
-      <guid isPermaLink="false">NPINS.006167</guid>
-    </item>
-    <item>
-      <title>arXiv: Infection patterns in simple and complex contagion processes on networks</title>
-      <link>https://arxiv.org/abs/2309.10486</link>
-      <guid isPermaLink="false">NPINS.006166</guid>
-    </item>
-    <item>
-      <title>arXiv: Turing patterns on discrete topologies: from networks to higher-order structures</title>
-      <link>https://arxiv.org/abs/2407.07663</link>
-      <guid isPermaLink="false">NPINS.006165</guid>
-    </item>
-    <item>
-      <title>arXiv: Sampling-Based Attack for Centrality Disruption in Complex Networks</title>
-      <link>https://arxiv.org/abs/2407.06558</link>
-      <guid isPermaLink="false">NPINS.006164</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Structural constraints limit the regime of optimal flux in autocatalytic reaction networks</title>
-      <link>https://www.nature.com/articles/s42005-024-01704-8</link>
-      <guid isPermaLink="false">NPINS.006163</guid>
     </item>
   </channel>
 </rss>
