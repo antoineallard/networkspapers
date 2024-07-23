@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jul 2024 10:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 16:02:14 +0000</lastBuildDate>
+    <item>
+      <title>arXiv: Optimal linear codes with few weights from simplicial complexes</title>
+      <link>https://arxiv.org/abs/2407.10074</link>
+      <guid isPermaLink="false">NPINS.006277</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Mean-field solution of the neural dynamics in a Greenberg-Hastings model with excitatory and inhibitory units</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014130</link>
+      <guid isPermaLink="false">NPINS.006276</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Wasserstein distance in speed limit inequalities for Markov jump processes</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad5438</link>
+      <guid isPermaLink="false">NPINS.006275</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Enhancing highway transportation safety resilience during emergencies: A network-based analysis and assessment</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307233</link>
+      <guid isPermaLink="false">NPINS.006274</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: A review of the diverse applications of bond graphs in biology and physiology</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2023.0807?af=R</link>
+      <guid isPermaLink="false">NPINS.006273</guid>
+    </item>
     <item>
       <title>arXiv: Friedkin-Johnsen Model for Opinion Dynamics on Signed Graphs</title>
       <link>https://arxiv.org/abs/2407.10680</link>
@@ -488,31 +513,6 @@
       <title>arXiv: From Graph Properties to Graph Parameters: Tight Bounds for Counting on Small Subgraphs</title>
       <link>https://arxiv.org/abs/2407.06801</link>
       <guid isPermaLink="false">NPINS.006178</guid>
-    </item>
-    <item>
-      <title>arXiv: A Simple, Nearly-Optimal Algorithm for Differentially Private All-Pairs Shortest Distances</title>
-      <link>https://arxiv.org/abs/2407.06913</link>
-      <guid isPermaLink="false">NPINS.006177</guid>
-    </item>
-    <item>
-      <title>arXiv: Asymmetric Iterated Prisoner's Dilemma on BA Scale-Free Network</title>
-      <link>https://arxiv.org/abs/2407.03904</link>
-      <guid isPermaLink="false">NPINS.006176</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Product Structure Extension of the Alon–Seymour–Thomas Theorem</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1591773?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006175</guid>
-    </item>
-    <item>
-      <title>arXiv: Changepoint Detection in Highly-Attributed Dynamic Graphs</title>
-      <link>https://arxiv.org/abs/2407.06998</link>
-      <guid isPermaLink="false">NPINS.006174</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: From time series to networks in R with the ts2net package</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00642-2</link>
-      <guid isPermaLink="false">NPINS.006173</guid>
     </item>
   </channel>
 </rss>
