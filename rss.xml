@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Aug 2024 10:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 22:04:43 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: A multilevel backbone extraction framework</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00645-z</link>
+      <guid isPermaLink="false">NPINS.006282</guid>
+    </item>
+    <item>
+      <title>PNAS: Renormalization group analysis of the Anderson model on random regular graphs</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2401955121?af=R</link>
+      <guid isPermaLink="false">NPINS.006281</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Achieving Occam’s razor: Deep learning for optimal model reduction</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012283</link>
+      <guid isPermaLink="false">NPINS.006280</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Polarization dynamics: a study of individuals shifting between political communities on social media</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad679d</link>
+      <guid isPermaLink="false">NPINS.006279</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Triadic percolation induces dynamical topological patterns in higher-order networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae270</link>
+      <guid isPermaLink="false">NPINS.006278</guid>
+    </item>
     <item>
       <title>arXiv: Optimal linear codes with few weights from simplicial complexes</title>
       <link>https://arxiv.org/abs/2407.10074</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Model selection for network data based on spectral information</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00640-4</link>
       <guid isPermaLink="false">NPINS.006183</guid>
-    </item>
-    <item>
-      <title>arXiv: Efficient Stochastic Routing in Path-Centric Uncertain Road Networks -- Extended Version</title>
-      <link>https://arxiv.org/abs/2407.06881</link>
-      <guid isPermaLink="false">NPINS.006182</guid>
-    </item>
-    <item>
-      <title>arXiv: Higher-order null models as a lens for social systems</title>
-      <link>https://arxiv.org/abs/2402.18470</link>
-      <guid isPermaLink="false">NPINS.006181</guid>
-    </item>
-    <item>
-      <title>arXiv: From Contact to Threat: A Social Network Perspective on Perceptions of Immigration</title>
-      <link>https://arxiv.org/abs/2407.06820</link>
-      <guid isPermaLink="false">NPINS.006180</guid>
-    </item>
-    <item>
-      <title>arXiv: The Low-Degree Hardness of Finding Large Independent Sets in Sparse Random Hypergraphs</title>
-      <link>https://arxiv.org/abs/2404.03842</link>
-      <guid isPermaLink="false">NPINS.006179</guid>
-    </item>
-    <item>
-      <title>arXiv: From Graph Properties to Graph Parameters: Tight Bounds for Counting on Small Subgraphs</title>
-      <link>https://arxiv.org/abs/2407.06801</link>
-      <guid isPermaLink="false">NPINS.006178</guid>
     </item>
   </channel>
 </rss>
