@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Aug 2024 19:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 12:56:02 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Commun.: Node-layer duality in networked systems</title>
+      <link>https://www.nature.com/articles/s41467-024-50176-5</link>
+      <guid isPermaLink="false">NPINS.006292</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: A highly resolved network reveals the role of terrestrial herbivory in structuring aboveground food webs</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0180?af=R</link>
+      <guid isPermaLink="false">NPINS.006291</guid>
+    </item>
+    <item>
+      <title>PNAS: On the friendship paradox and inversity: A network property with applications to privacy-sensitive network interventions</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2306412121?af=R</link>
+      <guid isPermaLink="false">NPINS.006290</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model</title>
+      <link>http://jmlr.org/papers/v25/23-1365.html</link>
+      <guid isPermaLink="false">NPINS.006289</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On spectral extrema of graphs with given order and generalized 4-independence number</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032400479X</link>
+      <guid isPermaLink="false">NPINS.006288</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Understanding underlying physical mechanism reveals early warning indicators and key elements for adaptive infections disease networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae237</link>
+      <guid isPermaLink="false">NPINS.006287</guid>
+    </item>
+    <item>
+      <title>SIAM Rev.: Combinatorial and Hodge Laplacians: Similarities and Differences</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1482299?ai=s5&amp;mi=8vgswd&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006286</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Optimal Adjacency Labels for Subgraphs of Cartesian Products</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1587713?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006285</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: The rules of multiplayer cooperation in networks of communities</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012388</link>
+      <guid isPermaLink="false">NPINS.006284</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Corruption dynamics in public procurement: A longitudinal network analysis of local construction contracts in Guatemala</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332400039X</link>
+      <guid isPermaLink="false">NPINS.006283</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: A multilevel backbone extraction framework</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00645-z</link>
@@ -463,56 +513,6 @@
       <title>Soc. Networks: Evaluating disease surveillance strategies for early outbreak detection in contact networks with varying community structure</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873324000364</link>
       <guid isPermaLink="false">NPINS.006193</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Multiple serial correlations in global air temperature anomaly time series</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306694</link>
-      <guid isPermaLink="false">NPINS.006192</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Local 2-connected bow-tie structure of the Web and of social networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00638-y</link>
-      <guid isPermaLink="false">NPINS.006191</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: Network-based integrative multi-omics approach reveals biosignatures specific to COVID-19 disease phases</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2024.1393240</link>
-      <guid isPermaLink="false">NPINS.006190</guid>
-    </item>
-    <item>
-      <title>arXiv: Cover times of many random walkers on a discrete network</title>
-      <link>https://arxiv.org/abs/2310.07905</link>
-      <guid isPermaLink="false">NPINS.006189</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A new approach to b-coloring of regular graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324003758</link>
-      <guid isPermaLink="false">NPINS.006188</guid>
-    </item>
-    <item>
-      <title>arXiv: Network inference from oscillatory signals based on circle map</title>
-      <link>https://arxiv.org/abs/2407.07445</link>
-      <guid isPermaLink="false">NPINS.006187</guid>
-    </item>
-    <item>
-      <title>arXiv: Structural dynamics of plant-pollinator mutualistic networks</title>
-      <link>https://arxiv.org/abs/2105.09191</link>
-      <guid isPermaLink="false">NPINS.006186</guid>
-    </item>
-    <item>
-      <title>arXiv: Higher-order Fuzzy Membership in Motif Modularity Optimization</title>
-      <link>https://arxiv.org/abs/2407.07301</link>
-      <guid isPermaLink="false">NPINS.006185</guid>
-    </item>
-    <item>
-      <title>arXiv: Optimal bias of utility function between two-layer network for the evolution of prosocial behavior in two-order game and higher-order game</title>
-      <link>https://arxiv.org/abs/2407.07119</link>
-      <guid isPermaLink="false">NPINS.006184</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Model selection for network data based on spectral information</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00640-4</link>
-      <guid isPermaLink="false">NPINS.006183</guid>
     </item>
   </channel>
 </rss>
