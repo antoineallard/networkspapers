@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Aug 2024 15:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 13:31:38 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Modeling interactions in a dynamic heuristic business network</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00660-0</link>
+      <guid isPermaLink="false">NPINS.006302</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Weaving social networks from cultural similarities on the neolithisation process in the Western Mediterranean: Evolutionary trajectories using projectile tools</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306027</link>
+      <guid isPermaLink="false">NPINS.006301</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: The structural evolution of temporal hypergraphs through the lens of hyper-cores</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00490-1</link>
+      <guid isPermaLink="false">NPINS.006300</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. X: Higher-Order Null Models as a Lens for Social Systems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevX.14.031032</link>
+      <guid isPermaLink="false">NPINS.006299</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Exponential random graph models and pendant-triangle statistics</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000406</link>
+      <guid isPermaLink="false">NPINS.006298</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Rank is all you need: development and analysis of robust causal networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00648-w</link>
+      <guid isPermaLink="false">NPINS.006297</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Predicting network members from partial contact records on social media: A machine learning approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000455</link>
+      <guid isPermaLink="false">NPINS.006296</guid>
+    </item>
+    <item>
+      <title>SIAM J. Math. Data Sci.: Spectral Triadic Decompositions of Real-World Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1586926?af=R</link>
+      <guid isPermaLink="false">NPINS.006295</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Neurosci.: Structure–function coupling in macroscale human brain networks</title>
+      <link>https://www.nature.com/articles/s41583-024-00846-6</link>
+      <guid isPermaLink="false">NPINS.006294</guid>
+    </item>
+    <item>
+      <title>EPL: Effect of constraint relaxation on dynamic critical phenomena in minimum vertex cover problem</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad5102</link>
+      <guid isPermaLink="false">NPINS.006293</guid>
+    </item>
     <item>
       <title>Nat. Commun.: Node-layer duality in networked systems</title>
       <link>https://www.nature.com/articles/s41467-024-50176-5</link>
@@ -463,56 +513,6 @@
       <title>arXiv: Chaotic synchronization in adaptive networks of pulse-coupled oscillators</title>
       <link>https://arxiv.org/abs/2407.08453</link>
       <guid isPermaLink="false">NPINS.006203</guid>
-    </item>
-    <item>
-      <title>arXiv: The SIS process on Erd\"os-R\'enyi graphs: determining the infected fraction</title>
-      <link>https://arxiv.org/abs/2403.12560</link>
-      <guid isPermaLink="false">NPINS.006202</guid>
-    </item>
-    <item>
-      <title>arXiv: Evolving Network Modeling Driven by the Degree Increase and Decrease Mechanism</title>
-      <link>https://arxiv.org/abs/2407.08299</link>
-      <guid isPermaLink="false">NPINS.006201</guid>
-    </item>
-    <item>
-      <title>arXiv: Patterns of link reciprocity in directed, signed networks</title>
-      <link>https://arxiv.org/abs/2407.08697</link>
-      <guid isPermaLink="false">NPINS.006200</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: The complex network patterns of human migration at different geographical scales: network science meets regression analysis</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00635-1</link>
-      <guid isPermaLink="false">NPINS.006199</guid>
-    </item>
-    <item>
-      <title>arXiv: Spectral Toolkit of Algorithms for Graphs: Technical Report (2)</title>
-      <link>https://arxiv.org/abs/2407.07096</link>
-      <guid isPermaLink="false">NPINS.006198</guid>
-    </item>
-    <item>
-      <title>arXiv: Modularity aided consistent attributed graph clustering via coarsening</title>
-      <link>https://arxiv.org/abs/2407.07128</link>
-      <guid isPermaLink="false">NPINS.006197</guid>
-    </item>
-    <item>
-      <title>arXiv: Parameter estimation of epidemic spread in two-layer random graphs by classical and machine learning methods</title>
-      <link>https://arxiv.org/abs/2407.07118</link>
-      <guid isPermaLink="false">NPINS.006196</guid>
-    </item>
-    <item>
-      <title>arXiv: Interbank network reconstruction enforcing density and reciprocity</title>
-      <link>https://arxiv.org/abs/2402.11136</link>
-      <guid isPermaLink="false">NPINS.006195</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A generalized uniform placement of alters on spherical surface (U-PASS) for visualizing general weighted networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00646-y</link>
-      <guid isPermaLink="false">NPINS.006194</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Evaluating disease surveillance strategies for early outbreak detection in contact networks with varying community structure</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000364</link>
-      <guid isPermaLink="false">NPINS.006193</guid>
     </item>
   </channel>
 </rss>
