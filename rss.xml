@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Aug 2024 18:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 13:38:05 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Universal superdiffusion of random walks in media with embedded fractal networks of low diffusivity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L022102</link>
+      <guid isPermaLink="false">NPINS.006307</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Augmentations of Forman’s Ricci curvature and their applications in community detection</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad64a3</link>
+      <guid isPermaLink="false">NPINS.006306</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Explainable drug repurposing via path based knowledge graph completion</title>
+      <link>https://www.nature.com/articles/s41598-024-67163-x</link>
+      <guid isPermaLink="false">NPINS.006305</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Keep your friends close, and your enemies closer: structural properties of negative relationships on Twitter</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00485-y</link>
+      <guid isPermaLink="false">NPINS.006304</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Braess’s Paradox Analog in Physical Networks of Optimal Exploration</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.067401</link>
+      <guid isPermaLink="false">NPINS.006303</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Modeling interactions in a dynamic heuristic business network</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00660-0</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Graphs with Large Girth and Chromatic Number are Hard for Nullstellensatz</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1553273?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.006208</guid>
-    </item>
-    <item>
-      <title>arXiv: Fairness and Consensus in Opinion Models (Technical Report)</title>
-      <link>https://arxiv.org/abs/2312.12251</link>
-      <guid isPermaLink="false">NPINS.006207</guid>
-    </item>
-    <item>
-      <title>arXiv: Counting Small Induced Subgraphs: Hardness via Fourier Analysis</title>
-      <link>https://arxiv.org/abs/2407.07051</link>
-      <guid isPermaLink="false">NPINS.006206</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Profile update: the effects of identity disclosure on network connections and language</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00483-0</link>
-      <guid isPermaLink="false">NPINS.006205</guid>
-    </item>
-    <item>
-      <title>arXiv: Authenticity and exclusion: social media recommendation algorithms and the dynamics of belonging in professional networks</title>
-      <link>https://arxiv.org/abs/2407.08552</link>
-      <guid isPermaLink="false">NPINS.006204</guid>
-    </item>
-    <item>
-      <title>arXiv: Chaotic synchronization in adaptive networks of pulse-coupled oscillators</title>
-      <link>https://arxiv.org/abs/2407.08453</link>
-      <guid isPermaLink="false">NPINS.006203</guid>
     </item>
   </channel>
 </rss>
