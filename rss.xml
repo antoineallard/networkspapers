@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Aug 2024 17:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 13:12:00 +0000</lastBuildDate>
+    <item>
+      <title>Proc. R. Soc. A: Quantum-like states on complex synchronized networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0209?af=R</link>
+      <guid isPermaLink="false">NPINS.006317</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Ant social network structure is highly conserved across species</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0898?af=R</link>
+      <guid isPermaLink="false">NPINS.006316</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Critical speeding-up in dynamical percolation</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad6137</link>
+      <guid isPermaLink="false">NPINS.006315</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: The futility of being selfish in vaccine distribution</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad5ad5</link>
+      <guid isPermaLink="false">NPINS.006314</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Spiking mode-based neural networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024306</link>
+      <guid isPermaLink="false">NPINS.006313</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Network model with internal complexity bridges artificial intelligence and neuroscience</title>
+      <link>https://www.nature.com/articles/s43588-024-00674-9</link>
+      <guid isPermaLink="false">NPINS.006312</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Evaluating attitudes on health-seeking behavior among a network of people who inject drugs</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00653-z</link>
+      <guid isPermaLink="false">NPINS.006311</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Sexual conflict and sexual networks in bed bugs: the fitness cost of traumatic insemination, female avoidance and male mate choice</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2808?af=R</link>
+      <guid isPermaLink="false">NPINS.006310</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Research on the dynamic spread of information in social networks based on relationship strength theory and feedback mechanism</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1327161</link>
+      <guid isPermaLink="false">NPINS.006309</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Individual-centered Partial Information in Social Networks</title>
+      <link>http://jmlr.org/papers/v25/23-0005.html</link>
+      <guid isPermaLink="false">NPINS.006308</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Universal superdiffusion of random walks in media with embedded fractal networks of low diffusivity</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L022102</link>
@@ -463,56 +513,6 @@
       <title>arXiv: Bipartizing (Pseudo-)Disk Graphs: Approximation with a Ratio Better than 3</title>
       <link>https://arxiv.org/abs/2407.09356</link>
       <guid isPermaLink="false">NPINS.006218</guid>
-    </item>
-    <item>
-      <title>arXiv: Commute-Time-Optimised Graphs for GNNs</title>
-      <link>https://arxiv.org/abs/2407.08762</link>
-      <guid isPermaLink="false">NPINS.006217</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Shift in house price estimates during COVID-19 reveals effect of crisis on collective speculation</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00488-9</link>
-      <guid isPermaLink="false">NPINS.006216</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Quantifying economic vulnerabilities induced by interdependent networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306893</link>
-      <guid isPermaLink="false">NPINS.006215</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Shepherding and herdability in complex multiagent systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L032012</link>
-      <guid isPermaLink="false">NPINS.006214</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Lifetime internal migration trajectories and social networks: Do repeat migrants fare worst?</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000388</link>
-      <guid isPermaLink="false">NPINS.006213</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Early Predictor for the Onset of Critical Transitions in Networked Dynamical Systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.14.031009</link>
-      <guid isPermaLink="false">NPINS.006212</guid>
-    </item>
-    <item>
-      <title>arXiv: Social dilemmas, network reciprocity and the small-world property</title>
-      <link>https://arxiv.org/abs/2407.08938</link>
-      <guid isPermaLink="false">NPINS.006211</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Quantifying the vulnerabilities of the online public square to adversarial manipulation tactics</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae258</link>
-      <guid isPermaLink="false">NPINS.006210</guid>
-    </item>
-    <item>
-      <title>arXiv: Two Classes of Optimal Multi-Input Structures for Node Computations in Message Passing Algorithms</title>
-      <link>https://arxiv.org/abs/2407.08941</link>
-      <guid isPermaLink="false">NPINS.006209</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Graphs with Large Girth and Chromatic Number are Hard for Nullstellensatz</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1553273?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006208</guid>
     </item>
   </channel>
 </rss>
