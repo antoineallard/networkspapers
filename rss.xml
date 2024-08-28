@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Aug 2024 17:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 13:30:48 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Nonparametric inference of higher order interaction patterns in networks</title>
+      <link>https://www.nature.com/articles/s42005-024-01736-0</link>
+      <guid isPermaLink="false">NPINS.006327</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The role of network communication in mediating the effect of a social network intervention on HIV seroconversion among people who inject drugs in Ukraine</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000479</link>
+      <guid isPermaLink="false">NPINS.006326</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Quantum entropy couples matter with geometry</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad6f7e</link>
+      <guid isPermaLink="false">NPINS.006325</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Interplay of network structure and talent configuration on wealth dynamics</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024312</link>
+      <guid isPermaLink="false">NPINS.006324</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Fixation times on directed graphs</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012299</link>
+      <guid isPermaLink="false">NPINS.006323</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A note on the 1-factorization of non-uniform complete hypergraph</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004685</link>
+      <guid isPermaLink="false">NPINS.006322</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Laplacian renormalization group: an introduction to heterogeneous coarse-graining</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad57b1</link>
+      <guid isPermaLink="false">NPINS.006321</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Mutual Linearity of Nonequilibrium Network Currents</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.047401</link>
+      <guid isPermaLink="false">NPINS.006320</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: A clan detector algorithm to identify independent clans in the kinship networks of elite family dynasties</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000418</link>
+      <guid isPermaLink="false">NPINS.006319</guid>
+    </item>
+    <item>
+      <title>iScience: Asymmetry in synaptic connectivity balances redundancy and reachability in the &lt;em&gt;Caenorhabditis elegans&lt;/em&gt; connectome</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004224019382</link>
+      <guid isPermaLink="false">NPINS.006318</guid>
+    </item>
     <item>
       <title>Proc. R. Soc. A: Quantum-like states on complex synchronized networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0209?af=R</link>
@@ -463,56 +513,6 @@
       <title>arXiv: Fine-Grained Optimality of Partially Dynamic Shortest Paths and More</title>
       <link>https://arxiv.org/abs/2407.09651</link>
       <guid isPermaLink="false">NPINS.006228</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Improving the performance of mutation-based evolving artificial neural networks with self-adaptive mutations</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307084</link>
-      <guid isPermaLink="false">NPINS.006227</guid>
-    </item>
-    <item>
-      <title>arXiv: Obstructions to Erdős-Pósa Dualities for Minors</title>
-      <link>https://arxiv.org/abs/2407.09671</link>
-      <guid isPermaLink="false">NPINS.006226</guid>
-    </item>
-    <item>
-      <title>arXiv: 9/7-Approximation for Two-Edge-Connectivity</title>
-      <link>https://arxiv.org/abs/2407.10526</link>
-      <guid isPermaLink="false">NPINS.006225</guid>
-    </item>
-    <item>
-      <title>arXiv: Recoverable robust shortest path problem under interval budgeted uncertainty representations</title>
-      <link>https://arxiv.org/abs/2401.05715</link>
-      <guid isPermaLink="false">NPINS.006224</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Nucleation phenomena and extreme vulnerability of spatial k-core systems</title>
-      <link>https://www.nature.com/articles/s41467-024-50273-5</link>
-      <guid isPermaLink="false">NPINS.006223</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Nondifferentiable activity in the brain</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae261</link>
-      <guid isPermaLink="false">NPINS.006222</guid>
-    </item>
-    <item>
-      <title>EPL: Message-passing approach for percolation on the networked system: A mini-review</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad5971</link>
-      <guid isPermaLink="false">NPINS.006221</guid>
-    </item>
-    <item>
-      <title>arXiv: Renormalization Group Analysis of the Anderson Model on Random Regular Graphs</title>
-      <link>https://arxiv.org/abs/2306.14965</link>
-      <guid isPermaLink="false">NPINS.006220</guid>
-    </item>
-    <item>
-      <title>arXiv: Structure and Independence in Hyperbolic Uniform Disk Graphs</title>
-      <link>https://arxiv.org/abs/2407.09362</link>
-      <guid isPermaLink="false">NPINS.006219</guid>
-    </item>
-    <item>
-      <title>arXiv: Bipartizing (Pseudo-)Disk Graphs: Approximation with a Ratio Better than 3</title>
-      <link>https://arxiv.org/abs/2407.09356</link>
-      <guid isPermaLink="false">NPINS.006218</guid>
     </item>
   </channel>
 </rss>
