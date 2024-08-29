@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Aug 2024 20:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 13:07:50 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: DC-RST: a parallel algorithm for random spanning trees in network analytics</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00613-7</link>
+      <guid isPermaLink="false">NPINS.006337</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Resonancelike emergence of chaos in complex networks of damped-driven nonlinear systems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014209</link>
+      <guid isPermaLink="false">NPINS.006336</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Slow ramping emerges from spontaneous fluctuations in spiking neural networks</title>
+      <link>https://www.nature.com/articles/s41467-024-51401-x</link>
+      <guid isPermaLink="false">NPINS.006335</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: The transformation of 20-year social participation policies of older people in China: Network analysis and text analysis</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308401</link>
+      <guid isPermaLink="false">NPINS.006334</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The interplay of misperceptions and willingness to share opinions in full classroom networks: The case of opinions towards homosexuality</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000467</link>
+      <guid isPermaLink="false">NPINS.006333</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Heterogeneous mean-field analysis of the generalized Lotka–Volterra model on a network</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad6ab2</link>
+      <guid isPermaLink="false">NPINS.006332</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Graph limit of the consensus model with self-delay</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad6ab1</link>
+      <guid isPermaLink="false">NPINS.006331</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: The precursor of the critical transitions in majority vote model with the noise feedback from the vote layer</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad6426</link>
+      <guid isPermaLink="false">NPINS.006330</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Extremal graphs with given parameters in respect of general ABS index</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004351</link>
+      <guid isPermaLink="false">NPINS.006329</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Accuracy of discrete- and continuous-time mean-field theories for epidemic processes on complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014302</link>
+      <guid isPermaLink="false">NPINS.006328</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Nonparametric inference of higher order interaction patterns in networks</title>
       <link>https://www.nature.com/articles/s42005-024-01736-0</link>
@@ -463,56 +513,6 @@
       <title>arXiv: Low Sensitivity Hopsets</title>
       <link>https://arxiv.org/abs/2407.10249</link>
       <guid isPermaLink="false">NPINS.006238</guid>
-    </item>
-    <item>
-      <title>arXiv: Better Diameter Algorithms for Bounded VC-dimension Graphs and Geometric Intersection Graphs</title>
-      <link>https://arxiv.org/abs/2307.08162</link>
-      <guid isPermaLink="false">NPINS.006237</guid>
-    </item>
-    <item>
-      <title>arXiv: Emergence and long-term maintenance of modularity in plastic networks of spiking neurons</title>
-      <link>https://arxiv.org/abs/2405.18587</link>
-      <guid isPermaLink="false">NPINS.006236</guid>
-    </item>
-    <item>
-      <title>arXiv: Constraints on Meso-Scale Structure in Complex Networks</title>
-      <link>https://arxiv.org/abs/2407.10100</link>
-      <guid isPermaLink="false">NPINS.006235</guid>
-    </item>
-    <item>
-      <title>arXiv: A Comprehensive Review of Community Detection in Graphs</title>
-      <link>https://arxiv.org/abs/2309.11798</link>
-      <guid isPermaLink="false">NPINS.006234</guid>
-    </item>
-    <item>
-      <title>arXiv: A mean field analysis of the role of indirect transmission in emergent infection events</title>
-      <link>https://arxiv.org/abs/2407.09587</link>
-      <guid isPermaLink="false">NPINS.006233</guid>
-    </item>
-    <item>
-      <title>arXiv: Investigating shocking events in the Ethereum stablecoin ecosystem through temporal multilayer graph structure</title>
-      <link>https://arxiv.org/abs/2407.10614</link>
-      <guid isPermaLink="false">NPINS.006232</guid>
-    </item>
-    <item>
-      <title>arXiv: Spanning Trees Minimizing Branching Costs</title>
-      <link>https://arxiv.org/abs/2407.10571</link>
-      <guid isPermaLink="false">NPINS.006231</guid>
-    </item>
-    <item>
-      <title>arXiv: Orientability of undirected phylogenetic networks to a desired class: Practical algorithms and application to tree-child orientation</title>
-      <link>https://arxiv.org/abs/2407.09776</link>
-      <guid isPermaLink="false">NPINS.006230</guid>
-    </item>
-    <item>
-      <title>arXiv: Fence decompositions and cherry covers in non-binary phylogenetic networks</title>
-      <link>https://arxiv.org/abs/2407.08812</link>
-      <guid isPermaLink="false">NPINS.006229</guid>
-    </item>
-    <item>
-      <title>arXiv: Fine-Grained Optimality of Partially Dynamic Shortest Paths and More</title>
-      <link>https://arxiv.org/abs/2407.09651</link>
-      <guid isPermaLink="false">NPINS.006228</guid>
     </item>
   </channel>
 </rss>
