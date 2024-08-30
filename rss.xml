@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Aug 2024 20:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 12:58:40 +0000</lastBuildDate>
+    <item>
+      <title>EPL: Optimal placement of a dissimilar node for chaos suppression in networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad51a2</link>
+      <guid isPermaLink="false">NPINS.006347</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Global topological synchronization of weighted simplicial complexes</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014307</link>
+      <guid isPermaLink="false">NPINS.006346</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Constant-selection evolutionary dynamics on weighted networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0223?af=R</link>
+      <guid isPermaLink="false">NPINS.006345</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Efficiency and resilience: key drivers of distribution network growth</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00484-z</link>
+      <guid isPermaLink="false">NPINS.006344</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Exploring the limits of the law of mass action in the mean field description of epidemics on Erdös-Rényi networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004806</link>
+      <guid isPermaLink="false">NPINS.006343</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: SIR epidemics in interconnected networks: threshold curve and phase transition</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00649-9</link>
+      <guid isPermaLink="false">NPINS.006342</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Fractality in resistive circuits: the Fibonacci resistor networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00750-z</link>
+      <guid isPermaLink="false">NPINS.006341</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Moment neural network and an efficient numerical method for modeling irregular spiking activity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024310</link>
+      <guid isPermaLink="false">NPINS.006340</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Building a network with assortative mixing starting from preference functions, with application to the spread of epidemics</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1435767</link>
+      <guid isPermaLink="false">NPINS.006339</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Measuring Entanglement in Physical Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.077401</link>
+      <guid isPermaLink="false">NPINS.006338</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: DC-RST: a parallel algorithm for random spanning trees in network analytics</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00613-7</link>
@@ -463,56 +513,6 @@
       <title>arXiv: Introducing Total Harmonic Resistance for Graph Robustness under Edge Deletions</title>
       <link>https://arxiv.org/abs/2407.11521</link>
       <guid isPermaLink="false">NPINS.006248</guid>
-    </item>
-    <item>
-      <title>arXiv: Explosive percolation in finite dimensions</title>
-      <link>https://arxiv.org/abs/2407.10492</link>
-      <guid isPermaLink="false">NPINS.006247</guid>
-    </item>
-    <item>
-      <title>arXiv: Analyzing X's Web of Influence: Dissecting News Sharing Dynamics through Credibility and Popularity with Transfer Entropy and Multiplex Network Measures</title>
-      <link>https://arxiv.org/abs/2407.09657</link>
-      <guid isPermaLink="false">NPINS.006246</guid>
-    </item>
-    <item>
-      <title>arXiv: Nearly-Tight Bounds for Flow Sparsifiers in Quasi-Bipartite Graphs</title>
-      <link>https://arxiv.org/abs/2407.09433</link>
-      <guid isPermaLink="false">NPINS.006245</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Modeling epidemic dynamics using Graph Attention based Spatial Temporal networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307159</link>
-      <guid isPermaLink="false">NPINS.006244</guid>
-    </item>
-    <item>
-      <title>arXiv: Opinion formation under mass media influence on the Barabasi-Albert network</title>
-      <link>https://arxiv.org/abs/2407.10035</link>
-      <guid isPermaLink="false">NPINS.006243</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Visualization system to identify structurally vulnerable links in OHT railway network in semiconductor FAB using betweenness centrality</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307059</link>
-      <guid isPermaLink="false">NPINS.006242</guid>
-    </item>
-    <item>
-      <title>arXiv: Uplifting edges in higher order networks: spectral centralities for non-uniform hypergraphs</title>
-      <link>https://arxiv.org/abs/2310.20335</link>
-      <guid isPermaLink="false">NPINS.006241</guid>
-    </item>
-    <item>
-      <title>arXiv: Unsplittable Flow on a Short Path</title>
-      <link>https://arxiv.org/abs/2407.10138</link>
-      <guid isPermaLink="false">NPINS.006240</guid>
-    </item>
-    <item>
-      <title>arXiv: The impact of social noise on the majority-rule model across various network topologies</title>
-      <link>https://arxiv.org/abs/2310.01731</link>
-      <guid isPermaLink="false">NPINS.006239</guid>
-    </item>
-    <item>
-      <title>arXiv: Low Sensitivity Hopsets</title>
-      <link>https://arxiv.org/abs/2407.10249</link>
-      <guid isPermaLink="false">NPINS.006238</guid>
     </item>
   </channel>
 </rss>
