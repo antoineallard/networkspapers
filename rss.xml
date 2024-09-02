@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Sep 2024 08:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 15:51:12 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Game-theoretic implications for uncovering the effects of virtual tipping in complex user networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00655-x</link>
+      <guid isPermaLink="false">NPINS.006357</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Exploring redundant trees in bipartite graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004673</link>
+      <guid isPermaLink="false">NPINS.006356</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Minimizing the least Laplacian eigenvalue of signed complete graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004636</link>
+      <guid isPermaLink="false">NPINS.006355</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Topological scale framework for hypergraphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004508</link>
+      <guid isPermaLink="false">NPINS.006354</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Structure and dynamics of growing networks of Reddit threads</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00654-y</link>
+      <guid isPermaLink="false">NPINS.006353</guid>
+    </item>
+    <item>
+      <title>EPL: Dynamics of diseases spreading on networks in the forms of reaction-diffusion systems</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad5e1b</link>
+      <guid isPermaLink="false">NPINS.006352</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Unbending strategies shepherd cooperation and suppress extortion in spatial populations</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad668b</link>
+      <guid isPermaLink="false">NPINS.006351</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Multicolor Turán Numbers</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1639488?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006350</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Cliques, Chromatic Number, and Independent Sets in the Semi-random Process</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1561105?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006349</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Irreversibility in bacterial regulatory networks</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ado3232</link>
+      <guid isPermaLink="false">NPINS.006348</guid>
+    </item>
     <item>
       <title>EPL: Optimal placement of a dissimilar node for chaos suppression in networks</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad51a2</link>
@@ -463,56 +513,6 @@
       <title>arXiv: Error Bounds for the Network Scale-Up Method</title>
       <link>https://arxiv.org/abs/2407.10640</link>
       <guid isPermaLink="false">NPINS.006258</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Planar graphs with distance of 3-cycles at least 2 and no cycles of lengths 5, 6, 7</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004077</link>
-      <guid isPermaLink="false">NPINS.006257</guid>
-    </item>
-    <item>
-      <title>arXiv: Group actions on codes in graphs</title>
-      <link>https://arxiv.org/abs/2407.09803</link>
-      <guid isPermaLink="false">NPINS.006256</guid>
-    </item>
-    <item>
-      <title>arXiv: Monotone convergence of spreading processes on networks</title>
-      <link>https://arxiv.org/abs/2407.10816</link>
-      <guid isPermaLink="false">NPINS.006255</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Coupled unidirectional chaotic microwave graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014206</link>
-      <guid isPermaLink="false">NPINS.006254</guid>
-    </item>
-    <item>
-      <title>arXiv: Team careers in science: formation, composition and success of persistent collaborations</title>
-      <link>https://arxiv.org/abs/2407.09326</link>
-      <guid isPermaLink="false">NPINS.006253</guid>
-    </item>
-    <item>
-      <title>arXiv: Cut-Preserving Vertex Sparsifiers for Planar and Quasi-bipartite Graphs</title>
-      <link>https://arxiv.org/abs/2407.10852</link>
-      <guid isPermaLink="false">NPINS.006252</guid>
-    </item>
-    <item>
-      <title>arXiv: Almost-Linear Time Algorithms for Decremental Graphs: Min-Cost Flow and More via Duality</title>
-      <link>https://arxiv.org/abs/2407.10830</link>
-      <guid isPermaLink="false">NPINS.006251</guid>
-    </item>
-    <item>
-      <title>arXiv: Obstructions to Erd\H{o}s-P\'osa Dualities for Minors</title>
-      <link>https://arxiv.org/abs/2407.09671</link>
-      <guid isPermaLink="false">NPINS.006250</guid>
-    </item>
-    <item>
-      <title>arXiv: A Distance for Geometric Graphs via the Labeled Merge Tree Interleaving Distance</title>
-      <link>https://arxiv.org/abs/2407.09442</link>
-      <guid isPermaLink="false">NPINS.006249</guid>
-    </item>
-    <item>
-      <title>arXiv: Introducing Total Harmonic Resistance for Graph Robustness under Edge Deletions</title>
-      <link>https://arxiv.org/abs/2407.11521</link>
-      <guid isPermaLink="false">NPINS.006248</guid>
     </item>
   </channel>
 </rss>
