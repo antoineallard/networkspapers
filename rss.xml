@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Sep 2024 08:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 11:20:52 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: Information scrambling and chaos induced by a Hermitian matrix</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad6f7c</link>
+      <guid isPermaLink="false">NPINS.006387</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Search-Space Reduction via Essential Vertices</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1589347?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006386</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Accurate prediction of protein function using statistics-informed graph networks</title>
+      <link>https://www.nature.com/articles/s41467-024-50955-0</link>
+      <guid isPermaLink="false">NPINS.006385</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Shortest-Path Percolation on Random Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.047402</link>
+      <guid isPermaLink="false">NPINS.006384</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Metastable states in the Ising model with Glauber-Kawasaki competing dynamics</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024315</link>
+      <guid isPermaLink="false">NPINS.006383</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Detecting and quantifying heterogeneity in susceptibility using contact tracing data</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012310</link>
+      <guid isPermaLink="false">NPINS.006382</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Modelling co-evolution of resource feedback and social network dynamics in human-environmental systems</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad67fe</link>
+      <guid isPermaLink="false">NPINS.006381</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Population bursts in a modular neural network as a mechanism for synchronized activity in KNDy neurons</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011820</link>
+      <guid isPermaLink="false">NPINS.006380</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Periodic boundary condition effects in small-world networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00746-9</link>
+      <guid isPermaLink="false">NPINS.006379</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Off-Diagonal Commonality of Graphs via Entropy</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1625342?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006378</guid>
+    </item>
     <item>
       <title>PLOS ONE: Too much focus on your health might be bad for your health: Reddit user’s communication style predicts their Long COVID likelihood</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308340</link>
@@ -463,56 +513,6 @@
       <title>Appl. Math. Comput.: On spectral extrema of graphs with given order and generalized 4-independence number</title>
       <link>https://www.sciencedirect.com/science/article/pii/S009630032400479X</link>
       <guid isPermaLink="false">NPINS.006288</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Understanding underlying physical mechanism reveals early warning indicators and key elements for adaptive infections disease networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae237</link>
-      <guid isPermaLink="false">NPINS.006287</guid>
-    </item>
-    <item>
-      <title>SIAM Rev.: Combinatorial and Hodge Laplacians: Similarities and Differences</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1482299?ai=s5&amp;mi=8vgswd&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006286</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Optimal Adjacency Labels for Subgraphs of Cartesian Products</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1587713?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006285</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: The rules of multiplayer cooperation in networks of communities</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012388</link>
-      <guid isPermaLink="false">NPINS.006284</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Corruption dynamics in public procurement: A longitudinal network analysis of local construction contracts in Guatemala</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332400039X</link>
-      <guid isPermaLink="false">NPINS.006283</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A multilevel backbone extraction framework</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00645-z</link>
-      <guid isPermaLink="false">NPINS.006282</guid>
-    </item>
-    <item>
-      <title>PNAS: Renormalization group analysis of the Anderson model on random regular graphs</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2401955121?af=R</link>
-      <guid isPermaLink="false">NPINS.006281</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Achieving Occam’s razor: Deep learning for optimal model reduction</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012283</link>
-      <guid isPermaLink="false">NPINS.006280</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Polarization dynamics: a study of individuals shifting between political communities on social media</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad679d</link>
-      <guid isPermaLink="false">NPINS.006279</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Triadic percolation induces dynamical topological patterns in higher-order networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae270</link>
-      <guid isPermaLink="false">NPINS.006278</guid>
     </item>
   </channel>
 </rss>
