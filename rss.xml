@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Sep 2024 14:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 13:28:59 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Phase reduction explains chimera shape: When multibody interaction matters</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L022201</link>
+      <guid isPermaLink="false">NPINS.006417</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Empirically measuring online social influence</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00492-z</link>
+      <guid isPermaLink="false">NPINS.006416</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Structure and inference in hypergraphs with node attributes</title>
+      <link>https://www.nature.com/articles/s41467-024-51388-5</link>
+      <guid isPermaLink="false">NPINS.006415</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: The coupled awareness-epidemic dynamics with individualized self-initiated awareness in multiplex networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1437341</link>
+      <guid isPermaLink="false">NPINS.006414</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Analysis of the swine movement network in Mexico: A perspective for disease prevention and control</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309369</link>
+      <guid isPermaLink="false">NPINS.006413</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Frustrated random walks: A fast method to compute node distances on hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024314</link>
+      <guid isPermaLink="false">NPINS.006412</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Quantum walks on blow-up graphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad6653</link>
+      <guid isPermaLink="false">NPINS.006411</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: On formal limitations of causal ecological networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0170?af=R</link>
+      <guid isPermaLink="false">NPINS.006410</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Anticonformists catalyze societal transitions and facilitate the expression of evolving preferences</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae302</link>
+      <guid isPermaLink="false">NPINS.006409</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Network analysis to identify driver genes and combination drugs in brain cancer</title>
+      <link>https://www.nature.com/articles/s41598-024-69705-9</link>
+      <guid isPermaLink="false">NPINS.006408</guid>
+    </item>
     <item>
       <title>Nat. Commun.: Mapping the structure-function relationship along macroscale gradients in the human brain</title>
       <link>https://www.nature.com/articles/s41467-024-51395-6</link>
@@ -463,56 +513,6 @@
       <title>iScience: Asymmetry in synaptic connectivity balances redundancy and reachability in the &lt;em&gt;Caenorhabditis elegans&lt;/em&gt; connectome</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004224019382</link>
       <guid isPermaLink="false">NPINS.006318</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Quantum-like states on complex synchronized networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0209?af=R</link>
-      <guid isPermaLink="false">NPINS.006317</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Ant social network structure is highly conserved across species</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.0898?af=R</link>
-      <guid isPermaLink="false">NPINS.006316</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Critical speeding-up in dynamical percolation</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad6137</link>
-      <guid isPermaLink="false">NPINS.006315</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: The futility of being selfish in vaccine distribution</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad5ad5</link>
-      <guid isPermaLink="false">NPINS.006314</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Spiking mode-based neural networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024306</link>
-      <guid isPermaLink="false">NPINS.006313</guid>
-    </item>
-    <item>
-      <title>Nat. Comput. Sci.: Network model with internal complexity bridges artificial intelligence and neuroscience</title>
-      <link>https://www.nature.com/articles/s43588-024-00674-9</link>
-      <guid isPermaLink="false">NPINS.006312</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Evaluating attitudes on health-seeking behavior among a network of people who inject drugs</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00653-z</link>
-      <guid isPermaLink="false">NPINS.006311</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Sexual conflict and sexual networks in bed bugs: the fitness cost of traumatic insemination, female avoidance and male mate choice</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2808?af=R</link>
-      <guid isPermaLink="false">NPINS.006310</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Research on the dynamic spread of information in social networks based on relationship strength theory and feedback mechanism</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1327161</link>
-      <guid isPermaLink="false">NPINS.006309</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Individual-centered Partial Information in Social Networks</title>
-      <link>http://jmlr.org/papers/v25/23-0005.html</link>
-      <guid isPermaLink="false">NPINS.006308</guid>
     </item>
   </channel>
 </rss>
