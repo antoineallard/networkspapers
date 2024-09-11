@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Sep 2024 00:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:59:49 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Towards modeling and analysis of longitudinal social networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00666-8</link>
+      <guid isPermaLink="false">NPINS.006422</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Symbolic association networks: A case study of orchestral programming’s effect on the reputation of composers</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000431</link>
+      <guid isPermaLink="false">NPINS.006421</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Emergent effects of synaptic connectivity on the dynamics of global and local slow waves in a large-scale thalamocortical network model of the human brain</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012245</link>
+      <guid isPermaLink="false">NPINS.006420</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Reverse degree-based topological indices study of molecular structure in triangular ϒ-graphyne and triangular ϒ-graphyne chain</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1422098</link>
+      <guid isPermaLink="false">NPINS.006419</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Optimal Transport with Constraints: From Mirror Descent to Classical Mechanics</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.057401</link>
+      <guid isPermaLink="false">NPINS.006418</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Phase reduction explains chimera shape: When multibody interaction matters</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L022201</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: Fixation times on directed graphs</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012299</link>
       <guid isPermaLink="false">NPINS.006323</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A note on the 1-factorization of non-uniform complete hypergraph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004685</link>
-      <guid isPermaLink="false">NPINS.006322</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Laplacian renormalization group: an introduction to heterogeneous coarse-graining</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad57b1</link>
-      <guid isPermaLink="false">NPINS.006321</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Mutual Linearity of Nonequilibrium Network Currents</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.047401</link>
-      <guid isPermaLink="false">NPINS.006320</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: A clan detector algorithm to identify independent clans in the kinship networks of elite family dynasties</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000418</link>
-      <guid isPermaLink="false">NPINS.006319</guid>
-    </item>
-    <item>
-      <title>iScience: Asymmetry in synaptic connectivity balances redundancy and reachability in the &lt;em&gt;Caenorhabditis elegans&lt;/em&gt; connectome</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004224019382</link>
-      <guid isPermaLink="false">NPINS.006318</guid>
     </item>
   </channel>
 </rss>
