@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Sep 2024 14:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 12:39:04 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Maintenance of delay-period activity in working memory task is modulated by local network structure</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012415</link>
+      <guid isPermaLink="false">NPINS.006442</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Level-set percolation of Gaussian random fields on complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L032301</link>
+      <guid isPermaLink="false">NPINS.006441</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Sex differences in functional cortical organization reflect differences in network topology rather than cortical morphometry</title>
+      <link>https://www.nature.com/articles/s41467-024-51942-1</link>
+      <guid isPermaLink="false">NPINS.006440</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Multiplex measures for higher-order networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00665-9</link>
+      <guid isPermaLink="false">NPINS.006439</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Higher-order interaction induced chimeralike state in a bipartite network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034205</link>
+      <guid isPermaLink="false">NPINS.006438</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Identifying loci in mobility networks with applications in New Zealand work commutes: a statistical test for identifying extreme stationary distribution values in Markov transition matrices</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00659-7</link>
+      <guid isPermaLink="false">NPINS.006437</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Network compression with configuration models and the minimum description length</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034305</link>
+      <guid isPermaLink="false">NPINS.006436</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Renormalization of networks with weak geometric coupling</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L032302</link>
+      <guid isPermaLink="false">NPINS.006435</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Establishing the robustness of chip trade networks by dynamically considering topology and risk cascading propagation</title>
+      <link>https://www.nature.com/articles/s41598-024-71345-y</link>
+      <guid isPermaLink="false">NPINS.006434</guid>
+    </item>
+    <item>
+      <title>PNAS: A neural network for religious fundamentalism derived from patients with brain lesions</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322399121?af=R</link>
+      <guid isPermaLink="false">NPINS.006433</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: In-depth analysis of music structure as a text network</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033279</link>
@@ -463,56 +513,6 @@
       <title>Appl. Math. Comput.: Exploring the limits of the law of mass action in the mean field description of epidemics on Erdös-Rényi networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324004806</link>
       <guid isPermaLink="false">NPINS.006343</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: SIR epidemics in interconnected networks: threshold curve and phase transition</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00649-9</link>
-      <guid isPermaLink="false">NPINS.006342</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Fractality in resistive circuits: the Fibonacci resistor networks</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00750-z</link>
-      <guid isPermaLink="false">NPINS.006341</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Moment neural network and an efficient numerical method for modeling irregular spiking activity</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024310</link>
-      <guid isPermaLink="false">NPINS.006340</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Building a network with assortative mixing starting from preference functions, with application to the spread of epidemics</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1435767</link>
-      <guid isPermaLink="false">NPINS.006339</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Measuring Entanglement in Physical Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.077401</link>
-      <guid isPermaLink="false">NPINS.006338</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: DC-RST: a parallel algorithm for random spanning trees in network analytics</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00613-7</link>
-      <guid isPermaLink="false">NPINS.006337</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Resonancelike emergence of chaos in complex networks of damped-driven nonlinear systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014209</link>
-      <guid isPermaLink="false">NPINS.006336</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Slow ramping emerges from spontaneous fluctuations in spiking neural networks</title>
-      <link>https://www.nature.com/articles/s41467-024-51401-x</link>
-      <guid isPermaLink="false">NPINS.006335</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: The transformation of 20-year social participation policies of older people in China: Network analysis and text analysis</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308401</link>
-      <guid isPermaLink="false">NPINS.006334</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The interplay of misperceptions and willingness to share opinions in full classroom networks: The case of opinions towards homosexuality</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000467</link>
-      <guid isPermaLink="false">NPINS.006333</guid>
     </item>
   </channel>
 </rss>
