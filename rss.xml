@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Sep 2024 14:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 13:49:57 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Hawkes Process Modelling for Chemical Reaction Networks in a Random Environment</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1588573?af=R</link>
+      <guid isPermaLink="false">NPINS.006462</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Automated customization of large-scale spiking network models to neuronal population activity</title>
+      <link>https://www.nature.com/articles/s43588-024-00688-3</link>
+      <guid isPermaLink="false">NPINS.006461</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Tonic and burst-like locus coeruleus stimulation distinctly shift network activity across the cortical hierarchy</title>
+      <link>https://www.nature.com/articles/s41593-024-01755-8</link>
+      <guid isPermaLink="false">NPINS.006460</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A decentralized control approach in hypergraph distributed optimization decomposition cases</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00662-y</link>
+      <guid isPermaLink="false">NPINS.006459</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Generalized Turán Problem for Odd Cycles</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1632632?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006458</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Mutant fate in spatially structured populations on graphs: Connecting models to experiments</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012424</link>
+      <guid isPermaLink="false">NPINS.006457</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Turán Number of Edge Blow-Ups of Cliques</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1623240?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006456</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Graphs of Degree at Least 3 with Minimum Algebraic Connectivity</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1585659?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006455</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: A double-edged sword: diverse interactions in hypergraphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad76d3</link>
+      <guid isPermaLink="false">NPINS.006454</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Powers of Hamilton Cycles in Ramsey–Turán Theory</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M163709X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006453</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Node attribute analysis for cultural data analytics: a case study on Italian XX–XXI century music</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00669-5</link>
@@ -463,56 +513,6 @@
       <title>Phys. Rev. E: Critical exponents of correlated percolation of sites not visited by a random walk</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024116</link>
       <guid isPermaLink="false">NPINS.006363</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Opinion dynamics in social networks under the influence of mass media</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004375</link>
-      <guid isPermaLink="false">NPINS.006362</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Digital finance and corporate breakthrough innovation: Evidence from China</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307737</link>
-      <guid isPermaLink="false">NPINS.006361</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Sparse Graphical Linear Dynamical Systems</title>
-      <link>http://jmlr.org/papers/v25/23-0878.html</link>
-      <guid isPermaLink="false">NPINS.006360</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Social balance-based centrality measure for directed signed networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000443</link>
-      <guid isPermaLink="false">NPINS.006359</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Reassessing the modularity of gene co-expression networks using the Stochastic Block Model</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012300</link>
-      <guid isPermaLink="false">NPINS.006358</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Game-theoretic implications for uncovering the effects of virtual tipping in complex user networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00655-x</link>
-      <guid isPermaLink="false">NPINS.006357</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Exploring redundant trees in bipartite graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004673</link>
-      <guid isPermaLink="false">NPINS.006356</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Minimizing the least Laplacian eigenvalue of signed complete graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004636</link>
-      <guid isPermaLink="false">NPINS.006355</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Topological scale framework for hypergraphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004508</link>
-      <guid isPermaLink="false">NPINS.006354</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Structure and dynamics of growing networks of Reddit threads</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00654-y</link>
-      <guid isPermaLink="false">NPINS.006353</guid>
     </item>
   </channel>
 </rss>
