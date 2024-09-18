@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Sep 2024 13:49:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 13:15:21 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Detectability of hierarchical communities in networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034306</link>
+      <guid isPermaLink="false">NPINS.006467</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Multiple exponential stability for short memory fractional impulsive Cohen-Grossberg neural networks with time delays</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005277</link>
+      <guid isPermaLink="false">NPINS.006466</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: On the Convergence of Nonlinear Averaging Dynamics with Three-Body Interactions on Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1568338?af=R</link>
+      <guid isPermaLink="false">NPINS.006465</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Model for efficient dynamical ranking in networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034310</link>
+      <guid isPermaLink="false">NPINS.006464</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: The contribution of movement to social network structure and spreading dynamics under simple and complex transmission</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0524?af=R</link>
+      <guid isPermaLink="false">NPINS.006463</guid>
+    </item>
     <item>
       <title>SIAM J. Appl. Dyn. Syst.: Hawkes Process Modelling for Chemical Reaction Networks in a Random Environment</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1588573?af=R</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Dynamics of a susceptible-infected-recovered model on complex networks with interregional migration</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024304</link>
       <guid isPermaLink="false">NPINS.006368</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Simulation-based inference of developmental EEG maturation with the spectral graph model</title>
-      <link>https://www.nature.com/articles/s42005-024-01748-w</link>
-      <guid isPermaLink="false">NPINS.006367</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The conflict-free connection number and the minimum degree-sum of graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004429</link>
-      <guid isPermaLink="false">NPINS.006366</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Network disruption via continuous batch removal: The case of Sicilian Mafia</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308722</link>
-      <guid isPermaLink="false">NPINS.006365</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Integrate-and-fire model of disease transmission</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.014305</link>
-      <guid isPermaLink="false">NPINS.006364</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Critical exponents of correlated percolation of sites not visited by a random walk</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024116</link>
-      <guid isPermaLink="false">NPINS.006363</guid>
     </item>
   </channel>
 </rss>
