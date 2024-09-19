@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Sep 2024 04:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 13:14:23 +0000</lastBuildDate>
+    <item>
+      <title>PNAS Nexus: Spatial scales of COVID-19 transmission in Mexico</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae306</link>
+      <guid isPermaLink="false">NPINS.006472</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Pinning passivity and bipartite synchronization of fractional signed networks without gauge transformation</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005289</link>
+      <guid isPermaLink="false">NPINS.006471</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Signature-based portfolio allocation: a network approach</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00651-1</link>
+      <guid isPermaLink="false">NPINS.006470</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: The tensor as an informational resource</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae254</link>
+      <guid isPermaLink="false">NPINS.006469</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Auditing the audits: evaluating methodologies for social media recommender system audits</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00668-6</link>
+      <guid isPermaLink="false">NPINS.006468</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Detectability of hierarchical communities in networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034306</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Generalized Tuza’s Conjecture for Random Hypergraphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1587014?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.006373</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Anti-windup strategies for biomolecular control systems facilitated by model reduction theory for sequestration networks</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adl5439</link>
-      <guid isPermaLink="false">NPINS.006372</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: From nets to networks: tools for deciphering phytoplankton metabolic interactions within communities and their global significance</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0172?af=R</link>
-      <guid isPermaLink="false">NPINS.006371</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Dispersion network-transition entropy: A metric for characterizing the complexity of nonlinear signals</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024205</link>
-      <guid isPermaLink="false">NPINS.006370</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Bounds on Maximum Weight Directed Cut</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1567394?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006369</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Dynamics of a susceptible-infected-recovered model on complex networks with interregional migration</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024304</link>
-      <guid isPermaLink="false">NPINS.006368</guid>
     </item>
   </channel>
 </rss>
