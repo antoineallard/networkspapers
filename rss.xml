@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Sep 2024 00:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 11:34:14 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Searching for long timescales without fine tuning</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034407</link>
+      <guid isPermaLink="false">NPINS.006482</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Adapting InfoMap to Absorbing Random Walks Using Absorption-Scaled Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/21M1466803?af=R</link>
+      <guid isPermaLink="false">NPINS.006481</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Iterative site percolation on triangular lattice</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033318</link>
+      <guid isPermaLink="false">NPINS.006480</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Emergence of group size disparity in growing networks with adoption</title>
+      <link>https://www.nature.com/articles/s42005-024-01799-z</link>
+      <guid isPermaLink="false">NPINS.006479</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Explosive percolation in finite dimensions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033319</link>
+      <guid isPermaLink="false">NPINS.006478</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Bayesian regionalization of urban mobility networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033307</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Metastable states in the Ising model with Glauber-Kawasaki competing dynamics</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024315</link>
       <guid isPermaLink="false">NPINS.006383</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Detecting and quantifying heterogeneity in susceptibility using contact tracing data</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012310</link>
-      <guid isPermaLink="false">NPINS.006382</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Modelling co-evolution of resource feedback and social network dynamics in human-environmental systems</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad67fe</link>
-      <guid isPermaLink="false">NPINS.006381</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Population bursts in a modular neural network as a mechanism for synchronized activity in KNDy neurons</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011820</link>
-      <guid isPermaLink="false">NPINS.006380</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Periodic boundary condition effects in small-world networks</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00746-9</link>
-      <guid isPermaLink="false">NPINS.006379</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Off-Diagonal Commonality of Graphs via Entropy</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1625342?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006378</guid>
     </item>
   </channel>
 </rss>
