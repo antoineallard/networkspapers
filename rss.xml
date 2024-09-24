@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Sep 2024 11:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 12:52:33 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Hum. Behav.: Replay shapes abstract cognitive maps for efficient social navigation</title>
+      <link>https://www.nature.com/articles/s41562-024-01990-w</link>
+      <guid isPermaLink="false">NPINS.006487</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Properties of the connected components in projections of random bipartite networks: effects of clique size fluctuations</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00664-w</link>
+      <guid isPermaLink="false">NPINS.006486</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Coexistence of multistable synchronous states in a three-oscillator system with higher-order interaction</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034311</link>
+      <guid isPermaLink="false">NPINS.006485</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Bounded confidence opinion dynamics with Asch-like social conformity in complex networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00762-9</link>
+      <guid isPermaLink="false">NPINS.006484</guid>
+    </item>
+    <item>
+      <title>PNAS: Hierarchical communities in the larval Drosophila connectome: Links to cellular annotations and network topology</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2320177121?af=R</link>
+      <guid isPermaLink="false">NPINS.006483</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Searching for long timescales without fine tuning</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034407</link>
@@ -488,31 +513,6 @@
       <title>J. Stat. Mech.: The crossover from a dynamical percolation class to a directed percolation class on a two dimensional lattice</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad6975</link>
       <guid isPermaLink="false">NPINS.006388</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Information scrambling and chaos induced by a Hermitian matrix</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad6f7c</link>
-      <guid isPermaLink="false">NPINS.006387</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Search-Space Reduction via Essential Vertices</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1589347?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006386</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Accurate prediction of protein function using statistics-informed graph networks</title>
-      <link>https://www.nature.com/articles/s41467-024-50955-0</link>
-      <guid isPermaLink="false">NPINS.006385</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Shortest-Path Percolation on Random Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.047402</link>
-      <guid isPermaLink="false">NPINS.006384</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Metastable states in the Ising model with Glauber-Kawasaki competing dynamics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024315</link>
-      <guid isPermaLink="false">NPINS.006383</guid>
     </item>
   </channel>
 </rss>
