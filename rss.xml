@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Sep 2024 18:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 13:14:47 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Strong coupling yields abrupt synchronization transitions in coupled oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033328</link>
+      <guid isPermaLink="false">NPINS.006492</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Adaptive coupling between neurons widens the entrainment range of the suprachiasmatic nucleus</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034212</link>
+      <guid isPermaLink="false">NPINS.006491</guid>
+    </item>
+    <item>
+      <title>EPL: Discrete Schrödinger equation on graphs: An effective model for branched quantum lattice</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad752e</link>
+      <guid isPermaLink="false">NPINS.006490</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Stochastic block hypergraph model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034312</link>
+      <guid isPermaLink="false">NPINS.006489</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Record statistics of fracture in the random spring network model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.035004</link>
+      <guid isPermaLink="false">NPINS.006488</guid>
+    </item>
     <item>
       <title>Nat. Hum. Behav.: Replay shapes abstract cognitive maps for efficient social navigation</title>
       <link>https://www.nature.com/articles/s41562-024-01990-w</link>
@@ -488,31 +513,6 @@
       <title>Nat. Commun.: E(n)-Equivariant cartesian tensor message passing interatomic potential</title>
       <link>https://www.nature.com/articles/s41467-024-51886-6</link>
       <guid isPermaLink="false">NPINS.006393</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Population Dynamics in Networks of Izhikevich Neurons with Global Delayed Coupling</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1631146?af=R</link>
-      <guid isPermaLink="false">NPINS.006392</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Linear Bound for the Colin de Verdière Parameter [math] for Graphs Embedded on Surfaces</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1623628?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006391</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Effects of behavioral observability and social proof on the coupled epidemic-awareness dynamics in multiplex networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307553</link>
-      <guid isPermaLink="false">NPINS.006390</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Contributions of cortical neuron firing patterns, synaptic connectivity, and plasticity to task performance</title>
-      <link>https://www.nature.com/articles/s41467-024-49895-6</link>
-      <guid isPermaLink="false">NPINS.006389</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: The crossover from a dynamical percolation class to a directed percolation class on a two dimensional lattice</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad6975</link>
-      <guid isPermaLink="false">NPINS.006388</guid>
     </item>
   </channel>
 </rss>
