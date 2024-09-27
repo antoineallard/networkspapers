@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Sep 2024 02:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 13:07:30 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Broken detailed balance and entropy production in directed networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034313</link>
+      <guid isPermaLink="false">NPINS.006497</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Signed total Roman domination and domatic numbers in graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005356</link>
+      <guid isPermaLink="false">NPINS.006496</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Activity patterns in ring networks of quadratic integrate-and-fire neurons with synaptic and gap junction coupling</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034411</link>
+      <guid isPermaLink="false">NPINS.006495</guid>
+    </item>
+    <item>
+      <title>EPL: Estimating user influence in social networks under independent cascade model</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad7884</link>
+      <guid isPermaLink="false">NPINS.006494</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Geometric Scaling Law in Real Neuronal Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.138401</link>
+      <guid isPermaLink="false">NPINS.006493</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Strong coupling yields abrupt synchronization transitions in coupled oscillators</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033328</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Mean-field dynamics of the non-consensus opinion model</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00656-w</link>
       <guid isPermaLink="false">NPINS.006398</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Graph-Based Sufficient Conditions for the Indistinguishability of Linear Compartmental Models</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1614663?af=R</link>
-      <guid isPermaLink="false">NPINS.006397</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Preserving system activity while controlling epidemic spreading in adaptive temporal networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033159</link>
-      <guid isPermaLink="false">NPINS.006396</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: $({ω}_{1},{ω}_{2})$-temporal random hyperbolic graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024309</link>
-      <guid isPermaLink="false">NPINS.006395</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Laplacian eigenvalue distribution for unicyclic graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324004831</link>
-      <guid isPermaLink="false">NPINS.006394</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: E(n)-Equivariant cartesian tensor message passing interatomic potential</title>
-      <link>https://www.nature.com/articles/s41467-024-51886-6</link>
-      <guid isPermaLink="false">NPINS.006393</guid>
     </item>
   </channel>
 </rss>
