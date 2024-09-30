@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 00:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 13:11:57 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Stimulus-induced dynamical states in an adaptive network with symmetric adaptation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034217</link>
+      <guid isPermaLink="false">NPINS.006502</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A mathematical perspective on Romanisation: Modelling the Roman road activation process in ancient Tunisia</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309752</link>
+      <guid isPermaLink="false">NPINS.006501</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: A hierarchy of metabolite exchanges in metabolic models of microbial species and communities</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012472</link>
+      <guid isPermaLink="false">NPINS.006500</guid>
+    </item>
+    <item>
+      <title>PNAS: Neural network architecture of a mammalian brain</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2413422121?af=R</link>
+      <guid isPermaLink="false">NPINS.006499</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Counting the number of solutions in satisfiability problems with tensor-network message passing</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034126</link>
+      <guid isPermaLink="false">NPINS.006498</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Broken detailed balance and entropy production in directed networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034313</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: The ultrametric backbone is the union of all minimum spanning forests</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad679e</link>
       <guid isPermaLink="false">NPINS.006403</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Exploring the space of graphs with fixed discrete curvatures</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad679f</link>
-      <guid isPermaLink="false">NPINS.006402</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Efficient computation by molecular competition networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033208</link>
-      <guid isPermaLink="false">NPINS.006401</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Coarse-graining model reveals universal exponential scaling in axonal length distributions</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad66a6</link>
-      <guid isPermaLink="false">NPINS.006400</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Online news ecosystem dynamics: supply, demand, diffusion, and the role of disinformation</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00643-1</link>
-      <guid isPermaLink="false">NPINS.006399</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Mean-field dynamics of the non-consensus opinion model</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00656-w</link>
-      <guid isPermaLink="false">NPINS.006398</guid>
     </item>
   </channel>
 </rss>
