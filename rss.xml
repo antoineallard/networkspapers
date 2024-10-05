@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Oct 2024 11:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 15:55:13 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: An application of node and edge nonlinear hypergraph centrality to a protein complex hypernetwork</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311433</link>
+      <guid isPermaLink="false">NPINS.006512</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Fixation Dynamics on Multilayer Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1620144?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006511</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Research on rumor propagation and rumor refutation strategies in complex network environment</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00782-5</link>
+      <guid isPermaLink="false">NPINS.006510</guid>
+    </item>
+    <item>
+      <title>Nature: Neuronal parts list and wiring diagram for a visual system</title>
+      <link>https://www.nature.com/articles/s41586-024-07981-1</link>
+      <guid isPermaLink="false">NPINS.006509</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Formalizing the law of diminishing returns in metabolic networks using an electrical analogy</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240165?af=R</link>
+      <guid isPermaLink="false">NPINS.006508</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Network analysis for the steady-state thermodynamic uncertainty relation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044103</link>
+      <guid isPermaLink="false">NPINS.006507</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Estimating the impact of physician risky-prescribing on the network structure underlying physician shared-patient relationships</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00670-y</link>
+      <guid isPermaLink="false">NPINS.006506</guid>
+    </item>
+    <item>
+      <title>Nature: Whole-brain annotation and multi-connectome cell typing of &lt;i&gt;Drosophila&lt;/i&gt;</title>
+      <link>https://www.nature.com/articles/s41586-024-07686-5</link>
+      <guid isPermaLink="false">NPINS.006505</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Structure matters: Assessing the statistical significance of network topologies</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309005</link>
+      <guid isPermaLink="false">NPINS.006504</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Neuromodulatory effects on synchrony and network reorganization in networks of coupled Kuramoto oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044401</link>
+      <guid isPermaLink="false">NPINS.006503</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Stimulus-induced dynamical states in an adaptive network with symmetric adaptation</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034217</link>
@@ -463,56 +513,6 @@
       <title>PLOS ONE: Analysis of the swine movement network in Mexico: A perspective for disease prevention and control</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309369</link>
       <guid isPermaLink="false">NPINS.006413</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Frustrated random walks: A fast method to compute node distances on hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.024314</link>
-      <guid isPermaLink="false">NPINS.006412</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Quantum walks on blow-up graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad6653</link>
-      <guid isPermaLink="false">NPINS.006411</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: On formal limitations of causal ecological networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0170?af=R</link>
-      <guid isPermaLink="false">NPINS.006410</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Anticonformists catalyze societal transitions and facilitate the expression of evolving preferences</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae302</link>
-      <guid isPermaLink="false">NPINS.006409</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Network analysis to identify driver genes and combination drugs in brain cancer</title>
-      <link>https://www.nature.com/articles/s41598-024-69705-9</link>
-      <guid isPermaLink="false">NPINS.006408</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Mapping the structure-function relationship along macroscale gradients in the human brain</title>
-      <link>https://www.nature.com/articles/s41467-024-51395-6</link>
-      <guid isPermaLink="false">NPINS.006407</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Local clustering coefficient-based iterative peeling strategy to extract the core and peripheral layers of a network</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00667-7</link>
-      <guid isPermaLink="false">NPINS.006406</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: The role of transport systems in housing insecurity: a mobility-based analysis</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00489-8</link>
-      <guid isPermaLink="false">NPINS.006405</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Complex network analysis of climate and landscape satellite data to explore spatio-temporal patterns in urban environment: the case of Athens</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00652-0</link>
-      <guid isPermaLink="false">NPINS.006404</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: The ultrametric backbone is the union of all minimum spanning forests</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad679e</link>
-      <guid isPermaLink="false">NPINS.006403</guid>
     </item>
   </channel>
 </rss>
