@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Oct 2024 21:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 12:52:22 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Maximal Lanzhou index of trees and unicyclic graphs with prescribed diameter</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005770</link>
+      <guid isPermaLink="false">NPINS.006532</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Unsupervised detection of coordinated fake-follower campaigns on social media</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00499-6</link>
+      <guid isPermaLink="false">NPINS.006531</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: State estimation for Markovian jump Hopfield neural networks with mixed time delays</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1447788</link>
+      <guid isPermaLink="false">NPINS.006530</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: DApps ecosystems: mapping the network structure of smart contract interactions</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00497-8</link>
+      <guid isPermaLink="false">NPINS.006529</guid>
+    </item>
+    <item>
+      <title>J. Complex Netw.: Quantum hub and authority centrality measures for directed networks based on continuous-time quantum walks</title>
+      <link>http://doi.org/10.1093/comnet/cnab038</link>
+      <guid isPermaLink="false">NPINS.006528</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Graphs with burning number three</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005617</link>
+      <guid isPermaLink="false">NPINS.006527</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Estimation of Sparse Gaussian Graphical Models with Hidden Clustering Structure</title>
+      <link>http://jmlr.org/papers/v25/20-354.html</link>
+      <guid isPermaLink="false">NPINS.006526</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The iteration time and the general position number in graph convexities</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005459</link>
+      <guid isPermaLink="false">NPINS.006525</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Flow of temporal network properties under local aggregation and time shuffling: a tool for characterizing, comparing and classifying temporal networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad7b8e</link>
+      <guid isPermaLink="false">NPINS.006524</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Compression-based inference of network motif sets</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012460</link>
+      <guid isPermaLink="false">NPINS.006523</guid>
+    </item>
     <item>
       <title>Curr. Opin. Struct. Biol.: Using residue interaction networks to understand protein function and evolution and to engineer new proteins</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0959440X24001490</link>
@@ -463,56 +513,6 @@
       <title>PNAS: A neural network for religious fundamentalism derived from patients with brain lesions</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322399121?af=R</link>
       <guid isPermaLink="false">NPINS.006433</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: In-depth analysis of music structure as a text network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033279</link>
-      <guid isPermaLink="false">NPINS.006432</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: General Theory of Static Response for Markov Jump Processes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.107103</link>
-      <guid isPermaLink="false">NPINS.006431</guid>
-    </item>
-    <item>
-      <title>PNAS: Hierarchy of topological transitions in a network liquid</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2406890121?af=R</link>
-      <guid isPermaLink="false">NPINS.006430</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Aging transitions of multimodal oscillators in multilayer networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033269</link>
-      <guid isPermaLink="false">NPINS.006429</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: A stopping rule for randomly sampling bipartite networks with fixed degree sequences</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000583</link>
-      <guid isPermaLink="false">NPINS.006428</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Rosetta stone for the population dynamics of spiking neuron networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034303</link>
-      <guid isPermaLink="false">NPINS.006427</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Pink-noise dynamics in an evolutionary game on a regular graph</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034110</link>
-      <guid isPermaLink="false">NPINS.006426</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Fitness-based growth of directed networks with hierarchy</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad744e</link>
-      <guid isPermaLink="false">NPINS.006425</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Research on coal mine safety risk evolution and key hidden dangers under the perspective of complex network</title>
-      <link>https://www.nature.com/articles/s41598-024-71004-2</link>
-      <guid isPermaLink="false">NPINS.006424</guid>
-    </item>
-    <item>
-      <title>Nature: Fly-brain connectome helps to make predictions about neural activity</title>
-      <link>https://www.nature.com/articles/d41586-024-02935-z</link>
-      <guid isPermaLink="false">NPINS.006423</guid>
     </item>
   </channel>
 </rss>
