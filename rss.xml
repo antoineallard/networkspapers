@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Oct 2024 00:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 12:59:34 +0000</lastBuildDate>
+    <item>
+      <title>Proc. R. Soc. A: Fractal dimensions for iterated graph systems</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0406?af=R</link>
+      <guid isPermaLink="false">NPINS.006542</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Critical short-time behavior of majority-vote model on scale-free networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044306</link>
+      <guid isPermaLink="false">NPINS.006541</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Reconstructing networks from simple and complex contagions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L042301</link>
+      <guid isPermaLink="false">NPINS.006540</guid>
+    </item>
+    <item>
+      <title>EPL: Modeling and analysis of COVID-19 spreading based on complex network theory</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad7a9e</link>
+      <guid isPermaLink="false">NPINS.006539</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Accelerated Gradient Tracking over Time-varying Graphs for Decentralized Optimization</title>
+      <link>http://jmlr.org/papers/v25/21-0475.html</link>
+      <guid isPermaLink="false">NPINS.006538</guid>
+    </item>
+    <item>
+      <title>PNAS: Signatures of criticality in efficient coding networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2302730121?af=R</link>
+      <guid isPermaLink="false">NPINS.006537</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Measuring Sample Quality in Algorithms for Intractable Normalizing Function Problems</title>
+      <link>http://jmlr.org/papers/v25/23-0810.html</link>
+      <guid isPermaLink="false">NPINS.006536</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Chimera-inspired dynamics: When higher-order interactions are expressed differently</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044204</link>
+      <guid isPermaLink="false">NPINS.006535</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: When does the mean network capture the topology of a sample of networks?</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1455988</link>
+      <guid isPermaLink="false">NPINS.006534</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Shared Ancestry Graphs and Symbolic Arboreal Maps</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1573318?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006533</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Maximal Lanzhou index of trees and unicyclic graphs with prescribed diameter</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324005770</link>
@@ -463,56 +513,6 @@
       <title>Appl. Netw. Sci.: Synchronization processes in fNIRS visibility networks</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00663-x</link>
       <guid isPermaLink="false">NPINS.006443</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Maintenance of delay-period activity in working memory task is modulated by local network structure</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012415</link>
-      <guid isPermaLink="false">NPINS.006442</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Level-set percolation of Gaussian random fields on complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L032301</link>
-      <guid isPermaLink="false">NPINS.006441</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Sex differences in functional cortical organization reflect differences in network topology rather than cortical morphometry</title>
-      <link>https://www.nature.com/articles/s41467-024-51942-1</link>
-      <guid isPermaLink="false">NPINS.006440</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Multiplex measures for higher-order networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00665-9</link>
-      <guid isPermaLink="false">NPINS.006439</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Higher-order interaction induced chimeralike state in a bipartite network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034205</link>
-      <guid isPermaLink="false">NPINS.006438</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Identifying loci in mobility networks with applications in New Zealand work commutes: a statistical test for identifying extreme stationary distribution values in Markov transition matrices</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00659-7</link>
-      <guid isPermaLink="false">NPINS.006437</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Network compression with configuration models and the minimum description length</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034305</link>
-      <guid isPermaLink="false">NPINS.006436</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Renormalization of networks with weak geometric coupling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L032302</link>
-      <guid isPermaLink="false">NPINS.006435</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Establishing the robustness of chip trade networks by dynamically considering topology and risk cascading propagation</title>
-      <link>https://www.nature.com/articles/s41598-024-71345-y</link>
-      <guid isPermaLink="false">NPINS.006434</guid>
-    </item>
-    <item>
-      <title>PNAS: A neural network for religious fundamentalism derived from patients with brain lesions</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322399121?af=R</link>
-      <guid isPermaLink="false">NPINS.006433</guid>
     </item>
   </channel>
 </rss>
