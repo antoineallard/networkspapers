@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Oct 2024 14:07:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 14:10:25 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Identifying successful football teams in the European player transfer network</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00675-7</link>
+      <guid isPermaLink="false">NPINS.006552</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Disjoint path covers of star graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005599</link>
+      <guid isPermaLink="false">NPINS.006551</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Mutual-visibility and general position in double graphs and in Mycielskians</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005927</link>
+      <guid isPermaLink="false">NPINS.006550</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Two-disjoint-cycle-cover pancyclicity of split-star networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005460</link>
+      <guid isPermaLink="false">NPINS.006549</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Statistical analysis of proteins families: a network and random matrix approach</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00781-6</link>
+      <guid isPermaLink="false">NPINS.006548</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Hypergraph animals</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044125</link>
+      <guid isPermaLink="false">NPINS.006547</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Large language models recover scientific collaboration networks from text</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00658-8</link>
+      <guid isPermaLink="false">NPINS.006546</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Information propagation in Gaussian processes on multilayer networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad7f16</link>
+      <guid isPermaLink="false">NPINS.006545</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Multiplayer game dynamics and their applications into simplicial complexes with memory effect</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad7f15</link>
+      <guid isPermaLink="false">NPINS.006544</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Countering adversarial perturbations in graphs using error correcting codes</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044304</link>
+      <guid isPermaLink="false">NPINS.006543</guid>
+    </item>
     <item>
       <title>Proc. R. Soc. A: Fractal dimensions for iterated graph systems</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0406?af=R</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Discrete Math.: On Powers of Hamilton Cycles in Ramsey–Turán Theory</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M163709X?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.006453</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Node attribute analysis for cultural data analytics: a case study on Italian XX–XXI century music</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00669-5</link>
-      <guid isPermaLink="false">NPINS.006452</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Estimating work engagement from online chat tools</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00496-9</link>
-      <guid isPermaLink="false">NPINS.006451</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Dynamical Fluctuations of Random Walks in Higher-Order Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.107401</link>
-      <guid isPermaLink="false">NPINS.006450</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Indication of long-range correlations governing city size</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae329</link>
-      <guid isPermaLink="false">NPINS.006449</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Network topology and double delays in turing instability and pattern formation</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad75d7</link>
-      <guid isPermaLink="false">NPINS.006448</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: GCRL: a graph neural network framework for network connectivity robustness learning</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad6ead</link>
-      <guid isPermaLink="false">NPINS.006447</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Borromean hypergraph formation in dense random rectangles</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034501</link>
-      <guid isPermaLink="false">NPINS.006446</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: General theory for extended-range percolation on simple and multiplex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034302</link>
-      <guid isPermaLink="false">NPINS.006445</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Higher-order interactions and zero-determinant strategies in the public goods game</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad7491</link>
-      <guid isPermaLink="false">NPINS.006444</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Synchronization processes in fNIRS visibility networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00663-x</link>
-      <guid isPermaLink="false">NPINS.006443</guid>
     </item>
   </channel>
 </rss>
