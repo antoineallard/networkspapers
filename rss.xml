@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Oct 2024 11:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 12:45:23 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: A Note on Color-Bias Perfect Matchings in Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1637350?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006577</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Component connectivity of wheel networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005575</link>
+      <guid isPermaLink="false">NPINS.006576</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Bayan algorithm: Detecting communities in networks through exact and approximate optimization of modularity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044315</link>
+      <guid isPermaLink="false">NPINS.006575</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: A tensor factorization model of multilayer network interdependence</title>
+      <link>http://jmlr.org/papers/v25/23-0205.html</link>
+      <guid isPermaLink="false">NPINS.006574</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Anomalous Directed Percolation on a Dynamic Network Using Rydberg Facilitation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.173401</link>
+      <guid isPermaLink="false">NPINS.006573</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Distributed network flows generate localized category selectivity in human visual cortex</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012507</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Research: Explosive percolation in finite dimensions</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033319</link>
       <guid isPermaLink="false">NPINS.006478</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Bayesian regionalization of urban mobility networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033307</link>
-      <guid isPermaLink="false">NPINS.006477</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Effectiveness of probabilistic contact tracing in epidemic containment: The role of superspreaders and transmission path reconstruction</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae377</link>
-      <guid isPermaLink="false">NPINS.006476</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Facilitating pathway and network based analysis of RNA-Seq data with &lt;i&gt;pathlinkR&lt;/i&gt;</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012422</link>
-      <guid isPermaLink="false">NPINS.006475</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Persistent homology reveals robustness loss in inhaled substance abuse rs-fMRI networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310165</link>
-      <guid isPermaLink="false">NPINS.006474</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Maximum Number of Symmetric Extensions in Random Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1588706?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006473</guid>
     </item>
   </channel>
 </rss>
