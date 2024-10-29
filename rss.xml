@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Oct 2024 01:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 11:38:53 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Network modulation at stable states</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044407</link>
+      <guid isPermaLink="false">NPINS.006587</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: How synchronized human networks escape local minima</title>
+      <link>https://www.nature.com/articles/s41467-024-53540-7</link>
+      <guid isPermaLink="false">NPINS.006586</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Overlapping community detection in weighted networks via hierarchical clustering</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312596</link>
+      <guid isPermaLink="false">NPINS.006585</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Random Fully Connected Neural Networks as Perturbatively Solvable Hierarchies</title>
+      <link>http://jmlr.org/papers/v25/23-0643.html</link>
+      <guid isPermaLink="false">NPINS.006584</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Understanding following patterns among high-performance athletes</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad8854</link>
+      <guid isPermaLink="false">NPINS.006583</guid>
+    </item>
     <item>
       <title>Nat. Commun.: Emerging many-to-one weighted mapping in hippocampus-amygdala network underlies memory formation</title>
       <link>https://www.nature.com/articles/s41467-024-53665-9</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Record statistics of fracture in the random spring network model</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.035004</link>
       <guid isPermaLink="false">NPINS.006488</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Replay shapes abstract cognitive maps for efficient social navigation</title>
-      <link>https://www.nature.com/articles/s41562-024-01990-w</link>
-      <guid isPermaLink="false">NPINS.006487</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Properties of the connected components in projections of random bipartite networks: effects of clique size fluctuations</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00664-w</link>
-      <guid isPermaLink="false">NPINS.006486</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Coexistence of multistable synchronous states in a three-oscillator system with higher-order interaction</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034311</link>
-      <guid isPermaLink="false">NPINS.006485</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Bounded confidence opinion dynamics with Asch-like social conformity in complex networks</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00762-9</link>
-      <guid isPermaLink="false">NPINS.006484</guid>
-    </item>
-    <item>
-      <title>PNAS: Hierarchical communities in the larval Drosophila connectome: Links to cellular annotations and network topology</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2320177121?af=R</link>
-      <guid isPermaLink="false">NPINS.006483</guid>
     </item>
   </channel>
 </rss>
