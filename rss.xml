@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Oct 2024 00:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 13:10:04 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Mcadet: A feature selection method for fine-resolution single-cell RNA-seq data based on multiple correspondence analysis and community detection</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012560</link>
+      <guid isPermaLink="false">NPINS.006592</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Asymmetric iterated prisoner’s dilemma on weighted complex networks and evolutionary strategies analysis</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad83c7</link>
+      <guid isPermaLink="false">NPINS.006591</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Neurosci.: Fly connectome over the wire</title>
+      <link>https://www.nature.com/articles/s41583-024-00879-x</link>
+      <guid isPermaLink="false">NPINS.006590</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Fast unfolding of communities in large networks: 15 years later</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad6139</link>
+      <guid isPermaLink="false">NPINS.006589</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Analytical solution of susceptible-infected-recovered models on homogeneous networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044307</link>
+      <guid isPermaLink="false">NPINS.006588</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Network modulation at stable states</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044407</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Lett.: Geometric Scaling Law in Real Neuronal Networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.138401</link>
       <guid isPermaLink="false">NPINS.006493</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Strong coupling yields abrupt synchronization transitions in coupled oscillators</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033328</link>
-      <guid isPermaLink="false">NPINS.006492</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Adaptive coupling between neurons widens the entrainment range of the suprachiasmatic nucleus</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034212</link>
-      <guid isPermaLink="false">NPINS.006491</guid>
-    </item>
-    <item>
-      <title>EPL: Discrete Schrödinger equation on graphs: An effective model for branched quantum lattice</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad752e</link>
-      <guid isPermaLink="false">NPINS.006490</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Stochastic block hypergraph model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034312</link>
-      <guid isPermaLink="false">NPINS.006489</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Record statistics of fracture in the random spring network model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.035004</link>
-      <guid isPermaLink="false">NPINS.006488</guid>
     </item>
   </channel>
 </rss>
