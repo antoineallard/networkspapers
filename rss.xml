@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Nov 2024 05:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 12:09:52 +0000</lastBuildDate>
+    <item>
+      <title>Eur. Phys. J. B: Two-layer network evolutionary game model applied to complex systems</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00809-x</link>
+      <guid isPermaLink="false">NPINS.006602</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Structural influences on synaptic plasticity: The role of presynaptic connectivity in the emergence of E/I co-tuning</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012510</link>
+      <guid isPermaLink="false">NPINS.006601</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Optimizing urban bus network based on spatial matching patterns for sustainable transportation: A case study in Harbin, China</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312803</link>
+      <guid isPermaLink="false">NPINS.006600</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Two graphs: Resolving the periodic reversibility of one-dimensional finite cellular automata</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032400612X</link>
+      <guid isPermaLink="false">NPINS.006599</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Traffic flow dynamics and oscillation control in conserved fractal networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00808-y</link>
+      <guid isPermaLink="false">NPINS.006598</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Longest Cycle above Erdős–Gallai Bound</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1558008?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Neuromodulatory effects on synchrony and network reorganization in networks of coupled Kuramoto oscillators</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044401</link>
       <guid isPermaLink="false">NPINS.006503</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Stimulus-induced dynamical states in an adaptive network with symmetric adaptation</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034217</link>
-      <guid isPermaLink="false">NPINS.006502</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A mathematical perspective on Romanisation: Modelling the Roman road activation process in ancient Tunisia</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309752</link>
-      <guid isPermaLink="false">NPINS.006501</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: A hierarchy of metabolite exchanges in metabolic models of microbial species and communities</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012472</link>
-      <guid isPermaLink="false">NPINS.006500</guid>
-    </item>
-    <item>
-      <title>PNAS: Neural network architecture of a mammalian brain</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2413422121?af=R</link>
-      <guid isPermaLink="false">NPINS.006499</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Counting the number of solutions in satisfiability problems with tensor-network message passing</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034126</link>
-      <guid isPermaLink="false">NPINS.006498</guid>
     </item>
   </channel>
 </rss>
