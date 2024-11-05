@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 05:57:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 02:29:44 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Longest Cycle above Erdős–Gallai Bound</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1558008?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006597</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Dynamic multi-dose vaccination with initial immunity on higher-order networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0512?af=R</link>
+      <guid isPermaLink="false">NPINS.006596</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Impact of facet degree heterogeneity on phase transitions in infectious disease spread</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad8959</link>
+      <guid isPermaLink="false">NPINS.006595</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Kirchhoff indices of Cayley graphs on D2n x Zm</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005939</link>
+      <guid isPermaLink="false">NPINS.006594</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Astrocytes induce desynchronization and reduce predictability in neuron–astrocyte networks cultured on microelectrode arrays</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240839?af=R</link>
+      <guid isPermaLink="false">NPINS.006593</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Mcadet: A feature selection method for fine-resolution single-cell RNA-seq data based on multiple correspondence analysis and community detection</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012560</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Counting the number of solutions in satisfiability problems with tensor-network message passing</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034126</link>
       <guid isPermaLink="false">NPINS.006498</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Broken detailed balance and entropy production in directed networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034313</link>
-      <guid isPermaLink="false">NPINS.006497</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Signed total Roman domination and domatic numbers in graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005356</link>
-      <guid isPermaLink="false">NPINS.006496</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Activity patterns in ring networks of quadratic integrate-and-fire neurons with synaptic and gap junction coupling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.034411</link>
-      <guid isPermaLink="false">NPINS.006495</guid>
-    </item>
-    <item>
-      <title>EPL: Estimating user influence in social networks under independent cascade model</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad7884</link>
-      <guid isPermaLink="false">NPINS.006494</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Geometric Scaling Law in Real Neuronal Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.138401</link>
-      <guid isPermaLink="false">NPINS.006493</guid>
     </item>
   </channel>
 </rss>
