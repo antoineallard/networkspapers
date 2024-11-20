@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 02:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 13:02:16 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Spatial correlation network structure of operational efficiency and its driving factors: A case study of star-rated hotels in China</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313500</link>
+      <guid isPermaLink="false">NPINS.006622</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Influence of multiple spreaders through farthest first traversal</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00676-6</link>
+      <guid isPermaLink="false">NPINS.006621</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Effects of simplicial centrality on robustness of higher-order multiplex world trade networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad8ee9</link>
+      <guid isPermaLink="false">NPINS.006620</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Network analysis of U.S. non-fatal opioid-involved overdose journeys, 2018–2023</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00661-z</link>
+      <guid isPermaLink="false">NPINS.006619</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Inconsistency among evaluation metrics in link prediction</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae498</link>
+      <guid isPermaLink="false">NPINS.006618</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Metaplasticity and memory in multilevel recurrent feed-forward networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054304</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: Compression-based inference of network motif sets</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012460</link>
       <guid isPermaLink="false">NPINS.006523</guid>
-    </item>
-    <item>
-      <title>Curr. Opin. Struct. Biol.: Using residue interaction networks to understand protein function and evolution and to engineer new proteins</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0959440X24001490</link>
-      <guid isPermaLink="false">NPINS.006522</guid>
-    </item>
-    <item>
-      <title>Nature: The fly connectome reveals a path to the effectome</title>
-      <link>https://www.nature.com/articles/s41586-024-07982-0</link>
-      <guid isPermaLink="false">NPINS.006521</guid>
-    </item>
-    <item>
-      <title>PNAS: Causal message-passing for experiments with unknown and general network interference</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322232121?af=R</link>
-      <guid isPermaLink="false">NPINS.006520</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Complex network-based multistep forecasting model for hyperchaotic time series</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044302</link>
-      <guid isPermaLink="false">NPINS.006519</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Engineering consensus in static networks with unknown disruptors</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00671-x</link>
-      <guid isPermaLink="false">NPINS.006518</guid>
     </item>
   </channel>
 </rss>
