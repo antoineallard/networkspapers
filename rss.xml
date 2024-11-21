@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 20:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 14:29:37 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Extremizing antiregular graphs by modifying total σ-irregularity</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032400660X</link>
+      <guid isPermaLink="false">NPINS.006632</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Universal scaling hypothesis of quantum spatial search in complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043119</link>
+      <guid isPermaLink="false">NPINS.006631</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Fault tolerance assessment for hamming graphs based on r-restricted R-structure(substructure) fault pattern</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006210</link>
+      <guid isPermaLink="false">NPINS.006630</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Labeling small-degree nodes promotes semi-supervised community detection on graph convolutional network</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00817-x</link>
+      <guid isPermaLink="false">NPINS.006629</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Network community detection via neural embeddings</title>
+      <link>https://www.nature.com/articles/s41467-024-52355-w</link>
+      <guid isPermaLink="false">NPINS.006628</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Fault-tolerant partition resolvability of cycle with chord</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313300</link>
+      <guid isPermaLink="false">NPINS.006627</guid>
+    </item>
+    <item>
+      <title>SIAM Rev.: Oscillatory Networks: Insights from Piecewise-Linear Modeling</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1534365?ai=s5&amp;mi=8vgswd&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006626</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On the least eigenvalue of genuine strongly 3-walk-regular graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006635</link>
+      <guid isPermaLink="false">NPINS.006625</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Structural robustness and optimization of leader-follower coherence in star-coupled networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad864c</link>
+      <guid isPermaLink="false">NPINS.006624</guid>
+    </item>
+    <item>
+      <title>Phys. Rep.: Network modeling and topology of aging</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037015732400365X?dgcid=rss_sd_all</link>
+      <guid isPermaLink="false">NPINS.006623</guid>
+    </item>
     <item>
       <title>PLOS ONE: Spatial correlation network structure of operational efficiency and its driving factors: A case study of star-rated hotels in China</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313500</link>
@@ -463,56 +513,6 @@
       <title>SIAM J. Discrete Math.: Shared Ancestry Graphs and Symbolic Arboreal Maps</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1573318?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.006533</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Maximal Lanzhou index of trees and unicyclic graphs with prescribed diameter</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005770</link>
-      <guid isPermaLink="false">NPINS.006532</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Unsupervised detection of coordinated fake-follower campaigns on social media</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00499-6</link>
-      <guid isPermaLink="false">NPINS.006531</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: State estimation for Markovian jump Hopfield neural networks with mixed time delays</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1447788</link>
-      <guid isPermaLink="false">NPINS.006530</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: DApps ecosystems: mapping the network structure of smart contract interactions</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00497-8</link>
-      <guid isPermaLink="false">NPINS.006529</guid>
-    </item>
-    <item>
-      <title>J. Complex Netw.: Quantum hub and authority centrality measures for directed networks based on continuous-time quantum walks</title>
-      <link>http://doi.org/10.1093/comnet/cnab038</link>
-      <guid isPermaLink="false">NPINS.006528</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Graphs with burning number three</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005617</link>
-      <guid isPermaLink="false">NPINS.006527</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Estimation of Sparse Gaussian Graphical Models with Hidden Clustering Structure</title>
-      <link>http://jmlr.org/papers/v25/20-354.html</link>
-      <guid isPermaLink="false">NPINS.006526</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The iteration time and the general position number in graph convexities</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005459</link>
-      <guid isPermaLink="false">NPINS.006525</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Flow of temporal network properties under local aggregation and time shuffling: a tool for characterizing, comparing and classifying temporal networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad7b8e</link>
-      <guid isPermaLink="false">NPINS.006524</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Compression-based inference of network motif sets</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012460</link>
-      <guid isPermaLink="false">NPINS.006523</guid>
     </item>
   </channel>
 </rss>
