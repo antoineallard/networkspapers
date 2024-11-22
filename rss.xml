@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Nov 2024 14:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 13:36:05 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Bounds for the incidence Q-spectral radius of uniform hypergraphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006623</link>
+      <guid isPermaLink="false">NPINS.006642</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Maximum entropy in dynamic complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054308</link>
+      <guid isPermaLink="false">NPINS.006641</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: The power of social networks and social media’s filter bubble in shaping polarisation: an agent-based model</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00679-3</link>
+      <guid isPermaLink="false">NPINS.006640</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Public transport across models and scales: A case study of the Munich network</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae489</link>
+      <guid isPermaLink="false">NPINS.006639</guid>
+    </item>
+    <item>
+      <title>Nature: Gut microbiome strain-sharing within isolated village social networks</title>
+      <link>https://www.nature.com/articles/s41586-024-08222-1</link>
+      <guid isPermaLink="false">NPINS.006638</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Fate of vortex-synchronized state in oscillator networks with node defects</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054210</link>
+      <guid isPermaLink="false">NPINS.006637</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Resonant solitary states in complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad8b63</link>
+      <guid isPermaLink="false">NPINS.006636</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Distinguishing graphs by their spectra, Smith normal forms and complements</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006593</link>
+      <guid isPermaLink="false">NPINS.006635</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Routes of importation and spatial dynamics of SARS-CoV-2 variants during localized interventions in Chile</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae483</link>
+      <guid isPermaLink="false">NPINS.006634</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Social networks from dailies: the observer’s point of view</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00681-9</link>
+      <guid isPermaLink="false">NPINS.006633</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Extremizing antiregular graphs by modifying total σ-irregularity</title>
       <link>https://www.sciencedirect.com/science/article/pii/S009630032400660X</link>
@@ -463,56 +513,6 @@
       <title>Phys. Rev. E: Countering adversarial perturbations in graphs using error correcting codes</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044304</link>
       <guid isPermaLink="false">NPINS.006543</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Fractal dimensions for iterated graph systems</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0406?af=R</link>
-      <guid isPermaLink="false">NPINS.006542</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Critical short-time behavior of majority-vote model on scale-free networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044306</link>
-      <guid isPermaLink="false">NPINS.006541</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Reconstructing networks from simple and complex contagions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L042301</link>
-      <guid isPermaLink="false">NPINS.006540</guid>
-    </item>
-    <item>
-      <title>EPL: Modeling and analysis of COVID-19 spreading based on complex network theory</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad7a9e</link>
-      <guid isPermaLink="false">NPINS.006539</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Accelerated Gradient Tracking over Time-varying Graphs for Decentralized Optimization</title>
-      <link>http://jmlr.org/papers/v25/21-0475.html</link>
-      <guid isPermaLink="false">NPINS.006538</guid>
-    </item>
-    <item>
-      <title>PNAS: Signatures of criticality in efficient coding networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2302730121?af=R</link>
-      <guid isPermaLink="false">NPINS.006537</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Measuring Sample Quality in Algorithms for Intractable Normalizing Function Problems</title>
-      <link>http://jmlr.org/papers/v25/23-0810.html</link>
-      <guid isPermaLink="false">NPINS.006536</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Chimera-inspired dynamics: When higher-order interactions are expressed differently</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044204</link>
-      <guid isPermaLink="false">NPINS.006535</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: When does the mean network capture the topology of a sample of networks?</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1455988</link>
-      <guid isPermaLink="false">NPINS.006534</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Shared Ancestry Graphs and Symbolic Arboreal Maps</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1573318?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006533</guid>
     </item>
   </channel>
 </rss>
