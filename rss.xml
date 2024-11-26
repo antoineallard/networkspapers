@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Nov 2024 01:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 02:31:57 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: A model of random sequential adsorption on a ladder graph</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad909c</link>
+      <guid isPermaLink="false">NPINS.006652</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Where are the cruise ships? mobility and immobility of cruises under COVID-19</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303216</link>
+      <guid isPermaLink="false">NPINS.006651</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Dissipation at limited resolutions: power law and detection of hidden dissipative scales</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad8152</link>
+      <guid isPermaLink="false">NPINS.006650</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Effects of clustering heterogeneity on the spectral density of sparse networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054307</link>
+      <guid isPermaLink="false">NPINS.006649</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Transitions in growing networks using a structural complexity approach</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054309</link>
+      <guid isPermaLink="false">NPINS.006648</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Learning of networked spreading models from noisy and incomplete data</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054302</link>
+      <guid isPermaLink="false">NPINS.006647</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: The Turán Number of Berge Book Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1474266?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006646</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Deep neural networks for endemic measles dynamics: Comparative analysis and integration with mechanistic models</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012616</link>
+      <guid isPermaLink="false">NPINS.006645</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: DL-integral and DQ-integral n-Cayley graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006398</link>
+      <guid isPermaLink="false">NPINS.006644</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Predicting modular functions and neural coding of behavior from a synaptic wiring diagram</title>
+      <link>https://www.nature.com/articles/s41593-024-01784-3</link>
+      <guid isPermaLink="false">NPINS.006643</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Bounds for the incidence Q-spectral radius of uniform hypergraphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324006623</link>
@@ -463,56 +513,6 @@
       <title>J. Phys. Complex.: Spatiotemporal statistical features of velocity responses to traffic congestions in a local motorway network</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad8059</link>
       <guid isPermaLink="false">NPINS.006553</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Identifying successful football teams in the European player transfer network</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00675-7</link>
-      <guid isPermaLink="false">NPINS.006552</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Disjoint path covers of star graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005599</link>
-      <guid isPermaLink="false">NPINS.006551</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Mutual-visibility and general position in double graphs and in Mycielskians</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005927</link>
-      <guid isPermaLink="false">NPINS.006550</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Two-disjoint-cycle-cover pancyclicity of split-star networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005460</link>
-      <guid isPermaLink="false">NPINS.006549</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Statistical analysis of proteins families: a network and random matrix approach</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00781-6</link>
-      <guid isPermaLink="false">NPINS.006548</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Hypergraph animals</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044125</link>
-      <guid isPermaLink="false">NPINS.006547</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Large language models recover scientific collaboration networks from text</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00658-8</link>
-      <guid isPermaLink="false">NPINS.006546</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Information propagation in Gaussian processes on multilayer networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad7f16</link>
-      <guid isPermaLink="false">NPINS.006545</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Multiplayer game dynamics and their applications into simplicial complexes with memory effect</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad7f15</link>
-      <guid isPermaLink="false">NPINS.006544</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Countering adversarial perturbations in graphs using error correcting codes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044304</link>
-      <guid isPermaLink="false">NPINS.006543</guid>
     </item>
   </channel>
 </rss>
