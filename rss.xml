@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Nov 2024 02:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 13:44:38 +0000</lastBuildDate>
+    <item>
+      <title>J. Stat. Mech.: Faster algorithms for the alignment of sparse correlated Erdős–Rényi random graphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad8747</link>
+      <guid isPermaLink="false">NPINS.006657</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Dynamics of ecosystem services along ecological network seascapes</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad8a0e</link>
+      <guid isPermaLink="false">NPINS.006656</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Exploring the mechanism of Suxin Hugan Fang in treating ulcerative colitis based on network pharmacology</title>
+      <link>https://www.nature.com/articles/s41598-024-78833-1</link>
+      <guid isPermaLink="false">NPINS.006655</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Comparing Ethereum fungible and non-fungible tokens: an analysis of transfer networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00682-8</link>
+      <guid isPermaLink="false">NPINS.006654</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: 2-Edge Hamiltonian connectedness: Characterization and results in data center networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006581</link>
+      <guid isPermaLink="false">NPINS.006653</guid>
+    </item>
     <item>
       <title>J. Phys. A: A model of random sequential adsorption on a ladder graph</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad909c</link>
@@ -488,31 +513,6 @@
       <title>Proc. R. Soc. A: A nonlinear spectral core–periphery detection method for multiplex networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2023.0914?af=R</link>
       <guid isPermaLink="false">NPINS.006558</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Antifragility of stochastic transport on networks with damage</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044309</link>
-      <guid isPermaLink="false">NPINS.006557</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Heterogeneous hypergraph representation learning for link prediction</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00791-4</link>
-      <guid isPermaLink="false">NPINS.006556</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Network mutual information measures for graph similarity</title>
-      <link>https://www.nature.com/articles/s42005-024-01830-3</link>
-      <guid isPermaLink="false">NPINS.006555</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Analysis of differences in fossil fuel consumption in the world based on the fractal time series and complex network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1457287</link>
-      <guid isPermaLink="false">NPINS.006554</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Spatiotemporal statistical features of velocity responses to traffic congestions in a local motorway network</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad8059</link>
-      <guid isPermaLink="false">NPINS.006553</guid>
     </item>
   </channel>
 </rss>
