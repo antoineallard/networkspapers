@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 15:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 15:29:51 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Competition for resources can reshape the evolutionary properties of spatial structure</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012542</link>
+      <guid isPermaLink="false">NPINS.006672</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Strong long ties facilitate epidemic containment on mobility networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae515</link>
+      <guid isPermaLink="false">NPINS.006671</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Estimating policy effects in a social network with independent set sampling</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000601</link>
+      <guid isPermaLink="false">NPINS.006670</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Fusing multiplex heterogeneous networks using graph attention-aware fusion networks</title>
+      <link>https://www.nature.com/articles/s41598-024-78555-4</link>
+      <guid isPermaLink="false">NPINS.006669</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Understanding political communication and political communicators on Twitch</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314429</link>
+      <guid isPermaLink="false">NPINS.006668</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Evolutionary modeling and analysis of opinion exchange and epidemic spread among individuals</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1501807</link>
+      <guid isPermaLink="false">NPINS.006667</guid>
+    </item>
+    <item>
+      <title>PNAS: Urban environments increase generalization of hummingbird–plant networks across climate gradients</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322347121?af=R</link>
+      <guid isPermaLink="false">NPINS.006666</guid>
+    </item>
+    <item>
+      <title>J. Math. Sociol.: Attachment preferences in diverse collective problem-solving networks and systemic performance</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2024.2428641?af=R</link>
+      <guid isPermaLink="false">NPINS.006665</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: The dynamics of exchange traded funds: a geometrical and topological approach</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00674-8</link>
+      <guid isPermaLink="false">NPINS.006664</guid>
+    </item>
+    <item>
+      <title>J. Math. Sociol.: Cultural and opinion dynamics in small-world “social” networks</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2024.2423941?af=R</link>
+      <guid isPermaLink="false">NPINS.006663</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Evolutionary dynamics in stochastic nonlinear public goods games</title>
       <link>https://www.nature.com/articles/s42005-024-01865-6</link>
@@ -463,56 +513,6 @@
       <title>Phys. Rev. Lett.: Anomalous Directed Percolation on a Dynamic Network Using Rydberg Facilitation</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.173401</link>
       <guid isPermaLink="false">NPINS.006573</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Distributed network flows generate localized category selectivity in human visual cortex</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012507</link>
-      <guid isPermaLink="false">NPINS.006572</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Tree structures may be the leadership structures employed by group motions exhibiting hierarchy</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043058</link>
-      <guid isPermaLink="false">NPINS.006571</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Diffusion on assortative networks: from mean-field to agent-based, via Newman rewiring</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00797-y</link>
-      <guid isPermaLink="false">NPINS.006570</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Indirect social influence and diffusion of innovations: An experimental approach</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae409</link>
-      <guid isPermaLink="false">NPINS.006569</guid>
-    </item>
-    <item>
-      <title>EPL: Taming explosive growth through linear augmentation</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad7f84</link>
-      <guid isPermaLink="false">NPINS.006568</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Long sequence Hopfield memory*</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad6427</link>
-      <guid isPermaLink="false">NPINS.006567</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: On the structure of species-function participation in multilayer ecological networks</title>
-      <link>https://www.nature.com/articles/s41467-024-53001-1</link>
-      <guid isPermaLink="false">NPINS.006566</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: pgmpy: A Python Toolkit for Bayesian Networks</title>
-      <link>http://jmlr.org/papers/v25/23-0487.html</link>
-      <guid isPermaLink="false">NPINS.006565</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: A new sociology of humans and machines</title>
-      <link>https://www.nature.com/articles/s41562-024-02001-8</link>
-      <guid isPermaLink="false">NPINS.006564</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Encoder embedding for general graph and node classification</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00678-4</link>
-      <guid isPermaLink="false">NPINS.006563</guid>
     </item>
   </channel>
 </rss>
