@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Dec 2024 01:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 13:55:29 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Lett.: Canard Cascading in Networks with Adaptive Mean-Field Coupling</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.237401</link>
+      <guid isPermaLink="false">NPINS.006682</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: Exploring TAS2R46 biomechanics through molecular dynamics and network analysis</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2024.1473675</link>
+      <guid isPermaLink="false">NPINS.006681</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Quantum Coherence in Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.230201</link>
+      <guid isPermaLink="false">NPINS.006680</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Mathematical basis and toolchain for hierarchical optimization of biochemical networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012624</link>
+      <guid isPermaLink="false">NPINS.006679</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Turing patterns on discrete topologies: from networks to higher-order structures</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0235?af=R</link>
+      <guid isPermaLink="false">NPINS.006678</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Limited trust in social network games</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054311</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: Understanding following patterns among high-performance athletes</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad8854</link>
       <guid isPermaLink="false">NPINS.006583</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Emerging many-to-one weighted mapping in hippocampus-amygdala network underlies memory formation</title>
-      <link>https://www.nature.com/articles/s41467-024-53665-9</link>
-      <guid isPermaLink="false">NPINS.006582</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Generalization of neural network models for complex network dynamics</title>
-      <link>https://www.nature.com/articles/s42005-024-01837-w</link>
-      <guid isPermaLink="false">NPINS.006581</guid>
-    </item>
-    <item>
-      <title>EPL: Evolution of cooperation on dynamical asymmetrical networks with costs</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad8182</link>
-      <guid isPermaLink="false">NPINS.006580</guid>
-    </item>
-    <item>
-      <title>iScience: Flowtigs: safety in flow decompositions for assembly graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004224024337</link>
-      <guid isPermaLink="false">NPINS.006579</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: TIBA: A web application for the visual analysis of temporal occurrences, interactions, and transitions of animal behavior</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012425</link>
-      <guid isPermaLink="false">NPINS.006578</guid>
     </item>
   </channel>
 </rss>
