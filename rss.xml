@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Dec 2024 02:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 14:01:51 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rep.: Network alignment</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0370157324004034?dgcid=rss_sd_all</link>
+      <guid isPermaLink="false">NPINS.006687</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Patterns and centralisation in Ethereum-based token transaction networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1305167</link>
+      <guid isPermaLink="false">NPINS.006686</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Dynamics analysis of epidemic spreading with individual heterogeneous infection thresholds</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1492423</link>
+      <guid isPermaLink="false">NPINS.006685</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Scaling and universality for percolation in random networks: A unified view</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064303</link>
+      <guid isPermaLink="false">NPINS.006684</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Dynamical importance and network perturbations</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064304</link>
+      <guid isPermaLink="false">NPINS.006683</guid>
+    </item>
     <item>
       <title>Phys. Rev. Lett.: Canard Cascading in Networks with Adaptive Mean-Field Coupling</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.237401</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Analytical solution of susceptible-infected-recovered models on homogeneous networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044307</link>
       <guid isPermaLink="false">NPINS.006588</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Network modulation at stable states</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044407</link>
-      <guid isPermaLink="false">NPINS.006587</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: How synchronized human networks escape local minima</title>
-      <link>https://www.nature.com/articles/s41467-024-53540-7</link>
-      <guid isPermaLink="false">NPINS.006586</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Overlapping community detection in weighted networks via hierarchical clustering</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312596</link>
-      <guid isPermaLink="false">NPINS.006585</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Random Fully Connected Neural Networks as Perturbatively Solvable Hierarchies</title>
-      <link>http://jmlr.org/papers/v25/23-0643.html</link>
-      <guid isPermaLink="false">NPINS.006584</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Understanding following patterns among high-performance athletes</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad8854</link>
-      <guid isPermaLink="false">NPINS.006583</guid>
     </item>
   </channel>
 </rss>
