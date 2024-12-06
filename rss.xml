@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Dec 2024 02:43:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 13:23:54 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Singular-value statistics of directed random graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064307</link>
+      <guid isPermaLink="false">NPINS.006692</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Community detection and anomaly prediction in dynamic networks</title>
+      <link>https://www.nature.com/articles/s42005-024-01889-y</link>
+      <guid isPermaLink="false">NPINS.006691</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Synchronization in adaptive higher-order networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064305</link>
+      <guid isPermaLink="false">NPINS.006690</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Enabling efficient analysis of biobank-scale data with genotype representation graphs</title>
+      <link>https://www.nature.com/articles/s43588-024-00739-9</link>
+      <guid isPermaLink="false">NPINS.006689</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Whole brain functional connectivity: Insights from next generation neural mass modelling incorporating electrical synapses</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012647</link>
+      <guid isPermaLink="false">NPINS.006688</guid>
+    </item>
     <item>
       <title>Phys. Rep.: Network alignment</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0370157324004034?dgcid=rss_sd_all</link>
@@ -488,31 +513,6 @@
       <title>R. Soc. Open Sci.: Astrocytes induce desynchronization and reduce predictability in neuron–astrocyte networks cultured on microelectrode arrays</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240839?af=R</link>
       <guid isPermaLink="false">NPINS.006593</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Mcadet: A feature selection method for fine-resolution single-cell RNA-seq data based on multiple correspondence analysis and community detection</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012560</link>
-      <guid isPermaLink="false">NPINS.006592</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Asymmetric iterated prisoner’s dilemma on weighted complex networks and evolutionary strategies analysis</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad83c7</link>
-      <guid isPermaLink="false">NPINS.006591</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Neurosci.: Fly connectome over the wire</title>
-      <link>https://www.nature.com/articles/s41583-024-00879-x</link>
-      <guid isPermaLink="false">NPINS.006590</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Fast unfolding of communities in large networks: 15 years later</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad6139</link>
-      <guid isPermaLink="false">NPINS.006589</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Analytical solution of susceptible-infected-recovered models on homogeneous networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.044307</link>
-      <guid isPermaLink="false">NPINS.006588</guid>
     </item>
   </channel>
 </rss>
