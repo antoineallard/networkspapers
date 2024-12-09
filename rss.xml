@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 03:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 19:36:53 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Spectral extremal results on the &lt;em&gt;A&lt;/em&gt;&lt;sub&gt;&lt;em&gt;α&lt;/em&gt;&lt;/sub&gt;-spectral radius of graphs without &lt;em&gt;K&lt;/em&gt;&lt;sub&gt;&lt;em&gt;a&lt;/em&gt;,&lt;em&gt;b&lt;/em&gt;&lt;/sub&gt;-minor</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006933</link>
+      <guid isPermaLink="false">NPINS.006697</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: Identification of genetic associations between acute myocardial infarction and non-small cell lung cancer</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2024.1502509</link>
+      <guid isPermaLink="false">NPINS.006696</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Synaptic connectome of the &lt;i&gt;Drosophila&lt;/i&gt; circadian clock</title>
+      <link>https://www.nature.com/articles/s41467-024-54694-0</link>
+      <guid isPermaLink="false">NPINS.006695</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A bipartite network analysis of international trade volatility</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00684-6</link>
+      <guid isPermaLink="false">NPINS.006694</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Complex patterns and determinants of regional multiple chronic conditions across the United States</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae513</link>
+      <guid isPermaLink="false">NPINS.006693</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Singular-value statistics of directed random graphs</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064307</link>
@@ -488,31 +513,6 @@
       <title>Eur. Phys. J. B: Traffic flow dynamics and oscillation control in conserved fractal networks</title>
       <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00808-y</link>
       <guid isPermaLink="false">NPINS.006598</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Longest Cycle above Erdős–Gallai Bound</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1558008?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006597</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Dynamic multi-dose vaccination with initial immunity on higher-order networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0512?af=R</link>
-      <guid isPermaLink="false">NPINS.006596</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Impact of facet degree heterogeneity on phase transitions in infectious disease spread</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad8959</link>
-      <guid isPermaLink="false">NPINS.006595</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Kirchhoff indices of Cayley graphs on D2n x Zm</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324005939</link>
-      <guid isPermaLink="false">NPINS.006594</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Astrocytes induce desynchronization and reduce predictability in neuron–astrocyte networks cultured on microelectrode arrays</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240839?af=R</link>
-      <guid isPermaLink="false">NPINS.006593</guid>
     </item>
   </channel>
 </rss>
