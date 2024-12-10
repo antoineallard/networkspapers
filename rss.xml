@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 20:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 14:08:47 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Susceptible-infected-recovered-susceptible processes competing on simplicial complexes</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064311</link>
+      <guid isPermaLink="false">NPINS.006702</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: OneNet—One network to rule them all: Consensus network inference from microbiome data</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012627</link>
+      <guid isPermaLink="false">NPINS.006701</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Focus on monitoring and control of complex supply systems</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acfadd</link>
+      <guid isPermaLink="false">NPINS.006700</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Discrete Synaptic Events Induce Global Oscillations in Balanced Neural Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.238401</link>
+      <guid isPermaLink="false">NPINS.006699</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Collective effect of self-learning and social learning on language dynamics: a naming game approach in social networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0406?af=R</link>
+      <guid isPermaLink="false">NPINS.006698</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Spectral extremal results on the &lt;em&gt;A&lt;/em&gt;&lt;sub&gt;&lt;em&gt;α&lt;/em&gt;&lt;/sub&gt;-spectral radius of graphs without &lt;em&gt;K&lt;/em&gt;&lt;sub&gt;&lt;em&gt;a&lt;/em&gt;,&lt;em&gt;b&lt;/em&gt;&lt;/sub&gt;-minor</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324006933</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Synchronization and chimeras in asymmetrically coupled memristive Tabu learning neuron network</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324006246</link>
       <guid isPermaLink="false">NPINS.006603</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Two-layer network evolutionary game model applied to complex systems</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00809-x</link>
-      <guid isPermaLink="false">NPINS.006602</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Structural influences on synaptic plasticity: The role of presynaptic connectivity in the emergence of E/I co-tuning</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012510</link>
-      <guid isPermaLink="false">NPINS.006601</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Optimizing urban bus network based on spatial matching patterns for sustainable transportation: A case study in Harbin, China</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312803</link>
-      <guid isPermaLink="false">NPINS.006600</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Two graphs: Resolving the periodic reversibility of one-dimensional finite cellular automata</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032400612X</link>
-      <guid isPermaLink="false">NPINS.006599</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Traffic flow dynamics and oscillation control in conserved fractal networks</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00808-y</link>
-      <guid isPermaLink="false">NPINS.006598</guid>
     </item>
   </channel>
 </rss>
