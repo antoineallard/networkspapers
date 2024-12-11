@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 01:51:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 13:50:57 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Mutual information and the encoding of contingency tables</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064306</link>
+      <guid isPermaLink="false">NPINS.006707</guid>
+    </item>
+    <item>
+      <title>Curr. Opin. Struct. Biol.: Editorial overview: Protein networks in health and disease</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0959440X24001805</link>
+      <guid isPermaLink="false">NPINS.006706</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Hierarchical simplicial manifold learning</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae530</link>
+      <guid isPermaLink="false">NPINS.006705</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Proper Conflict-Free Coloring of Graphs with Large Maximum Degree</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1563281?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006704</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Viscoelastic relaxation of random scale-free copolymer networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064502</link>
+      <guid isPermaLink="false">NPINS.006703</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Susceptible-infected-recovered-susceptible processes competing on simplicial complexes</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064311</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Perturbation therapies for neurodegenerative disorders: How attractors of excitable networks can help</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054406</link>
       <guid isPermaLink="false">NPINS.006608</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Understanding trends, patterns, and dynamics in global company acquisitions: a network perspective</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00503-z</link>
-      <guid isPermaLink="false">NPINS.006607</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Periodic systems have new classes of synchronization stability</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043105</link>
-      <guid isPermaLink="false">NPINS.006606</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Counting and hardness-of-finding fixed points in cellular automata on random graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad8797</link>
-      <guid isPermaLink="false">NPINS.006605</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Fault-tolerant neural networks from biological error correction codes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054303</link>
-      <guid isPermaLink="false">NPINS.006604</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Synchronization and chimeras in asymmetrically coupled memristive Tabu learning neuron network</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006246</link>
-      <guid isPermaLink="false">NPINS.006603</guid>
     </item>
   </channel>
 </rss>
