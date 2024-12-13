@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Dec 2024 02:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 14:26:48 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Current challenges in multilayer network engineering</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00686-4</link>
+      <guid isPermaLink="false">NPINS.006717</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: The Combinatorial Code and the Graph Rules of Dale Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1599069?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006716</guid>
+    </item>
+    <item>
+      <title>PNAS: Density amplifiers of cooperation for spatial games</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2405605121?af=R</link>
+      <guid isPermaLink="false">NPINS.006715</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: A human working memory advantage for social network information</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.1930?af=R</link>
+      <guid isPermaLink="false">NPINS.006714</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Integrability of generalised skew-symmetric replicator equations via graph embeddings</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad996e</link>
+      <guid isPermaLink="false">NPINS.006713</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Role of higher order interactions on spiral waves in excitable media</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064309</link>
@@ -488,31 +513,6 @@
       <title>PNAS Nexus: Inconsistency among evaluation metrics in link prediction</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae498</link>
       <guid isPermaLink="false">NPINS.006618</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Metaplasticity and memory in multilevel recurrent feed-forward networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054304</link>
-      <guid isPermaLink="false">NPINS.006617</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Exact cluster dynamics of indirect reciprocity in complete graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.L052301</link>
-      <guid isPermaLink="false">NPINS.006616</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Approximate Sampling and Counting of Graphs with Near-Regular Degree Intervals</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1553121?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006615</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Comparing random walks in graph embedding and link prediction</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312863</link>
-      <guid isPermaLink="false">NPINS.006614</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Why distinctiveness centrality is distinctive</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000613</link>
-      <guid isPermaLink="false">NPINS.006613</guid>
     </item>
   </channel>
 </rss>
