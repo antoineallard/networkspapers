@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Dec 2024 01:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 14:41:56 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: On Isomorphism-Invariant Antistochastic Properties of Random Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1575287?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006722</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Length of Directed Paths in Digraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1648375?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006721</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Temporal networks with node-specific memory: Unbiased inference of transition probabilities, relaxation times, and structural breaks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043257</link>
+      <guid isPermaLink="false">NPINS.006720</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Emotion inference in conversations based on commonsense enhancement and graph structures</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315039</link>
+      <guid isPermaLink="false">NPINS.006719</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Coloring Tournaments with Few Colors: Algorithms and Complexity</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1602127?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006718</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Current challenges in multilayer network engineering</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00686-4</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rep.: Network modeling and topology of aging</title>
       <link>https://www.sciencedirect.com/science/article/pii/S037015732400365X?dgcid=rss_sd_all</link>
       <guid isPermaLink="false">NPINS.006623</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Spatial correlation network structure of operational efficiency and its driving factors: A case study of star-rated hotels in China</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313500</link>
-      <guid isPermaLink="false">NPINS.006622</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Influence of multiple spreaders through farthest first traversal</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00676-6</link>
-      <guid isPermaLink="false">NPINS.006621</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Effects of simplicial centrality on robustness of higher-order multiplex world trade networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad8ee9</link>
-      <guid isPermaLink="false">NPINS.006620</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Network analysis of U.S. non-fatal opioid-involved overdose journeys, 2018–2023</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00661-z</link>
-      <guid isPermaLink="false">NPINS.006619</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Inconsistency among evaluation metrics in link prediction</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae498</link>
-      <guid isPermaLink="false">NPINS.006618</guid>
     </item>
   </channel>
 </rss>
