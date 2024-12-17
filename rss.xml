@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Dec 2024 19:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 14:22:20 +0000</lastBuildDate>
+    <item>
+      <title>Eur. Phys. J. B: Effects of self-protection awareness behavior on epidemic spreading in complex networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00816-y</link>
+      <guid isPermaLink="false">NPINS.006727</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Referential type opinion formation with fluctuating affinities on social network</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad96aa</link>
+      <guid isPermaLink="false">NPINS.006726</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: A data-driven model-free adaptive pinning synchronization control study for complex networks</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00827-9</link>
+      <guid isPermaLink="false">NPINS.006725</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Parameterized Complexity of Deletion to [math]-Free Strong Components</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1548591?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006724</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Adapting to time: Why nature may have evolved a diverse set of neurons</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012673</link>
+      <guid isPermaLink="false">NPINS.006723</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: On Isomorphism-Invariant Antistochastic Properties of Random Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1575287?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Nat. Commun.: Network community detection via neural embeddings</title>
       <link>https://www.nature.com/articles/s41467-024-52355-w</link>
       <guid isPermaLink="false">NPINS.006628</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Fault-tolerant partition resolvability of cycle with chord</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313300</link>
-      <guid isPermaLink="false">NPINS.006627</guid>
-    </item>
-    <item>
-      <title>SIAM Rev.: Oscillatory Networks: Insights from Piecewise-Linear Modeling</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1534365?ai=s5&amp;mi=8vgswd&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006626</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On the least eigenvalue of genuine strongly 3-walk-regular graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006635</link>
-      <guid isPermaLink="false">NPINS.006625</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Structural robustness and optimization of leader-follower coherence in star-coupled networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad864c</link>
-      <guid isPermaLink="false">NPINS.006624</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: Network modeling and topology of aging</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037015732400365X?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.006623</guid>
     </item>
   </channel>
 </rss>
