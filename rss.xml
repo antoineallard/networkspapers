@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Dec 2024 13:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 14:00:09 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Novel travel time aware metapopulation models and multi-layer waning immunity for late-phase epidemic and endemic scenarios</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012630</link>
+      <guid isPermaLink="false">NPINS.006732</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Explosive synchronization in coupled stars</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064215</link>
+      <guid isPermaLink="false">NPINS.006731</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Taming Graphs with No Large Creatures and Skinny Ladders</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1550530?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006730</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Revising the Borgatti-Everett core-periphery model: Inter-categorical density blocks and partially connected cores</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000704</link>
+      <guid isPermaLink="false">NPINS.006729</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Complements and competitors: Examining technological co-diffusion and relatedness on a collaborative coding platform</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgae549</link>
+      <guid isPermaLink="false">NPINS.006728</guid>
+    </item>
     <item>
       <title>Eur. Phys. J. B: Effects of self-protection awareness behavior on epidemic spreading in complex networks</title>
       <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00816-y</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Social networks from dailies: the observer’s point of view</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00681-9</link>
       <guid isPermaLink="false">NPINS.006633</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Extremizing antiregular graphs by modifying total σ-irregularity</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032400660X</link>
-      <guid isPermaLink="false">NPINS.006632</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Universal scaling hypothesis of quantum spatial search in complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043119</link>
-      <guid isPermaLink="false">NPINS.006631</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Fault tolerance assessment for hamming graphs based on r-restricted R-structure(substructure) fault pattern</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006210</link>
-      <guid isPermaLink="false">NPINS.006630</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Labeling small-degree nodes promotes semi-supervised community detection on graph convolutional network</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00817-x</link>
-      <guid isPermaLink="false">NPINS.006629</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Network community detection via neural embeddings</title>
-      <link>https://www.nature.com/articles/s41467-024-52355-w</link>
-      <guid isPermaLink="false">NPINS.006628</guid>
     </item>
   </channel>
 </rss>
