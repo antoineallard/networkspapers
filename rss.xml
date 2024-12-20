@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Dec 2024 18:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 14:30:23 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Exploring systemic effects of the friendship paradox on social network participation</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00657-9</link>
+      <guid isPermaLink="false">NPINS.006737</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Fluid-network relations: Decay laws meet with spatial self-similarity, scale invariance, and control scaling</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064314</link>
+      <guid isPermaLink="false">NPINS.006736</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Deep representation learning of protein-protein interaction networks for enhanced pattern discovery</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adq4324</link>
+      <guid isPermaLink="false">NPINS.006735</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Online Ramsey Numbers: Long versus Short Cycles</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M156183X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006734</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Leading by the nodes: a survey of film industry network analysis and datasets</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00673-9</link>
+      <guid isPermaLink="false">NPINS.006733</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Novel travel time aware metapopulation models and multi-layer waning immunity for late-phase epidemic and endemic scenarios</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012630</link>
@@ -488,31 +513,6 @@
       <title>Nature: Gut microbiome strain-sharing within isolated village social networks</title>
       <link>https://www.nature.com/articles/s41586-024-08222-1</link>
       <guid isPermaLink="false">NPINS.006638</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Fate of vortex-synchronized state in oscillator networks with node defects</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054210</link>
-      <guid isPermaLink="false">NPINS.006637</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Resonant solitary states in complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ad8b63</link>
-      <guid isPermaLink="false">NPINS.006636</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Distinguishing graphs by their spectra, Smith normal forms and complements</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006593</link>
-      <guid isPermaLink="false">NPINS.006635</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Routes of importation and spatial dynamics of SARS-CoV-2 variants during localized interventions in Chile</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae483</link>
-      <guid isPermaLink="false">NPINS.006634</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Social networks from dailies: the observer’s point of view</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00681-9</link>
-      <guid isPermaLink="false">NPINS.006633</guid>
     </item>
   </channel>
 </rss>
