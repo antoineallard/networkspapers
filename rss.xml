@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Dec 2024 03:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 14:38:29 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Assessing frustration in real-world signed networks: A statistical theory of balance</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042065</link>
+      <guid isPermaLink="false">NPINS.006742</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Regionalization and continuing globalization scenarios as a result of re-globalization: a matter of ally-familiarity proximity in multiplex financial network</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00683-7</link>
+      <guid isPermaLink="false">NPINS.006741</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Complex network analysis of transmission networks preparing for the energy transition: application to the current French power grid</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00837-7</link>
+      <guid isPermaLink="false">NPINS.006740</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Evolution of cooperation in multichannel games on multiplex networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012678</link>
+      <guid isPermaLink="false">NPINS.006739</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Disentangling degree and tie strength heterogeneity in egocentric social networks</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00513-x</link>
+      <guid isPermaLink="false">NPINS.006738</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Exploring systemic effects of the friendship paradox on social network participation</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00657-9</link>
@@ -488,31 +513,6 @@
       <title>Nat. Neurosci.: Predicting modular functions and neural coding of behavior from a synaptic wiring diagram</title>
       <link>https://www.nature.com/articles/s41593-024-01784-3</link>
       <guid isPermaLink="false">NPINS.006643</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Bounds for the incidence Q-spectral radius of uniform hypergraphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006623</link>
-      <guid isPermaLink="false">NPINS.006642</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Maximum entropy in dynamic complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054308</link>
-      <guid isPermaLink="false">NPINS.006641</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: The power of social networks and social media’s filter bubble in shaping polarisation: an agent-based model</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00679-3</link>
-      <guid isPermaLink="false">NPINS.006640</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Public transport across models and scales: A case study of the Munich network</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae489</link>
-      <guid isPermaLink="false">NPINS.006639</guid>
-    </item>
-    <item>
-      <title>Nature: Gut microbiome strain-sharing within isolated village social networks</title>
-      <link>https://www.nature.com/articles/s41586-024-08222-1</link>
-      <guid isPermaLink="false">NPINS.006638</guid>
     </item>
   </channel>
 </rss>
