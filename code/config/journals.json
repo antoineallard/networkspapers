@@ -197,17 +197,17 @@
     "JComplexNetw":
     {
       "abstract":         "description",
-      "feed1":            "http://academic.oup.com/rss/site_5126/advanceAccess_3051.xml",
-      "feed2":            "http://academic.oup.com/rss/site_5126/advanceAccess_3051.xml",
+      "feed1":            "https://academic.oup.com/rss/site_5126/advanceAccess_3051.xml",
+      "feed2":            "https://academic.oup.com/rss/site_5126/advanceAccess_3051.xml",
       "host":             "None",
-      "id":               "doi",
+      "id":               "prism_doi",
       "journal_abbrev":   "J. Complex Netw.",
       "journal_full":     "Journal of Complex Networks",
       "journal_url":      "https://academic.oup.com/comnet",
       "title":            "title",
       "url":              "guid",
       "whitelist":        true,
-      "reader":           "HTMLSession"
+      "reader":           "feedparser"
     },
     "JMachLearnRes":
     {
@@ -605,14 +605,14 @@
       "feed1":            "https://academic.oup.com/rss/site_6448/4114.xml",
       "feed2":            "https://academic.oup.com/rss/site_6448/4114.xml",
       "host":             "None",
-      "id":               "doi",
+      "id":               "prism_doi",
       "journal_abbrev":   "PNAS Nexus",
       "journal_full":     "PNAS Nexus",
       "journal_url":      "https://academic.oup.com/pnasnexus",
       "title":            "title",
       "url":              "guid",
       "whitelist":        false,
-      "reader":           "HTMLSession"
+      "reader":           "feedparser"
     },
     "ProcRSocA":
     {

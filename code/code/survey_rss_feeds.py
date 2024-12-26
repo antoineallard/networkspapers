@@ -35,7 +35,6 @@ for journal in sorted(list(feeds.journals.keys())):
     # Reads the rss feed.
     print("Looking up " + feeds.journals[journal]["journal_abbrev"] + "...")
 
-
     if feeds.journals[journal]["reader"] == "feedparser":
         # https://stackoverflow.com/questions/49087990/python-request-being-blocked-by-cloudflare
         #scraper = cloudscraper.create_scraper()
@@ -48,6 +47,7 @@ for journal in sorted(list(feeds.journals.keys())):
             continue
         feed = feedparser.parse(file)
         entries = feed['entries']
+        print(entries)
 
 
         if len(feed.entries) == 0:
@@ -99,9 +99,8 @@ for journal in sorted(list(feeds.journals.keys())):
 
             entries = []
             items = response.html.find("item", first=False)
-
+            # print(items)
             for item in items:
-
                 entry = {
                          feeds.journals[journal]["title"]:    item.find(feeds.journals[journal]["title"],    first=True).text,
                          feeds.journals[journal]["abstract"]: item.find(feeds.journals[journal]["abstract"], first=True).text,
