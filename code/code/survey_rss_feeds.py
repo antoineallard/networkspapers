@@ -47,7 +47,7 @@ for journal in sorted(list(feeds.journals.keys())):
             continue
         feed = feedparser.parse(file)
         entries = feed['entries']
-        print(entries)
+        # print(entries)
 
 
         if len(feed.entries) == 0:
