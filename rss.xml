@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Dec 2024 22:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 12:26:21 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Hum. Behav.: Predicting surprise across contexts</title>
+      <link>https://www.nature.com/articles/s41562-024-02036-x</link>
+      <guid isPermaLink="false">NPINS.006752</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Exact loop densities in O(1) dense loop model on a cylinder of odd circumference and clusters in half-turn self-dual critical percolation</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad973a</link>
+      <guid isPermaLink="false">NPINS.006751</guid>
+    </item>
+    <item>
+      <title>PNAS: Toward optimal disease surveillance with graph-based active learning</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2412424121?af=R</link>
+      <guid isPermaLink="false">NPINS.006750</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Robustness assessment of Muscat coastal highway network (CHN) under multi-hazard scenarios focusing on traffic stability and adaptation measures</title>
+      <link>https://www.nature.com/articles/s41598-024-79730-3</link>
+      <guid isPermaLink="false">NPINS.006749</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Swarming network inference with importance clustering of relative interactions</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad9b63</link>
+      <guid isPermaLink="false">NPINS.006748</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Distorted insights from human mobility data</title>
+      <link>https://www.nature.com/articles/s42005-024-01909-x</link>
+      <guid isPermaLink="false">NPINS.006747</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Balance correlations, agentic zeros, and networks: The structure of 192 years of war and peace</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315088</link>
+      <guid isPermaLink="false">NPINS.006746</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Random walks on bifractal networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064318</link>
+      <guid isPermaLink="false">NPINS.006745</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Higher-order triadic percolation on random hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064315</link>
+      <guid isPermaLink="false">NPINS.006744</guid>
+    </item>
+    <item>
+      <title>iScience: dotears: Scalable and consistent directed acyclic graph (DAG) estimation using observational and interventional data</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004224029006</link>
+      <guid isPermaLink="false">NPINS.006743</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Assessing frustration in real-world signed networks: A statistical theory of balance</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042065</link>
@@ -463,56 +513,6 @@
       <title>Appl. Math. Comput.: 2-Edge Hamiltonian connectedness: Characterization and results in data center networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300324006581</link>
       <guid isPermaLink="false">NPINS.006653</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: A model of random sequential adsorption on a ladder graph</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad909c</link>
-      <guid isPermaLink="false">NPINS.006652</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Where are the cruise ships? mobility and immobility of cruises under COVID-19</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303216</link>
-      <guid isPermaLink="false">NPINS.006651</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Dissipation at limited resolutions: power law and detection of hidden dissipative scales</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad8152</link>
-      <guid isPermaLink="false">NPINS.006650</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Effects of clustering heterogeneity on the spectral density of sparse networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054307</link>
-      <guid isPermaLink="false">NPINS.006649</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Transitions in growing networks using a structural complexity approach</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054309</link>
-      <guid isPermaLink="false">NPINS.006648</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Learning of networked spreading models from noisy and incomplete data</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.054302</link>
-      <guid isPermaLink="false">NPINS.006647</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Turán Number of Berge Book Hypergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/22M1474266?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006646</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Deep neural networks for endemic measles dynamics: Comparative analysis and integration with mechanistic models</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012616</link>
-      <guid isPermaLink="false">NPINS.006645</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: DL-integral and DQ-integral n-Cayley graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324006398</link>
-      <guid isPermaLink="false">NPINS.006644</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Predicting modular functions and neural coding of behavior from a synaptic wiring diagram</title>
-      <link>https://www.nature.com/articles/s41593-024-01784-3</link>
-      <guid isPermaLink="false">NPINS.006643</guid>
     </item>
   </channel>
 </rss>
