@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2025 22:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 14:40:08 +0000</lastBuildDate>
+    <item>
+      <title>EPL: Percolation transitions in simplicial complexes with interdependent relationships</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad9cbc</link>
+      <guid isPermaLink="false">NPINS.006767</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Exploring network dynamics in scientific innovation: collaboration, knowledge combination, and innovative performance</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1492731</link>
+      <guid isPermaLink="false">NPINS.006766</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Bifurcations and multistability in empirical mutualistic networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064320</link>
+      <guid isPermaLink="false">NPINS.006765</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Exact behavior of the critical Kauffman model with connectivity one</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043315</link>
+      <guid isPermaLink="false">NPINS.006764</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: A homophilic and dynamic influence maximization strategy based on independent cascade model in social networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1509905</link>
+      <guid isPermaLink="false">NPINS.006763</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Dynamical systems and complex networks: a Koopman operator perspective</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad9e60</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Understanding political communication and political communicators on Twitch</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314429</link>
       <guid isPermaLink="false">NPINS.006668</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Evolutionary modeling and analysis of opinion exchange and epidemic spread among individuals</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1501807</link>
-      <guid isPermaLink="false">NPINS.006667</guid>
-    </item>
-    <item>
-      <title>PNAS: Urban environments increase generalization of hummingbird–plant networks across climate gradients</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2322347121?af=R</link>
-      <guid isPermaLink="false">NPINS.006666</guid>
-    </item>
-    <item>
-      <title>J. Math. Sociol.: Attachment preferences in diverse collective problem-solving networks and systemic performance</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2024.2428641?af=R</link>
-      <guid isPermaLink="false">NPINS.006665</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: The dynamics of exchange traded funds: a geometrical and topological approach</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00674-8</link>
-      <guid isPermaLink="false">NPINS.006664</guid>
-    </item>
-    <item>
-      <title>J. Math. Sociol.: Cultural and opinion dynamics in small-world “social” networks</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2024.2423941?af=R</link>
-      <guid isPermaLink="false">NPINS.006663</guid>
     </item>
   </channel>
 </rss>
