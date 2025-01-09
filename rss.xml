@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jan 2025 12:29:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 12:04:42 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Predicting phage-host interaction via hyperbolic Poincaré graph embedding and large-scale protein language technique</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004224028748</link>
+      <guid isPermaLink="false">NPINS.006772</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Transversal Hamilton Cycle in Hypergraph Systems</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1602425?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006771</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Strategic variability in routing: Enhancing network performance in two-layer traffic systems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L012201</link>
+      <guid isPermaLink="false">NPINS.006770</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Understanding pesticide-induced tipping in plant-pollinator networks across geographical scales: Prioritizing richness and modularity over nestedness</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014407</link>
+      <guid isPermaLink="false">NPINS.006769</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Computing Paths of Large Rank in Planar Frameworks Deterministically</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1632759?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006768</guid>
+    </item>
     <item>
       <title>EPL: Percolation transitions in simplicial complexes with interdependent relationships</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad9cbc</link>
@@ -488,31 +513,6 @@
       <title>Nat. Rev. Neurosci.: Structural MRI of brain similarity networks</title>
       <link>https://www.nature.com/articles/s41583-024-00882-2</link>
       <guid isPermaLink="false">NPINS.006673</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Competition for resources can reshape the evolutionary properties of spatial structure</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012542</link>
-      <guid isPermaLink="false">NPINS.006672</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Strong long ties facilitate epidemic containment on mobility networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae515</link>
-      <guid isPermaLink="false">NPINS.006671</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Estimating policy effects in a social network with independent set sampling</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000601</link>
-      <guid isPermaLink="false">NPINS.006670</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Fusing multiplex heterogeneous networks using graph attention-aware fusion networks</title>
-      <link>https://www.nature.com/articles/s41598-024-78555-4</link>
-      <guid isPermaLink="false">NPINS.006669</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Understanding political communication and political communicators on Twitch</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314429</link>
-      <guid isPermaLink="false">NPINS.006668</guid>
     </item>
   </channel>
 </rss>
