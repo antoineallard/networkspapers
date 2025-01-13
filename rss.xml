@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jan 2025 02:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 13:36:42 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: On the eccentricity inertia indices of chain graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032400732X</link>
+      <guid isPermaLink="false">NPINS.006782</guid>
+    </item>
+    <item>
+      <title>iScience: Low dimensionality of phenotypic space as an emergent property of coordinated teams in biological regulatory networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004224029572</link>
+      <guid isPermaLink="false">NPINS.006781</guid>
+    </item>
+    <item>
+      <title>EPL: A brief review on evolutionary game models for the emergence of fairness</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad9860</link>
+      <guid isPermaLink="false">NPINS.006780</guid>
+    </item>
+    <item>
+      <title>EPL: Scaling laws of urban heavy truck mobility</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad9630</link>
+      <guid isPermaLink="false">NPINS.006779</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Emergent Rate-Based Dynamics in Duplicate-Free Populations of Spiking Neurons</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.018401</link>
+      <guid isPermaLink="false">NPINS.006778</guid>
+    </item>
     <item>
       <title>PNAS Nexus: Epihiper—A high performance computational modeling framework to support epidemic science</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae557</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Dynamical importance and network perturbations</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064304</link>
       <guid isPermaLink="false">NPINS.006683</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Canard Cascading in Networks with Adaptive Mean-Field Coupling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.237401</link>
-      <guid isPermaLink="false">NPINS.006682</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: Exploring TAS2R46 biomechanics through molecular dynamics and network analysis</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2024.1473675</link>
-      <guid isPermaLink="false">NPINS.006681</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Quantum Coherence in Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.230201</link>
-      <guid isPermaLink="false">NPINS.006680</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Mathematical basis and toolchain for hierarchical optimization of biochemical networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012624</link>
-      <guid isPermaLink="false">NPINS.006679</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Turing patterns on discrete topologies: from networks to higher-order structures</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0235?af=R</link>
-      <guid isPermaLink="false">NPINS.006678</guid>
     </item>
   </channel>
 </rss>
