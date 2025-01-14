@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jan 2025 01:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 13:50:56 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Forbidden Tournaments and the Orientation Completion Problem</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1604849?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006787</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: SEMdag: Fast learning of Directed Acyclic Graphs via node or layer ordering</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317283</link>
+      <guid isPermaLink="false">NPINS.006786</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Percolation analysis of spatiotemporal distribution of population in Seoul and Helsinki</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014305</link>
+      <guid isPermaLink="false">NPINS.006785</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Enhanced signal response through synchronization competition in a ring of four bistable systems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013024</link>
+      <guid isPermaLink="false">NPINS.006784</guid>
+    </item>
+    <item>
+      <title>PNAS: Deriving a genetic regulatory network from an optimization principle</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2402925121?af=R</link>
+      <guid isPermaLink="false">NPINS.006783</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: On the eccentricity inertia indices of chain graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S009630032400732X</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: Whole brain functional connectivity: Insights from next generation neural mass modelling incorporating electrical synapses</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012647</link>
       <guid isPermaLink="false">NPINS.006688</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: Network alignment</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0370157324004034?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.006687</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Patterns and centralisation in Ethereum-based token transaction networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1305167</link>
-      <guid isPermaLink="false">NPINS.006686</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Dynamics analysis of epidemic spreading with individual heterogeneous infection thresholds</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1492423</link>
-      <guid isPermaLink="false">NPINS.006685</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Scaling and universality for percolation in random networks: A unified view</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064303</link>
-      <guid isPermaLink="false">NPINS.006684</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Dynamical importance and network perturbations</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064304</link>
-      <guid isPermaLink="false">NPINS.006683</guid>
     </item>
   </channel>
 </rss>
