@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jan 2025 17:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 14:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Modification speed alters stability of ecological higher-order interaction networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014309</link>
+      <guid isPermaLink="false">NPINS.006802</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A growth model for citations networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00691-1</link>
+      <guid isPermaLink="false">NPINS.006801</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Geometry of Optimal Control in Chemical Reaction Networks in the Adiabatic Limit</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.018001</link>
+      <guid isPermaLink="false">NPINS.006800</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Glioblastoma–neuron networks</title>
+      <link>https://www.nature.com/articles/s41593-024-01862-6</link>
+      <guid isPermaLink="false">NPINS.006799</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Multi-region infectious disease prediction modeling based on spatio-temporal graph neural network and the dynamic model</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012738</link>
+      <guid isPermaLink="false">NPINS.006798</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Graph coarsening for fugitive interception</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00689-1</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Viscoelastic relaxation of random scale-free copolymer networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064502</link>
       <guid isPermaLink="false">NPINS.006703</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Susceptible-infected-recovered-susceptible processes competing on simplicial complexes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064311</link>
-      <guid isPermaLink="false">NPINS.006702</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: OneNet—One network to rule them all: Consensus network inference from microbiome data</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012627</link>
-      <guid isPermaLink="false">NPINS.006701</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Focus on monitoring and control of complex supply systems</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/acfadd</link>
-      <guid isPermaLink="false">NPINS.006700</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Discrete Synaptic Events Induce Global Oscillations in Balanced Neural Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.133.238401</link>
-      <guid isPermaLink="false">NPINS.006699</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Collective effect of self-learning and social learning on language dynamics: a naming game approach in social networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0406?af=R</link>
-      <guid isPermaLink="false">NPINS.006698</guid>
     </item>
   </channel>
 </rss>
