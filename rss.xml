@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jan 2025 01:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 14:26:26 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Intermittent cluster synchronization in a unidirectional ring of bursting neurons</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014215</link>
+      <guid isPermaLink="false">NPINS.006812</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Generalized diffusive epidemic process with permanent immunity in two dimensions</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad9f4d</link>
+      <guid isPermaLink="false">NPINS.006811</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Data-driven bipartite synchronization control of multi-agent systems with asymmetric input saturation over switching networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000074</link>
+      <guid isPermaLink="false">NPINS.006810</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Detection of dynamic communities in temporal networks with sparse data</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00687-3</link>
+      <guid isPermaLink="false">NPINS.006809</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Fractional derivative in continuous-time Markov processes and applications to epidemics in networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013017</link>
+      <guid isPermaLink="false">NPINS.006808</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Graphs whose the maximum size of an odd subgraph equal to n/2</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325000244</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. A: Integrability of generalised skew-symmetric replicator equations via graph embeddings</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad996e</link>
       <guid isPermaLink="false">NPINS.006713</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Role of higher order interactions on spiral waves in excitable media</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064309</link>
-      <guid isPermaLink="false">NPINS.006712</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: $Q$-Neighbor Ising model on a polarized network</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064312</link>
-      <guid isPermaLink="false">NPINS.006711</guid>
-    </item>
-    <item>
-      <title>Nat. Comput. Sci.: A simulated annealing algorithm for randomizing weighted networks</title>
-      <link>https://www.nature.com/articles/s43588-024-00735-z</link>
-      <guid isPermaLink="false">NPINS.006710</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Trimming Forests Is Hard (Unless They Are Made of Stars)</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1609373?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006709</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Preserving friendships in school contacts: An algorithm to construct synthetic temporal networks for epidemic modelling</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012661</link>
-      <guid isPermaLink="false">NPINS.006708</guid>
     </item>
   </channel>
 </rss>
