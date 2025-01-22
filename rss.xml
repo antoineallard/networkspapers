@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jan 2025 01:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 14:37:25 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Neurosci.: Dynamical constraints on neural population activity</title>
+      <link>https://www.nature.com/articles/s41593-024-01845-7</link>
+      <guid isPermaLink="false">NPINS.006817</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Spike propagation by synchronization and vibrational resonance in feedforward Izhikevich neural network</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ada747</link>
+      <guid isPermaLink="false">NPINS.006816</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Multi-scale Laplacian community detection in heterogeneous networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013065</link>
+      <guid isPermaLink="false">NPINS.006815</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Dividing a Graphical Cake</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/22M1500502?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006814</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Kaleidoscopic reorganization of network communities across different scales</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014312</link>
+      <guid isPermaLink="false">NPINS.006813</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Intermittent cluster synchronization in a unidirectional ring of bursting neurons</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014215</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Coloring Tournaments with Few Colors: Algorithms and Complexity</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1602127?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.006718</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Current challenges in multilayer network engineering</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00686-4</link>
-      <guid isPermaLink="false">NPINS.006717</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: The Combinatorial Code and the Graph Rules of Dale Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1599069?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006716</guid>
-    </item>
-    <item>
-      <title>PNAS: Density amplifiers of cooperation for spatial games</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2405605121?af=R</link>
-      <guid isPermaLink="false">NPINS.006715</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: A human working memory advantage for social network information</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.1930?af=R</link>
-      <guid isPermaLink="false">NPINS.006714</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Integrability of generalised skew-symmetric replicator equations via graph embeddings</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ad996e</link>
-      <guid isPermaLink="false">NPINS.006713</guid>
     </item>
   </channel>
 </rss>
