@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jan 2025 01:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 13:10:26 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Asymmetrically connected reservoir networks learn better</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.015307</link>
+      <guid isPermaLink="false">NPINS.006837</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Finding polarized communities and tracking information diffusion on Twitter: a network approach on the Irish Abortion Referendum</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240454?af=R</link>
+      <guid isPermaLink="false">NPINS.006836</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Targeted Avoidance in Complex Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.047401</link>
+      <guid isPermaLink="false">NPINS.006835</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Synthetic graphs for link prediction benchmarking</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada07f</link>
+      <guid isPermaLink="false">NPINS.006834</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Steady-state solution of Markov jump processes in terms of arrival probabilities</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014126</link>
+      <guid isPermaLink="false">NPINS.006833</guid>
+    </item>
     <item>
       <title>Nat. Commun.: A multiscale functional map of somatic mutations in cancer integrating protein structure and network topology</title>
       <link>https://www.nature.com/articles/s41467-024-54176-3</link>
@@ -488,31 +513,6 @@
       <title>EPJ Data Sci.: Disentangling degree and tie strength heterogeneity in egocentric social networks</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00513-x</link>
       <guid isPermaLink="false">NPINS.006738</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Exploring systemic effects of the friendship paradox on social network participation</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00657-9</link>
-      <guid isPermaLink="false">NPINS.006737</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Fluid-network relations: Decay laws meet with spatial self-similarity, scale invariance, and control scaling</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064314</link>
-      <guid isPermaLink="false">NPINS.006736</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Deep representation learning of protein-protein interaction networks for enhanced pattern discovery</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adq4324</link>
-      <guid isPermaLink="false">NPINS.006735</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Online Ramsey Numbers: Long versus Short Cycles</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M156183X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006734</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Leading by the nodes: a survey of film industry network analysis and datasets</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00673-9</link>
-      <guid isPermaLink="false">NPINS.006733</guid>
     </item>
   </channel>
 </rss>
