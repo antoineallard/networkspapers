@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jan 2025 01:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 13:25:15 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. X: Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevX.15.011002</link>
+      <guid isPermaLink="false">NPINS.006842</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Exogenous–Endogenous Surfactant Interaction Yields Heterogeneous Spreading in Complex Branching Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.034001</link>
+      <guid isPermaLink="false">NPINS.006841</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Correlation and autocorrelation of data on complex networks</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00525-1</link>
+      <guid isPermaLink="false">NPINS.006840</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Fragility of chess positions: Measure, universality, and tipping points</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014314</link>
+      <guid isPermaLink="false">NPINS.006839</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Practically effective adjustment variable selection in causal inference</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada861</link>
+      <guid isPermaLink="false">NPINS.006838</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Asymmetrically connected reservoir networks learn better</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.015307</link>
@@ -488,31 +513,6 @@
       <title>iScience: dotears: Scalable and consistent directed acyclic graph (DAG) estimation using observational and interventional data</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004224029006</link>
       <guid isPermaLink="false">NPINS.006743</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Assessing frustration in real-world signed networks: A statistical theory of balance</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042065</link>
-      <guid isPermaLink="false">NPINS.006742</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Regionalization and continuing globalization scenarios as a result of re-globalization: a matter of ally-familiarity proximity in multiplex financial network</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00683-7</link>
-      <guid isPermaLink="false">NPINS.006741</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Complex network analysis of transmission networks preparing for the energy transition: application to the current French power grid</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00837-7</link>
-      <guid isPermaLink="false">NPINS.006740</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Evolution of cooperation in multichannel games on multiplex networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012678</link>
-      <guid isPermaLink="false">NPINS.006739</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Disentangling degree and tie strength heterogeneity in egocentric social networks</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-024-00513-x</link>
-      <guid isPermaLink="false">NPINS.006738</guid>
     </item>
   </channel>
 </rss>
