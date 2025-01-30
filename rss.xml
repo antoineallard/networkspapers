@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jan 2025 02:43:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 15:31:35 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Measuring and utilizing temporal network dissimilarity</title>
+      <link>https://www.nature.com/articles/s42005-025-01940-6</link>
+      <guid isPermaLink="false">NPINS.006847</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Weighted-ensemble network simulations of the susceptible-infected-susceptible model of epidemics</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014146</link>
+      <guid isPermaLink="false">NPINS.006846</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Low-dimensional model for adaptive networks of spiking neurons</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014422</link>
+      <guid isPermaLink="false">NPINS.006845</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Evolution of sample-based music authorship network</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00524-2</link>
+      <guid isPermaLink="false">NPINS.006844</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A linear tessellation model for the identification of “food desert”: A case study of Shanghai, China</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317003</link>
+      <guid isPermaLink="false">NPINS.006843</guid>
+    </item>
     <item>
       <title>Phys. Rev. X: Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevX.15.011002</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: Swarming network inference with importance clustering of relative interactions</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad9b63</link>
       <guid isPermaLink="false">NPINS.006748</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Distorted insights from human mobility data</title>
-      <link>https://www.nature.com/articles/s42005-024-01909-x</link>
-      <guid isPermaLink="false">NPINS.006747</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Balance correlations, agentic zeros, and networks: The structure of 192 years of war and peace</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315088</link>
-      <guid isPermaLink="false">NPINS.006746</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Random walks on bifractal networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064318</link>
-      <guid isPermaLink="false">NPINS.006745</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Higher-order triadic percolation on random hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064315</link>
-      <guid isPermaLink="false">NPINS.006744</guid>
-    </item>
-    <item>
-      <title>iScience: dotears: Scalable and consistent directed acyclic graph (DAG) estimation using observational and interventional data</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004224029006</link>
-      <guid isPermaLink="false">NPINS.006743</guid>
     </item>
   </channel>
 </rss>
