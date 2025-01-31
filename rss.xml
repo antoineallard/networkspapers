@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jan 2025 23:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 15:54:11 +0000</lastBuildDate>
+    <item>
+      <title>New J. Phys.: Detecting memberships in multiplex networks via nonnegative matrix factorization and tensor decomposition</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ada573</link>
+      <guid isPermaLink="false">NPINS.006852</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Discovering motifs to fingerprint multi-layer networks: a case study on the connectome of C. Elegans</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00848-4</link>
+      <guid isPermaLink="false">NPINS.006851</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Universal insulating-to-metallic crossover in tight-binding random geometric graphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adaae0</link>
+      <guid isPermaLink="false">NPINS.006850</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Flexible inference in heterogeneous and attributed multilayer networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf005</link>
+      <guid isPermaLink="false">NPINS.006849</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: A construction of random bigraphs and their application to error correction codes *</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad9c4b</link>
+      <guid isPermaLink="false">NPINS.006848</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Measuring and utilizing temporal network dissimilarity</title>
       <link>https://www.nature.com/articles/s42005-025-01940-6</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Renormalization of complex networks with partition functions</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064316</link>
       <guid isPermaLink="false">NPINS.006753</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Predicting surprise across contexts</title>
-      <link>https://www.nature.com/articles/s41562-024-02036-x</link>
-      <guid isPermaLink="false">NPINS.006752</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Exact loop densities in O(1) dense loop model on a cylinder of odd circumference and clusters in half-turn self-dual critical percolation</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad973a</link>
-      <guid isPermaLink="false">NPINS.006751</guid>
-    </item>
-    <item>
-      <title>PNAS: Toward optimal disease surveillance with graph-based active learning</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2412424121?af=R</link>
-      <guid isPermaLink="false">NPINS.006750</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Robustness assessment of Muscat coastal highway network (CHN) under multi-hazard scenarios focusing on traffic stability and adaptation measures</title>
-      <link>https://www.nature.com/articles/s41598-024-79730-3</link>
-      <guid isPermaLink="false">NPINS.006749</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Swarming network inference with importance clustering of relative interactions</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad9b63</link>
-      <guid isPermaLink="false">NPINS.006748</guid>
     </item>
   </channel>
 </rss>
