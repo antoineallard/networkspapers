@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 01:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 14:37:26 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Distinguishing infinite star-free graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000372</link>
+      <guid isPermaLink="false">NPINS.006857</guid>
+    </item>
+    <item>
+      <title>PNAS: Spreading dynamics of information on online social networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2410227122?af=R</link>
+      <guid isPermaLink="false">NPINS.006856</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Integer traffic assignment problem: Algorithms and insights on random graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014316</link>
+      <guid isPermaLink="false">NPINS.006855</guid>
+    </item>
+    <item>
+      <title>Nature: Brain-wide neuronal circuit connectome of human glioblastoma</title>
+      <link>https://www.nature.com/articles/s41586-025-08634-7</link>
+      <guid isPermaLink="false">NPINS.006854</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: ASGCL: Adaptive Sparse Mapping-based graph contrastive learning network for cancer drug response prediction</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012748</link>
+      <guid isPermaLink="false">NPINS.006853</guid>
+    </item>
     <item>
       <title>New J. Phys.: Detecting memberships in multiplex networks via nonnegative matrix factorization and tensor decomposition</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/ada573</link>
@@ -488,31 +513,6 @@
       <title>Nat. Hum. Behav.: Brain network dynamics predict moments of surprise across contexts</title>
       <link>https://www.nature.com/articles/s41562-024-02017-0</link>
       <guid isPermaLink="false">NPINS.006758</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Detecting anomalies in graph networks on digital markets</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315849</link>
-      <guid isPermaLink="false">NPINS.006757</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Resilient consensus for multiagent networks with time-varying delay and mobile adversaries</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad9f0c</link>
-      <guid isPermaLink="false">NPINS.006756</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: SGI-YOLOv9: an effective method for crucial components detection in the power distribution network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1517177</link>
-      <guid isPermaLink="false">NPINS.006755</guid>
-    </item>
-    <item>
-      <title>PNAS: Metapopulation heterogeneities in host mobility, productivity, and immunocompetency always increase virulence and infectiousness</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2309272121?af=R</link>
-      <guid isPermaLink="false">NPINS.006754</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Renormalization of complex networks with partition functions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064316</link>
-      <guid isPermaLink="false">NPINS.006753</guid>
     </item>
   </channel>
 </rss>
