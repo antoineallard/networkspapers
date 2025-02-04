@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 18:49:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 14:33:03 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: 1-Planar graphs with no 5-cycles are 5-degenerate</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000311</link>
+      <guid isPermaLink="false">NPINS.006862</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Biologically inspired graphs to explore massive genetic datasets</title>
+      <link>https://www.nature.com/articles/s43588-024-00763-9</link>
+      <guid isPermaLink="false">NPINS.006861</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: $α$-separable graph Hamiltonian network: A robust model for learning particle interactions in lattice systems</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.015309</link>
+      <guid isPermaLink="false">NPINS.006860</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Synchronization and its slow decay in noisy oscillators with simplicial interactions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014223</link>
+      <guid isPermaLink="false">NPINS.006859</guid>
+    </item>
+    <item>
+      <title>EPL: Reputation mechanisms and cooperative emergence in complex network games: Current status and prospects</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ada6fa</link>
+      <guid isPermaLink="false">NPINS.006858</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Distinguishing infinite star-free graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325000372</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: A homophilic and dynamic influence maximization strategy based on independent cascade model in social networks</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1509905</link>
       <guid isPermaLink="false">NPINS.006763</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Dynamical systems and complex networks: a Koopman operator perspective</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ad9e60</link>
-      <guid isPermaLink="false">NPINS.006762</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Modularity-based mathematical modeling of ligand inter-nanocluster connectivity for unraveling reversible stem cell regulation</title>
-      <link>https://www.nature.com/articles/s41467-024-54557-8</link>
-      <guid isPermaLink="false">NPINS.006761</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Behaviour-based dependency networks between places shape urban economic resilience</title>
-      <link>https://www.nature.com/articles/s41562-024-02072-7</link>
-      <guid isPermaLink="false">NPINS.006760</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Extremal function of two independent chorded cycles in a bipartite graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300324007148</link>
-      <guid isPermaLink="false">NPINS.006759</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Brain network dynamics predict moments of surprise across contexts</title>
-      <link>https://www.nature.com/articles/s41562-024-02017-0</link>
-      <guid isPermaLink="false">NPINS.006758</guid>
     </item>
   </channel>
 </rss>
