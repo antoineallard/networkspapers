@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2025 00:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 15:07:40 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: An evolution model for the mobility of urban societal classes based on complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adaa45</link>
+      <guid isPermaLink="false">NPINS.006867</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: Potential biomarkers and immune infiltration linking endometriosis with recurrent pregnancy loss based on bioinformatics and machine learning</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2025.1529507</link>
+      <guid isPermaLink="false">NPINS.006866</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Connectome-based biophysical models of pathological protein spreading in neurodegenerative diseases</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012743</link>
+      <guid isPermaLink="false">NPINS.006865</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Graphs having two main eigenvalues and arbitrarily many distinct vertex degrees</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000384</link>
+      <guid isPermaLink="false">NPINS.006864</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Decentralized coupling-when-needed strategy for the synchronization of networked oscillators with delays</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014306</link>
+      <guid isPermaLink="false">NPINS.006863</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: 1-Planar graphs with no 5-cycles are 5-degenerate</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325000311</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Computing Paths of Large Rank in Planar Frameworks Deterministically</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1632759?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.006768</guid>
-    </item>
-    <item>
-      <title>EPL: Percolation transitions in simplicial complexes with interdependent relationships</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ad9cbc</link>
-      <guid isPermaLink="false">NPINS.006767</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Exploring network dynamics in scientific innovation: collaboration, knowledge combination, and innovative performance</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1492731</link>
-      <guid isPermaLink="false">NPINS.006766</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Bifurcations and multistability in empirical mutualistic networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.110.064320</link>
-      <guid isPermaLink="false">NPINS.006765</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Exact behavior of the critical Kauffman model with connectivity one</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043315</link>
-      <guid isPermaLink="false">NPINS.006764</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: A homophilic and dynamic influence maximization strategy based on independent cascade model in social networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2024.1509905</link>
-      <guid isPermaLink="false">NPINS.006763</guid>
     </item>
   </channel>
 </rss>
