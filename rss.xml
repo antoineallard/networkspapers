@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2025 19:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 13:43:16 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Annealing dynamics of regular rotor networks: Universality and its breakdown</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013123</link>
+      <guid isPermaLink="false">NPINS.006872</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Connectivity and community structure of online and register-based social networks</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00522-4</link>
+      <guid isPermaLink="false">NPINS.006871</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Enhancing cooperation in dynamic networks through reinforcement-learning-based rewiring strategies</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adac87</link>
+      <guid isPermaLink="false">NPINS.006870</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Firing propagation in empirical cognitive networks of human brain</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013116</link>
+      <guid isPermaLink="false">NPINS.006869</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Hammerstein equations for sparse random matrices</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ada8ea</link>
+      <guid isPermaLink="false">NPINS.006868</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: An evolution model for the mobility of urban societal classes based on complex networks</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/adaa45</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: Low-dimensional controllability of brain networks</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012691</link>
       <guid isPermaLink="false">NPINS.006773</guid>
-    </item>
-    <item>
-      <title>iScience: Predicting phage-host interaction via hyperbolic Poincaré graph embedding and large-scale protein language technique</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004224028748</link>
-      <guid isPermaLink="false">NPINS.006772</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Transversal Hamilton Cycle in Hypergraph Systems</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1602425?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006771</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Strategic variability in routing: Enhancing network performance in two-layer traffic systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L012201</link>
-      <guid isPermaLink="false">NPINS.006770</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Understanding pesticide-induced tipping in plant-pollinator networks across geographical scales: Prioritizing richness and modularity over nestedness</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014407</link>
-      <guid isPermaLink="false">NPINS.006769</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Computing Paths of Large Rank in Planar Frameworks Deterministically</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1632759?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006768</guid>
     </item>
   </channel>
 </rss>
