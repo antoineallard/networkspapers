@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Feb 2025 03:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 13:10:17 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Functional switching among dynamic neuronal hub-nodes in the brain induces maintenance/transition of cognitive states</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00688-2</link>
+      <guid isPermaLink="false">NPINS.006877</guid>
+    </item>
+    <item>
+      <title>EPL: LGP-DS: A novel algorithm for identifying influential nodes in complex networks based on multi-dimensional evidence fusion</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ada6f9</link>
+      <guid isPermaLink="false">NPINS.006876</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Mysteries of MAX NAE-SAT</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1591578?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006875</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The restrained double Roman domination and graph operations</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000426</link>
+      <guid isPermaLink="false">NPINS.006874</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Path Percolation in Quantum Communication Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.030803</link>
+      <guid isPermaLink="false">NPINS.006873</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Annealing dynamics of regular rotor networks: Universality and its breakdown</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013123</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Lett.: Emergent Rate-Based Dynamics in Duplicate-Free Populations of Spiking Neurons</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.018401</link>
       <guid isPermaLink="false">NPINS.006778</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Epihiper—A high performance computational modeling framework to support epidemic science</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgae557</link>
-      <guid isPermaLink="false">NPINS.006777</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Tilings of Benzels via Generalized Compression</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1648247?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006776</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Ordered and Colored Subgraph Density Problems</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1651563?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006775</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Learning and Phase Tracking by Frequency and Weight Adaptation for Coupled Networks of Kuramoto Oscillators</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1590639?af=R</link>
-      <guid isPermaLink="false">NPINS.006774</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Low-dimensional controllability of brain networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012691</link>
-      <guid isPermaLink="false">NPINS.006773</guid>
     </item>
   </channel>
 </rss>
