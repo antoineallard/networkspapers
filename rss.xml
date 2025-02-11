@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2025 02:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 19:42:29 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Evolution beats random chance: Performance-dependent network evolution for enhanced computational capacity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014320</link>
+      <guid isPermaLink="false">NPINS.006887</guid>
+    </item>
+    <item>
+      <title>PNAS: The evolution of signaling and monitoring in plant–fungal networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2420701122?af=R</link>
+      <guid isPermaLink="false">NPINS.006886</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Dynamics of price formation on complex networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf014</link>
+      <guid isPermaLink="false">NPINS.006885</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach</title>
+      <link>https://www.nature.com/articles/s41598-024-80519-7</link>
+      <guid isPermaLink="false">NPINS.006884</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Interaction networks in persistent Lotka-Volterra communities</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014318</link>
+      <guid isPermaLink="false">NPINS.006883</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Robust Spectral Clustering with Rank Statistics</title>
       <link>http://jmlr.org/papers/v25/23-0552.html</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Efficiency of energy-consuming random walkers: Variability in energy helps</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014301</link>
       <guid isPermaLink="false">NPINS.006788</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Forbidden Tournaments and the Orientation Completion Problem</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1604849?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006787</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: SEMdag: Fast learning of Directed Acyclic Graphs via node or layer ordering</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317283</link>
-      <guid isPermaLink="false">NPINS.006786</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Percolation analysis of spatiotemporal distribution of population in Seoul and Helsinki</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014305</link>
-      <guid isPermaLink="false">NPINS.006785</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Enhanced signal response through synchronization competition in a ring of four bistable systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013024</link>
-      <guid isPermaLink="false">NPINS.006784</guid>
-    </item>
-    <item>
-      <title>PNAS: Deriving a genetic regulatory network from an optimization principle</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2402925121?af=R</link>
-      <guid isPermaLink="false">NPINS.006783</guid>
     </item>
   </channel>
 </rss>
