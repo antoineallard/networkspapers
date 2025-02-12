@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Feb 2025 00:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 13:31:53 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Fitness centrality: a non-linear centrality measure for complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada845</link>
+      <guid isPermaLink="false">NPINS.006892</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Learning Gaussian DAGs from Network Data</title>
+      <link>http://jmlr.org/papers/v25/21-0846.html</link>
+      <guid isPermaLink="false">NPINS.006891</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Evolutionary game on mutually influenceing double-layer network</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317923</link>
+      <guid isPermaLink="false">NPINS.006890</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Identifying vital spreaders in large-scale networks based on neighbor multilayer contributions</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1529904</link>
+      <guid isPermaLink="false">NPINS.006889</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Combined effect of incentives and coupling in multigames in two-layer networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada844</link>
+      <guid isPermaLink="false">NPINS.006888</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Evolution beats random chance: Performance-dependent network evolution for enhanced computational capacity</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014320</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: Dialogue mechanisms between astrocytic and neuronal networks: A whole-brain modelling approach</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012683</link>
       <guid isPermaLink="false">NPINS.006793</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Phase transition in evolving networks that combine preferential attachment and random node deletion</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad99c7</link>
-      <guid isPermaLink="false">NPINS.006792</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Link prediction of heterogeneous complex networks based on an improved embedding learning algorithm</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315507</link>
-      <guid isPermaLink="false">NPINS.006791</guid>
-    </item>
-    <item>
-      <title>EPL: Anti-correlation network among China A-shares</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ada181</link>
-      <guid isPermaLink="false">NPINS.006790</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Numerical study of Darcy’s law of yield stress fluids on a deep tree-like network</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad9c4d</link>
-      <guid isPermaLink="false">NPINS.006789</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Efficiency of energy-consuming random walkers: Variability in energy helps</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014301</link>
-      <guid isPermaLink="false">NPINS.006788</guid>
     </item>
   </channel>
 </rss>
