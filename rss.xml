@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Feb 2025 22:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 13:54:29 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Excitatory-inhibitory homeostasis and bifurcation control in the Wilson-Cowan model of cortical dynamics</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012723</link>
+      <guid isPermaLink="false">NPINS.006897</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Dynamical Mean-Field Theory of Complex Systems on Sparse Directed Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.037401</link>
+      <guid isPermaLink="false">NPINS.006896</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Consequences of non-Markovian healing processes on epidemic models with recurrent infections on networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ada795</link>
+      <guid isPermaLink="false">NPINS.006895</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: The role of oscillations in grid cells’ toroidal topology</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012776</link>
+      <guid isPermaLink="false">NPINS.006894</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Inverse dynamic problem for the Dirac system on finite metric graphs and the leaf peeling method</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adadcb</link>
+      <guid isPermaLink="false">NPINS.006893</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Fitness centrality: a non-linear centrality measure for complex networks</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada845</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: Multi-region infectious disease prediction modeling based on spatio-temporal graph neural network and the dynamic model</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012738</link>
       <guid isPermaLink="false">NPINS.006798</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Graph coarsening for fugitive interception</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00689-1</link>
-      <guid isPermaLink="false">NPINS.006797</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Proof of the 3/4-Conjecture for the Total Domination Game</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1551584?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006796</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Cooperation in public goods games: Leveraging other-regarding reinforcement learning on hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014304</link>
-      <guid isPermaLink="false">NPINS.006795</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Expansion of marginal correlations in terms of partial correlations</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014127</link>
-      <guid isPermaLink="false">NPINS.006794</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Dialogue mechanisms between astrocytic and neuronal networks: A whole-brain modelling approach</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012683</link>
-      <guid isPermaLink="false">NPINS.006793</guid>
     </item>
   </channel>
 </rss>
