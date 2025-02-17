@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Feb 2025 01:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 13:36:48 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Group Connectivity in 3-Edge-Connected Signed Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1615218?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006902</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Shedding light on spatial signal transduction in cells using computational simulations</title>
+      <link>https://www.nature.com/articles/s43588-025-00772-2</link>
+      <guid isPermaLink="false">NPINS.006901</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Bipartite leader-following consensus of linear multi-agent systems with unknown disturbances under directed graphs by double dynamic event-triggered mechanism</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000748</link>
+      <guid isPermaLink="false">NPINS.006900</guid>
+    </item>
+    <item>
+      <title>Nature: The neuroimmune connectome in health and disease</title>
+      <link>https://www.nature.com/articles/s41586-024-08474-x</link>
+      <guid isPermaLink="false">NPINS.006899</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: First return times on sparse random graphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adb084</link>
+      <guid isPermaLink="false">NPINS.006898</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Excitatory-inhibitory homeostasis and bifurcation control in the Wilson-Cowan model of cortical dynamics</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012723</link>
@@ -488,31 +513,6 @@
       <title>PNAS Nexus: Inferring structure of cortical neuronal networks from activity data: A statistical physics approach</title>
       <link>http://doi.org/10.1093/pnasnexus/pgae565</link>
       <guid isPermaLink="false">NPINS.006803</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Modification speed alters stability of ecological higher-order interaction networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014309</link>
-      <guid isPermaLink="false">NPINS.006802</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A growth model for citations networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00691-1</link>
-      <guid isPermaLink="false">NPINS.006801</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Geometry of Optimal Control in Chemical Reaction Networks in the Adiabatic Limit</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.018001</link>
-      <guid isPermaLink="false">NPINS.006800</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Glioblastoma–neuron networks</title>
-      <link>https://www.nature.com/articles/s41593-024-01862-6</link>
-      <guid isPermaLink="false">NPINS.006799</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Multi-region infectious disease prediction modeling based on spatio-temporal graph neural network and the dynamic model</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012738</link>
-      <guid isPermaLink="false">NPINS.006798</guid>
     </item>
   </channel>
 </rss>
