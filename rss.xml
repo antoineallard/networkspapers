@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Feb 2025 15:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:07:00 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Spectrahedral Geometry of Graph Sparsifiers</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1610069?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006912</guid>
+    </item>
+    <item>
+      <title>PNAS: Downscaling mutualistic networks from species to individuals reveals consistent interaction niches and roles within plant populations</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2402342122?af=R</link>
+      <guid isPermaLink="false">NPINS.006911</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Social inequality and cultural factors impact the awareness and reaction during the cryptic transmission period of pandemic</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf043</link>
+      <guid isPermaLink="false">NPINS.006910</guid>
+    </item>
+    <item>
+      <title>Phys. Rep.: Optimal control of spatial diseases spreading in networked reaction–diffusion systems</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037015732500033X?dgcid=rss_sd_all</link>
+      <guid isPermaLink="false">NPINS.006909</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Reconfiguration of Digraph Homomorphisms</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1623690?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006908</guid>
+    </item>
     <item>
       <title>iScience: Feature analysis aided design of lightweight heat sink from network structures</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004224028578</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Kaleidoscopic reorganization of network communities across different scales</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014312</link>
       <guid isPermaLink="false">NPINS.006813</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Intermittent cluster synchronization in a unidirectional ring of bursting neurons</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014215</link>
-      <guid isPermaLink="false">NPINS.006812</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Generalized diffusive epidemic process with permanent immunity in two dimensions</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad9f4d</link>
-      <guid isPermaLink="false">NPINS.006811</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Data-driven bipartite synchronization control of multi-agent systems with asymmetric input saturation over switching networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000074</link>
-      <guid isPermaLink="false">NPINS.006810</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Detection of dynamic communities in temporal networks with sparse data</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00687-3</link>
-      <guid isPermaLink="false">NPINS.006809</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Fractional derivative in continuous-time Markov processes and applications to epidemics in networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013017</link>
-      <guid isPermaLink="false">NPINS.006808</guid>
     </item>
   </channel>
 </rss>
