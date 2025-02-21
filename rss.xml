@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Feb 2025 03:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 14:22:08 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Estimating Network-Mediated Causal Effects via Principal Components Network Regression</title>
+      <link>http://jmlr.org/papers/v26/23-1317.html</link>
+      <guid isPermaLink="false">NPINS.006922</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: MEGA: identifying influential nodes in heterogeneous networks based on meta-path and attention</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adb018</link>
+      <guid isPermaLink="false">NPINS.006921</guid>
+    </item>
+    <item>
+      <title>EPL: Toward robust network controllability: Insights and future directions</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adad95</link>
+      <guid isPermaLink="false">NPINS.006920</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Risk aversion can promote cooperation</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adb234</link>
+      <guid isPermaLink="false">NPINS.006919</guid>
+    </item>
+    <item>
+      <title>EPL: Perspectives on modelling epidemics with human mobility</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adad94</link>
+      <guid isPermaLink="false">NPINS.006918</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Logistic Regression Under Network Dependence</title>
       <link>http://jmlr.org/papers/v25/22-1040.html</link>
@@ -488,31 +513,6 @@
       <title>Nat. Neurosci.: Neural mechanisms of relational learning and fast knowledge reassembly in plastic neural networks</title>
       <link>https://www.nature.com/articles/s41593-024-01852-8</link>
       <guid isPermaLink="false">NPINS.006823</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Autocorrelation properties of temporal networks governed by dynamic node variables</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013083</link>
-      <guid isPermaLink="false">NPINS.006822</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Symmetry-based approach to species-rich ecological communities</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014415</link>
-      <guid isPermaLink="false">NPINS.006821</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Autonomous learning of generative models with chemical reaction network ensembles</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0373?af=R</link>
-      <guid isPermaLink="false">NPINS.006820</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: The Energy Landscape of the Kuramoto Model in Random Geometric Graphs in a Circle</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1642111?af=R</link>
-      <guid isPermaLink="false">NPINS.006819</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: k-path-edge-connectivity of the complete balanced bipartite graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000220</link>
-      <guid isPermaLink="false">NPINS.006818</guid>
     </item>
   </channel>
 </rss>
