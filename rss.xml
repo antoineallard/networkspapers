@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Feb 2025 01:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 13:16:45 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Coupled diffusion dynamics of competitive information and green behaviors on multiplex networks under policy intervention</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000554</link>
+      <guid isPermaLink="false">NPINS.006932</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Coarse-graining network flow through statistical physics and machine learning</title>
+      <link>https://www.nature.com/articles/s41467-025-56034-2</link>
+      <guid isPermaLink="false">NPINS.006931</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: The complexity of comorbidity distribution and pathogenesis in the elderly based on a dependency network simulation</title>
+      <link>https://www.nature.com/articles/s41598-025-90622-y</link>
+      <guid isPermaLink="false">NPINS.006930</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Understanding stock market instability via graph auto-encoders</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00523-3</link>
+      <guid isPermaLink="false">NPINS.006929</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Paradise-disorder transition in structural balance dynamics on Erdös-Rényi graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024310</link>
+      <guid isPermaLink="false">NPINS.006928</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: ENQUIRE automatically reconstructs, expands, and drives enrichment analysis of gene and Mesh co-occurrence networks from context-specific biomedical literature</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012745</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Steady-state solution of Markov jump processes in terms of arrival probabilities</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014126</link>
       <guid isPermaLink="false">NPINS.006833</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: A multiscale functional map of somatic mutations in cancer integrating protein structure and network topology</title>
-      <link>https://www.nature.com/articles/s41467-024-54176-3</link>
-      <guid isPermaLink="false">NPINS.006832</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Detectability constraints on meso-scale structure in complex networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317670</link>
-      <guid isPermaLink="false">NPINS.006831</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Digital communication and tie formation amongst freshmen students during and after the pandemic</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873324000728</link>
-      <guid isPermaLink="false">NPINS.006830</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Social mates dynamically coordinate aggressive behavior to produce strategic territorial defense</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012740</link>
-      <guid isPermaLink="false">NPINS.006829</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Cascading failures in networks of networks linked by directional and bidirectional hyperlinks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014315</link>
-      <guid isPermaLink="false">NPINS.006828</guid>
     </item>
   </channel>
 </rss>
