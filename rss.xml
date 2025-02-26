@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 01:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 14:58:37 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Adv.: Removal of toxic steroidal glycoalkaloids and bitterness in tomato is controlled by a complex epigenetic and genetic network</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ads9601</link>
+      <guid isPermaLink="false">NPINS.006937</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Convergence of Message-Passing Graph Neural Networks with Generic Aggregation on Large Random Graphs</title>
+      <link>http://jmlr.org/papers/v25/23-0965.html</link>
+      <guid isPermaLink="false">NPINS.006936</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: Mathematically tractable models of random phylogenetic networks: an overview of some recent developments</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0301?af=R</link>
+      <guid isPermaLink="false">NPINS.006935</guid>
+    </item>
+    <item>
+      <title>iScience: Inference of a three-gene network underpinning epidermal stem cell development in &lt;em&gt;Caenorhabditis elegans&lt;/em&gt;</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225000860</link>
+      <guid isPermaLink="false">NPINS.006934</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Editors-in-chief in social sciences: Mapping the institutional, geographical, and gender representation between academic fields</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317931</link>
+      <guid isPermaLink="false">NPINS.006933</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Coupled diffusion dynamics of competitive information and green behaviors on multiplex networks under policy intervention</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325000554</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: Practically effective adjustment variable selection in causal inference</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada861</link>
       <guid isPermaLink="false">NPINS.006838</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Asymmetrically connected reservoir networks learn better</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.015307</link>
-      <guid isPermaLink="false">NPINS.006837</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Finding polarized communities and tracking information diffusion on Twitter: a network approach on the Irish Abortion Referendum</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240454?af=R</link>
-      <guid isPermaLink="false">NPINS.006836</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Targeted Avoidance in Complex Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.047401</link>
-      <guid isPermaLink="false">NPINS.006835</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Synthetic graphs for link prediction benchmarking</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada07f</link>
-      <guid isPermaLink="false">NPINS.006834</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Steady-state solution of Markov jump processes in terms of arrival probabilities</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014126</link>
-      <guid isPermaLink="false">NPINS.006833</guid>
     </item>
   </channel>
 </rss>
