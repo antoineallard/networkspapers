@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Feb 2025 00:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 13:20:19 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Adv.: Exogenous bacterial cellulose induces plant tissue regeneration through the regulation of cytokinin and defense networks</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adr1509</link>
+      <guid isPermaLink="false">NPINS.006942</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Ising Hamiltonian minimization: Gain-based computing with manifold reduction of soft spins vs quantum annealing</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013150</link>
+      <guid isPermaLink="false">NPINS.006941</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Typical and disrupted small-world architecture and regional communication in full-term and preterm infants</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf015</link>
+      <guid isPermaLink="false">NPINS.006940</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: Higher-order Laplacian renormalization</title>
+      <link>https://www.nature.com/articles/s41567-025-02784-1</link>
+      <guid isPermaLink="false">NPINS.006939</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: From warnings to bans: The role of social networks in the severity of sanctions</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000012</link>
+      <guid isPermaLink="false">NPINS.006938</guid>
+    </item>
     <item>
       <title>Sci. Adv.: Removal of toxic steroidal glycoalkaloids and bitterness in tomato is controlled by a complex epigenetic and genetic network</title>
       <link>https://www.science.org/doi/10.1126/sciadv.ads9601</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: A linear tessellation model for the identification of “food desert”: A case study of Shanghai, China</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317003</link>
       <guid isPermaLink="false">NPINS.006843</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.15.011002</link>
-      <guid isPermaLink="false">NPINS.006842</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Exogenous–Endogenous Surfactant Interaction Yields Heterogeneous Spreading in Complex Branching Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.034001</link>
-      <guid isPermaLink="false">NPINS.006841</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Correlation and autocorrelation of data on complex networks</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00525-1</link>
-      <guid isPermaLink="false">NPINS.006840</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Fragility of chess positions: Measure, universality, and tipping points</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014314</link>
-      <guid isPermaLink="false">NPINS.006839</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Practically effective adjustment variable selection in causal inference</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada861</link>
-      <guid isPermaLink="false">NPINS.006838</guid>
     </item>
   </channel>
 </rss>
