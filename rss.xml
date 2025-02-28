@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Feb 2025 01:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 14:29:58 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Hyperbolic random geometric graphs: Structural and spectral properties</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024309</link>
+      <guid isPermaLink="false">NPINS.006947</guid>
+    </item>
+    <item>
+      <title>iScience: Early warning of regime switching in a complex financial system from a spillover network dynamic perspective</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225001841</link>
+      <guid isPermaLink="false">NPINS.006946</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: A non-homogeneous, non-stationary and path-dependent Markov anomalous diffusion model</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adb6df</link>
+      <guid isPermaLink="false">NPINS.006945</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Irreversibility in non-reciprocal chaotic systems</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adae2a</link>
+      <guid isPermaLink="false">NPINS.006944</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: T-Racing: a modern tool for supporting epidemiological investigation in animal disease outbreaks in Italy</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317313</link>
+      <guid isPermaLink="false">NPINS.006943</guid>
+    </item>
     <item>
       <title>Sci. Adv.: Exogenous bacterial cellulose induces plant tissue regeneration through the regulation of cytokinin and defense networks</title>
       <link>https://www.science.org/doi/10.1126/sciadv.adr1509</link>
@@ -488,31 +513,6 @@
       <title>J. Stat. Mech.: A construction of random bigraphs and their application to error correction codes *</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad9c4b</link>
       <guid isPermaLink="false">NPINS.006848</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Measuring and utilizing temporal network dissimilarity</title>
-      <link>https://www.nature.com/articles/s42005-025-01940-6</link>
-      <guid isPermaLink="false">NPINS.006847</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Weighted-ensemble network simulations of the susceptible-infected-susceptible model of epidemics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014146</link>
-      <guid isPermaLink="false">NPINS.006846</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Low-dimensional model for adaptive networks of spiking neurons</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014422</link>
-      <guid isPermaLink="false">NPINS.006845</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Evolution of sample-based music authorship network</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00524-2</link>
-      <guid isPermaLink="false">NPINS.006844</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A linear tessellation model for the identification of “food desert”: A case study of Shanghai, China</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317003</link>
-      <guid isPermaLink="false">NPINS.006843</guid>
     </item>
   </channel>
 </rss>
