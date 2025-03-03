@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Mar 2025 04:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 13:50:36 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Reconstruction of Network Dynamics from Partial Observations</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1655780?af=R</link>
+      <guid isPermaLink="false">NPINS.006952</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: Leveraging graphical model techniques to study evolution on phylogenetic networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0310?af=R</link>
+      <guid isPermaLink="false">NPINS.006951</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Susceptible-infected-susceptible process on Erdős-Rényi graphs: Determining the infected fraction</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024315</link>
+      <guid isPermaLink="false">NPINS.006950</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Bluesky: Network topology, polarization, and algorithmic curation</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318034</link>
+      <guid isPermaLink="false">NPINS.006949</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Mean-field approximation and phase transitions in an Ising-voter model on directed regular random graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024317</link>
+      <guid isPermaLink="false">NPINS.006948</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Hyperbolic random geometric graphs: Structural and spectral properties</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024309</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: ASGCL: Adaptive Sparse Mapping-based graph contrastive learning network for cancer drug response prediction</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012748</link>
       <guid isPermaLink="false">NPINS.006853</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Detecting memberships in multiplex networks via nonnegative matrix factorization and tensor decomposition</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ada573</link>
-      <guid isPermaLink="false">NPINS.006852</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Discovering motifs to fingerprint multi-layer networks: a case study on the connectome of C. Elegans</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-024-00848-4</link>
-      <guid isPermaLink="false">NPINS.006851</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Universal insulating-to-metallic crossover in tight-binding random geometric graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adaae0</link>
-      <guid isPermaLink="false">NPINS.006850</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Flexible inference in heterogeneous and attributed multilayer networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf005</link>
-      <guid isPermaLink="false">NPINS.006849</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: A construction of random bigraphs and their application to error correction codes *</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ad9c4b</link>
-      <guid isPermaLink="false">NPINS.006848</guid>
     </item>
   </channel>
 </rss>
