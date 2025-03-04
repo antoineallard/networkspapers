@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Mar 2025 01:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 13:53:38 +0000</lastBuildDate>
+    <item>
+      <title>J. Stat. Mech.: MNEGC: an improved gravity centrality based on node multi-features and network embedding for identifying influential nodes in complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adb4cd</link>
+      <guid isPermaLink="false">NPINS.006957</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Innovation network, knowledge spillover, and urban green economic performance</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1537110</link>
+      <guid isPermaLink="false">NPINS.006956</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Competing social contagions with opinion-dependent infectivity</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024313</link>
+      <guid isPermaLink="false">NPINS.006955</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: Topology shapes dynamics of higher-order networks</title>
+      <link>https://www.nature.com/articles/s41567-024-02757-w</link>
+      <guid isPermaLink="false">NPINS.006954</guid>
+    </item>
+    <item>
+      <title>PNAS: Evolutionary rewiring of the dynamic network underpinning allosteric epistasis in NS1 of the influenza A virus</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2410813122?af=R</link>
+      <guid isPermaLink="false">NPINS.006953</guid>
+    </item>
     <item>
       <title>SIAM J. Appl. Dyn. Syst.: Reconstruction of Network Dynamics from Partial Observations</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1655780?af=R</link>
@@ -488,31 +513,6 @@
       <title>EPL: Reputation mechanisms and cooperative emergence in complex network games: Current status and prospects</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/ada6fa</link>
       <guid isPermaLink="false">NPINS.006858</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Distinguishing infinite star-free graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000372</link>
-      <guid isPermaLink="false">NPINS.006857</guid>
-    </item>
-    <item>
-      <title>PNAS: Spreading dynamics of information on online social networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2410227122?af=R</link>
-      <guid isPermaLink="false">NPINS.006856</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Integer traffic assignment problem: Algorithms and insights on random graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014316</link>
-      <guid isPermaLink="false">NPINS.006855</guid>
-    </item>
-    <item>
-      <title>Nature: Brain-wide neuronal circuit connectome of human glioblastoma</title>
-      <link>https://www.nature.com/articles/s41586-025-08634-7</link>
-      <guid isPermaLink="false">NPINS.006854</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: ASGCL: Adaptive Sparse Mapping-based graph contrastive learning network for cancer drug response prediction</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012748</link>
-      <guid isPermaLink="false">NPINS.006853</guid>
     </item>
   </channel>
 </rss>
