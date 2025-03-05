@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Mar 2025 20:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 14:56:26 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Mode-based triggered protocol for synchronization of switched dynamic networks with semi-Markov kernel and its application</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000633</link>
+      <guid isPermaLink="false">NPINS.006962</guid>
+    </item>
+    <item>
+      <title>Eur. J. Phys.: Network analyses of student interactions with online textbook problems</title>
+      <link>http://iopscience.iop.org/article/10.1088/1361-6404/ada649</link>
+      <guid isPermaLink="false">NPINS.006961</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: On random classical marginal problems with applications to quantum information theory</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adb547</link>
+      <guid isPermaLink="false">NPINS.006960</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Comparing temporal and aggregated network descriptions of fluid transport in the Mediterranean Sea</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024211</link>
+      <guid isPermaLink="false">NPINS.006959</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Simultaneous Verification of Genuine Multipartite Nonlocality and Full Network Nonlocality</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.080202</link>
+      <guid isPermaLink="false">NPINS.006958</guid>
+    </item>
     <item>
       <title>J. Stat. Mech.: MNEGC: an improved gravity centrality based on node multi-features and network embedding for identifying influential nodes in complex networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1742-5468/adb4cd</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Decentralized coupling-when-needed strategy for the synchronization of networked oscillators with delays</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014306</link>
       <guid isPermaLink="false">NPINS.006863</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: 1-Planar graphs with no 5-cycles are 5-degenerate</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000311</link>
-      <guid isPermaLink="false">NPINS.006862</guid>
-    </item>
-    <item>
-      <title>Nat. Comput. Sci.: Biologically inspired graphs to explore massive genetic datasets</title>
-      <link>https://www.nature.com/articles/s43588-024-00763-9</link>
-      <guid isPermaLink="false">NPINS.006861</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: $α$-separable graph Hamiltonian network: A robust model for learning particle interactions in lattice systems</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.015309</link>
-      <guid isPermaLink="false">NPINS.006860</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Synchronization and its slow decay in noisy oscillators with simplicial interactions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014223</link>
-      <guid isPermaLink="false">NPINS.006859</guid>
-    </item>
-    <item>
-      <title>EPL: Reputation mechanisms and cooperative emergence in complex network games: Current status and prospects</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ada6fa</link>
-      <guid isPermaLink="false">NPINS.006858</guid>
     </item>
   </channel>
 </rss>
