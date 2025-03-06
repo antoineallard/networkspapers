@@ -66,34 +66,34 @@ for journal in sorted(list(feeds.journals.keys())):
         # # print(entries)
 
 
-        # if len(feed.entries) == 0:
-        #     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0',
-        #            'Accept-Language': 'en-US,en;q=0.5',
-        #            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        #            'Connection': 'keep-alive',
-        #            'Accept-Encoding': 'gzip, deflate, br',
-        #            'Upgrade-Insecure-Requests': '1',
-        #            'Sec-Fetch-Dest': 'document',
-        #            'Sec-Fetch-Mode': 'navigate',
-        #            'Sec-Fetch-Site': 'none',
-        #            'Sec-Fetch-User': '?1'}
-        #     if feeds.journals[journal]["host"] != 'None':
-        #         headers['Host'] = feeds.journals[journal]["host"]
+        if len(feed.entries) == 0:
+            headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0',
+                   'Accept-Language': 'en-US,en;q=0.5',
+                   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+                   'Connection': 'keep-alive',
+                   'Accept-Encoding': 'gzip, deflate, br',
+                   'Upgrade-Insecure-Requests': '1',
+                   'Sec-Fetch-Dest': 'document',
+                   'Sec-Fetch-Mode': 'navigate',
+                   'Sec-Fetch-Site': 'none',
+                   'Sec-Fetch-User': '?1'}
+            if feeds.journals[journal]["host"] != 'None':
+                headers['Host'] = feeds.journals[journal]["host"]
 
-        #     # https://stackoverflow.com/questions/9772691/feedparser-with-timeout
-        #     # https://stackoverflow.com/questions/19522990/catch-exception-and-continue-try-block-in-python
-        #     try:
-        #         resp = requests.get(feeds.journals[journal]["feed2"], timeout=random.randint(4, 8), headers=headers)
-        #     except:
-        #         # logger.warn("Timeout when reading RSS %s")
-        #         print("Timeout when reading RSS\n")
-        #         continue
+            # https://stackoverflow.com/questions/9772691/feedparser-with-timeout
+            # https://stackoverflow.com/questions/19522990/catch-exception-and-continue-try-block-in-python
+            try:
+                resp = requests.get(feeds.journals[journal]["feed2"], timeout=random.randint(4, 8), headers=headers)
+            except:
+                # logger.warn("Timeout when reading RSS %s")
+                print("Timeout when reading RSS\n")
+                continue
 
-        #     # Put it to memory stream object universal feedparser
-        #     content = io.BytesIO(resp.content)
-        #     # Parse content
-        #     feed = feedparser.parse(content)
-        #     entries = feed['entries']
+            # Put it to memory stream object universal feedparser
+            content = io.BytesIO(resp.content)
+            # Parse content
+            feed = feedparser.parse(content)
+            entries = feed['entries']
 
 
     if feeds.journals[journal]["reader"] == "HTMLSession":
