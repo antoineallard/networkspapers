@@ -45,7 +45,7 @@ for journal in sorted(list(feeds.journals.keys())):
             continue
 
         # Put it to memory stream object universal feedparser
-        content = BytesIO(resp.content)
+        content = io.BytesIO(resp.content)
 
         # Parse content
         feed = feedparser.parse(content)
