@@ -37,6 +37,7 @@ for journal in sorted(list(feeds.journals.keys())):
 
     if feeds.journals[journal]["reader"] == "feedparser":
 
+        # https://stackoverflow.com/questions/9772691/feedparser-with-timeout
         # Do request using requests library and timeout
         try:
             resp = requests.get(feeds.journals[journal]["feed2"], timeout=20.0)
