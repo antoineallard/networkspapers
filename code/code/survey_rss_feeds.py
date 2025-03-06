@@ -43,7 +43,7 @@ for journal in sorted(list(feeds.journals.keys())):
             file = scraper.get(feeds.journals[journal]["feed2"]).text
         except:
             # logger.warn("Timeout when reading RSS %s")
-            print("Timeout when reading RSS\n")
+            print("Timeout when reading RSS test\n")
             continue
         feed = feedparser.parse(file)
         entries = feed['entries']
