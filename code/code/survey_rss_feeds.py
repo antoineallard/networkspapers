@@ -42,7 +42,7 @@ for journal in sorted(list(feeds.journals.keys())):
             resp = requests.get(feeds.journals[journal]["feed2"], timeout=20.0)
         except requests.ReadTimeout:
             logger.warn("Timeout when reading RSS %s", feeds.journals[journal]["feed2"])
-            return
+            continue
 
         # Put it to memory stream object universal feedparser
         content = BytesIO(resp.content)
