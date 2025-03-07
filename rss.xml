@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Mar 2025 00:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 13:57:11 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Odd Paths, Cycles, and T-Joins: Connections and Algorithms</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M158156X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006972</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Anomalous behavior of replicator dynamics for the prisoner's dilemma on diluted lattices</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024123</link>
+      <guid isPermaLink="false">NPINS.006971</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Prediction of protein interactions with function in protein (de-)phosphorylation</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319084</link>
+      <guid isPermaLink="false">NPINS.006970</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0532?af=R</link>
+      <guid isPermaLink="false">NPINS.006969</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Study of electronegativity from a network perspective</title>
+      <link>https://www.nature.com/articles/s41598-025-92334-9</link>
+      <guid isPermaLink="false">NPINS.006968</guid>
+    </item>
     <item>
       <title>PLOS ONE: Analysis of the network structure characteristics and influencing factors of regional tourism economy</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318243</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Lett.: Path Percolation in Quantum Communication Networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.030803</link>
       <guid isPermaLink="false">NPINS.006873</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Annealing dynamics of regular rotor networks: Universality and its breakdown</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013123</link>
-      <guid isPermaLink="false">NPINS.006872</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Connectivity and community structure of online and register-based social networks</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00522-4</link>
-      <guid isPermaLink="false">NPINS.006871</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Enhancing cooperation in dynamic networks through reinforcement-learning-based rewiring strategies</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adac87</link>
-      <guid isPermaLink="false">NPINS.006870</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Firing propagation in empirical cognitive networks of human brain</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013116</link>
-      <guid isPermaLink="false">NPINS.006869</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Hammerstein equations for sparse random matrices</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ada8ea</link>
-      <guid isPermaLink="false">NPINS.006868</guid>
     </item>
   </channel>
 </rss>
