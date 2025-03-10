@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Mar 2025 20:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 13:28:01 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Synchronization of short memory fractional coupled neural networks with higher-order interactions via novel intermittent control</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000906</link>
+      <guid isPermaLink="false">NPINS.006977</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Cryptic genetic variation shapes the fate of gene duplicates in a protein interaction network</title>
+      <link>https://www.nature.com/articles/s41467-025-56597-0</link>
+      <guid isPermaLink="false">NPINS.006976</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Modeling echo chamber effects in signed networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024302</link>
+      <guid isPermaLink="false">NPINS.006975</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Simulation analysis on the evolution driven model of global copper ore trade network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1559799</link>
+      <guid isPermaLink="false">NPINS.006974</guid>
+    </item>
+    <item>
+      <title>EPL: Self-similar scaling of higher-order interactions in complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adab16</link>
+      <guid isPermaLink="false">NPINS.006973</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Odd Paths, Cycles, and T-Joins: Connections and Algorithms</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M158156X?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Proc. R. Soc. A: A machine learning approach to predicting dynamical observables from network structure</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0435?af=R</link>
       <guid isPermaLink="false">NPINS.006878</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Functional switching among dynamic neuronal hub-nodes in the brain induces maintenance/transition of cognitive states</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00688-2</link>
-      <guid isPermaLink="false">NPINS.006877</guid>
-    </item>
-    <item>
-      <title>EPL: LGP-DS: A novel algorithm for identifying influential nodes in complex networks based on multi-dimensional evidence fusion</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ada6f9</link>
-      <guid isPermaLink="false">NPINS.006876</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On the Mysteries of MAX NAE-SAT</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1591578?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006875</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The restrained double Roman domination and graph operations</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000426</link>
-      <guid isPermaLink="false">NPINS.006874</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Path Percolation in Quantum Communication Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.030803</link>
-      <guid isPermaLink="false">NPINS.006873</guid>
     </item>
   </channel>
 </rss>
