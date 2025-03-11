@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Mar 2025 14:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 14:04:43 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Patterns of link reciprocity in directed, signed networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024312</link>
+      <guid isPermaLink="false">NPINS.006982</guid>
+    </item>
+    <item>
+      <title>iScience: Emergent network properties link phenotypic modules to ecomorphological divergence in carnivoran mammals</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225000884</link>
+      <guid isPermaLink="false">NPINS.006981</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Detecting Directional Coupling in Network Dynamical Systems via Kalman’s Observability</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.077401</link>
+      <guid isPermaLink="false">NPINS.006980</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Causal interaction of metabolic oscillations in monolayers of Hela cervical cancer cells: emergence of complex networks</title>
+      <link>https://www.nature.com/articles/s41598-025-91711-8</link>
+      <guid isPermaLink="false">NPINS.006979</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Experimental evidence of community switching en route to global synchronization</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034204</link>
+      <guid isPermaLink="false">NPINS.006978</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Synchronization of short memory fractional coupled neural networks with higher-order interactions via novel intermittent control</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325000906</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Interaction networks in persistent Lotka-Volterra communities</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014318</link>
       <guid isPermaLink="false">NPINS.006883</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Robust Spectral Clustering with Rank Statistics</title>
-      <link>http://jmlr.org/papers/v25/23-0552.html</link>
-      <guid isPermaLink="false">NPINS.006882</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: Individual-network based predictions of microbial interaction signatures for response to biological therapies in IBD patients</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2024.1490533</link>
-      <guid isPermaLink="false">NPINS.006881</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Critical Avalanches in Excitation-Inhibition Balanced Networks Reconcile Response Reliability with Sensitivity for Optimal Neural Representation</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.028401</link>
-      <guid isPermaLink="false">NPINS.006880</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Coexistence of loop and tree structures in transport networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014319</link>
-      <guid isPermaLink="false">NPINS.006879</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: A machine learning approach to predicting dynamical observables from network structure</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0435?af=R</link>
-      <guid isPermaLink="false">NPINS.006878</guid>
     </item>
   </channel>
 </rss>
