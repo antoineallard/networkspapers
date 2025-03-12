@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Mar 2025 03:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 13:58:04 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Planted vertex cover problem on regular random graphs and nonmonotonic temperature-dependence in the supercooled region</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034107</link>
+      <guid isPermaLink="false">NPINS.006987</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI study of major depressive disorder</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319346</link>
+      <guid isPermaLink="false">NPINS.006986</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Computation in chemical graph rewriting networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adb7b1</link>
+      <guid isPermaLink="false">NPINS.006985</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Efficient optimization of variational autoregressive networks with natural gradient</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.025304</link>
+      <guid isPermaLink="false">NPINS.006984</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Structure, motion, and multiscale search of traveling networks</title>
+      <link>https://www.nature.com/articles/s41467-024-54342-7</link>
+      <guid isPermaLink="false">NPINS.006983</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Patterns of link reciprocity in directed, signed networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024312</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: Combined effect of incentives and coupling in multigames in two-layer networks</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada844</link>
       <guid isPermaLink="false">NPINS.006888</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Evolution beats random chance: Performance-dependent network evolution for enhanced computational capacity</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014320</link>
-      <guid isPermaLink="false">NPINS.006887</guid>
-    </item>
-    <item>
-      <title>PNAS: The evolution of signaling and monitoring in plant–fungal networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2420701122?af=R</link>
-      <guid isPermaLink="false">NPINS.006886</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Dynamics of price formation on complex networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf014</link>
-      <guid isPermaLink="false">NPINS.006885</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach</title>
-      <link>https://www.nature.com/articles/s41598-024-80519-7</link>
-      <guid isPermaLink="false">NPINS.006884</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Interaction networks in persistent Lotka-Volterra communities</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.014318</link>
-      <guid isPermaLink="false">NPINS.006883</guid>
     </item>
   </channel>
 </rss>
