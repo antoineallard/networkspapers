@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Mar 2025 01:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 12:26:12 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Social network heterogeneity promotes depolarization of multidimensional correlated opinions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013207</link>
+      <guid isPermaLink="false">NPINS.006992</guid>
+    </item>
+    <item>
+      <title>PNAS: Structure of activity in multiregion recurrent neural networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2404039122?af=R</link>
+      <guid isPermaLink="false">NPINS.006991</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Sparse Pancyclic Subgraphs of Random Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1598969?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.006990</guid>
+    </item>
+    <item>
+      <title>PNAS: A general framework for interpretable neural learning based on local information-theoretic goal functions</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2408125122?af=R</link>
+      <guid isPermaLink="false">NPINS.006989</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Reflecting on Dunbar’s numbers: Individual differences in energy allocation to personal relationships</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319604</link>
+      <guid isPermaLink="false">NPINS.006988</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Planted vertex cover problem on regular random graphs and nonmonotonic temperature-dependence in the supercooled region</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034107</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. A: Inverse dynamic problem for the Dirac system on finite metric graphs and the leaf peeling method</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/adadcb</link>
       <guid isPermaLink="false">NPINS.006893</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Fitness centrality: a non-linear centrality measure for complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada845</link>
-      <guid isPermaLink="false">NPINS.006892</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Learning Gaussian DAGs from Network Data</title>
-      <link>http://jmlr.org/papers/v25/21-0846.html</link>
-      <guid isPermaLink="false">NPINS.006891</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Evolutionary game on mutually influenceing double-layer network</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317923</link>
-      <guid isPermaLink="false">NPINS.006890</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Identifying vital spreaders in large-scale networks based on neighbor multilayer contributions</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1529904</link>
-      <guid isPermaLink="false">NPINS.006889</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Combined effect of incentives and coupling in multigames in two-layer networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ada844</link>
-      <guid isPermaLink="false">NPINS.006888</guid>
     </item>
   </channel>
 </rss>
