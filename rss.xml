@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Mar 2025 20:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 13:33:29 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Lett.: Parameter Inference and Nonequilibrium Identification for Markov Networks Based on Coarse-Grained Observations</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.087103</link>
+      <guid isPermaLink="false">NPINS.007012</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Loop corrections for hard spheres in Hamming space</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adba42</link>
+      <guid isPermaLink="false">NPINS.007011</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Analysis of the inference of ratings and rankings in complex networks using discrete exterior calculus on higher-order networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034306</link>
+      <guid isPermaLink="false">NPINS.007010</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Mixed recurrent connectivity in primate prefrontal cortex</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012867</link>
+      <guid isPermaLink="false">NPINS.007009</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: The influence of bank-firm loan network structure on systemic risk: from the perspective of complex networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1548204</link>
+      <guid isPermaLink="false">NPINS.007008</guid>
+    </item>
     <item>
       <title>Nature: A travelling-wave strategy for plant–fungal trade</title>
       <link>https://www.nature.com/articles/s41586-025-08614-x</link>
@@ -488,31 +513,6 @@
       <title>EPJ Data Sci.: Social media warfare: investigating human-bot engagement in English, Japanese and German during the Russo-Ukrainian war on Twitter and Reddit</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00528-y</link>
       <guid isPermaLink="false">NPINS.006913</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Spectrahedral Geometry of Graph Sparsifiers</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1610069?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006912</guid>
-    </item>
-    <item>
-      <title>PNAS: Downscaling mutualistic networks from species to individuals reveals consistent interaction niches and roles within plant populations</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2402342122?af=R</link>
-      <guid isPermaLink="false">NPINS.006911</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Social inequality and cultural factors impact the awareness and reaction during the cryptic transmission period of pandemic</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf043</link>
-      <guid isPermaLink="false">NPINS.006910</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: Optimal control of spatial diseases spreading in networked reaction–diffusion systems</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037015732500033X?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.006909</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Reconfiguration of Digraph Homomorphisms</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1623690?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006908</guid>
     </item>
   </channel>
 </rss>
