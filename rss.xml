@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Mar 2025 20:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 13:19:34 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Hyperedge overlap drives synchronizability of systems with higher-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034302</link>
+      <guid isPermaLink="false">NPINS.007017</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Random eigenvalues of nanotubes</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adb54a</link>
+      <guid isPermaLink="false">NPINS.007016</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Statistically validated network for analysing textual data</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00693-z</link>
+      <guid isPermaLink="false">NPINS.007015</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Ellipsoidal Embeddings of Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1648363?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007014</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Renormalization of human mobility based on a revised electric circuit model and a new gravity relation</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013235</link>
+      <guid isPermaLink="false">NPINS.007013</guid>
+    </item>
     <item>
       <title>Phys. Rev. Lett.: Parameter Inference and Nonequilibrium Identification for Markov Networks Based on Coarse-Grained Observations</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.087103</link>
@@ -488,31 +513,6 @@
       <title>EPL: Perspectives on modelling epidemics with human mobility</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/adad94</link>
       <guid isPermaLink="false">NPINS.006918</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Logistic Regression Under Network Dependence</title>
-      <link>http://jmlr.org/papers/v25/22-1040.html</link>
-      <guid isPermaLink="false">NPINS.006917</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Ramsey Number for 4-Uniform Tight Cycles</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/21M1458089?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.006916</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Behavior changes influence mpox transmission in the United States, 2022–2023: Insights from homogeneous and heterogeneous models</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf025</link>
-      <guid isPermaLink="false">NPINS.006915</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Longitudinal modularity, a modularity for link streams</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00529-x</link>
-      <guid isPermaLink="false">NPINS.006914</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Social media warfare: investigating human-bot engagement in English, Japanese and German during the Russo-Ukrainian war on Twitter and Reddit</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00528-y</link>
-      <guid isPermaLink="false">NPINS.006913</guid>
     </item>
   </channel>
 </rss>
