@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Mar 2025 01:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 14:13:11 +0000</lastBuildDate>
+    <item>
+      <title>Soc. Networks: Investigating the dynamics of yakuza violence using multilevel network analysis</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000103</link>
+      <guid isPermaLink="false">NPINS.007022</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Functional connectivity of animal-dispersed plant communities depends on the interacting effects of network specialization and resource diversity</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.2995?af=R</link>
+      <guid isPermaLink="false">NPINS.007021</guid>
+    </item>
+    <item>
+      <title>Nat. Phys.: Glass is a matter of time</title>
+      <link>https://www.nature.com/articles/s41567-025-02788-x</link>
+      <guid isPermaLink="false">NPINS.007020</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: A study of government regulation’s strategy for solving the algorithmic black-box puzzle of digital platforms: a complex network-based perspective</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1538742</link>
+      <guid isPermaLink="false">NPINS.007019</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Hidden high-risk states identification from routine urban traffic</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf075</link>
+      <guid isPermaLink="false">NPINS.007018</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Hyperedge overlap drives synchronizability of systems with higher-order interactions</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034302</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Lett.: Networks with Many Structural Scales: A Renormalization Group Perspective</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.057401</link>
       <guid isPermaLink="false">NPINS.006923</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Estimating Network-Mediated Causal Effects via Principal Components Network Regression</title>
-      <link>http://jmlr.org/papers/v26/23-1317.html</link>
-      <guid isPermaLink="false">NPINS.006922</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: MEGA: identifying influential nodes in heterogeneous networks based on meta-path and attention</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adb018</link>
-      <guid isPermaLink="false">NPINS.006921</guid>
-    </item>
-    <item>
-      <title>EPL: Toward robust network controllability: Insights and future directions</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adad95</link>
-      <guid isPermaLink="false">NPINS.006920</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Risk aversion can promote cooperation</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adb234</link>
-      <guid isPermaLink="false">NPINS.006919</guid>
-    </item>
-    <item>
-      <title>EPL: Perspectives on modelling epidemics with human mobility</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adad94</link>
-      <guid isPermaLink="false">NPINS.006918</guid>
     </item>
   </channel>
 </rss>
