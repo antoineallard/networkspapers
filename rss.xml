@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Mar 2025 00:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 14:16:00 +0000</lastBuildDate>
+    <item>
+      <title>EPJ Data Sci.: Assessing geographic polarisation in Britain’s digital landscape through stable dynamic embedding of spatial web data</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00537-x</link>
+      <guid isPermaLink="false">NPINS.007027</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Friends forever? Correlates of high school friendship (in)stability from adolescence to young adulthood</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000085</link>
+      <guid isPermaLink="false">NPINS.007026</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Resilience of mobility network to dynamic population response across COVID-19 interventions: Evidences from Chile</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012802</link>
+      <guid isPermaLink="false">NPINS.007025</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Cubic s-arc-transitive bi-Cayley graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001274</link>
+      <guid isPermaLink="false">NPINS.007024</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Feynman path integrals for discrete-variable systems: Walks on Hamiltonian graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013220</link>
+      <guid isPermaLink="false">NPINS.007023</guid>
+    </item>
     <item>
       <title>Soc. Networks: Investigating the dynamics of yakuza violence using multilevel network analysis</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000103</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Paradise-disorder transition in structural balance dynamics on Erdös-Rényi graphs</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024310</link>
       <guid isPermaLink="false">NPINS.006928</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: ENQUIRE automatically reconstructs, expands, and drives enrichment analysis of gene and Mesh co-occurrence networks from context-specific biomedical literature</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012745</link>
-      <guid isPermaLink="false">NPINS.006927</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Enhancing Graph Representation Learning with Localized Topological Features</title>
-      <link>http://jmlr.org/papers/v26/23-1424.html</link>
-      <guid isPermaLink="false">NPINS.006926</guid>
-    </item>
-    <item>
-      <title>PNAS: Interconnecting fragmented forests: Small and mobile birds are cornerstones in the plant–frugivore meta-network</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2415846122?af=R</link>
-      <guid isPermaLink="false">NPINS.006925</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Scale-free behavior of weight distributions of connectomes</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013134</link>
-      <guid isPermaLink="false">NPINS.006924</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Networks with Many Structural Scales: A Renormalization Group Perspective</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.057401</link>
-      <guid isPermaLink="false">NPINS.006923</guid>
     </item>
   </channel>
 </rss>
