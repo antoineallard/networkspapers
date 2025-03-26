@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Mar 2025 02:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 16:38:12 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Divergence asymmetry and connected components in a general duplication-divergence graph model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L032301</link>
+      <guid isPermaLink="false">NPINS.007037</guid>
+    </item>
+    <item>
+      <title>PNAS: Input-driven circuit reconfiguration in critical recurrent neural networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2418818122?af=R</link>
+      <guid isPermaLink="false">NPINS.007036</guid>
+    </item>
+    <item>
+      <title>Nature: Revealing how fungi build planet-altering ‘road’ networks</title>
+      <link>https://www.nature.com/articles/d41586-025-00307-9</link>
+      <guid isPermaLink="false">NPINS.007035</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Delay effect in coevolutionary balance as a higher order interaction</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034304</link>
+      <guid isPermaLink="false">NPINS.007034</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Passenger and freight travel patterns: A cluster analysis based on urban networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318084</link>
+      <guid isPermaLink="false">NPINS.007033</guid>
+    </item>
     <item>
       <title>Front. Phys.: Co-movement forecasting between consumer sentiment and stock price in e-commerce platforms using complex network and entropy optimization</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1557361</link>
@@ -488,31 +513,6 @@
       <title>Soc. Networks: From warnings to bans: The role of social networks in the severity of sanctions</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000012</link>
       <guid isPermaLink="false">NPINS.006938</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Removal of toxic steroidal glycoalkaloids and bitterness in tomato is controlled by a complex epigenetic and genetic network</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.ads9601</link>
-      <guid isPermaLink="false">NPINS.006937</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Convergence of Message-Passing Graph Neural Networks with Generic Aggregation on Large Random Graphs</title>
-      <link>http://jmlr.org/papers/v25/23-0965.html</link>
-      <guid isPermaLink="false">NPINS.006936</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: Mathematically tractable models of random phylogenetic networks: an overview of some recent developments</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0301?af=R</link>
-      <guid isPermaLink="false">NPINS.006935</guid>
-    </item>
-    <item>
-      <title>iScience: Inference of a three-gene network underpinning epidermal stem cell development in &lt;em&gt;Caenorhabditis elegans&lt;/em&gt;</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225000860</link>
-      <guid isPermaLink="false">NPINS.006934</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Editors-in-chief in social sciences: Mapping the institutional, geographical, and gender representation between academic fields</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317931</link>
-      <guid isPermaLink="false">NPINS.006933</guid>
     </item>
   </channel>
 </rss>
