@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Mar 2025 02:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 13:54:16 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Collective decision-making with heterogeneous biases: Role of network topology and susceptibility</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013286</link>
+      <guid isPermaLink="false">NPINS.007042</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Network reconstruction may not mean dynamics prediction</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034308</link>
+      <guid isPermaLink="false">NPINS.007041</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Discrete-time open quantum walks for vertex ranking in graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034312</link>
+      <guid isPermaLink="false">NPINS.007040</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Using similarity network analysis to improve text similarity calculations</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00699-7</link>
+      <guid isPermaLink="false">NPINS.007039</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: A spherical fuzzy planar graph approach to optimize wire configuration in transformers</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1413813</link>
+      <guid isPermaLink="false">NPINS.007038</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Divergence asymmetry and connected components in a general duplication-divergence graph model</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L032301</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: T-Racing: a modern tool for supporting epidemiological investigation in animal disease outbreaks in Italy</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317313</link>
       <guid isPermaLink="false">NPINS.006943</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Exogenous bacterial cellulose induces plant tissue regeneration through the regulation of cytokinin and defense networks</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adr1509</link>
-      <guid isPermaLink="false">NPINS.006942</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Ising Hamiltonian minimization: Gain-based computing with manifold reduction of soft spins vs quantum annealing</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013150</link>
-      <guid isPermaLink="false">NPINS.006941</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Typical and disrupted small-world architecture and regional communication in full-term and preterm infants</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf015</link>
-      <guid isPermaLink="false">NPINS.006940</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Higher-order Laplacian renormalization</title>
-      <link>https://www.nature.com/articles/s41567-025-02784-1</link>
-      <guid isPermaLink="false">NPINS.006939</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: From warnings to bans: The role of social networks in the severity of sanctions</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000012</link>
-      <guid isPermaLink="false">NPINS.006938</guid>
     </item>
   </channel>
 </rss>
