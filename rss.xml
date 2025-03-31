@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Mar 2025 13:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 14:16:00 +0000</lastBuildDate>
+    <item>
+      <title>Soc. Networks: Identifying stages in the lifespan of dynamic groups</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000127</link>
+      <guid isPermaLink="false">NPINS.007052</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Network based approach for drug target identification in early onset Parkinson’s disease</title>
+      <link>https://www.nature.com/articles/s41598-024-83178-w</link>
+      <guid isPermaLink="false">NPINS.007051</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Phys.: Network renormalization</title>
+      <link>https://www.nature.com/articles/s42254-025-00817-5</link>
+      <guid isPermaLink="false">NPINS.007050</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Reliability evaluation of conditional recursive networks under h-conditional restriction</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001262</link>
+      <guid isPermaLink="false">NPINS.007049</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Podcasts in the periphery: Tracing guest trajectories in political podcasts</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000115</link>
+      <guid isPermaLink="false">NPINS.007048</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Spatio-temporal activity patterns induced by triadic interactions in an in silico neural medium</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/adbf5e</link>
@@ -488,31 +513,6 @@
       <title>PNAS: Evolutionary rewiring of the dynamic network underpinning allosteric epistasis in NS1 of the influenza A virus</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2410813122?af=R</link>
       <guid isPermaLink="false">NPINS.006953</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Reconstruction of Network Dynamics from Partial Observations</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1655780?af=R</link>
-      <guid isPermaLink="false">NPINS.006952</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: Leveraging graphical model techniques to study evolution on phylogenetic networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0310?af=R</link>
-      <guid isPermaLink="false">NPINS.006951</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Susceptible-infected-susceptible process on Erdős-Rényi graphs: Determining the infected fraction</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024315</link>
-      <guid isPermaLink="false">NPINS.006950</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Bluesky: Network topology, polarization, and algorithmic curation</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318034</link>
-      <guid isPermaLink="false">NPINS.006949</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Mean-field approximation and phase transitions in an Ising-voter model on directed regular random graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024317</link>
-      <guid isPermaLink="false">NPINS.006948</guid>
     </item>
   </channel>
 </rss>
