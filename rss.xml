@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Mar 2025 12:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 13:19:40 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Spatio-temporal activity patterns induced by triadic interactions in an in silico neural medium</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adbf5e</link>
+      <guid isPermaLink="false">NPINS.007047</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Evolutionary characteristics and community detection of the international metal minerals trade</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1557932</link>
+      <guid isPermaLink="false">NPINS.007046</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Structural properties of hyperuniform Voronoi networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034123</link>
+      <guid isPermaLink="false">NPINS.007045</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Differences in perceived social connection help explain SES-based gaps in well-being</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000139</link>
+      <guid isPermaLink="false">NPINS.007044</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Effect of time-varying validity of individual interaction on co-evolution of awareness and epidemics in a multiplex high-order network</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001237</link>
+      <guid isPermaLink="false">NPINS.007043</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Collective decision-making with heterogeneous biases: Role of network topology and susceptibility</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013286</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Mean-field approximation and phase transitions in an Ising-voter model on directed regular random graphs</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024317</link>
       <guid isPermaLink="false">NPINS.006948</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Hyperbolic random geometric graphs: Structural and spectral properties</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024309</link>
-      <guid isPermaLink="false">NPINS.006947</guid>
-    </item>
-    <item>
-      <title>iScience: Early warning of regime switching in a complex financial system from a spillover network dynamic perspective</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225001841</link>
-      <guid isPermaLink="false">NPINS.006946</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: A non-homogeneous, non-stationary and path-dependent Markov anomalous diffusion model</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adb6df</link>
-      <guid isPermaLink="false">NPINS.006945</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Irreversibility in non-reciprocal chaotic systems</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adae2a</link>
-      <guid isPermaLink="false">NPINS.006944</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: T-Racing: a modern tool for supporting epidemiological investigation in animal disease outbreaks in Italy</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317313</link>
-      <guid isPermaLink="false">NPINS.006943</guid>
     </item>
   </channel>
 </rss>
