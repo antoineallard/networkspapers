@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Mar 2025 18:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 12:15:28 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Proper conflict-free 6-coloring of planar graphs without short cycles</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001328</link>
+      <guid isPermaLink="false">NPINS.007057</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A co-evolutionary model of information, behavior, and epidemics in multiplex networks: Incorporating subjective and objective factors</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032500133X</link>
+      <guid isPermaLink="false">NPINS.007056</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Recovery of activation propagation and self-sustained oscillation abilities in stroke brain networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034309</link>
+      <guid isPermaLink="false">NPINS.007055</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Bursty switching dynamics promotes the collapse of network topologies</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0936?af=R</link>
+      <guid isPermaLink="false">NPINS.007054</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Dynamic mean-field theory for continuous random networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adbc50</link>
+      <guid isPermaLink="false">NPINS.007053</guid>
+    </item>
     <item>
       <title>Soc. Networks: Identifying stages in the lifespan of dynamic groups</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000127</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Lett.: Simultaneous Verification of Genuine Multipartite Nonlocality and Full Network Nonlocality</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.080202</link>
       <guid isPermaLink="false">NPINS.006958</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: MNEGC: an improved gravity centrality based on node multi-features and network embedding for identifying influential nodes in complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adb4cd</link>
-      <guid isPermaLink="false">NPINS.006957</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Innovation network, knowledge spillover, and urban green economic performance</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1537110</link>
-      <guid isPermaLink="false">NPINS.006956</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Competing social contagions with opinion-dependent infectivity</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024313</link>
-      <guid isPermaLink="false">NPINS.006955</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Topology shapes dynamics of higher-order networks</title>
-      <link>https://www.nature.com/articles/s41567-024-02757-w</link>
-      <guid isPermaLink="false">NPINS.006954</guid>
-    </item>
-    <item>
-      <title>PNAS: Evolutionary rewiring of the dynamic network underpinning allosteric epistasis in NS1 of the influenza A virus</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2410813122?af=R</link>
-      <guid isPermaLink="false">NPINS.006953</guid>
     </item>
   </channel>
 </rss>
