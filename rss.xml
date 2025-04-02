@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Apr 2025 23:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 14:19:50 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Maximal and maximum induced matchings in connected graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001596</link>
+      <guid isPermaLink="false">NPINS.007062</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Navigation on temporal networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00697-9</link>
+      <guid isPermaLink="false">NPINS.007061</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Statistical measure of dispersity in complex weighted networks of low temperature plasma chemistry</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adc35e</link>
+      <guid isPermaLink="false">NPINS.007060</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Dyadic Packing of Dijoins</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1647692?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007059</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Modeling diffusion in networks with communities: A multitype branching process approach</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034310</link>
+      <guid isPermaLink="false">NPINS.007058</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Proper conflict-free 6-coloring of planar graphs without short cycles</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325001328</link>
@@ -488,31 +513,6 @@
       <title>PNAS Nexus: Global consistency of urban scaling evidenced by remote sensing</title>
       <link>http://doi.org/10.1093/pnasnexus/pgaf037</link>
       <guid isPermaLink="false">NPINS.006963</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Mode-based triggered protocol for synchronization of switched dynamic networks with semi-Markov kernel and its application</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000633</link>
-      <guid isPermaLink="false">NPINS.006962</guid>
-    </item>
-    <item>
-      <title>Eur. J. Phys.: Network analyses of student interactions with online textbook problems</title>
-      <link>http://iopscience.iop.org/article/10.1088/1361-6404/ada649</link>
-      <guid isPermaLink="false">NPINS.006961</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: On random classical marginal problems with applications to quantum information theory</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adb547</link>
-      <guid isPermaLink="false">NPINS.006960</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Comparing temporal and aggregated network descriptions of fluid transport in the Mediterranean Sea</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024211</link>
-      <guid isPermaLink="false">NPINS.006959</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Simultaneous Verification of Genuine Multipartite Nonlocality and Full Network Nonlocality</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.080202</link>
-      <guid isPermaLink="false">NPINS.006958</guid>
     </item>
   </channel>
 </rss>
