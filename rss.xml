@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Apr 2025 10:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 14:55:57 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Neurosci.: Human lifespan changes in the brain’s functional connectome</title>
+      <link>https://www.nature.com/articles/s41593-025-01907-4</link>
+      <guid isPermaLink="false">NPINS.007077</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Spatiotemporal analysis of the dynamic evolution and driving factors of trade networks in the Belt and Road countries</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000140</link>
+      <guid isPermaLink="false">NPINS.007076</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Non-cooperative inference method for the IoBT topology based on flow rate estimation</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1584958</link>
+      <guid isPermaLink="false">NPINS.007075</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: On the location and the strength of controllers to desynchronize coupled Kuramoto oscillators</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adc521</link>
+      <guid isPermaLink="false">NPINS.007074</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Modeling the “who” and “how” of social influence in the adoption of health practices</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000152</link>
+      <guid isPermaLink="false">NPINS.007073</guid>
+    </item>
     <item>
       <title>Phys. Rev. X: Network Reconstruction via the Minimum Description Length Principle</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevX.15.011065</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Experimental evidence of community switching en route to global synchronization</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034204</link>
       <guid isPermaLink="false">NPINS.006978</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Synchronization of short memory fractional coupled neural networks with higher-order interactions via novel intermittent control</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000906</link>
-      <guid isPermaLink="false">NPINS.006977</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Cryptic genetic variation shapes the fate of gene duplicates in a protein interaction network</title>
-      <link>https://www.nature.com/articles/s41467-025-56597-0</link>
-      <guid isPermaLink="false">NPINS.006976</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Modeling echo chamber effects in signed networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024302</link>
-      <guid isPermaLink="false">NPINS.006975</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Simulation analysis on the evolution driven model of global copper ore trade network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1559799</link>
-      <guid isPermaLink="false">NPINS.006974</guid>
-    </item>
-    <item>
-      <title>EPL: Self-similar scaling of higher-order interactions in complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adab16</link>
-      <guid isPermaLink="false">NPINS.006973</guid>
     </item>
   </channel>
 </rss>
