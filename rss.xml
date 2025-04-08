@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Apr 2025 00:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 14:28:44 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Network analysis of memristive device circuits: dynamics, stability and correlations</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adb11e</link>
+      <guid isPermaLink="false">NPINS.007082</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Logic-based modeling of biological networks with Netflux</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012864</link>
+      <guid isPermaLink="false">NPINS.007081</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Degrees of Interior Polynomials and Parking Function Enumerators</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1615437?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007080</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: An advanced deep learning framework for simulating information propagation dynamics</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1524104</link>
+      <guid isPermaLink="false">NPINS.007079</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Hyperbolic embedding of brain networks detects regions disrupted by neurodegeneration in Alzheimer's disease</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044402</link>
+      <guid isPermaLink="false">NPINS.007078</guid>
+    </item>
     <item>
       <title>Nat. Neurosci.: Human lifespan changes in the brain’s functional connectome</title>
       <link>https://www.nature.com/articles/s41593-025-01907-4</link>
@@ -488,31 +513,6 @@
       <title>Nat. Commun.: Structure, motion, and multiscale search of traveling networks</title>
       <link>https://www.nature.com/articles/s41467-024-54342-7</link>
       <guid isPermaLink="false">NPINS.006983</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Patterns of link reciprocity in directed, signed networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.024312</link>
-      <guid isPermaLink="false">NPINS.006982</guid>
-    </item>
-    <item>
-      <title>iScience: Emergent network properties link phenotypic modules to ecomorphological divergence in carnivoran mammals</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225000884</link>
-      <guid isPermaLink="false">NPINS.006981</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Detecting Directional Coupling in Network Dynamical Systems via Kalman’s Observability</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.077401</link>
-      <guid isPermaLink="false">NPINS.006980</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Causal interaction of metabolic oscillations in monolayers of Hela cervical cancer cells: emergence of complex networks</title>
-      <link>https://www.nature.com/articles/s41598-025-91711-8</link>
-      <guid isPermaLink="false">NPINS.006979</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Experimental evidence of community switching en route to global synchronization</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034204</link>
-      <guid isPermaLink="false">NPINS.006978</guid>
     </item>
   </channel>
 </rss>
