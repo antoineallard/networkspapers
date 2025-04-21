@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Apr 2025 18:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 20:41:48 +0000</lastBuildDate>
+    <item>
+      <title>PNAS Nexus: Emergent structures of attention on social media are driven by amplification and triad transitivity</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf106</link>
+      <guid isPermaLink="false">NPINS.007127</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Strange attractors in complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L042301</link>
+      <guid isPermaLink="false">NPINS.007126</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Degree distributions in optimized directed network models: Emergence of scale-free networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044308</link>
+      <guid isPermaLink="false">NPINS.007125</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Planarity via Spanning Tree Number: A Linear-Algebraic Criterion</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1660395?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007124</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Universal properties of Wigner delay times and resonance widths of tight-binding random graphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044312</link>
+      <guid isPermaLink="false">NPINS.007123</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Impact of Opinion Formation Phenomena in Epidemic Dynamics: Kinetic Modeling on Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1696901?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007122</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Influence of topology on the critical behavior of hierarchical modular neuronal networks</title>
+      <link>https://www.nature.com/articles/s42005-025-02074-5</link>
+      <guid isPermaLink="false">NPINS.007121</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Brain wave dynamics in a Hopfield-Kuramoto model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044310</link>
+      <guid isPermaLink="false">NPINS.007120</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Multiplexed subspaces route neural activity across brain-wide networks</title>
+      <link>https://www.nature.com/articles/s41467-025-58698-2</link>
+      <guid isPermaLink="false">NPINS.007119</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Effective dimensional reduction of complex systems based on tensor networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adc650</link>
+      <guid isPermaLink="false">NPINS.007118</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Temporal betweenness centrality on shortest walks variants</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00685-5</link>
@@ -463,56 +513,6 @@
       <title>Appl. Math. Comput.: Computation of resistance distances and Kirchhoff indices for two classes of graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325000815</link>
       <guid isPermaLink="false">NPINS.007028</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Assessing geographic polarisation in Britain’s digital landscape through stable dynamic embedding of spatial web data</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00537-x</link>
-      <guid isPermaLink="false">NPINS.007027</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Friends forever? Correlates of high school friendship (in)stability from adolescence to young adulthood</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000085</link>
-      <guid isPermaLink="false">NPINS.007026</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Resilience of mobility network to dynamic population response across COVID-19 interventions: Evidences from Chile</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012802</link>
-      <guid isPermaLink="false">NPINS.007025</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Cubic s-arc-transitive bi-Cayley graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001274</link>
-      <guid isPermaLink="false">NPINS.007024</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Feynman path integrals for discrete-variable systems: Walks on Hamiltonian graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013220</link>
-      <guid isPermaLink="false">NPINS.007023</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Investigating the dynamics of yakuza violence using multilevel network analysis</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000103</link>
-      <guid isPermaLink="false">NPINS.007022</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Functional connectivity of animal-dispersed plant communities depends on the interacting effects of network specialization and resource diversity</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.2995?af=R</link>
-      <guid isPermaLink="false">NPINS.007021</guid>
-    </item>
-    <item>
-      <title>Nat. Phys.: Glass is a matter of time</title>
-      <link>https://www.nature.com/articles/s41567-025-02788-x</link>
-      <guid isPermaLink="false">NPINS.007020</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: A study of government regulation’s strategy for solving the algorithmic black-box puzzle of digital platforms: a complex network-based perspective</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1538742</link>
-      <guid isPermaLink="false">NPINS.007019</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Hidden high-risk states identification from routine urban traffic</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf075</link>
-      <guid isPermaLink="false">NPINS.007018</guid>
     </item>
   </channel>
 </rss>
