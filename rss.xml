@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Apr 2025 21:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 12:13:51 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Contributions of mechanical loading and hormonal changes to eccentric hypertrophy during volume overload: A Bayesian analysis using logic-based network models</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012390</link>
+      <guid isPermaLink="false">NPINS.007132</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: On quantum superpositions of graphs, no-signalling and covariance</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adc881</link>
+      <guid isPermaLink="false">NPINS.007131</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Graph coloring framework to mitigate cascading failure in complex networks</title>
+      <link>https://www.nature.com/articles/s42005-025-02089-y</link>
+      <guid isPermaLink="false">NPINS.007130</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: An opinion evolution model for online social networks considering higher-order interactions</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321718</link>
+      <guid isPermaLink="false">NPINS.007129</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Causal network inference based on cross-validation predictability</title>
+      <link>https://www.nature.com/articles/s42005-025-02091-4</link>
+      <guid isPermaLink="false">NPINS.007128</guid>
+    </item>
     <item>
       <title>PNAS Nexus: Emergent structures of attention on social media are driven by amplification and triad transitivity</title>
       <link>http://doi.org/10.1093/pnasnexus/pgaf106</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Passenger and freight travel patterns: A cluster analysis based on urban networks</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318084</link>
       <guid isPermaLink="false">NPINS.007033</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Co-movement forecasting between consumer sentiment and stock price in e-commerce platforms using complex network and entropy optimization</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1557361</link>
-      <guid isPermaLink="false">NPINS.007032</guid>
-    </item>
-    <item>
-      <title>J. Math. Sociol.: School racial composition and the emergence of Black-White within-school inequalities: network-based foundations</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2025.2458304?af=R</link>
-      <guid isPermaLink="false">NPINS.007031</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Systemically important company identification based on topological characteristics of the common share pledge network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1562015</link>
-      <guid isPermaLink="false">NPINS.007030</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Optimal reduction of an epidemic outbreak size via temporary quarantine</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034305</link>
-      <guid isPermaLink="false">NPINS.007029</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Computation of resistance distances and Kirchhoff indices for two classes of graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325000815</link>
-      <guid isPermaLink="false">NPINS.007028</guid>
     </item>
   </channel>
 </rss>
