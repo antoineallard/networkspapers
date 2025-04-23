@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Apr 2025 21:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 13:12:18 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Exponential rate of epidemic spreading on complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044311</link>
+      <guid isPermaLink="false">NPINS.007137</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Time-series thresholding and avalanche dynamics in networks of the critical branching process</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044129</link>
+      <guid isPermaLink="false">NPINS.007136</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Low-resolution descriptions of model neural activity reveal hidden features and underlying system properties</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044315</link>
+      <guid isPermaLink="false">NPINS.007135</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Dirac’s Theorem for Linear Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1659467?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007134</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Identification and optimization of high-performance passing networks in football</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044313</link>
+      <guid isPermaLink="false">NPINS.007133</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Contributions of mechanical loading and hormonal changes to eccentric hypertrophy during volume overload: A Bayesian analysis using logic-based network models</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012390</link>
@@ -488,31 +513,6 @@
       <title>Front. Phys.: A spherical fuzzy planar graph approach to optimize wire configuration in transformers</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1413813</link>
       <guid isPermaLink="false">NPINS.007038</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Divergence asymmetry and connected components in a general duplication-divergence graph model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L032301</link>
-      <guid isPermaLink="false">NPINS.007037</guid>
-    </item>
-    <item>
-      <title>PNAS: Input-driven circuit reconfiguration in critical recurrent neural networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2418818122?af=R</link>
-      <guid isPermaLink="false">NPINS.007036</guid>
-    </item>
-    <item>
-      <title>Nature: Revealing how fungi build planet-altering ‘road’ networks</title>
-      <link>https://www.nature.com/articles/d41586-025-00307-9</link>
-      <guid isPermaLink="false">NPINS.007035</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Delay effect in coevolutionary balance as a higher order interaction</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034304</link>
-      <guid isPermaLink="false">NPINS.007034</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Passenger and freight travel patterns: A cluster analysis based on urban networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318084</link>
-      <guid isPermaLink="false">NPINS.007033</guid>
     </item>
   </channel>
 </rss>
