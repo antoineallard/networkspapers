@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Apr 2025 00:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 14:03:37 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: The collective intelligence of asymmetric learning promotes cooperation on collaborative networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adcb08</link>
+      <guid isPermaLink="false">NPINS.007142</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Antidirected Trees in Dense Digraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M165497X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007141</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Synergistic small worlds that drive technological sophistication</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf102</link>
+      <guid isPermaLink="false">NPINS.007140</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Harnessing network science for urban resilience: the CASA model’s approach to social and environmental challenges</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00703-0</link>
+      <guid isPermaLink="false">NPINS.007139</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: A spectral framework to map QTLs affecting joint differential networks of gene co-expression</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012953</link>
+      <guid isPermaLink="false">NPINS.007138</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Exponential rate of epidemic spreading on complex networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044311</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Effect of time-varying validity of individual interaction on co-evolution of awareness and epidemics in a multiplex high-order network</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325001237</link>
       <guid isPermaLink="false">NPINS.007043</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Collective decision-making with heterogeneous biases: Role of network topology and susceptibility</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013286</link>
-      <guid isPermaLink="false">NPINS.007042</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Network reconstruction may not mean dynamics prediction</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034308</link>
-      <guid isPermaLink="false">NPINS.007041</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Discrete-time open quantum walks for vertex ranking in graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034312</link>
-      <guid isPermaLink="false">NPINS.007040</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Using similarity network analysis to improve text similarity calculations</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00699-7</link>
-      <guid isPermaLink="false">NPINS.007039</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: A spherical fuzzy planar graph approach to optimize wire configuration in transformers</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1413813</link>
-      <guid isPermaLink="false">NPINS.007038</guid>
     </item>
   </channel>
 </rss>
