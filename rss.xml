@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 02:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 12:54:38 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Commun.: Probabilistic alignment of multiple networks</title>
+      <link>https://www.nature.com/articles/s41467-025-59077-7</link>
+      <guid isPermaLink="false">NPINS.007152</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: To promote network connectivity in colloidal rod suspensions, end with a tip</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.045419</link>
+      <guid isPermaLink="false">NPINS.007151</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: At the end of the spectrum: chromatic bounds for the largest eigenvalue of the normalized Laplacian</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adcc71</link>
+      <guid isPermaLink="false">NPINS.007150</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Deviations from cultural consensus about occupations: The duality of occupation meanings and Americans’ meaning communities</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000206</link>
+      <guid isPermaLink="false">NPINS.007149</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Noisy deep networks: chaos, multistationarity, and eternal evolution</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adcdb4</link>
+      <guid isPermaLink="false">NPINS.007148</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Tverberg Partition Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1610938?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. A: Dynamic mean-field theory for continuous random networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/adbc50</link>
       <guid isPermaLink="false">NPINS.007053</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Identifying stages in the lifespan of dynamic groups</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000127</link>
-      <guid isPermaLink="false">NPINS.007052</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Network based approach for drug target identification in early onset Parkinson’s disease</title>
-      <link>https://www.nature.com/articles/s41598-024-83178-w</link>
-      <guid isPermaLink="false">NPINS.007051</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Network renormalization</title>
-      <link>https://www.nature.com/articles/s42254-025-00817-5</link>
-      <guid isPermaLink="false">NPINS.007050</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Reliability evaluation of conditional recursive networks under h-conditional restriction</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001262</link>
-      <guid isPermaLink="false">NPINS.007049</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Podcasts in the periphery: Tracing guest trajectories in political podcasts</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000115</link>
-      <guid isPermaLink="false">NPINS.007048</guid>
     </item>
   </channel>
 </rss>
