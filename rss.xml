@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 21:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 13:14:05 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: The dependency structure of the financial multiplex network model: New evidence from the cross-correlation of idiosyncratic returns, volatility, and trading volume</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320799</link>
+      <guid isPermaLink="false">NPINS.007157</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Holistic approach to analysing debates on ecological sustainability over time on X</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00545-x</link>
+      <guid isPermaLink="false">NPINS.007156</guid>
+    </item>
+    <item>
+      <title>EPL: Entanglement signatures of the small-world transition in Heisenberg-type models across network topologies</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adb49d</link>
+      <guid isPermaLink="false">NPINS.007155</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Designing biological network motif-based controllers by reverse engineering Hill function-type models from linear models</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0811?af=R</link>
+      <guid isPermaLink="false">NPINS.007154</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Heterogeneous nucleation due to adaptation disparity and phase lag in a finite-size adaptive dynamical network</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044218</link>
+      <guid isPermaLink="false">NPINS.007153</guid>
+    </item>
     <item>
       <title>Nat. Commun.: Probabilistic alignment of multiple networks</title>
       <link>https://www.nature.com/articles/s41467-025-59077-7</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Modeling diffusion in networks with communities: A multitype branching process approach</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034310</link>
       <guid isPermaLink="false">NPINS.007058</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Proper conflict-free 6-coloring of planar graphs without short cycles</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001328</link>
-      <guid isPermaLink="false">NPINS.007057</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A co-evolutionary model of information, behavior, and epidemics in multiplex networks: Incorporating subjective and objective factors</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032500133X</link>
-      <guid isPermaLink="false">NPINS.007056</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Recovery of activation propagation and self-sustained oscillation abilities in stroke brain networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.034309</link>
-      <guid isPermaLink="false">NPINS.007055</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Bursty switching dynamics promotes the collapse of network topologies</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0936?af=R</link>
-      <guid isPermaLink="false">NPINS.007054</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Dynamic mean-field theory for continuous random networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adbc50</link>
-      <guid isPermaLink="false">NPINS.007053</guid>
     </item>
   </channel>
 </rss>
