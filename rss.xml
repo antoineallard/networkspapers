@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Apr 2025 19:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 12:46:37 +0000</lastBuildDate>
+    <item>
+      <title>R. Soc. Open Sci.: Leveraging advances in machine learning for the robust classification and interpretation of networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240458?af=R</link>
+      <guid isPermaLink="false">NPINS.007167</guid>
+    </item>
+    <item>
+      <title>EPL: The Laplacian spectrum of language: Experiments with linguistic families from the Americas</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adb450</link>
+      <guid isPermaLink="false">NPINS.007166</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Modularity with a more accurate baseline model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044317</link>
+      <guid isPermaLink="false">NPINS.007165</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Matchings, Relaxed Popularity, and Optimality</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M163596X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007164</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Choosability with union separation of planar graphs without intersecting triangles</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032500219X</link>
+      <guid isPermaLink="false">NPINS.007163</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Complexity reduction by symmetry: Uncovering the minimal regulatory network for logical computation in bacteria</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013005</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Lett.: High Reconstructability of Degree-Heterogeneous Networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.137402</link>
       <guid isPermaLink="false">NPINS.007068</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Escape cascades as a behavioral contagion process with adaptive network dynamics</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013300</link>
-      <guid isPermaLink="false">NPINS.007067</guid>
-    </item>
-    <item>
-      <title>iScience: Semantic and relation aware neural network model for bi-class multi-relational heterogeneous graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S258900422500416X</link>
-      <guid isPermaLink="false">NPINS.007066</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Efficient set-theoretic algorithms for computing high-order Forman-Ricci curvature on abstract simplicial complexes</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0364?af=R</link>
-      <guid isPermaLink="false">NPINS.007065</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Graphs with span 1 and shortest optimal walks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325001602</link>
-      <guid isPermaLink="false">NPINS.007064</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On Bipartite Graph Realizations of a Single Degree Sequence</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1547585?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007063</guid>
     </item>
   </channel>
 </rss>
