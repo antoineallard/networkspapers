@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 05 May 2025 01:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 13:14:35 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Shape and performance of fastest paths over networks with interacting selfish agents</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044318</link>
+      <guid isPermaLink="false">NPINS.007177</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Higher-order simplicial synchronization in coupled $D$-dimensional topological Kuramoto model</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023103</link>
+      <guid isPermaLink="false">NPINS.007176</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Hierarchy, Tasks, Space: An analysis of tie formation in the Palermo Mafia</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000188</link>
+      <guid isPermaLink="false">NPINS.007175</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: EC-SBM synthetic network generator</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00701-2</link>
+      <guid isPermaLink="false">NPINS.007174</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Twin-Width of Subdivisions of Multigraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1621514?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007173</guid>
+    </item>
     <item>
       <title>Soc. Networks: Birds of a feather sign together: Co-ratification patterns in the International environmental agreement network</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000164</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Hyperbolic embedding of brain networks detects regions disrupted by neurodegeneration in Alzheimer's disease</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044402</link>
       <guid isPermaLink="false">NPINS.007078</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Human lifespan changes in the brain’s functional connectome</title>
-      <link>https://www.nature.com/articles/s41593-025-01907-4</link>
-      <guid isPermaLink="false">NPINS.007077</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Spatiotemporal analysis of the dynamic evolution and driving factors of trade networks in the Belt and Road countries</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000140</link>
-      <guid isPermaLink="false">NPINS.007076</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Non-cooperative inference method for the IoBT topology based on flow rate estimation</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1584958</link>
-      <guid isPermaLink="false">NPINS.007075</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: On the location and the strength of controllers to desynchronize coupled Kuramoto oscillators</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adc521</link>
-      <guid isPermaLink="false">NPINS.007074</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Modeling the “who” and “how” of social influence in the adoption of health practices</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000152</link>
-      <guid isPermaLink="false">NPINS.007073</guid>
     </item>
   </channel>
 </rss>
