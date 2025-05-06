@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 May 2025 10:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 12:02:00 +0000</lastBuildDate>
+    <item>
+      <title>New J. Phys.: CycRank: a universal optimization framework for vital nodes identification in complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adcfbd</link>
+      <guid isPermaLink="false">NPINS.007182</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Spatiotemporal changes in river network connectivity in the Nile River Basin due to hydropower dams</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322338</link>
+      <guid isPermaLink="false">NPINS.007181</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. B: Network indicators of cultural resilience to anthropogenic removals in animal societies</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2024.0144?af=R</link>
+      <guid isPermaLink="false">NPINS.007180</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Community reciprocity promotes cooperation in a network evolutionary prisoner’s dilemma game</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002231</link>
+      <guid isPermaLink="false">NPINS.007179</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Cooperation dynamics of social dilemmas on an opinion-dependent weighted network</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002024</link>
+      <guid isPermaLink="false">NPINS.007178</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Shape and performance of fastest paths over networks with interacting selfish agents</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044318</link>
@@ -488,31 +513,6 @@
       <title>PLOS Comput. Biol.: Flux-sum coupling analysis of metabolic network models</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012972</link>
       <guid isPermaLink="false">NPINS.007083</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Network analysis of memristive device circuits: dynamics, stability and correlations</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adb11e</link>
-      <guid isPermaLink="false">NPINS.007082</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Logic-based modeling of biological networks with Netflux</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012864</link>
-      <guid isPermaLink="false">NPINS.007081</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Degrees of Interior Polynomials and Parking Function Enumerators</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1615437?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007080</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: An advanced deep learning framework for simulating information propagation dynamics</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1524104</link>
-      <guid isPermaLink="false">NPINS.007079</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Hyperbolic embedding of brain networks detects regions disrupted by neurodegeneration in Alzheimer's disease</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044402</link>
-      <guid isPermaLink="false">NPINS.007078</guid>
     </item>
   </channel>
 </rss>
