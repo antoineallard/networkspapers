@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 May 2025 23:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 12:55:04 +0000</lastBuildDate>
+    <item>
+      <title>J. Math. Sociol.: A perturbative solution to the linear influence/network autocorrelation model under network dynamics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2025.2496146?af=R</link>
+      <guid isPermaLink="false">NPINS.007187</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Edge-based modelling for disease transmission on random graphs: an application to mitigate a syphilis outbreak</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.250032?af=R</link>
+      <guid isPermaLink="false">NPINS.007186</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Finding influential cores via normalized Ricci flows in directed and undirected hypergraphs with applications</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044316</link>
+      <guid isPermaLink="false">NPINS.007185</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Emergence of a tipping subnetwork during a critical transition in networked systems: A new avenue to extreme events</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023109</link>
+      <guid isPermaLink="false">NPINS.007184</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Exploring the spatial segmentation of housing markets from online listings</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00551-z</link>
+      <guid isPermaLink="false">NPINS.007183</guid>
+    </item>
     <item>
       <title>New J. Phys.: CycRank: a universal optimization framework for vital nodes identification in complex networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/adcfbd</link>
@@ -488,31 +513,6 @@
       <title>Proc. R. Soc. A: Universal scaling limits for spin networks via martingale methods</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0774?af=R</link>
       <guid isPermaLink="false">NPINS.007088</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Test allocation based on risk of infection from first and second order contact tracing</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320291</link>
-      <guid isPermaLink="false">NPINS.007087</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: The multiscale self-similarity of the weighted human brain connectome</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012848</link>
-      <guid isPermaLink="false">NPINS.007086</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Classroom network structure learning engagement and parallel temporal attention LSTM based knowledge tracing</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320303</link>
-      <guid isPermaLink="false">NPINS.007085</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Statistical Mechanics of Frustrated Assemblies and Incompatible Graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.147401</link>
-      <guid isPermaLink="false">NPINS.007084</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Flux-sum coupling analysis of metabolic network models</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012972</link>
-      <guid isPermaLink="false">NPINS.007083</guid>
     </item>
   </channel>
 </rss>
