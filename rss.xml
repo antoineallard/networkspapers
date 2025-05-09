@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 09 May 2025 01:42:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 18:16:51 +0000</lastBuildDate>
+    <item>
+      <title>Nature: Light-microscopy-based connectomic reconstruction of mammalian brain tissue</title>
+      <link>https://www.nature.com/articles/s41586-025-08985-1</link>
+      <guid isPermaLink="false">NPINS.007197</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Applicability of spatial early warning signals to complex network dynamics</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0696?af=R</link>
+      <guid isPermaLink="false">NPINS.007196</guid>
+    </item>
+    <item>
+      <title>EPL: Estimating transmission noise on networks from stationary local order</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adc9de</link>
+      <guid isPermaLink="false">NPINS.007195</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Data assimilation for networks of coupled oscillators: inferring unknown model parameters from partial observations</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0813?af=R</link>
+      <guid isPermaLink="false">NPINS.007194</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Detection of anomalous spatio-temporal patterns of app traffic in response to catastrophic events</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00546-w</link>
+      <guid isPermaLink="false">NPINS.007193</guid>
+    </item>
     <item>
       <title>EPL: Successive lag synchronization on dynamical networks: A perspective</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/adcd26</link>
@@ -488,31 +513,6 @@
       <title>Soc. Networks: An Optimal Transport approach to model the community structure of the International Trade Network</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000176</link>
       <guid isPermaLink="false">NPINS.007098</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Strong and weak environmental perturbations cause contrasting restructure of ant transportation networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2024.2342?af=R</link>
-      <guid isPermaLink="false">NPINS.007097</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Rigidity of Balanced Minimal Cycle Complexes</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1607696?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007096</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Cluster synchronization on sparse simplicial complexes with higher-order repulsive coupling</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adc6b1</link>
-      <guid isPermaLink="false">NPINS.007095</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Identifying robust features of community structure in complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044303</link>
-      <guid isPermaLink="false">NPINS.007094</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Asymptotic and Stability Analysis of Kinetic Models for Opinion Formation on Networks: An Allen–Cahn Approach</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1671128?af=R</link>
-      <guid isPermaLink="false">NPINS.007093</guid>
     </item>
   </channel>
 </rss>
