@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 May 2025 19:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 12:58:40 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Emergence and maintenance of modularity in neural networks with Hebbian and anti-Hebbian inhibitory STDP</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012973</link>
+      <guid isPermaLink="false">NPINS.007207</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: scSDNE: A semi-supervised method for inferring cell-cell interactions based on graph embedding</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013027</link>
+      <guid isPermaLink="false">NPINS.007206</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Learning influence probabilities in diffusion networks without timestamps</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002280</link>
+      <guid isPermaLink="false">NPINS.007205</guid>
+    </item>
+    <item>
+      <title>Nature: Brain tissue artificially expanded to show how neurons wire together</title>
+      <link>https://www.nature.com/articles/d41586-025-01338-y</link>
+      <guid isPermaLink="false">NPINS.007204</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Network Efficiency under Nonconservative Diffusion</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M167038X?af=R</link>
+      <guid isPermaLink="false">NPINS.007203</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Colonization times in Moran process on graphs</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012868</link>
@@ -488,31 +513,6 @@
       <title>Front. Mol. Biosci.: Identification of mitochondrial function and programmed cell death associated key biomarkers and the circRNA-miRNA-mRNA regulatory network in systemic lupus erythematosus</title>
       <link>https://www.frontiersin.org/articles/10.3389/fmolb.2025.1586294</link>
       <guid isPermaLink="false">NPINS.007108</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Strong localization blurs the criticality of time series for spreading phenomena on networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044302</link>
-      <guid isPermaLink="false">NPINS.007107</guid>
-    </item>
-    <item>
-      <title>iScience: Topological Criterion for Robust Perfect Adaptation of Reaction Fluxes in Biological Networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225006558</link>
-      <guid isPermaLink="false">NPINS.007106</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Dynamic brain connectivity predicts emotional arousal during naturalistic movie-watching</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012994</link>
-      <guid isPermaLink="false">NPINS.007105</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Complex networks applied to political analysis: Group voting behavior in the Brazilian congress</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319643</link>
-      <guid isPermaLink="false">NPINS.007104</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Modelling innovation adoption spreading in complex networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00698-8</link>
-      <guid isPermaLink="false">NPINS.007103</guid>
     </item>
   </channel>
 </rss>
