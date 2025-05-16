@@ -13,7 +13,27 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 16 May 2025 13:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 13:41:52 +0000</lastBuildDate>
+    <item>
+      <title>EPL: An improved method for identifying topology of higher-order network</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adcf49</link>
+      <guid isPermaLink="false">NPINS.007224</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Densest Subgraphs of a Dense Erdös–Rényi Graph. Asymptotics, Landscape, and Universality</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1644924?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007223</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Seymour and Woodall’s Conjecture Holds for Graphs with Independence Number Two</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1666768?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007222</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Climate: The dominant factor influencing the spatial distribution pattern of the leaf trait network of &lt;i&gt;Populus euphratica&lt;/i&gt; along the main stream of the Tarim River</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323305</link>
+      <guid isPermaLink="false">NPINS.007221</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Graph-theoretical approach to the eigenvalue spectrum of perturbed higher-order exceptional points</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023132</link>
@@ -493,26 +513,6 @@
       <title>Phys. Rev. E: Degree distributions in optimized directed network models: Emergence of scale-free networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044308</link>
       <guid isPermaLink="false">NPINS.007125</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Planarity via Spanning Tree Number: A Linear-Algebraic Criterion</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1660395?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007124</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Universal properties of Wigner delay times and resonance widths of tight-binding random graphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044312</link>
-      <guid isPermaLink="false">NPINS.007123</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Impact of Opinion Formation Phenomena in Epidemic Dynamics: Kinetic Modeling on Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1696901?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007122</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Influence of topology on the critical behavior of hierarchical modular neuronal networks</title>
-      <link>https://www.nature.com/articles/s42005-025-02074-5</link>
-      <guid isPermaLink="false">NPINS.007121</guid>
     </item>
   </channel>
 </rss>
