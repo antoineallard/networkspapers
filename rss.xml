@@ -13,7 +13,17 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 16 May 2025 13:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 13:38:56 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Graph-theoretical approach to the eigenvalue spectrum of perturbed higher-order exceptional points</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023132</link>
+      <guid isPermaLink="false">NPINS.007220</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Bayesian networks for network inference in biology</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0893?af=R</link>
+      <guid isPermaLink="false">NPINS.007219</guid>
+    </item>
     <item>
       <title>SIAM J. Math. Data Sci.: G-Mapper: Learning a Cover in the Mapper Construction</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1641312?af=R</link>
@@ -503,16 +513,6 @@
       <title>Commun. Phys.: Influence of topology on the critical behavior of hierarchical modular neuronal networks</title>
       <link>https://www.nature.com/articles/s42005-025-02074-5</link>
       <guid isPermaLink="false">NPINS.007121</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Brain wave dynamics in a Hopfield-Kuramoto model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044310</link>
-      <guid isPermaLink="false">NPINS.007120</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Multiplexed subspaces route neural activity across brain-wide networks</title>
-      <link>https://www.nature.com/articles/s41467-025-58698-2</link>
-      <guid isPermaLink="false">NPINS.007119</guid>
     </item>
   </channel>
 </rss>

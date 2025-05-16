@@ -222,7 +222,7 @@ class rss2social:
         client = tweepy.Client(consumer_key=self.twitter_cred['consumer_key'], consumer_secret=self.twitter_cred['consumer_secret'],
                                access_token=self.twitter_cred['access_token'], access_token_secret=self.twitter_cred['access_token_secret'])
         response = client.create_tweet(text=tweet)
-        print(f"https://twitter.com/user/status/{response.data['id']}")
+        # print(f"https://twitter.com/user/status/{response.data['id']}")
 
     def post_to_googlegroup(self, email):
         # https://www.youtube.com/watch?v=g_j6ILT-X0k
