@@ -7,7 +7,7 @@ import smtplib
 import ssl
 import tweepy
 
-from atproto import Client
+from atproto import Client, client_utils
 from datetime import datetime, timezone
 from email.message import EmailMessage
 from slack_sdk import WebClient

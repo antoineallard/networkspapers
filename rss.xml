@@ -13,7 +13,12 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 May 2025 19:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 19:29:11 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Global decomposition of networks into multiple cores formed by local hubs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054302</link>
+      <guid isPermaLink="false">NPINS.007227</guid>
+    </item>
     <item>
       <title>SIAM J. Math. Data Sci.: Finding Planted Cliques Using Gradient Descent</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1680489?af=R</link>
@@ -508,11 +513,6 @@
       <title>Commun. Phys.: Causal network inference based on cross-validation predictability</title>
       <link>https://www.nature.com/articles/s42005-025-02091-4</link>
       <guid isPermaLink="false">NPINS.007128</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Emergent structures of attention on social media are driven by amplification and triad transitivity</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf106</link>
-      <guid isPermaLink="false">NPINS.007127</guid>
     </item>
   </channel>
 </rss>
