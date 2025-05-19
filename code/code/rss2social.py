@@ -7,6 +7,7 @@ import smtplib
 import ssl
 import tweepy
 
+from atproto import Client
 from datetime import datetime, timezone
 from email.message import EmailMessage
 from slack_sdk import WebClient
@@ -137,6 +138,20 @@ class rss2social:
             self.twitter_cred = json.load(twitter_cred_file)
 
     def post_to_bsky(self, text):
+
+        # taken from https://docs.bsky.app/docs/tutorials/creating-a-post
+
+        client = Client()
+        client.login(self.bsky_cred["handle"], self.bsky_cred["app_password"])
+        length_limit = 300
+        if len(text) > length_limit:
+            title = text.split("\n")[0]
+            link = text.split("\n")[1]
+            title_length = len(title) - len(link) - 2 - 3
+            text = title[:title_length] + "...\n" + link
+        post = client.send_post(text)
+
+    def post_to_bsky_old(self, text):
 
         # taken from https://atproto.com/blog/create-post
 
