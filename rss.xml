@@ -13,7 +13,12 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 May 2025 18:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 19:05:18 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Cross-feeding creates tipping points in microbiome diversity</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2425603122?af=R</link>
+      <guid isPermaLink="false">NPINS.007225</guid>
+    </item>
     <item>
       <title>EPL: An improved method for identifying topology of higher-order network</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/adcf49</link>
@@ -508,11 +513,6 @@
       <title>Phys. Rev. E: Strange attractors in complex networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L042301</link>
       <guid isPermaLink="false">NPINS.007126</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Degree distributions in optimized directed network models: Emergence of scale-free networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044308</link>
-      <guid isPermaLink="false">NPINS.007125</guid>
     </item>
   </channel>
 </rss>
