@@ -143,13 +143,16 @@ class rss2social:
 
         client = Client()
         client.login(self.bsky_cred["handle"], self.bsky_cred["app_password"])
+        title = text.split("\n")[0]
+        link = text.split("\n")[1]
         length_limit = 300
         if len(text) > length_limit:
-            title = text.split("\n")[0]
-            link = text.split("\n")[1]
             title_length = len(title) - len(link) - 2 - 3
-            text = title[:title_length] + "...\n" + link
-        post = client.send_post(text)
+            title = title[:title_length] + "..."
+        tb = client_utils.TextBuilder()
+        tb.text(title + "\n")
+        tb.link(link, link)
+        post = client.send_post(tb)
 
     def post_to_bsky_old(self, text):
 

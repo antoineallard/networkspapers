@@ -13,7 +13,12 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 May 2025 19:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 19:26:22 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Math. Data Sci.: Finding Planted Cliques Using Gradient Descent</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1680489?af=R</link>
+      <guid isPermaLink="false">NPINS.007226</guid>
+    </item>
     <item>
       <title>PNAS: Cross-feeding creates tipping points in microbiome diversity</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2425603122?af=R</link>
@@ -508,11 +513,6 @@
       <title>PNAS Nexus: Emergent structures of attention on social media are driven by amplification and triad transitivity</title>
       <link>http://doi.org/10.1093/pnasnexus/pgaf106</link>
       <guid isPermaLink="false">NPINS.007127</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Strange attractors in complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L042301</link>
-      <guid isPermaLink="false">NPINS.007126</guid>
     </item>
   </channel>
 </rss>
