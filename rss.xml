@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 20 May 2025 13:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 15:02:48 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: GraphNeuralNetworks.jl: Deep Learning on Graphs with Julia</title>
+      <link>http://jmlr.org/papers/v26/24-2130.html</link>
+      <guid isPermaLink="false">NPINS.007233</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Mutation mitigates finite-size effects in spatial evolutionary games</title>
+      <link>https://www.nature.com/articles/s42005-025-02120-2</link>
+      <guid isPermaLink="false">NPINS.007232</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: A New Path Method for Exponential Ergodicity of Markov Processes on Z^d, with Applications to Stochastic Reaction Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1665933?af=R</link>
+      <guid isPermaLink="false">NPINS.007231</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Global Topological Dirac Synchronization</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/add0fe</link>
+      <guid isPermaLink="false">NPINS.007230</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Implementing semiclassical Szegedy walks in classical-quantum circuits for homomorphic encryption</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/add3aa</link>
+      <guid isPermaLink="false">NPINS.007229</guid>
+    </item>
     <item>
       <title>PLOS ONE: Mobile Phone Network Data in the COVID-19 era: A systematic review of applications, socioeconomic factors affecting compliance to non-pharmaceutical interventions, privacy implications, and post-pandemic economic recovery strategies</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322520</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Dirac’s Theorem for Linear Hypergraphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1659467?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.007134</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Identification and optimization of high-performance passing networks in football</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044313</link>
-      <guid isPermaLink="false">NPINS.007133</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Contributions of mechanical loading and hormonal changes to eccentric hypertrophy during volume overload: A Bayesian analysis using logic-based network models</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012390</link>
-      <guid isPermaLink="false">NPINS.007132</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: On quantum superpositions of graphs, no-signalling and covariance</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adc881</link>
-      <guid isPermaLink="false">NPINS.007131</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Graph coloring framework to mitigate cascading failure in complex networks</title>
-      <link>https://www.nature.com/articles/s42005-025-02089-y</link>
-      <guid isPermaLink="false">NPINS.007130</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: An opinion evolution model for online social networks considering higher-order interactions</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321718</link>
-      <guid isPermaLink="false">NPINS.007129</guid>
     </item>
   </channel>
 </rss>
