@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 May 2025 14:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 14:31:15 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: Universal mesoscale heterogeneity and its spatial correlations in equilibrium amorphous solids</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/add636</link>
+      <guid isPermaLink="false">NPINS.007258</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Polygenic prediction and gene regulation networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.241992?af=R</link>
+      <guid isPermaLink="false">NPINS.007257</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Collective dynamics and phase transitions of Stuart-Landau oscillators on a ring network: Interplay of asymmetric and symmetric couplings</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054218</link>
+      <guid isPermaLink="false">NPINS.007256</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Symmetry-driven embedding of networks in hyperbolic space</title>
+      <link>https://www.nature.com/articles/s42005-025-02122-0</link>
+      <guid isPermaLink="false">NPINS.007255</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Time-dependent influence metric for cascade dynamics on networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054310</link>
+      <guid isPermaLink="false">NPINS.007254</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Network-driven dispersion in transport phenomena</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054313</link>
@@ -488,31 +513,6 @@
       <title>Soc. Networks: Spatial dynamics in collective identity: Proximity and homophily in antifascist hyperlink-networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S037887332500019X</link>
       <guid isPermaLink="false">NPINS.007159</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: A graph-theoretic framework for free-parafermion solvability</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0671?af=R</link>
-      <guid isPermaLink="false">NPINS.007158</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: The dependency structure of the financial multiplex network model: New evidence from the cross-correlation of idiosyncratic returns, volatility, and trading volume</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320799</link>
-      <guid isPermaLink="false">NPINS.007157</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Holistic approach to analysing debates on ecological sustainability over time on X</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00545-x</link>
-      <guid isPermaLink="false">NPINS.007156</guid>
-    </item>
-    <item>
-      <title>EPL: Entanglement signatures of the small-world transition in Heisenberg-type models across network topologies</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adb49d</link>
-      <guid isPermaLink="false">NPINS.007155</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Designing biological network motif-based controllers by reverse engineering Hill function-type models from linear models</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0811?af=R</link>
-      <guid isPermaLink="false">NPINS.007154</guid>
     </item>
   </channel>
 </rss>
