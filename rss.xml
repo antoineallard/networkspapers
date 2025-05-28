@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 May 2025 13:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 13:12:44 +0000</lastBuildDate>
+    <item>
+      <title>PNAS Nexus: Coexistence of balance and hierarchies: An ego perspective to explain empirical networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf130</link>
+      <guid isPermaLink="false">NPINS.007263</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Endogenous labour flow networks</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00539-9</link>
+      <guid isPermaLink="false">NPINS.007262</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Competition between group interactions and nonlinearity in voter dynamics on hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L052301</link>
+      <guid isPermaLink="false">NPINS.007261</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Universality of the complete-graph Potts model with $0&lt;q≤2$</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054134</link>
+      <guid isPermaLink="false">NPINS.007260</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Generalizing egocentric temporal neighborhoods to probe for spatial correlations in temporal networks and infer their topology</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/add996</link>
+      <guid isPermaLink="false">NPINS.007259</guid>
+    </item>
     <item>
       <title>J. Phys. A: Universal mesoscale heterogeneity and its spatial correlations in equilibrium amorphous solids</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/add636</link>
@@ -488,31 +513,6 @@
       <title>SIAM J. Discrete Math.: Matchings, Relaxed Popularity, and Optimality</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M163596X?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.007164</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Choosability with union separation of planar graphs without intersecting triangles</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032500219X</link>
-      <guid isPermaLink="false">NPINS.007163</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Complexity reduction by symmetry: Uncovering the minimal regulatory network for logical computation in bacteria</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013005</link>
-      <guid isPermaLink="false">NPINS.007162</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Plattenbauten: Touching Rectangles in Space</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M160116X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007161</guid>
-    </item>
-    <item>
-      <title>EPL: Graph neural networks for network science: A mini review</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adc767</link>
-      <guid isPermaLink="false">NPINS.007160</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Spatial dynamics in collective identity: Proximity and homophily in antifascist hyperlink-networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332500019X</link>
-      <guid isPermaLink="false">NPINS.007159</guid>
     </item>
   </channel>
 </rss>
