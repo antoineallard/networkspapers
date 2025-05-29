@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 May 2025 14:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 14:10:51 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Assessing the robustness and reducibility of multiplex networks with embedding-aided interlayer similarities</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054315</link>
+      <guid isPermaLink="false">NPINS.007268</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A case study on professional skills and accredited graduate programs of marketing</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00696-w</link>
+      <guid isPermaLink="false">NPINS.007267</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Parasites alter interaction patterns in fish social networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0793?af=R</link>
+      <guid isPermaLink="false">NPINS.007266</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Power-law scaling of the depth of potential wells in multistable switches from feedback-regulated networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054219</link>
+      <guid isPermaLink="false">NPINS.007265</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Intrinsic functional connectivity brain networks mediate effect of age on sociability</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324277</link>
+      <guid isPermaLink="false">NPINS.007264</guid>
+    </item>
     <item>
       <title>PNAS Nexus: Coexistence of balance and hierarchies: An ego perspective to explain empirical networks</title>
       <link>http://doi.org/10.1093/pnasnexus/pgaf130</link>
@@ -488,31 +513,6 @@
       <title>Sci. Adv.: Local suppression by link rewiring reveals discontinuous percolation transitions</title>
       <link>https://www.science.org/doi/10.1126/sciadv.adt0355</link>
       <guid isPermaLink="false">NPINS.007169</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Assessing the complexity of a path search optimization method based on clustering for a transport graph</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00542-0</link>
-      <guid isPermaLink="false">NPINS.007168</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Leveraging advances in machine learning for the robust classification and interpretation of networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240458?af=R</link>
-      <guid isPermaLink="false">NPINS.007167</guid>
-    </item>
-    <item>
-      <title>EPL: The Laplacian spectrum of language: Experiments with linguistic families from the Americas</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adb450</link>
-      <guid isPermaLink="false">NPINS.007166</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Modularity with a more accurate baseline model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044317</link>
-      <guid isPermaLink="false">NPINS.007165</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Matchings, Relaxed Popularity, and Optimality</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M163596X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007164</guid>
     </item>
   </channel>
 </rss>
