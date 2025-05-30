@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 30 May 2025 02:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 13:07:40 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Dynamic angular synchronization under smoothness constraints</title>
+      <link>http://jmlr.org/papers/v26/24-0925.html</link>
+      <guid isPermaLink="false">NPINS.007273</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Partitioning vertices and edges of graphs into connected subgraphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002577</link>
+      <guid isPermaLink="false">NPINS.007272</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Temporal dynamics of the friendship paradox in a smartphone communication network</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00710-1</link>
+      <guid isPermaLink="false">NPINS.007271</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Ramsey–Turán Problem for 4-Cliques</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1619794?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007270</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Fixed point geometry in chaotic neural networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023203</link>
+      <guid isPermaLink="false">NPINS.007269</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Assessing the robustness and reducibility of multiplex networks with embedding-aided interlayer similarities</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054315</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: EC-SBM synthetic network generator</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00701-2</link>
       <guid isPermaLink="false">NPINS.007174</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Twin-Width of Subdivisions of Multigraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1621514?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007173</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Birds of a feather sign together: Co-ratification patterns in the International environmental agreement network</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000164</link>
-      <guid isPermaLink="false">NPINS.007172</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Stable Approximation Algorithms for Dominating Set and Independent Set</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1644079?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007171</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Non-self-adjoint Dirac operators on graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adc644</link>
-      <guid isPermaLink="false">NPINS.007170</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Local suppression by link rewiring reveals discontinuous percolation transitions</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adt0355</link>
-      <guid isPermaLink="false">NPINS.007169</guid>
     </item>
   </channel>
 </rss>
