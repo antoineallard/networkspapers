@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Jun 2025 05:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 05:49:09 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: The Complexity of Diameter on H-Free Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1677885?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007278</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Hyperbolic embedding of brain networks as a tool for epileptic seizures forecasting</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023182</link>
+      <guid isPermaLink="false">NPINS.007277</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Metric dimensions of generalized Sierpiński graphs over squares</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002541</link>
+      <guid isPermaLink="false">NPINS.007276</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Rational Exponents for Cliques</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1695671?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007275</guid>
+    </item>
+    <item>
+      <title>PNAS: Learning to estimate sample-specific transcriptional networks for 7,000 tumors</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2411930122?af=R</link>
+      <guid isPermaLink="false">NPINS.007274</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Dynamic angular synchronization under smoothness constraints</title>
       <link>http://jmlr.org/papers/v26/24-0925.html</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Community reciprocity promotes cooperation in a network evolutionary prisoner’s dilemma game</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325002231</link>
       <guid isPermaLink="false">NPINS.007179</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Cooperation dynamics of social dilemmas on an opinion-dependent weighted network</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002024</link>
-      <guid isPermaLink="false">NPINS.007178</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Shape and performance of fastest paths over networks with interacting selfish agents</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.044318</link>
-      <guid isPermaLink="false">NPINS.007177</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Higher-order simplicial synchronization in coupled $D$-dimensional topological Kuramoto model</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023103</link>
-      <guid isPermaLink="false">NPINS.007176</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Hierarchy, Tasks, Space: An analysis of tie formation in the Palermo Mafia</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000188</link>
-      <guid isPermaLink="false">NPINS.007175</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: EC-SBM synthetic network generator</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00701-2</link>
-      <guid isPermaLink="false">NPINS.007174</guid>
     </item>
   </channel>
 </rss>
