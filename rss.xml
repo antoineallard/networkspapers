@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jun 2025 05:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 05:33:44 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Lett.: Critical Demand in a Stochastic Model of Flows in Supply Networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.217401</link>
+      <guid isPermaLink="false">NPINS.007283</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Embeddedness, status, and groups: Networks and employment in the American television production</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000358</link>
+      <guid isPermaLink="false">NPINS.007282</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Antifragility and response to damage in the synchronization of oscillators on networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/add974</link>
+      <guid isPermaLink="false">NPINS.007281</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Indirect punishment can outperform direct punishment in promoting cooperation in structured populations</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013068</link>
+      <guid isPermaLink="false">NPINS.007280</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Influence of multiple network structures on bayesian estimation of peer effects and statistical power for generalized linear network autocorrelation models</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00709-8</link>
+      <guid isPermaLink="false">NPINS.007279</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: The Complexity of Diameter on H-Free Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1677885?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Research: Emergence of a tipping subnetwork during a critical transition in networked systems: A new avenue to extreme events</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023109</link>
       <guid isPermaLink="false">NPINS.007184</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Exploring the spatial segmentation of housing markets from online listings</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00551-z</link>
-      <guid isPermaLink="false">NPINS.007183</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: CycRank: a universal optimization framework for vital nodes identification in complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adcfbd</link>
-      <guid isPermaLink="false">NPINS.007182</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Spatiotemporal changes in river network connectivity in the Nile River Basin due to hydropower dams</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322338</link>
-      <guid isPermaLink="false">NPINS.007181</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: Network indicators of cultural resilience to anthropogenic removals in animal societies</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2024.0144?af=R</link>
-      <guid isPermaLink="false">NPINS.007180</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Community reciprocity promotes cooperation in a network evolutionary prisoner’s dilemma game</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002231</link>
-      <guid isPermaLink="false">NPINS.007179</guid>
     </item>
   </channel>
 </rss>
