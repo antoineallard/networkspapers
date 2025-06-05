@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jun 2025 07:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 07:31:48 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Sampling nodes and hyperedges via random walks on large hypergraphs</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00704-z</link>
+      <guid isPermaLink="false">NPINS.007293</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Graph-based descriptors for condensed matter</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064302</link>
+      <guid isPermaLink="false">NPINS.007292</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Ising-spin networks with competing geometric interactions: a new perspective for investigating emergent phenomena in complex materials</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-025-00959-6</link>
+      <guid isPermaLink="false">NPINS.007291</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Assessing the interactions between time series signals using weighted horizontal visibility graphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/add3a8</link>
+      <guid isPermaLink="false">NPINS.007290</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Finding large independent sets in networks using competitive dynamics</title>
+      <link>https://www.nature.com/articles/s42005-025-02153-7</link>
+      <guid isPermaLink="false">NPINS.007289</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: A Bounded Diameter Strengthening of Kőnig’s Theorem</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1701022?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Proc. R. Soc. A: Data assimilation for networks of coupled oscillators: inferring unknown model parameters from partial observations</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0813?af=R</link>
       <guid isPermaLink="false">NPINS.007194</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Detection of anomalous spatio-temporal patterns of app traffic in response to catastrophic events</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00546-w</link>
-      <guid isPermaLink="false">NPINS.007193</guid>
-    </item>
-    <item>
-      <title>EPL: Successive lag synchronization on dynamical networks: A perspective</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adcd26</link>
-      <guid isPermaLink="false">NPINS.007192</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Optimization hardness constrains ecological transients</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013051</link>
-      <guid isPermaLink="false">NPINS.007191</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Enumerating Minimal Connected Dominating Sets</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1611233?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007190</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Synchronization of complex networks with multiple disturbances via aperiodically intermittent control input</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002218</link>
-      <guid isPermaLink="false">NPINS.007189</guid>
     </item>
   </channel>
 </rss>
