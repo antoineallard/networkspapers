@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jun 2025 13:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 13:53:27 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Decoding rhythmic complexity: A nonlinear dynamics approach via visibility graphs for classifying asymmetrical rhythmic frameworks of Turkish classical music</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002917</link>
+      <guid isPermaLink="false">NPINS.007303</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Active travel modelling: a methodological approach to networks for walking and cycling commuting analysis</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/add257</link>
+      <guid isPermaLink="false">NPINS.007302</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. A: Gradient flow-based modularity maximization for community detection in multiplex networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2024.0244?af=R</link>
+      <guid isPermaLink="false">NPINS.007301</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Milgram’s experiment in the knowledge space: individual navigation strategies</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00558-6</link>
+      <guid isPermaLink="false">NPINS.007300</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Rainbow independent triangles in complete split graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003157</link>
+      <guid isPermaLink="false">NPINS.007299</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Double explosive Kuramoto transition in hypergraphs</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022049</link>
@@ -488,31 +513,6 @@
       <title>Nature: Brain tissue artificially expanded to show how neurons wire together</title>
       <link>https://www.nature.com/articles/d41586-025-01338-y</link>
       <guid isPermaLink="false">NPINS.007204</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Network Efficiency under Nonconservative Diffusion</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M167038X?af=R</link>
-      <guid isPermaLink="false">NPINS.007203</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Colonization times in Moran process on graphs</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012868</link>
-      <guid isPermaLink="false">NPINS.007202</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Dynamics of Critical Cascades in Interdependent Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.187401</link>
-      <guid isPermaLink="false">NPINS.007201</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Multiscale Field Theory for Network Flows</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevX.15.021044</link>
-      <guid isPermaLink="false">NPINS.007200</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Uncovering bridging diseases in complex multimorbidity pathways: A network science approach</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323208</link>
-      <guid isPermaLink="false">NPINS.007199</guid>
     </item>
   </channel>
 </rss>
