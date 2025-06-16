@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jun 2025 10:49:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 11:16:33 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Neighbor connectivity of hierarchical pancake networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003297</link>
+      <guid isPermaLink="false">NPINS.007323</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Network architecture of transcriptomic stress responses in zebrafish embryos</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013164</link>
+      <guid isPermaLink="false">NPINS.007322</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Modeling the SARS-CoV-2 epidemic and the efficacy of different vaccines across different network structures</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325129</link>
+      <guid isPermaLink="false">NPINS.007321</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: The role of nodes in controlling and observing complex networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325824</link>
+      <guid isPermaLink="false">NPINS.007320</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Balanced state of networks of winner-take-all units</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013081</link>
+      <guid isPermaLink="false">NPINS.007319</guid>
+    </item>
     <item>
       <title>Nat. Hum. Behav.: Social clustering of preference for female genital mutilation/cutting in south-central Ethiopia</title>
       <link>https://www.nature.com/articles/s41562-025-02236-z</link>
@@ -488,31 +513,6 @@
       <title>EPL: An improved method for identifying topology of higher-order network</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/adcf49</link>
       <guid isPermaLink="false">NPINS.007224</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Densest Subgraphs of a Dense Erdös–Rényi Graph. Asymptotics, Landscape, and Universality</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1644924?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007223</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Seymour and Woodall’s Conjecture Holds for Graphs with Independence Number Two</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1666768?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007222</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Climate: The dominant factor influencing the spatial distribution pattern of the leaf trait network of &lt;i&gt;Populus euphratica&lt;/i&gt; along the main stream of the Tarim River</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323305</link>
-      <guid isPermaLink="false">NPINS.007221</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Graph-theoretical approach to the eigenvalue spectrum of perturbed higher-order exceptional points</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023132</link>
-      <guid isPermaLink="false">NPINS.007220</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Bayesian networks for network inference in biology</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2024.0893?af=R</link>
-      <guid isPermaLink="false">NPINS.007219</guid>
     </item>
   </channel>
 </rss>
