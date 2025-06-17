@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jun 2025 06:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 08:13:53 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Commun.: stClinic dissects clinically relevant niches by integrating spatial multi-slice multi-omics data in dynamic graphs</title>
+      <link>https://www.nature.com/articles/s41467-025-60575-x</link>
+      <guid isPermaLink="false">NPINS.007328</guid>
+    </item>
+    <item>
+      <title>PNAS: Symmetries and synchronization from whole-neural activity in the Caenorhabditis elegans connectome: Integration of functional and structural networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2417850122?af=R</link>
+      <guid isPermaLink="false">NPINS.007327</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: Cognitive representations of social networks in isolated villages</title>
+      <link>https://www.nature.com/articles/s41562-025-02221-6</link>
+      <guid isPermaLink="false">NPINS.007326</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Matrix-Weighted Networks for Modeling Multidimensional Dynamics: Theoretical Foundations and Applications to Network Coherence</title>
+      <link>http://link.aps.org/doi/10.1103/jw1k-6s7w</link>
+      <guid isPermaLink="false">NPINS.007325</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Unveiling the role of local metabolic constraints on the structure and activity of spiking neural networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013148</link>
+      <guid isPermaLink="false">NPINS.007324</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Neighbor connectivity of hierarchical pancake networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325003297</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: Implementing semiclassical Szegedy walks in classical-quantum circuits for homomorphic encryption</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/add3aa</link>
       <guid isPermaLink="false">NPINS.007229</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Mobile Phone Network Data in the COVID-19 era: A systematic review of applications, socioeconomic factors affecting compliance to non-pharmaceutical interventions, privacy implications, and post-pandemic economic recovery strategies</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322520</link>
-      <guid isPermaLink="false">NPINS.007228</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Global decomposition of networks into multiple cores formed by local hubs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054302</link>
-      <guid isPermaLink="false">NPINS.007227</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Finding Planted Cliques Using Gradient Descent</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1680489?af=R</link>
-      <guid isPermaLink="false">NPINS.007226</guid>
-    </item>
-    <item>
-      <title>PNAS: Cross-feeding creates tipping points in microbiome diversity</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2425603122?af=R</link>
-      <guid isPermaLink="false">NPINS.007225</guid>
-    </item>
-    <item>
-      <title>EPL: An improved method for identifying topology of higher-order network</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adcf49</link>
-      <guid isPermaLink="false">NPINS.007224</guid>
     </item>
   </channel>
 </rss>
