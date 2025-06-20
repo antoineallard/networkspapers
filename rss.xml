@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jun 2025 10:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 10:15:24 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Behavior of Ising spins and ecological oscillators on dynamically rewired small-world networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064311</link>
+      <guid isPermaLink="false">NPINS.007343</guid>
+    </item>
+    <item>
+      <title>PNAS: Bias-aware training and evaluation of link prediction algorithms in network biology</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2416646122?af=R</link>
+      <guid isPermaLink="false">NPINS.007342</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Optimizing taxi operations in Shanghai for reduced idle time and greener transportation: a spatiotemporal analysis using trajectory data and complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ade354</link>
+      <guid isPermaLink="false">NPINS.007341</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: First- and second-order network coherence in N-duplication weighted corona networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1562805</link>
+      <guid isPermaLink="false">NPINS.007340</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Voter model can accurately predict individual opinions in online populations</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064310</link>
+      <guid isPermaLink="false">NPINS.007339</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Dynamic neuron approach to deep neural networks: Decoupling neurons for renormalization group analysis</title>
       <link>http://link.aps.org/doi/10.1103/tf5z-7q29</link>
@@ -488,31 +513,6 @@
       <title>J. Mach. Learn. Res.: Learning causal graphs via nonlinear sufficient dimension reduction</title>
       <link>http://jmlr.org/papers/v26/24-0048.html</link>
       <guid isPermaLink="false">NPINS.007244</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Reputation-based reciprocity in human–bot and human–human networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf150</link>
-      <guid isPermaLink="false">NPINS.007243</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Interaction networks of SIM-binding groove mutants reveal alternate modes of SUMO binding and profound impact on SUMO conjugation</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adp2643</link>
-      <guid isPermaLink="false">NPINS.007242</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Chip-Firing and Critical Groups of Signed Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1655287?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007241</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Biased random walks on networks with stochastic resetting</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054309</link>
-      <guid isPermaLink="false">NPINS.007240</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Measuring biases in AI-generated co-authorship networks</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00555-9</link>
-      <guid isPermaLink="false">NPINS.007239</guid>
     </item>
   </channel>
 </rss>
