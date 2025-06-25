@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jun 2025 19:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 20:35:01 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Adv.: Early insight into social network structure predicts climbing the social ladder</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ads2133</link>
+      <guid isPermaLink="false">NPINS.007353</guid>
+    </item>
+    <item>
+      <title>EPL: Network-based computational communication</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ade337</link>
+      <guid isPermaLink="false">NPINS.007352</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Adaptive rumor propagation and activity contagion in higher-order networks</title>
+      <link>https://www.nature.com/articles/s42005-025-02181-3</link>
+      <guid isPermaLink="false">NPINS.007351</guid>
+    </item>
+    <item>
+      <title>EPL: Dynamic analysis of infectious diseases on multi-layer networks based on higher-order interaction</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ade336</link>
+      <guid isPermaLink="false">NPINS.007350</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Bully-victim network perceptions of bullies, victims, and peer observers</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000413</link>
+      <guid isPermaLink="false">NPINS.007349</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Universal phase transition and scalings of phase oscillators with partial adaptive coupling</title>
       <link>http://link.aps.org/doi/10.1103/k5s3-gbhz</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Time-dependent influence metric for cascade dynamics on networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054310</link>
       <guid isPermaLink="false">NPINS.007254</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Network-driven dispersion in transport phenomena</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054313</link>
-      <guid isPermaLink="false">NPINS.007253</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Compressing regularized dynamics improves link prediction with the map equation in sparse networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054314</link>
-      <guid isPermaLink="false">NPINS.007252</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Decoding cancer dynamics: Hypergraph analysis of stem cell marker interactions through O-information and community detection</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054410</link>
-      <guid isPermaLink="false">NPINS.007251</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Genetic designs for stochastic and probabilistic biocomputing</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054412</link>
-      <guid isPermaLink="false">NPINS.007250</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Excluding a Clique or a Biclique in Graphs of Bounded Induced Matching Treewidth</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1659960?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007249</guid>
     </item>
   </channel>
 </rss>
