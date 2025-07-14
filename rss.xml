@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jul 2025 13:41:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 14:18:39 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Relationship network, knowledge transfer and open innovation behavior of SMEs from China</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326490</link>
+      <guid isPermaLink="false">NPINS.007363</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Emergence of network communities driven by local rules</title>
+      <link>http://link.aps.org/doi/10.1103/d7kf-s1cf</link>
+      <guid isPermaLink="false">NPINS.007362</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Transitions to synchronization in adaptive multilayer networks with higher-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/tjvn-5zvx</link>
+      <guid isPermaLink="false">NPINS.007361</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Master Stability for Traveling Waves on Networks</title>
+      <link>http://link.aps.org/doi/10.1103/6v64-j5fd</link>
+      <guid isPermaLink="false">NPINS.007360</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Who’s in your extended network? Analysing the size and homogeneity of acquaintanceship networks in the Netherlands</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000383</link>
+      <guid isPermaLink="false">NPINS.007359</guid>
+    </item>
     <item>
       <title>Sci. Adv.: State modulation in spatial networks with three interneuron subtypes</title>
       <link>https://www.science.org/doi/10.1126/sciadv.ads9134</link>
@@ -488,31 +513,6 @@
       <title>PLOS ONE: Intrinsic functional connectivity brain networks mediate effect of age on sociability</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324277</link>
       <guid isPermaLink="false">NPINS.007264</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Coexistence of balance and hierarchies: An ego perspective to explain empirical networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf130</link>
-      <guid isPermaLink="false">NPINS.007263</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Endogenous labour flow networks</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00539-9</link>
-      <guid isPermaLink="false">NPINS.007262</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Competition between group interactions and nonlinearity in voter dynamics on hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.L052301</link>
-      <guid isPermaLink="false">NPINS.007261</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Universality of the complete-graph Potts model with $0&lt;q≤2$</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054134</link>
-      <guid isPermaLink="false">NPINS.007260</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Generalizing egocentric temporal neighborhoods to probe for spatial correlations in temporal networks and infer their topology</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/add996</link>
-      <guid isPermaLink="false">NPINS.007259</guid>
     </item>
   </channel>
 </rss>
