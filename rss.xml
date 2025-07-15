@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Jul 2025 13:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 13:30:57 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Hum. Behav.: In silico discovery of representational relationships across visual cortex</title>
+      <link>https://www.nature.com/articles/s41562-025-02252-z</link>
+      <guid isPermaLink="false">NPINS.007368</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Growth-induced percolation on complex networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf192</link>
+      <guid isPermaLink="false">NPINS.007367</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Splinting in horizontal root fractures: A Bayesian network meta-analysis</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326979</link>
+      <guid isPermaLink="false">NPINS.007366</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Arlclustering: an R package for community detection in social networks based on user interaction and association rule learning</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00715-w</link>
+      <guid isPermaLink="false">NPINS.007365</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Propagation of extreme events in multiplex neuronal networks</title>
+      <link>http://link.aps.org/doi/10.1103/jy8r-7gfh</link>
+      <guid isPermaLink="false">NPINS.007364</guid>
+    </item>
     <item>
       <title>PLOS ONE: Relationship network, knowledge transfer and open innovation behavior of SMEs from China</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326490</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. Research: Fixed point geometry in chaotic neural networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023203</link>
       <guid isPermaLink="false">NPINS.007269</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Assessing the robustness and reducibility of multiplex networks with embedding-aided interlayer similarities</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054315</link>
-      <guid isPermaLink="false">NPINS.007268</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A case study on professional skills and accredited graduate programs of marketing</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00696-w</link>
-      <guid isPermaLink="false">NPINS.007267</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Parasites alter interaction patterns in fish social networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0793?af=R</link>
-      <guid isPermaLink="false">NPINS.007266</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Power-law scaling of the depth of potential wells in multistable switches from feedback-regulated networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.054219</link>
-      <guid isPermaLink="false">NPINS.007265</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Intrinsic functional connectivity brain networks mediate effect of age on sociability</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324277</link>
-      <guid isPermaLink="false">NPINS.007264</guid>
     </item>
   </channel>
 </rss>
