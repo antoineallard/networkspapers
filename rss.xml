@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jul 2025 12:54:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 16:43:26 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Keep the bees off the trees: the vulnerability of species in the periphery of mutualistic networks to shock perturbations</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ade927</link>
+      <guid isPermaLink="false">NPINS.007378</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Evolution of foraging behaviour induces variable complexity-stability relationships in mutualist-exploiter-predator communities</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013245</link>
+      <guid isPermaLink="false">NPINS.007377</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Economical representation of spatial networks</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf203</link>
+      <guid isPermaLink="false">NPINS.007376</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Tree networks of real-world data: Analysis of efficiency and spatiotemporal scales</title>
+      <link>http://link.aps.org/doi/10.1103/ztmk-glc4</link>
+      <guid isPermaLink="false">NPINS.007375</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Growing neural networks: dynamic evolution through gradient descent</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0222?af=R</link>
+      <guid isPermaLink="false">NPINS.007374</guid>
+    </item>
     <item>
       <title>PNAS: Metabolic control of glycosylation forms for establishing glycan-dependent protein interaction networks</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2422936122?af=R</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Influence of multiple network structures on bayesian estimation of peer effects and statistical power for generalized linear network autocorrelation models</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00709-8</link>
       <guid isPermaLink="false">NPINS.007279</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Complexity of Diameter on H-Free Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1677885?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007278</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Hyperbolic embedding of brain networks as a tool for epileptic seizures forecasting</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.023182</link>
-      <guid isPermaLink="false">NPINS.007277</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Metric dimensions of generalized Sierpiński graphs over squares</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325002541</link>
-      <guid isPermaLink="false">NPINS.007276</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Rational Exponents for Cliques</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1695671?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007275</guid>
-    </item>
-    <item>
-      <title>PNAS: Learning to estimate sample-specific transcriptional networks for 7,000 tumors</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2411930122?af=R</link>
-      <guid isPermaLink="false">NPINS.007274</guid>
     </item>
   </channel>
 </rss>
