@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Jul 2025 12:52:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 13:04:12 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Distinct Distances for Points Lying on Curves in Rd—The Bipartite Case</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1659807?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007383</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Community detection on directed networks with missing edges</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ade5e4</link>
+      <guid isPermaLink="false">NPINS.007382</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. X: Fast Nonparametric Inference of Network Backbones for Weighted Graph Sparsification</title>
+      <link>http://link.aps.org/doi/10.1103/4pg6-mtmt</link>
+      <guid isPermaLink="false">NPINS.007381</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: River networks in the framework of complex network theory</title>
+      <link>http://link.aps.org/doi/10.1103/kpbq-8wzb</link>
+      <guid isPermaLink="false">NPINS.007380</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Role of gap junctions and clustered connectivity in emergent synchronization patterns of inhibitory neuronal networks</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.112.014405</link>
+      <guid isPermaLink="false">NPINS.007379</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Keep the bees off the trees: the vulnerability of species in the periphery of mutualistic networks to shock perturbations</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ade927</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Alternative expression of message passing on networks</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064301</link>
       <guid isPermaLink="false">NPINS.007284</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Critical Demand in a Stochastic Model of Flows in Supply Networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevLett.134.217401</link>
-      <guid isPermaLink="false">NPINS.007283</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Embeddedness, status, and groups: Networks and employment in the American television production</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000358</link>
-      <guid isPermaLink="false">NPINS.007282</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Antifragility and response to damage in the synchronization of oscillators on networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/add974</link>
-      <guid isPermaLink="false">NPINS.007281</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Indirect punishment can outperform direct punishment in promoting cooperation in structured populations</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013068</link>
-      <guid isPermaLink="false">NPINS.007280</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Influence of multiple network structures on bayesian estimation of peer effects and statistical power for generalized linear network autocorrelation models</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00709-8</link>
-      <guid isPermaLink="false">NPINS.007279</guid>
     </item>
   </channel>
 </rss>
