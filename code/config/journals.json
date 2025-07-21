@@ -647,8 +647,8 @@
     "Research":
     {
       "abstract":         "description",
-      "feed1":            "https://spj.sciencemag.org/journals/research/rss/",
-      "feed2":            "https://spj.sciencemag.org/journals/research/rss/",
+      "feed1":            "https://spj.science.org/action/showFeed?type=etoc&feed=rss&jc=research",
+      "feed2":            "https://spj.science.org/action/showFeed?type=etoc&feed=rss&jc=research",
       "host":             "None",
       "id":               "link",
       "journal_abbrev":   "Research",

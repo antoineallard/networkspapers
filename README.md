@@ -60,7 +60,7 @@ The file `past_posts.json` contains every new paper in network science identifie
  - Proceedings of the Royal Society A ([journal's website](https://royalsocietypublishing.org/journal/rspa), [feed's url](http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspa))
  - Proceedings of the Royal Society B ([journal's website](https://royalsocietypublishing.org/journal/rspb), [feed's url](http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspb))
  - Royal Society Open Science ([journal's website](https://royalsocietypublishing.org/journal/rsos), [feed's url](https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsos))
- - Research ([journal's website](https://spj.sciencemag.org/journals/research/), [feed's url](https://spj.sciencemag.org/journals/research/rss/))
+ - Research ([journal's website](https://spj.sciencemag.org/journals/research/), [feed's url](https://spj.science.org/action/showFeed?type=etoc&feed=rss&jc=research))
  - Reviews of Modern Phyics ([journal's website](https://journals.aps.org/rmp), [feed's url](http://feeds.aps.org/rss/recent/rmp.xml))
  - SIAM Journal on Applied Dynamical Systems ([journal's website](https://epubs.siam.org/journal/sjaday), [feed's url](https://epubs.siam.org/action/showFeed?type=etoc&feed=rss&jc=sjaday))
  - SIAM Journal on Applied Mathematics ([journal's website](https://epubs.siam.org/loi/smjmap), [feed's url](https://epubs.siam.org/action/showFeed?ui=0&mi=9cks17&ai=s3&jc=smjmap&type=etoc&feed=rss))
