@@ -32,8 +32,8 @@
     "Chaos":
     {
       "abstract":         "summary",
-      "feed1":            "https://aipp.silverchair.com/rss/site_1000025/1000015.xml",
-      "feed2":            "https://aipp.silverchair.com/rss/site_1000025/1000015.xml",
+      "feed1":            "https://pubs.aip.org/rss/site_1000025/1000015.xml",
+      "feed2":            "https://pubs.aip.org/rss/site_1000025/1000015.xml",
       "host":             "None",
       "id":               "id",
       "journal_abbrev":   "Chaos",
