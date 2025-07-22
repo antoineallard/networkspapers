@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Jul 2025 12:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:33:13 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Technological risks disrupting trade stability in the global lithium supply chain network</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225012003</link>
+      <guid isPermaLink="false">NPINS.007393</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Whom do you trust? The determinants of loyalty in a market without quality signals</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00714-x</link>
+      <guid isPermaLink="false">NPINS.007392</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Intergroup-based public goods games in complex networks with leader-driven other-regarding preferences</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003492</link>
+      <guid isPermaLink="false">NPINS.007391</guid>
+    </item>
+    <item>
+      <title>iScience: Of mice and men: Dendritic architecture differentiates human from mouse neuronal networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225011897</link>
+      <guid isPermaLink="false">NPINS.007390</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The power of gaps: Multilayer mechanisms and source tracing of complex dynamics in higher-order networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003510</link>
+      <guid isPermaLink="false">NPINS.007389</guid>
+    </item>
     <item>
       <title>Front. Phys.: Resilience and competitiveness analysis of the crude oil shipping network: identification of crucial nodes and impact of disruptions</title>
       <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1566892</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Metastability in networks of stochastic integrate-and-fire neurons</title>
       <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064402</link>
       <guid isPermaLink="false">NPINS.007294</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Sampling nodes and hyperedges via random walks on large hypergraphs</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00704-z</link>
-      <guid isPermaLink="false">NPINS.007293</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Graph-based descriptors for condensed matter</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064302</link>
-      <guid isPermaLink="false">NPINS.007292</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Ising-spin networks with competing geometric interactions: a new perspective for investigating emergent phenomena in complex materials</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-025-00959-6</link>
-      <guid isPermaLink="false">NPINS.007291</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Assessing the interactions between time series signals using weighted horizontal visibility graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/add3a8</link>
-      <guid isPermaLink="false">NPINS.007290</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Finding large independent sets in networks using competitive dynamics</title>
-      <link>https://www.nature.com/articles/s42005-025-02153-7</link>
-      <guid isPermaLink="false">NPINS.007289</guid>
     </item>
   </channel>
 </rss>
