@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jul 2025 13:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 13:18:23 +0000</lastBuildDate>
+    <item>
+      <title>Soc. Networks: The duality of network ties and attributes</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000437</link>
+      <guid isPermaLink="false">NPINS.007408</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Edges are all you need: Potential of medical time series analysis on complete blood count data with graph neural networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327636</link>
+      <guid isPermaLink="false">NPINS.007407</guid>
+    </item>
+    <item>
+      <title>iScience: Sample-specific network analysis identifies gene co-expression patterns of immunotherapy response in clear cell renal cell carcinoma</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225013227</link>
+      <guid isPermaLink="false">NPINS.007406</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The cultural construction of personal relationships</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000425</link>
+      <guid isPermaLink="false">NPINS.007405</guid>
+    </item>
+    <item>
+      <title>Chaos: Robustness of infrastructure networks with cascading overload failures under extreme geographically localized attacks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/7/071101/3351996/Robustness-of-infrastructure-networks-with</link>
+      <guid isPermaLink="false">NPINS.007404</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: How to realize compact and noncompact localized states in disorder-free hypercube networks</title>
       <link>http://link.aps.org/doi/10.1103/4s2w-y1xx</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: High and low similarity backbone extraction using similarity-based link prediction</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00705-y</link>
       <guid isPermaLink="false">NPINS.007309</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Network growth under opportunistic attachment</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00706-x</link>
-      <guid isPermaLink="false">NPINS.007308</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Network-based diversification of stock and cryptocurrency portfolios</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00708-9</link>
-      <guid isPermaLink="false">NPINS.007307</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Adaptive density peak clustering based on Delaunay graph</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325161</link>
-      <guid isPermaLink="false">NPINS.007306</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: P-Matchings Parameterized by Treewidth</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M160013X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007305</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Homophilic organization of egocentric communities in ICT services</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325187</link>
-      <guid isPermaLink="false">NPINS.007304</guid>
     </item>
   </channel>
 </rss>
