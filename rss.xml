@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Jul 2025 12:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 12:58:10 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Quantum approximate optimization algorithms for maximum cut on low-girth graphs</title>
+      <link>http://link.aps.org/doi/10.1103/jypq-v1fn</link>
+      <guid isPermaLink="false">NPINS.007435</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Aspartame and ischemic stroke: unraveling the molecular link through network toxicology and molecular docking analysis</title>
+      <link>https://www.nature.com/articles/s41598-025-08898-z</link>
+      <guid isPermaLink="false">NPINS.007434</guid>
+    </item>
+    <item>
+      <title>Research: Constructing Cell-Specific Causal Networks of Individual Cells for Depicting Dynamical Biological Processes</title>
+      <link>https://spj.science.org/doi/abs/10.34133/research.0743?af=R</link>
+      <guid isPermaLink="false">NPINS.007433</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Breakdown of stochastic resonance in complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/fc2t-275m</link>
+      <guid isPermaLink="false">NPINS.007432</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Explosive neural networks via higher-order interactions in curved statistical manifolds</title>
+      <link>https://www.nature.com/articles/s41467-025-61475-w</link>
+      <guid isPermaLink="false">NPINS.007431</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Canonical Ramsey Numbers of Sparse Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1714964?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007430</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Generating brain-wide connectome using synthetic axonal morphologies</title>
+      <link>https://www.nature.com/articles/s41467-025-62030-3</link>
+      <guid isPermaLink="false">NPINS.007429</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. X: Effective One-Dimensional Reduction of Multicompartment Complex Systems Dynamics</title>
+      <link>http://link.aps.org/doi/10.1103/whdb-2lgl</link>
+      <guid isPermaLink="false">NPINS.007428</guid>
+    </item>
+    <item>
+      <title>Chaos: Machine learning informed by micro- and mesoscopic statistical physics methods for community detection</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/7/073103/3351179/Machine-learning-informed-by-micro-and-mesoscopic</link>
+      <guid isPermaLink="false">NPINS.007427</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Bibliometric cartography of data science: a large-scale analysis on knowledge integration and diffusion</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00573-7</link>
+      <guid isPermaLink="false">NPINS.007426</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Continuous time random walks on networks</title>
       <link>http://link.aps.org/doi/10.1103/jcv2-pth8</link>
@@ -463,56 +513,6 @@
       <title>J. R. Soc. Interface: Drivers of cooperation in social dilemmas on higher‐order networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2025.0134?af=R</link>
       <guid isPermaLink="false">NPINS.007336</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Electrical circuit model of spatiotemporal trade dynamics: Foundations and derivation of the gravity model</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326102</link>
-      <guid isPermaLink="false">NPINS.007335</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Density-dependent stochastic resetting: a large deviations framework for achieving target distributions over networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adde3f</link>
-      <guid isPermaLink="false">NPINS.007334</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Generalization Bounds for Message Passing Networks on Mixture of Graphons</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1651526?af=R</link>
-      <guid isPermaLink="false">NPINS.007333</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Unlimited number of spanning clusters in three-dimensional percolation above the critical point</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022067</link>
-      <guid isPermaLink="false">NPINS.007332</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Dynamical quantum phase transitions on random networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ade07b</link>
-      <guid isPermaLink="false">NPINS.007331</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Uncovering the impact of randomness in HIV hotspot formation: A mathematical modeling study</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013178</link>
-      <guid isPermaLink="false">NPINS.007330</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Approximation for return time distributions of random walks on sparse networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064306</link>
-      <guid isPermaLink="false">NPINS.007329</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: stClinic dissects clinically relevant niches by integrating spatial multi-slice multi-omics data in dynamic graphs</title>
-      <link>https://www.nature.com/articles/s41467-025-60575-x</link>
-      <guid isPermaLink="false">NPINS.007328</guid>
-    </item>
-    <item>
-      <title>PNAS: Symmetries and synchronization from whole-neural activity in the Caenorhabditis elegans connectome: Integration of functional and structural networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2417850122?af=R</link>
-      <guid isPermaLink="false">NPINS.007327</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Cognitive representations of social networks in isolated villages</title>
-      <link>https://www.nature.com/articles/s41562-025-02221-6</link>
-      <guid isPermaLink="false">NPINS.007326</guid>
     </item>
   </channel>
 </rss>
