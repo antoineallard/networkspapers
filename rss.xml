@@ -13,7 +13,57 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Aug 2025 12:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 12:13:33 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Feature-enriched hyperbolic network geometry</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.033036</link>
+      <guid isPermaLink="false">NPINS.007445</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: From observed transitions to hidden paths in Markov networks</title>
+      <link>http://link.aps.org/doi/10.1103/p4k1-1dvb</link>
+      <guid isPermaLink="false">NPINS.007444</guid>
+    </item>
+    <item>
+      <title>iScience: ThermOptCobra: Thermodynamically optimal construction and analysis of metabolic networks for reliable phenotype predictions</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225012660</link>
+      <guid isPermaLink="false">NPINS.007443</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Partial information decomposition for discrete target and continuous source random variables</title>
+      <link>http://link.aps.org/doi/10.1103/58bg-5n9s</link>
+      <guid isPermaLink="false">NPINS.007442</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Solana’s transaction network: analysis, insights, and comparison</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00561-x</link>
+      <guid isPermaLink="false">NPINS.007441</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A systematic scoping review and thematic analysis: How can livestock and poultry movement networks inform disease surveillance and control at the global scale?</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328518</link>
+      <guid isPermaLink="false">NPINS.007440</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: DNFE: Directed network flow entropy for detecting tipping points during biological processes</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013336</link>
+      <guid isPermaLink="false">NPINS.007439</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: SDW2vec: learning structural representations of nodes in weighted networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00722-x</link>
+      <guid isPermaLink="false">NPINS.007438</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Structural and genetic determinants of zebrafish functional brain networks</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adv7576</link>
+      <guid isPermaLink="false">NPINS.007437</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Simplicial complexes in network intrusion profiling: pattern construction through simplicial centralities</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00720-z</link>
+      <guid isPermaLink="false">NPINS.007436</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Quantum approximate optimization algorithms for maximum cut on low-girth graphs</title>
       <link>http://link.aps.org/doi/10.1103/jypq-v1fn</link>
@@ -463,56 +513,6 @@
       <title>EPL: Network alignment in multilayer dynamic social network using the information diffusion dynamics</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/add95a</link>
       <guid isPermaLink="false">NPINS.007346</guid>
-    </item>
-    <item>
-      <title>EPL: Resilience in biomolecular networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/addc94</link>
-      <guid isPermaLink="false">NPINS.007345</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Explaining contact patterns in acquaintanceship networks: A new covariate-based model</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332500036X</link>
-      <guid isPermaLink="false">NPINS.007344</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Behavior of Ising spins and ecological oscillators on dynamically rewired small-world networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064311</link>
-      <guid isPermaLink="false">NPINS.007343</guid>
-    </item>
-    <item>
-      <title>PNAS: Bias-aware training and evaluation of link prediction algorithms in network biology</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2416646122?af=R</link>
-      <guid isPermaLink="false">NPINS.007342</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Optimizing taxi operations in Shanghai for reduced idle time and greener transportation: a spatiotemporal analysis using trajectory data and complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ade354</link>
-      <guid isPermaLink="false">NPINS.007341</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: First- and second-order network coherence in N-duplication weighted corona networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1562805</link>
-      <guid isPermaLink="false">NPINS.007340</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Voter model can accurately predict individual opinions in online populations</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.111.064310</link>
-      <guid isPermaLink="false">NPINS.007339</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Dynamic neuron approach to deep neural networks: Decoupling neurons for renormalization group analysis</title>
-      <link>http://link.aps.org/doi/10.1103/tf5z-7q29</link>
-      <guid isPermaLink="false">NPINS.007338</guid>
-    </item>
-    <item>
-      <title>PNAS: The bunkbed conjecture is false</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2420725122?af=R</link>
-      <guid isPermaLink="false">NPINS.007337</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Drivers of cooperation in social dilemmas on higher‐order networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2025.0134?af=R</link>
-      <guid isPermaLink="false">NPINS.007336</guid>
     </item>
   </channel>
 </rss>
