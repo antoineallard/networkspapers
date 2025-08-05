@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Aug 2025 12:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 13:01:48 +0000</lastBuildDate>
+    <item>
+      <title>New J. Phys.: Target search on networks-within-networks with applications to protein-DNA interactions</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adf34e</link>
+      <guid isPermaLink="false">NPINS.007462</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Influence of symbolic content on recommendation bias: analyzing YouTube’s algorithm during Taiwan’s 2024 election</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00713-y</link>
+      <guid isPermaLink="false">NPINS.007461</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Conditional (edge) neighbor connectivity of hierarchical star networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003704</link>
+      <guid isPermaLink="false">NPINS.007460</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Quasi-synchronization of multiplex networks under deception attacks via event-triggered impulsive protocol</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003613</link>
+      <guid isPermaLink="false">NPINS.007459</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: An identifying operation on a 1-planar graph with an application to acyclic coloring</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003406</link>
+      <guid isPermaLink="false">NPINS.007458</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Robustness assessment of urban road networks in densely populated cities</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00707-w</link>
+      <guid isPermaLink="false">NPINS.007457</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Closeness spectra and structural uniqueness of special graph classes</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003923</link>
+      <guid isPermaLink="false">NPINS.007456</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Inherent structural vulnerabilities in power distribution networks: a longitudinal complex network analysis</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00724-9</link>
@@ -478,41 +513,6 @@
       <title>PLOS ONE: Relationship network, knowledge transfer and open innovation behavior of SMEs from China</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326490</link>
       <guid isPermaLink="false">NPINS.007363</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Emergence of network communities driven by local rules</title>
-      <link>http://link.aps.org/doi/10.1103/d7kf-s1cf</link>
-      <guid isPermaLink="false">NPINS.007362</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Transitions to synchronization in adaptive multilayer networks with higher-order interactions</title>
-      <link>http://link.aps.org/doi/10.1103/tjvn-5zvx</link>
-      <guid isPermaLink="false">NPINS.007361</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Master Stability for Traveling Waves on Networks</title>
-      <link>http://link.aps.org/doi/10.1103/6v64-j5fd</link>
-      <guid isPermaLink="false">NPINS.007360</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Who’s in your extended network? Analysing the size and homogeneity of acquaintanceship networks in the Netherlands</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000383</link>
-      <guid isPermaLink="false">NPINS.007359</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: State modulation in spatial networks with three interneuron subtypes</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.ads9134</link>
-      <guid isPermaLink="false">NPINS.007358</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Network-driven vaccination strategies for preventing rebound dynamics in metapopulation epidemic control</title>
-      <link>http://link.aps.org/doi/10.1103/51fg-4rhx</link>
-      <guid isPermaLink="false">NPINS.007357</guid>
-    </item>
-    <item>
-      <title>iScience: Utilizing rat kidney gene co-expression networks to enhance safety assessment biomarker identification and human translation</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225012398</link>
-      <guid isPermaLink="false">NPINS.007356</guid>
     </item>
   </channel>
 </rss>
