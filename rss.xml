@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Aug 2025 12:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 12:48:31 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: The Dimension of the Region of Feasible Tournament Profiles</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1613372?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007467</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The Correspondence Analysis of two-mode networks revisited</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000401</link>
+      <guid isPermaLink="false">NPINS.007466</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Studies on innovative energy startups’ topological roles and their correlation with success: based on temporal networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1610832</link>
+      <guid isPermaLink="false">NPINS.007465</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Empirical study of daily link traffic volume forecasting based on a deep neural network</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327664</link>
+      <guid isPermaLink="false">NPINS.007464</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: FlowSeries: flow analysis on financial networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00711-0</link>
+      <guid isPermaLink="false">NPINS.007463</guid>
+    </item>
     <item>
       <title>New J. Phys.: Target search on networks-within-networks with applications to protein-DNA interactions</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/adf34e</link>
@@ -488,31 +513,6 @@
       <title>Nat. Hum. Behav.: In silico discovery of representational relationships across visual cortex</title>
       <link>https://www.nature.com/articles/s41562-025-02252-z</link>
       <guid isPermaLink="false">NPINS.007368</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Growth-induced percolation on complex networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf192</link>
-      <guid isPermaLink="false">NPINS.007367</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Splinting in horizontal root fractures: A Bayesian network meta-analysis</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326979</link>
-      <guid isPermaLink="false">NPINS.007366</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Arlclustering: an R package for community detection in social networks based on user interaction and association rule learning</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00715-w</link>
-      <guid isPermaLink="false">NPINS.007365</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Propagation of extreme events in multiplex neuronal networks</title>
-      <link>http://link.aps.org/doi/10.1103/jy8r-7gfh</link>
-      <guid isPermaLink="false">NPINS.007364</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Relationship network, knowledge transfer and open innovation behavior of SMEs from China</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326490</link>
-      <guid isPermaLink="false">NPINS.007363</guid>
     </item>
   </channel>
 </rss>
