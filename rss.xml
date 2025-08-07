@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Aug 2025 12:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 12:13:19 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Discrete Math.: Rigid Graphs in Cylindrical Normed Spaces</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1587543?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007472</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The minimum atom-bond sum-connectivity index of graphs with given degree sequence</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003935</link>
+      <guid isPermaLink="false">NPINS.007471</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Unveiling connectivity patterns of railway timetables through complex network theory and Infomap clustering</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328681</link>
+      <guid isPermaLink="false">NPINS.007470</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Do diversity and context collapse kill an online social network?</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00719-6</link>
+      <guid isPermaLink="false">NPINS.007469</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Network theory predicts ecosystem robustness across environmental conditions</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0467?af=R</link>
+      <guid isPermaLink="false">NPINS.007468</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: The Dimension of the Region of Feasible Tournament Profiles</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1613372?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>PNAS: Metabolic control of glycosylation forms for establishing glycan-dependent protein interaction networks</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2422936122?af=R</link>
       <guid isPermaLink="false">NPINS.007373</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Community detection on simplicial complexes</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00695-x</link>
-      <guid isPermaLink="false">NPINS.007372</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Hypermodularity and community detection in hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/58dr-wktc</link>
-      <guid isPermaLink="false">NPINS.007371</guid>
-    </item>
-    <item>
-      <title>PNAS: Action-mode subnetworks for decision-making, action control, and feedback</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2502021122?af=R</link>
-      <guid isPermaLink="false">NPINS.007370</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Networks of inclusion: Using teams and technology to create diverse social capital</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000346</link>
-      <guid isPermaLink="false">NPINS.007369</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: In silico discovery of representational relationships across visual cortex</title>
-      <link>https://www.nature.com/articles/s41562-025-02252-z</link>
-      <guid isPermaLink="false">NPINS.007368</guid>
     </item>
   </channel>
 </rss>
