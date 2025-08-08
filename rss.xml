@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Aug 2025 13:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 13:35:32 +0000</lastBuildDate>
+    <item>
+      <title>Soc. Networks: Urban environmental stewardship networks: How organizations collaborate, share resources, and exchange knowledge within Baltimore, Maryland</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000322</link>
+      <guid isPermaLink="false">NPINS.007479</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Adaptive Node Positioning in Biological Transport Networks</title>
+      <link>http://link.aps.org/doi/10.1103/6b4j-tq1n</link>
+      <guid isPermaLink="false">NPINS.007478</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Numerical integration of the KPZ and related equations on networks: the case of the Cayley tree</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adf295</link>
+      <guid isPermaLink="false">NPINS.007477</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Quantifying edge relevance for epidemic spreading via the semi-metric topology of complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adf2ed</link>
+      <guid isPermaLink="false">NPINS.007476</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Let’s DAG in: how directed acyclic graphs can help behavioural ecology be more transparent</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0963?af=R</link>
+      <guid isPermaLink="false">NPINS.007475</guid>
+    </item>
+    <item>
+      <title>iScience: Connectome-based predictive modeling of handwriting and reading using task-evoked and resting-state functional connectivity</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225013367</link>
+      <guid isPermaLink="false">NPINS.007474</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Dynamical cavity method for hypergraphs and its application to quenches in the k-XOR-SAT problem</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.112.014306</link>
+      <guid isPermaLink="false">NPINS.007473</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Rigid Graphs in Cylindrical Normed Spaces</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1587543?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: River networks in the framework of complex network theory</title>
       <link>http://link.aps.org/doi/10.1103/kpbq-8wzb</link>
       <guid isPermaLink="false">NPINS.007380</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Role of gap junctions and clustered connectivity in emergent synchronization patterns of inhibitory neuronal networks</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.112.014405</link>
-      <guid isPermaLink="false">NPINS.007379</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Keep the bees off the trees: the vulnerability of species in the periphery of mutualistic networks to shock perturbations</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ade927</link>
-      <guid isPermaLink="false">NPINS.007378</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Evolution of foraging behaviour induces variable complexity-stability relationships in mutualist-exploiter-predator communities</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013245</link>
-      <guid isPermaLink="false">NPINS.007377</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Economical representation of spatial networks</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf203</link>
-      <guid isPermaLink="false">NPINS.007376</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Tree networks of real-world data: Analysis of efficiency and spatiotemporal scales</title>
-      <link>http://link.aps.org/doi/10.1103/ztmk-glc4</link>
-      <guid isPermaLink="false">NPINS.007375</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Growing neural networks: dynamic evolution through gradient descent</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0222?af=R</link>
-      <guid isPermaLink="false">NPINS.007374</guid>
-    </item>
-    <item>
-      <title>PNAS: Metabolic control of glycosylation forms for establishing glycan-dependent protein interaction networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2422936122?af=R</link>
-      <guid isPermaLink="false">NPINS.007373</guid>
     </item>
   </channel>
 </rss>
