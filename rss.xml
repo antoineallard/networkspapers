@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Aug 2025 20:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 13:10:24 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Lett.: Linear Scaling Causal Discovery from High-Dimensional Time Series by Dynamical Community Detection</title>
+      <link>http://link.aps.org/doi/10.1103/kd73-93cg</link>
+      <guid isPermaLink="false">NPINS.007486</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: A Caro–Wei Bound for Induced Linear Forests in Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1650740?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007485</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Continual familiarity decoding from recurrent connections in spiking networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013304</link>
+      <guid isPermaLink="false">NPINS.007484</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Innovation-exnovation dynamics on trees and trusses</title>
+      <link>http://link.aps.org/doi/10.1103/ynwt-7g91</link>
+      <guid isPermaLink="false">NPINS.007483</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Estimation and prediction in dynamic multi-location multiplex networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00690-2</link>
+      <guid isPermaLink="false">NPINS.007482</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Modeling the duality of content niches and user interactions on online social media platforms</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000334</link>
+      <guid isPermaLink="false">NPINS.007481</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Dissecting the enhancer gene regulatory network in early &lt;i&gt;Drosophila&lt;/i&gt; spermatogenesis</title>
+      <link>https://www.nature.com/articles/s41467-025-62046-9</link>
+      <guid isPermaLink="false">NPINS.007480</guid>
+    </item>
     <item>
       <title>Soc. Networks: Urban environmental stewardship networks: How organizations collaborate, share resources, and exchange knowledge within Baltimore, Maryland</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000322</link>
@@ -478,41 +513,6 @@
       <title>Front. Mol. Biosci.: Identification of diagnostic hub genes related to energy metabolism in idiopathic pulmonary fibrosis</title>
       <link>https://www.frontiersin.org/articles/10.3389/fmolb.2025.1596364</link>
       <guid isPermaLink="false">NPINS.007387</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Coarse-grained model of serial dilution dynamics in synthetic human gut microbiome</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013222</link>
-      <guid isPermaLink="false">NPINS.007386</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Deciphering the overtaking phenomenon initiated by low-centrality nodes in spreading processes</title>
-      <link>https://www.nature.com/articles/s42005-025-02183-1</link>
-      <guid isPermaLink="false">NPINS.007385</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Cooperative coding of continuous variables in networks with sparsity constraint</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012156</link>
-      <guid isPermaLink="false">NPINS.007384</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Distinct Distances for Points Lying on Curves in Rd—The Bipartite Case</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1659807?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007383</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Community detection on directed networks with missing edges</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ade5e4</link>
-      <guid isPermaLink="false">NPINS.007382</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Fast Nonparametric Inference of Network Backbones for Weighted Graph Sparsification</title>
-      <link>http://link.aps.org/doi/10.1103/4pg6-mtmt</link>
-      <guid isPermaLink="false">NPINS.007381</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: River networks in the framework of complex network theory</title>
-      <link>http://link.aps.org/doi/10.1103/kpbq-8wzb</link>
-      <guid isPermaLink="false">NPINS.007380</guid>
     </item>
   </channel>
 </rss>
