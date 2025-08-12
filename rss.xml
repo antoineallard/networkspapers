@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Aug 2025 19:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 14:21:13 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: The maximum number of maximum dissociation sets in potted graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003443</link>
+      <guid isPermaLink="false">NPINS.007493</guid>
+    </item>
+    <item>
+      <title>Chaos: Finite size effect in Kuramoto oscillators with inertia on simplicial complex</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/7/071103/3352462/Finite-size-effect-in-Kuramoto-oscillators-with</link>
+      <guid isPermaLink="false">NPINS.007492</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Globally Linked Pairs and Cheapest Globally Rigid Supergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1639671?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007491</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Study of reduced Chialvo map with electromagnetic flux: Dynamics and network behavior</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003765</link>
+      <guid isPermaLink="false">NPINS.007490</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Comparing the effectiveness of ring and block-vaccination strategies on networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013274</link>
+      <guid isPermaLink="false">NPINS.007489</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Frequency-dependent synchronization in blinking networks: insights from Hindmarsh–Rose, Lorenz, and Rössler systems</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-025-01015-z</link>
+      <guid isPermaLink="false">NPINS.007488</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Investigating the evolutionary dynamics of cooperation on a dynamic network: the influence of aspiration-driven structural adaptations</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003960</link>
+      <guid isPermaLink="false">NPINS.007487</guid>
+    </item>
     <item>
       <title>Phys. Rev. Lett.: Linear Scaling Causal Discovery from High-Dimensional Time Series by Dynamical Community Detection</title>
       <link>http://link.aps.org/doi/10.1103/kd73-93cg</link>
@@ -478,41 +513,6 @@
       <title>Commun. Phys.: Social balance in directed networks</title>
       <link>https://www.nature.com/articles/s42005-025-02221-y</link>
       <guid isPermaLink="false">NPINS.007394</guid>
-    </item>
-    <item>
-      <title>iScience: Technological risks disrupting trade stability in the global lithium supply chain network</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225012003</link>
-      <guid isPermaLink="false">NPINS.007393</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Whom do you trust? The determinants of loyalty in a market without quality signals</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00714-x</link>
-      <guid isPermaLink="false">NPINS.007392</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Intergroup-based public goods games in complex networks with leader-driven other-regarding preferences</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003492</link>
-      <guid isPermaLink="false">NPINS.007391</guid>
-    </item>
-    <item>
-      <title>iScience: Of mice and men: Dendritic architecture differentiates human from mouse neuronal networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225011897</link>
-      <guid isPermaLink="false">NPINS.007390</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The power of gaps: Multilayer mechanisms and source tracing of complex dynamics in higher-order networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003510</link>
-      <guid isPermaLink="false">NPINS.007389</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Resilience and competitiveness analysis of the crude oil shipping network: identification of crucial nodes and impact of disruptions</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1566892</link>
-      <guid isPermaLink="false">NPINS.007388</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: Identification of diagnostic hub genes related to energy metabolism in idiopathic pulmonary fibrosis</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2025.1596364</link>
-      <guid isPermaLink="false">NPINS.007387</guid>
     </item>
   </channel>
 </rss>
