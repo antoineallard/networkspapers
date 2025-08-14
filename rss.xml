@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Aug 2025 14:43:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 14:49:22 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Complex network security using community structure and dynamical analysis: spectral clustering and VEIP-WQU model</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00717-8</link>
+      <guid isPermaLink="false">NPINS.007507</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Impulse-based output consensus tracking of heterogeneous clustered networks subjected to unknown bounded cyber-attacks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003868</link>
+      <guid isPermaLink="false">NPINS.007506</guid>
+    </item>
+    <item>
+      <title>Chaos: Task-specific node pruning enhances computational efficiency of reservoir computing networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/8/083123/3358445/Task-specific-node-pruning-enhances-computational</link>
+      <guid isPermaLink="false">NPINS.007505</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Quest for new materials: Network theory and machine learning perspectives</title>
+      <link>http://link.aps.org/doi/10.1103/j4f1-shc8</link>
+      <guid isPermaLink="false">NPINS.007504</guid>
+    </item>
+    <item>
+      <title>Chaos: Identifying clique influences in hypergraphs via the simplicial complex with applications in scientific collaborations</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/8/083113/3357845/Identifying-clique-influences-in-hypergraphs-via</link>
+      <guid isPermaLink="false">NPINS.007503</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Dispersed female networks: female gorillas’ inter-group relationships influence dispersal decisions</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0223?af=R</link>
+      <guid isPermaLink="false">NPINS.007502</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Stability of twisted states: The role of phase lag, pairwise and higher-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/qmgz-h5qm</link>
+      <guid isPermaLink="false">NPINS.007501</guid>
+    </item>
     <item>
       <title>SIAM J. Discrete Math.: Parameterized Max Min Feedback Vertex Set</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/23M1605247?ai=sa&amp;mi=9cks17&amp;af=R</link>
@@ -478,41 +513,6 @@
       <title>Soc. Networks: The duality of network ties and attributes</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000437</link>
       <guid isPermaLink="false">NPINS.007408</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Edges are all you need: Potential of medical time series analysis on complete blood count data with graph neural networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327636</link>
-      <guid isPermaLink="false">NPINS.007407</guid>
-    </item>
-    <item>
-      <title>iScience: Sample-specific network analysis identifies gene co-expression patterns of immunotherapy response in clear cell renal cell carcinoma</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225013227</link>
-      <guid isPermaLink="false">NPINS.007406</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The cultural construction of personal relationships</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000425</link>
-      <guid isPermaLink="false">NPINS.007405</guid>
-    </item>
-    <item>
-      <title>Chaos: Robustness of infrastructure networks with cascading overload failures under extreme geographically localized attacks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/7/071101/3351996/Robustness-of-infrastructure-networks-with</link>
-      <guid isPermaLink="false">NPINS.007404</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: How to realize compact and noncompact localized states in disorder-free hypercube networks</title>
-      <link>http://link.aps.org/doi/10.1103/4s2w-y1xx</link>
-      <guid isPermaLink="false">NPINS.007403</guid>
-    </item>
-    <item>
-      <title>PNAS: Tendencies toward triadic closure: Field experimental evidence</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2404590122?af=R</link>
-      <guid isPermaLink="false">NPINS.007402</guid>
-    </item>
-    <item>
-      <title>Chaos: Explosive synchronization in generalized multiplex network with competitive and cooperative interlayer interactions</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/7/071102/3352241/Explosive-synchronization-in-generalized-multiplex</link>
-      <guid isPermaLink="false">NPINS.007401</guid>
     </item>
   </channel>
 </rss>
