@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Aug 2025 13:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 13:15:21 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Multi-games with voluntary participation on a dynamic network and the evolution of cooperation</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/7/073110/3351740/Multi-games-with-voluntary-participation-on-a</link>
+      <guid isPermaLink="false">NPINS.007521</guid>
+    </item>
+    <item>
+      <title>SIAM J. Math. Data Sci.: Random Multitype Spanning Forests for Synchronization on Sparse Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1649563?af=R</link>
+      <guid isPermaLink="false">NPINS.007520</guid>
+    </item>
+    <item>
+      <title>Chaos: Optimization of transport efficiency on bundled networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/8/083115/3357846/Optimization-of-transport-efficiency-on-bundled</link>
+      <guid isPermaLink="false">NPINS.007519</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Identifying key physiological and clinical factors for traumatic brain injury patient management using network analysis and machine learning</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328870</link>
+      <guid isPermaLink="false">NPINS.007518</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Network interventions to improve search and facilitate research-practice transfer</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000498</link>
+      <guid isPermaLink="false">NPINS.007517</guid>
+    </item>
+    <item>
+      <title>Chaos: Dynamical equivalence between resonant translocation of a polymer chain and diversity-induced resonance</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/7/073115/3351734/Dynamical-equivalence-between-resonant</link>
+      <guid isPermaLink="false">NPINS.007516</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Integrating network pharmacology and experimental verification to explore the protective effects of &lt;i&gt;Evodia rutaecarpa&lt;/i&gt; in ischemic stroke</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327133</link>
+      <guid isPermaLink="false">NPINS.007515</guid>
+    </item>
     <item>
       <title>Soc. Networks: Accounting for correlation and censoring in Bayesian Network Scale-up Method Models</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000462</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Hypergraph representation of multilayer brain network enhances autism spectrum disorder detection</title>
       <link>https://pubs.aip.org/aip/cha/article/35/7/071104/3352520/Hypergraph-representation-of-multilayer-brain</link>
       <guid isPermaLink="false">NPINS.007422</guid>
-    </item>
-    <item>
-      <title>PNAS: Emergence of a temporal processing gradient from naturalistic inputs and network connectivity</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2420105122?af=R</link>
-      <guid isPermaLink="false">NPINS.007421</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Optimal network geometry detection for weak geometry</title>
-      <link>http://link.aps.org/doi/10.1103/l6dm-zk46</link>
-      <guid isPermaLink="false">NPINS.007420</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Stability of Sequential Lateration and of Stress Minimization in the Presence of Noise</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1661790?af=R</link>
-      <guid isPermaLink="false">NPINS.007419</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Modeling information-sharing networks on agroforestry species in rural ethnic-based communities using ERGM</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00723-w</link>
-      <guid isPermaLink="false">NPINS.007418</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Social network cognition among isolated villagers reveals distinct patterns of bias</title>
-      <link>https://www.nature.com/articles/s41562-025-02222-5</link>
-      <guid isPermaLink="false">NPINS.007417</guid>
-    </item>
-    <item>
-      <title>Chaos: Evolution of cooperation under a time-varying peer pressure model in complex networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/7/073128/3352518/Evolution-of-cooperation-under-a-time-varying-peer</link>
-      <guid isPermaLink="false">NPINS.007416</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Synchronization stability in simplicial complexes of near-identical systems</title>
-      <link>http://link.aps.org/doi/10.1103/ml7b-r35h</link>
-      <guid isPermaLink="false">NPINS.007415</guid>
     </item>
   </channel>
 </rss>
