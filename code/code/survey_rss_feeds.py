@@ -1,4 +1,4 @@
-import cloudscraper
+# import cloudscraper
 import feedparser
 import requests
 import io
@@ -32,6 +32,7 @@ feeds.load_posts_to_review()
 
 for journal in sorted(list(feeds.journals.keys())):
 
+    entries = []
     # Reads the rss feed.
     print("Looking up " + feeds.journals[journal]["journal_abbrev"] + "...")
 
@@ -42,7 +43,7 @@ for journal in sorted(list(feeds.journals.keys())):
         try:
             resp = requests.get(feeds.journals[journal]["feed2"], timeout=20.0)
         except requests.ReadTimeout:
-            logger.warn("Timeout when reading RSS %s", feeds.journals[journal]["feed2"])
+            # logger.warn("Timeout when reading RSS %s", feeds.journals[journal]["feed2"])
             continue
 
         # Put it to memory stream object universal feedparser
