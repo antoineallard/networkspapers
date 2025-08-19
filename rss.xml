@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Aug 2025 13:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 13:21:41 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Promoting collective cooperation through temporal interactions</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2509575122?af=R</link>
+      <guid isPermaLink="false">NPINS.007528</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: The robust-fragile duality of the ATLAS collaboration network</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00574-6</link>
+      <guid isPermaLink="false">NPINS.007527</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Model-based reconstruction of real-world fractal complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/fj92-9v5c</link>
+      <guid isPermaLink="false">NPINS.007526</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Emergence of cooperation promoted by higher-order strategy updates</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012891</link>
+      <guid isPermaLink="false">NPINS.007525</guid>
+    </item>
+    <item>
+      <title>Chaos: Tale of one emergent game: Opinion formation in dynamical undirected hypergraphs</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/8/083101/3357281/Tale-of-one-emergent-game-Opinion-formation-in</link>
+      <guid isPermaLink="false">NPINS.007524</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The co-evolution of informal social status and gossip in workplace social networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000474</link>
+      <guid isPermaLink="false">NPINS.007523</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Dynamics of cooperative evolution with leader-follower hierarchy under information uncertainty in two-layer grid networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004126</link>
+      <guid isPermaLink="false">NPINS.007522</guid>
+    </item>
     <item>
       <title>Chaos: Multi-games with voluntary participation on a dynamic network and the evolution of cooperation</title>
       <link>https://pubs.aip.org/aip/cha/article/35/7/073110/3351740/Multi-games-with-voluntary-participation-on-a</link>
@@ -478,41 +513,6 @@
       <title>Nat. Commun.: Generating brain-wide connectome using synthetic axonal morphologies</title>
       <link>https://www.nature.com/articles/s41467-025-62030-3</link>
       <guid isPermaLink="false">NPINS.007429</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Effective One-Dimensional Reduction of Multicompartment Complex Systems Dynamics</title>
-      <link>http://link.aps.org/doi/10.1103/whdb-2lgl</link>
-      <guid isPermaLink="false">NPINS.007428</guid>
-    </item>
-    <item>
-      <title>Chaos: Machine learning informed by micro- and mesoscopic statistical physics methods for community detection</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/7/073103/3351179/Machine-learning-informed-by-micro-and-mesoscopic</link>
-      <guid isPermaLink="false">NPINS.007427</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Bibliometric cartography of data science: a large-scale analysis on knowledge integration and diffusion</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00573-7</link>
-      <guid isPermaLink="false">NPINS.007426</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Continuous time random walks on networks</title>
-      <link>http://link.aps.org/doi/10.1103/jcv2-pth8</link>
-      <guid isPermaLink="false">NPINS.007425</guid>
-    </item>
-    <item>
-      <title>iScience: Ecological network construction and land degradation risk identification in the Yellow River source area</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225010363</link>
-      <guid isPermaLink="false">NPINS.007424</guid>
-    </item>
-    <item>
-      <title>J. Math. Sociol.: Calling the dead: resilience in the WTC communication networks</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/0022250X.2025.2496149?af=R</link>
-      <guid isPermaLink="false">NPINS.007423</guid>
-    </item>
-    <item>
-      <title>Chaos: Hypergraph representation of multilayer brain network enhances autism spectrum disorder detection</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/7/071104/3352520/Hypergraph-representation-of-multilayer-brain</link>
-      <guid isPermaLink="false">NPINS.007422</guid>
     </item>
   </channel>
 </rss>
