@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Aug 2025 13:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 13:06:09 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Constructing the first comorbidity networks in companion dogs in the Dog Aging Project</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012728</link>
+      <guid isPermaLink="false">NPINS.007542</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Resistive Ising: Effective resistance in random magnetic nanowire networks</title>
+      <link>http://link.aps.org/doi/10.1103/hj7g-m5dc</link>
+      <guid isPermaLink="false">NPINS.007541</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Emerging properties of the degree distribution in large non-growing networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0682?af=R</link>
+      <guid isPermaLink="false">NPINS.007540</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Sparse Learning Enabled by Constraints on Connectivity and Function</title>
+      <link>http://link.aps.org/doi/10.1103/918k-x6np</link>
+      <guid isPermaLink="false">NPINS.007539</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: In the network of the conclave: Social connections and the making of a pope</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000449</link>
+      <guid isPermaLink="false">NPINS.007538</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Critical assessment of the ability of Boolean threshold models to describe gene regulatory network dynamics</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf228</link>
+      <guid isPermaLink="false">NPINS.007537</guid>
+    </item>
+    <item>
+      <title>J. R. Soc. Interface: Dynamic network entropy for pinpointing the pre-outbreak stage of infectious disease</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2025.0047?af=R</link>
+      <guid isPermaLink="false">NPINS.007536</guid>
+    </item>
     <item>
       <title>SIAM Rev.: Optimal Survival Strategies for Diffusive Flows: A Schrödinger Bridge Approach to Unbalanced Transport</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/25M176581X?ai=s5&amp;mi=8vgswd&amp;af=R</link>
@@ -478,41 +513,6 @@
       <title>iScience: ThermOptCobra: Thermodynamically optimal construction and analysis of metabolic networks for reliable phenotype predictions</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004225012660</link>
       <guid isPermaLink="false">NPINS.007443</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Partial information decomposition for discrete target and continuous source random variables</title>
-      <link>http://link.aps.org/doi/10.1103/58bg-5n9s</link>
-      <guid isPermaLink="false">NPINS.007442</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Solana’s transaction network: analysis, insights, and comparison</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00561-x</link>
-      <guid isPermaLink="false">NPINS.007441</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A systematic scoping review and thematic analysis: How can livestock and poultry movement networks inform disease surveillance and control at the global scale?</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328518</link>
-      <guid isPermaLink="false">NPINS.007440</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: DNFE: Directed network flow entropy for detecting tipping points during biological processes</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013336</link>
-      <guid isPermaLink="false">NPINS.007439</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: SDW2vec: learning structural representations of nodes in weighted networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00722-x</link>
-      <guid isPermaLink="false">NPINS.007438</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Structural and genetic determinants of zebrafish functional brain networks</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adv7576</link>
-      <guid isPermaLink="false">NPINS.007437</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Simplicial complexes in network intrusion profiling: pattern construction through simplicial centralities</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00720-z</link>
-      <guid isPermaLink="false">NPINS.007436</guid>
     </item>
   </channel>
 </rss>
