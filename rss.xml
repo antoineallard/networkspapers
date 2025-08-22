@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Aug 2025 13:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:43:18 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Rep.: Network-based risk assessment of ship-mediated dispersal of non-native species across Chilean and international ports</title>
+      <link>https://www.nature.com/articles/s41598-025-15482-y</link>
+      <guid isPermaLink="false">NPINS.007549</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Market, power, gift, and concession economies: Comparison using four-mode primitive network models</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330174</link>
+      <guid isPermaLink="false">NPINS.007548</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: An effective hybrid method for the optimal control of fraud rumor propagation on online social networks</title>
+      <link>https://www.nature.com/articles/s41598-025-15943-4</link>
+      <guid isPermaLink="false">NPINS.007547</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Impact of network assortativity on disease lifetime in the SIS model of epidemics</title>
+      <link>http://link.aps.org/doi/10.1103/j147-hgsx</link>
+      <guid isPermaLink="false">NPINS.007546</guid>
+    </item>
+    <item>
+      <title>PNAS: The edge-averaging process on graphs with random initial opinions</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2423947122?af=R</link>
+      <guid isPermaLink="false">NPINS.007545</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Dynamic Bayesian network analysis of the social determinants of mental health</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf209</link>
+      <guid isPermaLink="false">NPINS.007544</guid>
+    </item>
+    <item>
+      <title>Chaos: Hierarchical clustering in mean-field coupled Stuart–Landau oscillators</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/8/083124/3358770/Hierarchical-clustering-in-mean-field-coupled</link>
+      <guid isPermaLink="false">NPINS.007543</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Constructing the first comorbidity networks in companion dogs in the Dog Aging Project</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012728</link>
@@ -478,41 +513,6 @@
       <title>PLOS ONE: Digital economy development and global value chain network centralization</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328217</link>
       <guid isPermaLink="false">NPINS.007450</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Competition and cooperation: The plasticity of bacterial interactions across environments</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013213</link>
-      <guid isPermaLink="false">NPINS.007449</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: An 8-Flow Theorem for Signed Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1640513?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007448</guid>
-    </item>
-    <item>
-      <title>PNAS: Diffusion of complex contagions is shaped by a trade-off between reach and reinforcement</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2422892122?af=R</link>
-      <guid isPermaLink="false">NPINS.007447</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Allocating limited surveillance effort for outbreak detection of endemic foot and mouth disease</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012395</link>
-      <guid isPermaLink="false">NPINS.007446</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Feature-enriched hyperbolic network geometry</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevResearch.7.033036</link>
-      <guid isPermaLink="false">NPINS.007445</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: From observed transitions to hidden paths in Markov networks</title>
-      <link>http://link.aps.org/doi/10.1103/p4k1-1dvb</link>
-      <guid isPermaLink="false">NPINS.007444</guid>
-    </item>
-    <item>
-      <title>iScience: ThermOptCobra: Thermodynamically optimal construction and analysis of metabolic networks for reliable phenotype predictions</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225012660</link>
-      <guid isPermaLink="false">NPINS.007443</guid>
     </item>
   </channel>
 </rss>
