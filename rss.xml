@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Aug 2025 02:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 13:13:17 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Impact of land use change on carbon metabolism in Hunan Province: An ecological network analysis approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225014701</link>
+      <guid isPermaLink="false">NPINS.007556</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Oscillatory and excitable dynamics in an opinion model with group opinions</title>
+      <link>http://link.aps.org/doi/10.1103/PhysRevE.112.024303</link>
+      <guid isPermaLink="false">NPINS.007555</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Emergence of a complex network structure on a Spatial Prisoner’s Dilemma</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013329</link>
+      <guid isPermaLink="false">NPINS.007554</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Self-Reinforcing Cascades: A Spreading Model for Beliefs or Products of Varying Intensity or Quality</title>
+      <link>https://journals.aps.org/prl/abstract/10.1103/5mph-sws5</link>
+      <guid isPermaLink="false">NPINS.007553</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Tracking causal pathways in TMS-evoked brain responses</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013316</link>
+      <guid isPermaLink="false">NPINS.007552</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Nonequilibrium universality of Rydberg-excitation spreading on a dynamic network</title>
+      <link>http://link.aps.org/doi/10.1103/8rlg-169g</link>
+      <guid isPermaLink="false">NPINS.007551</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Brain functions emerge as thermal equilibrium states of the connectome</title>
+      <link>http://link.aps.org/doi/10.1103/jmqh-bqnc</link>
+      <guid isPermaLink="false">NPINS.007550</guid>
+    </item>
     <item>
       <title>Sci. Rep.: Network-based risk assessment of ship-mediated dispersal of non-native species across Chilean and international ports</title>
       <link>https://www.nature.com/articles/s41598-025-15482-y</link>
@@ -478,41 +513,6 @@
       <title>Appl. Netw. Sci.: Robustness assessment of urban road networks in densely populated cities</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00707-w</link>
       <guid isPermaLink="false">NPINS.007457</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Closeness spectra and structural uniqueness of special graph classes</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003923</link>
-      <guid isPermaLink="false">NPINS.007456</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Inherent structural vulnerabilities in power distribution networks: a longitudinal complex network analysis</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00724-9</link>
-      <guid isPermaLink="false">NPINS.007455</guid>
-    </item>
-    <item>
-      <title>Chaos: Funnel theorems for spreading on networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/7/073109/3351739/Funnel-theorems-for-spreading-on-networks</link>
-      <guid isPermaLink="false">NPINS.007454</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: How large is the universe of RNA-like motifs? A clustering analysis of RNA graph motifs using topological descriptors</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013230</link>
-      <guid isPermaLink="false">NPINS.007453</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Phase transition predictions of synergistic contagions using spectral approach</title>
-      <link>http://link.aps.org/doi/10.1103/w91q-hm26</link>
-      <guid isPermaLink="false">NPINS.007452</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Synergistic task-offloading in 6G edge networks based on propagation dynamics</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1629142</link>
-      <guid isPermaLink="false">NPINS.007451</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Digital economy development and global value chain network centralization</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328217</link>
-      <guid isPermaLink="false">NPINS.007450</guid>
     </item>
   </channel>
 </rss>
