@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Aug 2025 13:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 13:25:55 +0000</lastBuildDate>
+    <item>
+      <title>J. R. Soc. Interface: Emergent dynamics of cellular decision making in multi-node mutually repressive regulatory networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2025.0190?af=R</link>
+      <guid isPermaLink="false">NPINS.007563</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Phase Transition of Degenerate Turán Problems in p-Norms</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1738401?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007562</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Core-Periphery Detection in Multilayer Networks</title>
+      <link>http://link.aps.org/doi/10.1103/yr23-71yc</link>
+      <guid isPermaLink="false">NPINS.007561</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Mean first-encounter times of simultaneous random walkers with resetting on networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adf533</link>
+      <guid isPermaLink="false">NPINS.007560</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Parameter estimation in a dynamic Chung-Lu random graph</title>
+      <link>http://link.aps.org/doi/10.1103/6w2h-p1sr</link>
+      <guid isPermaLink="false">NPINS.007559</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: The relevance of higher-order ties</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00577-3</link>
+      <guid isPermaLink="false">NPINS.007558</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Analyzing the impact of spatial centrality and courtyard diversity on tourist attractions in the walled city of Lefkoşa</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330956</link>
+      <guid isPermaLink="false">NPINS.007557</guid>
+    </item>
     <item>
       <title>iScience: Impact of land use change on carbon metabolism in Hunan Province: An ecological network analysis approach</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004225014701</link>
@@ -478,41 +513,6 @@
       <title>PLOS ONE: Empirical study of daily link traffic volume forecasting based on a deep neural network</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327664</link>
       <guid isPermaLink="false">NPINS.007464</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: FlowSeries: flow analysis on financial networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00711-0</link>
-      <guid isPermaLink="false">NPINS.007463</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Target search on networks-within-networks with applications to protein-DNA interactions</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adf34e</link>
-      <guid isPermaLink="false">NPINS.007462</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Influence of symbolic content on recommendation bias: analyzing YouTube’s algorithm during Taiwan’s 2024 election</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00713-y</link>
-      <guid isPermaLink="false">NPINS.007461</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Conditional (edge) neighbor connectivity of hierarchical star networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003704</link>
-      <guid isPermaLink="false">NPINS.007460</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Quasi-synchronization of multiplex networks under deception attacks via event-triggered impulsive protocol</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003613</link>
-      <guid isPermaLink="false">NPINS.007459</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: An identifying operation on a 1-planar graph with an application to acyclic coloring</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003406</link>
-      <guid isPermaLink="false">NPINS.007458</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Robustness assessment of urban road networks in densely populated cities</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00707-w</link>
-      <guid isPermaLink="false">NPINS.007457</guid>
     </item>
   </channel>
 </rss>
