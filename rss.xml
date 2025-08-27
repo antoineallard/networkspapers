@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Aug 2025 15:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 15:34:14 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Optimal inter-layer connections for maximizing synchronizability in two-layer chain network</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/8/083127/3359721/Optimal-inter-layer-connections-for-maximizing</link>
+      <guid isPermaLink="false">NPINS.007570</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Revealing the evolution of behavioral activation research trends over two decades through keyword network analysis</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330910</link>
+      <guid isPermaLink="false">NPINS.007569</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: B-TCSR: a co-evolutionary model for multimodal misinformation propagation in hypergraphs</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adfb02</link>
+      <guid isPermaLink="false">NPINS.007568</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Secure observer-driven synchronization for complex networks constrained by partial information exchange and limited communication bandwidth</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004199</link>
+      <guid isPermaLink="false">NPINS.007567</guid>
+    </item>
+    <item>
+      <title>Chaos: Quantifying the likelihood of learning collusive strategy equilibria</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/8/083106/3357279/Quantifying-the-likelihood-of-learning-collusive</link>
+      <guid isPermaLink="false">NPINS.007566</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Road-Width-Aware network optimisation for bike lane planning</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adf683</link>
+      <guid isPermaLink="false">NPINS.007565</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Neighbors and relatives: How do speech embeddings reflect linguistic connections across the world?</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330755</link>
+      <guid isPermaLink="false">NPINS.007564</guid>
+    </item>
     <item>
       <title>J. R. Soc. Interface: Emergent dynamics of cellular decision making in multi-node mutually repressive regulatory networks</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2025.0190?af=R</link>
@@ -478,41 +513,6 @@
       <title>Appl. Math. Comput.: The minimum atom-bond sum-connectivity index of graphs with given degree sequence</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325003935</link>
       <guid isPermaLink="false">NPINS.007471</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Unveiling connectivity patterns of railway timetables through complex network theory and Infomap clustering</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328681</link>
-      <guid isPermaLink="false">NPINS.007470</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Do diversity and context collapse kill an online social network?</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00719-6</link>
-      <guid isPermaLink="false">NPINS.007469</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Network theory predicts ecosystem robustness across environmental conditions</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0467?af=R</link>
-      <guid isPermaLink="false">NPINS.007468</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Dimension of the Region of Feasible Tournament Profiles</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1613372?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007467</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The Correspondence Analysis of two-mode networks revisited</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000401</link>
-      <guid isPermaLink="false">NPINS.007466</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Studies on innovative energy startups’ topological roles and their correlation with success: based on temporal networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1610832</link>
-      <guid isPermaLink="false">NPINS.007465</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Empirical study of daily link traffic volume forecasting based on a deep neural network</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327664</link>
-      <guid isPermaLink="false">NPINS.007464</guid>
     </item>
   </channel>
 </rss>
