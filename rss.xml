@@ -13,7 +13,77 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Aug 2025 20:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 18:43:30 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Effective conductivity of conduit networks with random conductivities</title>
+      <link>http://link.aps.org/doi/10.1103/wb8q-xv3x</link>
+      <guid isPermaLink="false">NPINS.007584</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Geometry and dynamics of spring networks of spherical topology</title>
+      <link>http://link.aps.org/doi/10.1103/d7r5-n7y1</link>
+      <guid isPermaLink="false">NPINS.007583</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Sensitivity Analysis for Time-Varying Ecological Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1723955?af=R</link>
+      <guid isPermaLink="false">NPINS.007582</guid>
+    </item>
+    <item>
+      <title>Research: Identification of Critical States in Complex Biological Systems Using Cell-Specific Causal Network Entropy</title>
+      <link>https://spj.science.org/doi/abs/10.34133/research.0852?af=R</link>
+      <guid isPermaLink="false">NPINS.007581</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Estimating contagion dynamics models on networks via data assimilation</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1529376</link>
+      <guid isPermaLink="false">NPINS.007580</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Approximate regular equivalence by partition refinement</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00726-7</link>
+      <guid isPermaLink="false">NPINS.007579</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Dynamics of two-strain disease transmission with negative vaccine information and vaccination on multiplex networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004278</link>
+      <guid isPermaLink="false">NPINS.007578</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Robust network scale-up method estimators</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000590</link>
+      <guid isPermaLink="false">NPINS.007577</guid>
+    </item>
+    <item>
+      <title>Chaos: Reservoir computing and multi-scroll attractors: How network topologies shape prediction performance</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/7/073147/3356266/Reservoir-computing-and-multi-scroll-attractors</link>
+      <guid isPermaLink="false">NPINS.007576</guid>
+    </item>
+    <item>
+      <title>EPL: Integrating uncertainty quantification and ML for network robustness study: From metrics to surfaces</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adea90</link>
+      <guid isPermaLink="false">NPINS.007575</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Positive impact of structural asymmetries in PPI networks on protein complex detection</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00727-6</link>
+      <guid isPermaLink="false">NPINS.007574</guid>
+    </item>
+    <item>
+      <title>PNAS: Life’s homochirality: Across a prebiotic network</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2505126122?af=R</link>
+      <guid isPermaLink="false">NPINS.007573</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Large-scale cortical functional networks are organized in structured cycles</title>
+      <link>https://www.nature.com/articles/s41593-025-02052-8</link>
+      <guid isPermaLink="false">NPINS.007572</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Computational modeling and analysis of medical resource shortages in hospital alliance: A simulation-driven approach</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330871</link>
+      <guid isPermaLink="false">NPINS.007571</guid>
+    </item>
     <item>
       <title>Chaos: Optimal inter-layer connections for maximizing synchronizability in two-layer chain network</title>
       <link>https://pubs.aip.org/aip/cha/article/35/8/083127/3359721/Optimal-inter-layer-connections-for-maximizing</link>
@@ -443,76 +513,6 @@
       <title>SIAM J. Discrete Math.: A Caro–Wei Bound for Induced Linear Forests in Graphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1650740?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.007485</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Continual familiarity decoding from recurrent connections in spiking networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013304</link>
-      <guid isPermaLink="false">NPINS.007484</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Innovation-exnovation dynamics on trees and trusses</title>
-      <link>http://link.aps.org/doi/10.1103/ynwt-7g91</link>
-      <guid isPermaLink="false">NPINS.007483</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Estimation and prediction in dynamic multi-location multiplex networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00690-2</link>
-      <guid isPermaLink="false">NPINS.007482</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Modeling the duality of content niches and user interactions on online social media platforms</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000334</link>
-      <guid isPermaLink="false">NPINS.007481</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Dissecting the enhancer gene regulatory network in early &lt;i&gt;Drosophila&lt;/i&gt; spermatogenesis</title>
-      <link>https://www.nature.com/articles/s41467-025-62046-9</link>
-      <guid isPermaLink="false">NPINS.007480</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Urban environmental stewardship networks: How organizations collaborate, share resources, and exchange knowledge within Baltimore, Maryland</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000322</link>
-      <guid isPermaLink="false">NPINS.007479</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Adaptive Node Positioning in Biological Transport Networks</title>
-      <link>http://link.aps.org/doi/10.1103/6b4j-tq1n</link>
-      <guid isPermaLink="false">NPINS.007478</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Numerical integration of the KPZ and related equations on networks: the case of the Cayley tree</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/adf295</link>
-      <guid isPermaLink="false">NPINS.007477</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Quantifying edge relevance for epidemic spreading via the semi-metric topology of complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adf2ed</link>
-      <guid isPermaLink="false">NPINS.007476</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Let’s DAG in: how directed acyclic graphs can help behavioural ecology be more transparent</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0963?af=R</link>
-      <guid isPermaLink="false">NPINS.007475</guid>
-    </item>
-    <item>
-      <title>iScience: Connectome-based predictive modeling of handwriting and reading using task-evoked and resting-state functional connectivity</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225013367</link>
-      <guid isPermaLink="false">NPINS.007474</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Dynamical cavity method for hypergraphs and its application to quenches in the k-XOR-SAT problem</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.112.014306</link>
-      <guid isPermaLink="false">NPINS.007473</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Rigid Graphs in Cylindrical Normed Spaces</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1587543?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007472</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The minimum atom-bond sum-connectivity index of graphs with given degree sequence</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003935</link>
-      <guid isPermaLink="false">NPINS.007471</guid>
     </item>
   </channel>
 </rss>
