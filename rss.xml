@@ -13,7 +13,67 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Aug 2025 08:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 16:07:52 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: An equitable partition based construction of graphs with the same spectral radius</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004229</link>
+      <guid isPermaLink="false">NPINS.007596</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Higher-order Ising model on hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/hbh5-3nty</link>
+      <guid isPermaLink="false">NPINS.007595</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Analysis of ego multi-token transfer networks: a multilayer approach</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00712-z</link>
+      <guid isPermaLink="false">NPINS.007594</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Maintaining diversity in structured populations</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf252</link>
+      <guid isPermaLink="false">NPINS.007593</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Universality classes in the time evolution of epidemic outbreaks on complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/qcbd-bbjv</link>
+      <guid isPermaLink="false">NPINS.007592</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Hamilton Cycles in Random Digraphs with Minimum Degree at Least One</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1623434?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007591</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Connecting mass-action models and network models for infectious diseases</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013373</link>
+      <guid isPermaLink="false">NPINS.007590</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: A graph homomorphism approach for unraveling histories of metastatic cancers and viral outbreaks under evolutionary constraints</title>
+      <link>https://www.nature.com/articles/s41467-025-63411-4</link>
+      <guid isPermaLink="false">NPINS.007589</guid>
+    </item>
+    <item>
+      <title>EPL: Topology optimization for optimal target control of complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adf508</link>
+      <guid isPermaLink="false">NPINS.007588</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Modeling the evolution of inter-hospital referral networks: an agent-based modeling approach</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1659506</link>
+      <guid isPermaLink="false">NPINS.007587</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Edge correlations and link prediction in growing hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/4lkd-mtzq</link>
+      <guid isPermaLink="false">NPINS.007586</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Enumerating the number of k-matchings in successively amalgamated graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004291</link>
+      <guid isPermaLink="false">NPINS.007585</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Effective conductivity of conduit networks with random conductivities</title>
       <link>http://link.aps.org/doi/10.1103/wb8q-xv3x</link>
@@ -453,66 +513,6 @@
       <title>Nat. Hum. Behav.: Knowledge of information cascades through social networks facilitates strategic gossip</title>
       <link>https://www.nature.com/articles/s41562-025-02241-2</link>
       <guid isPermaLink="false">NPINS.007497</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Chasing Tripods to Obtain a Rooted Subdivision</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M157082X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007496</guid>
-    </item>
-    <item>
-      <title>PNAS: Trauma-predictive brain network connectivity adaptively responds to mild acute stress</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2505965122?af=R</link>
-      <guid isPermaLink="false">NPINS.007495</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Approximate constrained lumping of chemical reaction networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0754?af=R</link>
-      <guid isPermaLink="false">NPINS.007494</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The maximum number of maximum dissociation sets in potted graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003443</link>
-      <guid isPermaLink="false">NPINS.007493</guid>
-    </item>
-    <item>
-      <title>Chaos: Finite size effect in Kuramoto oscillators with inertia on simplicial complex</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/7/071103/3352462/Finite-size-effect-in-Kuramoto-oscillators-with</link>
-      <guid isPermaLink="false">NPINS.007492</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Globally Linked Pairs and Cheapest Globally Rigid Supergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1639671?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007491</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Study of reduced Chialvo map with electromagnetic flux: Dynamics and network behavior</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003765</link>
-      <guid isPermaLink="false">NPINS.007490</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Comparing the effectiveness of ring and block-vaccination strategies on networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013274</link>
-      <guid isPermaLink="false">NPINS.007489</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Frequency-dependent synchronization in blinking networks: insights from Hindmarsh–Rose, Lorenz, and Rössler systems</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-025-01015-z</link>
-      <guid isPermaLink="false">NPINS.007488</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Investigating the evolutionary dynamics of cooperation on a dynamic network: the influence of aspiration-driven structural adaptations</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003960</link>
-      <guid isPermaLink="false">NPINS.007487</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Linear Scaling Causal Discovery from High-Dimensional Time Series by Dynamical Community Detection</title>
-      <link>http://link.aps.org/doi/10.1103/kd73-93cg</link>
-      <guid isPermaLink="false">NPINS.007486</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Caro–Wei Bound for Induced Linear Forests in Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1650740?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007485</guid>
     </item>
   </channel>
 </rss>
