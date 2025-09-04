@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Sep 2025 10:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 13:26:45 +0000</lastBuildDate>
+    <item>
+      <title>EPL: Scaling law of cliques and holes in chaotic systems</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adfe8b</link>
+      <guid isPermaLink="false">NPINS.007611</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Induced cycles vertex number and (1,2)-domination in cubic graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004266</link>
+      <guid isPermaLink="false">NPINS.007610</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Thermodynamic circuits: Modeling chemical reaction networks with nonequilibrium conductance matrices</title>
+      <link>http://link.aps.org/doi/10.1103/4rsy-786t</link>
+      <guid isPermaLink="false">NPINS.007609</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: Efficacy of digital interventions for smoking cessation by type and method: a systematic review and network meta-analysis</title>
+      <link>https://www.nature.com/articles/s41562-025-02295-2</link>
+      <guid isPermaLink="false">NPINS.007608</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Driving climate action: brokers as catalysts in EU policy networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00732-9</link>
+      <guid isPermaLink="false">NPINS.007607</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Community detection methods for GBF-PUM signal approximation on graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S009630032500428X</link>
@@ -488,31 +513,6 @@
       <title>PNAS: Phylogenetic networks empower biodiversity research</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2410934122?af=R</link>
       <guid isPermaLink="false">NPINS.007512</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Associations between fitness, movement behaviors, and immediate post-exercise blood pressure in older adults: A network perspective</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329280</link>
-      <guid isPermaLink="false">NPINS.007511</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Scaling Limit of the Kuramoto Model on Random Geometric Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1641518?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007510</guid>
-    </item>
-    <item>
-      <title>PNAS: Strength and weakness of disease-induced herd immunity in networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2421460122?af=R</link>
-      <guid isPermaLink="false">NPINS.007509</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Double agency and co-evolution for two-mode networks, with an application to corporate interlocks and firms’ environmental performance</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000395</link>
-      <guid isPermaLink="false">NPINS.007508</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Complex network security using community structure and dynamical analysis: spectral clustering and VEIP-WQU model</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00717-8</link>
-      <guid isPermaLink="false">NPINS.007507</guid>
     </item>
   </channel>
 </rss>
