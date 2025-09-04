@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Sep 2025 22:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 08:29:49 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Parametric instability landscape of coupled Kerr parametric oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/c91r-8t3h</link>
+      <guid isPermaLink="false">NPINS.007601</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Šoltés problem for the Kirchhoff index of a graph</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004205</link>
+      <guid isPermaLink="false">NPINS.007600</guid>
+    </item>
+    <item>
+      <title>EPL: Graph Laplacian analysis of modulation instability in three-core optical coupler</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adf87e</link>
+      <guid isPermaLink="false">NPINS.007599</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Block-corrected modularity for community detection</title>
+      <link>http://link.aps.org/doi/10.1103/7sjf-c6jz</link>
+      <guid isPermaLink="false">NPINS.007598</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Associative-memory network of Winfree-type oscillators and binary pattern retrieval: theory and algorithm</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0154?af=R</link>
+      <guid isPermaLink="false">NPINS.007597</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: An equitable partition based construction of graphs with the same spectral radius</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325004229</link>
@@ -488,31 +513,6 @@
       <title>Proc. R. Soc. B: Dispersed female networks: female gorillas’ inter-group relationships influence dispersal decisions</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0223?af=R</link>
       <guid isPermaLink="false">NPINS.007502</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Stability of twisted states: The role of phase lag, pairwise and higher-order interactions</title>
-      <link>http://link.aps.org/doi/10.1103/qmgz-h5qm</link>
-      <guid isPermaLink="false">NPINS.007501</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Parameterized Max Min Feedback Vertex Set</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1605247?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007500</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: An evolution model for urban rail transit hyper networks based on allometric growth relationship</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1596130</link>
-      <guid isPermaLink="false">NPINS.007499</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Neural similarity predicts whether strangers become friends</title>
-      <link>https://www.nature.com/articles/s41562-025-02266-7</link>
-      <guid isPermaLink="false">NPINS.007498</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Knowledge of information cascades through social networks facilitates strategic gossip</title>
-      <link>https://www.nature.com/articles/s41562-025-02241-2</link>
-      <guid isPermaLink="false">NPINS.007497</guid>
     </item>
   </channel>
 </rss>
