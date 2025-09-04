@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Sep 2025 10:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 10:41:25 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Community detection methods for GBF-PUM signal approximation on graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032500428X</link>
+      <guid isPermaLink="false">NPINS.007606</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Connectome-constrained ligand-receptor interaction analysis for understanding brain network communication</title>
+      <link>https://www.nature.com/articles/s41467-025-63204-9</link>
+      <guid isPermaLink="false">NPINS.007605</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Super edge-connectivity of transitive hypergraphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004242</link>
+      <guid isPermaLink="false">NPINS.007604</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Can an eye for an eye turn the whole world sanctioned?</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000589</link>
+      <guid isPermaLink="false">NPINS.007603</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Synaptic shot noise triggers fast and slow global oscillations in balanced neural networks</title>
+      <link>http://link.aps.org/doi/10.1103/47h5-fbyy</link>
+      <guid isPermaLink="false">NPINS.007602</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Parametric instability landscape of coupled Kerr parametric oscillators</title>
       <link>http://link.aps.org/doi/10.1103/c91r-8t3h</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Complex network security using community structure and dynamical analysis: spectral clustering and VEIP-WQU model</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00717-8</link>
       <guid isPermaLink="false">NPINS.007507</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Impulse-based output consensus tracking of heterogeneous clustered networks subjected to unknown bounded cyber-attacks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325003868</link>
-      <guid isPermaLink="false">NPINS.007506</guid>
-    </item>
-    <item>
-      <title>Chaos: Task-specific node pruning enhances computational efficiency of reservoir computing networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/8/083123/3358445/Task-specific-node-pruning-enhances-computational</link>
-      <guid isPermaLink="false">NPINS.007505</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Quest for new materials: Network theory and machine learning perspectives</title>
-      <link>http://link.aps.org/doi/10.1103/j4f1-shc8</link>
-      <guid isPermaLink="false">NPINS.007504</guid>
-    </item>
-    <item>
-      <title>Chaos: Identifying clique influences in hypergraphs via the simplicial complex with applications in scientific collaborations</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/8/083113/3357845/Identifying-clique-influences-in-hypergraphs-via</link>
-      <guid isPermaLink="false">NPINS.007503</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Dispersed female networks: female gorillas’ inter-group relationships influence dispersal decisions</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0223?af=R</link>
-      <guid isPermaLink="false">NPINS.007502</guid>
     </item>
   </channel>
 </rss>
