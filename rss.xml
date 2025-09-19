@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Sep 2025 20:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 12:02:08 +0000</lastBuildDate>
+    <item>
+      <title>R. Soc. Open Sci.: An integrated framework for modelling respiratory disease transmission and designing surveillance networks using a sentinel index</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.251195?af=R</link>
+      <guid isPermaLink="false">NPINS.007659</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Clique Supersaturation</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1642172?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007658</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Incentive-based control of networked evolutionary coordination games under asynchronous best-response dynamics</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004102</link>
+      <guid isPermaLink="false">NPINS.007657</guid>
+    </item>
+    <item>
+      <title>iScience: Potential vulnerability of US green hydrogen in a world of interdependent networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225015457</link>
+      <guid isPermaLink="false">NPINS.007656</guid>
+    </item>
+    <item>
+      <title>Chaos: Explosive adoption of corrupt behaviors in social systems with higher-order interactions</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/9/091103/3361537/Explosive-adoption-of-corrupt-behaviors-in-social</link>
+      <guid isPermaLink="false">NPINS.007655</guid>
+    </item>
     <item>
       <title>Chaos: Collective fluctuations in the finite-size Kuramoto model below the critical coupling: Shot-noise approach</title>
       <link>https://pubs.aip.org/aip/cha/article/35/9/093117/3361915/Collective-fluctuations-in-the-finite-size</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. A: Mean first-encounter times of simultaneous random walkers with resetting on networks</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/adf533</link>
       <guid isPermaLink="false">NPINS.007560</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Parameter estimation in a dynamic Chung-Lu random graph</title>
-      <link>http://link.aps.org/doi/10.1103/6w2h-p1sr</link>
-      <guid isPermaLink="false">NPINS.007559</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: The relevance of higher-order ties</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00577-3</link>
-      <guid isPermaLink="false">NPINS.007558</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Analyzing the impact of spatial centrality and courtyard diversity on tourist attractions in the walled city of Lefkoşa</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330956</link>
-      <guid isPermaLink="false">NPINS.007557</guid>
-    </item>
-    <item>
-      <title>iScience: Impact of land use change on carbon metabolism in Hunan Province: An ecological network analysis approach</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225014701</link>
-      <guid isPermaLink="false">NPINS.007556</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Oscillatory and excitable dynamics in an opinion model with group opinions</title>
-      <link>http://link.aps.org/doi/10.1103/PhysRevE.112.024303</link>
-      <guid isPermaLink="false">NPINS.007555</guid>
     </item>
   </channel>
 </rss>
