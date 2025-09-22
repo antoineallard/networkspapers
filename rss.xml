@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 21:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 21:19:33 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Optimal information spreading strategy for containing epidemic spreading on higher-order multiplex networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004503</link>
+      <guid isPermaLink="false">NPINS.007666</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Multilayer decomposition and synchronization dynamics of nested hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/xjdj-lr2d</link>
+      <guid isPermaLink="false">NPINS.007665</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Duality: The first fifty years and beyond</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000632</link>
+      <guid isPermaLink="false">NPINS.007664</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Indirect reciprocity as a dynamics for weak balance</title>
+      <link>http://link.aps.org/doi/10.1103/23xb-94sc</link>
+      <guid isPermaLink="false">NPINS.007663</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Group centrality in optimal and suboptimal vaccination for epidemic models in contact networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0971?af=R</link>
+      <guid isPermaLink="false">NPINS.007662</guid>
+    </item>
+    <item>
+      <title>SIAM J. Math. Data Sci.: Enforcing Katz and PageRank Centrality Measures in Complex Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1690849?af=R</link>
+      <guid isPermaLink="false">NPINS.007661</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Modeling neuron-astrocyte interactions in neural networks using distributed simulation</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013503</link>
+      <guid isPermaLink="false">NPINS.007660</guid>
+    </item>
     <item>
       <title>R. Soc. Open Sci.: An integrated framework for modelling respiratory disease transmission and designing surveillance networks using a sentinel index</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.251195?af=R</link>
@@ -478,41 +513,6 @@
       <title>Appl. Math. Comput.: Secure observer-driven synchronization for complex networks constrained by partial information exchange and limited communication bandwidth</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325004199</link>
       <guid isPermaLink="false">NPINS.007567</guid>
-    </item>
-    <item>
-      <title>Chaos: Quantifying the likelihood of learning collusive strategy equilibria</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/8/083106/3357279/Quantifying-the-likelihood-of-learning-collusive</link>
-      <guid isPermaLink="false">NPINS.007566</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Road-Width-Aware network optimisation for bike lane planning</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adf683</link>
-      <guid isPermaLink="false">NPINS.007565</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Neighbors and relatives: How do speech embeddings reflect linguistic connections across the world?</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330755</link>
-      <guid isPermaLink="false">NPINS.007564</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: Emergent dynamics of cellular decision making in multi-node mutually repressive regulatory networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2025.0190?af=R</link>
-      <guid isPermaLink="false">NPINS.007563</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Phase Transition of Degenerate Turán Problems in p-Norms</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1738401?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007562</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Core-Periphery Detection in Multilayer Networks</title>
-      <link>http://link.aps.org/doi/10.1103/yr23-71yc</link>
-      <guid isPermaLink="false">NPINS.007561</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Mean first-encounter times of simultaneous random walkers with resetting on networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/adf533</link>
-      <guid isPermaLink="false">NPINS.007560</guid>
     </item>
   </channel>
 </rss>
