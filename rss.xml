@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 21:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 17:47:18 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: NeKo: A tool for automatic network construction from prior knowledge</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013300</link>
+      <guid isPermaLink="false">NPINS.007673</guid>
+    </item>
+    <item>
+      <title>Chaos: Data-driven modeling of traffic flow in macroscopic network systems</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/9/093134/3363574/Data-driven-modeling-of-traffic-flow-in</link>
+      <guid isPermaLink="false">NPINS.007672</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Spreading processes on heterogeneous active systems: Spreading threshold, immunization strategies, and vaccination noise</title>
+      <link>http://link.aps.org/doi/10.1103/1tn5-hj3w</link>
+      <guid isPermaLink="false">NPINS.007671</guid>
+    </item>
+    <item>
+      <title>Chaos: Collapse of multi-headed chimera states in biologically based neuronal networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/9/093144/3364077/Collapse-of-multi-headed-chimera-states-in</link>
+      <guid isPermaLink="false">NPINS.007670</guid>
+    </item>
+    <item>
+      <title>Chaos: Weak signal amplification induced by oscillator diversity in a globally coupled bistable system</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/9/093136/3363568/Weak-signal-amplification-induced-by-oscillator</link>
+      <guid isPermaLink="false">NPINS.007669</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Modelling Populations of Interaction Networks via Distance Metrics</title>
+      <link>http://jmlr.org/papers/v26/22-0706.html</link>
+      <guid isPermaLink="false">NPINS.007668</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Investigating the coupling relationships of railway safety risks using the &lt;i&gt;N&lt;/i&gt;-&lt;i&gt;K&lt;/i&gt; model and complex network theory</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332948</link>
+      <guid isPermaLink="false">NPINS.007667</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Optimal information spreading strategy for containing epidemic spreading on higher-order multiplex networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325004503</link>
@@ -478,41 +513,6 @@
       <title>Appl. Netw. Sci.: Positive impact of structural asymmetries in PPI networks on protein complex detection</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00727-6</link>
       <guid isPermaLink="false">NPINS.007574</guid>
-    </item>
-    <item>
-      <title>PNAS: Life’s homochirality: Across a prebiotic network</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2505126122?af=R</link>
-      <guid isPermaLink="false">NPINS.007573</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Large-scale cortical functional networks are organized in structured cycles</title>
-      <link>https://www.nature.com/articles/s41593-025-02052-8</link>
-      <guid isPermaLink="false">NPINS.007572</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Computational modeling and analysis of medical resource shortages in hospital alliance: A simulation-driven approach</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330871</link>
-      <guid isPermaLink="false">NPINS.007571</guid>
-    </item>
-    <item>
-      <title>Chaos: Optimal inter-layer connections for maximizing synchronizability in two-layer chain network</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/8/083127/3359721/Optimal-inter-layer-connections-for-maximizing</link>
-      <guid isPermaLink="false">NPINS.007570</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Revealing the evolution of behavioral activation research trends over two decades through keyword network analysis</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330910</link>
-      <guid isPermaLink="false">NPINS.007569</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: B-TCSR: a co-evolutionary model for multimodal misinformation propagation in hypergraphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/adfb02</link>
-      <guid isPermaLink="false">NPINS.007568</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Secure observer-driven synchronization for complex networks constrained by partial information exchange and limited communication bandwidth</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004199</link>
-      <guid isPermaLink="false">NPINS.007567</guid>
     </item>
   </channel>
 </rss>
