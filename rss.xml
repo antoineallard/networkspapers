@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Sep 2025 18:45:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 13:04:56 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: A multilevel network approach to revealing patterns of online political selective exposure</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332663</link>
+      <guid isPermaLink="false">NPINS.007678</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Color-Bias Perfect Matchings in Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M170483X?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007677</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Comparison of the properties of two-dimensional and three-dimensional percolating networks of nanoparticles</title>
+      <link>http://link.aps.org/doi/10.1103/638g-tr91</link>
+      <guid isPermaLink="false">NPINS.007676</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Neuromechanical network model</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1656677</link>
+      <guid isPermaLink="false">NPINS.007675</guid>
+    </item>
+    <item>
+      <title>Chaos: A mean-field approximation-based linearization framework for network reconstruction from binary time series</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/9/093128/3362430/A-mean-field-approximation-based-linearization</link>
+      <guid isPermaLink="false">NPINS.007674</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: NeKo: A tool for automatic network construction from prior knowledge</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013300</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Approximate regular equivalence by partition refinement</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00726-7</link>
       <guid isPermaLink="false">NPINS.007579</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Dynamics of two-strain disease transmission with negative vaccine information and vaccination on multiplex networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004278</link>
-      <guid isPermaLink="false">NPINS.007578</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Robust network scale-up method estimators</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000590</link>
-      <guid isPermaLink="false">NPINS.007577</guid>
-    </item>
-    <item>
-      <title>Chaos: Reservoir computing and multi-scroll attractors: How network topologies shape prediction performance</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/7/073147/3356266/Reservoir-computing-and-multi-scroll-attractors</link>
-      <guid isPermaLink="false">NPINS.007576</guid>
-    </item>
-    <item>
-      <title>EPL: Integrating uncertainty quantification and ML for network robustness study: From metrics to surfaces</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adea90</link>
-      <guid isPermaLink="false">NPINS.007575</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Positive impact of structural asymmetries in PPI networks on protein complex detection</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00727-6</link>
-      <guid isPermaLink="false">NPINS.007574</guid>
     </item>
   </channel>
 </rss>
