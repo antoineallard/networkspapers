@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 23:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 12:45:15 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Energy-induced chimera-like states in bilayer memristive FitzHugh–Nagumo neural networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/9/093143/3364082/Energy-induced-chimera-like-states-in-bilayer</link>
+      <guid isPermaLink="false">NPINS.007683</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Collaborated risk perception against multiple epidemics in a multiplayer network</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004631</link>
+      <guid isPermaLink="false">NPINS.007682</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Duality: Taking stock and moving forward</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000644</link>
+      <guid isPermaLink="false">NPINS.007681</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Transition graphs of interacting hysterons: structure, design, organization and statistics</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.250753?af=R</link>
+      <guid isPermaLink="false">NPINS.007680</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Cooperation, satisfaction, and decision uncertainty in social games on complex networks with aspiration-driven players</title>
+      <link>http://link.aps.org/doi/10.1103/gljs-6mw4</link>
+      <guid isPermaLink="false">NPINS.007679</guid>
+    </item>
     <item>
       <title>PLOS ONE: A multilevel network approach to revealing patterns of online political selective exposure</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332663</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Effective conductivity of conduit networks with random conductivities</title>
       <link>http://link.aps.org/doi/10.1103/wb8q-xv3x</link>
       <guid isPermaLink="false">NPINS.007584</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Geometry and dynamics of spring networks of spherical topology</title>
-      <link>http://link.aps.org/doi/10.1103/d7r5-n7y1</link>
-      <guid isPermaLink="false">NPINS.007583</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Sensitivity Analysis for Time-Varying Ecological Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1723955?af=R</link>
-      <guid isPermaLink="false">NPINS.007582</guid>
-    </item>
-    <item>
-      <title>Research: Identification of Critical States in Complex Biological Systems Using Cell-Specific Causal Network Entropy</title>
-      <link>https://spj.science.org/doi/abs/10.34133/research.0852?af=R</link>
-      <guid isPermaLink="false">NPINS.007581</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Estimating contagion dynamics models on networks via data assimilation</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1529376</link>
-      <guid isPermaLink="false">NPINS.007580</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Approximate regular equivalence by partition refinement</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00726-7</link>
-      <guid isPermaLink="false">NPINS.007579</guid>
     </item>
   </channel>
 </rss>
