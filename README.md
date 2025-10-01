@@ -4,7 +4,7 @@ New papers in Network Science provides a semi-automatically curated list of new 
 
 New publications are flagged if their title or abstract (when available) contains any of the following keywords
 
-> Connectome, connectome, Connectomes, connectomes, Connectomics, connectomics, Network, network, Networks, networks, networked, Networked, Percolation, percolation, Graph, graph, Graphs, graphs, Hypergraph, hypergraph, Hypergraphs, hypergraphs, Hyperedge, hyperedge, Hyperedges, hyperedges, Simplex, simplex, Simplices, simplices, Simplicial, simplicial
+> cascade, cascades, Cascade, Cascades, Connectome, connectome, Connectomes, connectomes, Connectomics, connectomics, contagion, contagions, Contagion, Contagions, Network, network, Networks, networks, networked, Networked, Percolation, percolation, Graph, graph, Graphs, graphs, Hypergraph, hypergraph, Hypergraphs, hypergraphs, Hyperedge, hyperedge, Hyperedges, hyperedges, Simplex, simplex, Simplices, simplices, Simplicial, simplicial
 
 Flagged publications are then manually reviewed prior to being posted to insure broad relevancy.
 
