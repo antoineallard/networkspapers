@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Sep 2025 20:29:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 12:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: The list r-hued coloring of P5-free graph</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004679</link>
+      <guid isPermaLink="false">NPINS.007693</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Degree-based connected graph construction with assortativity constraint</title>
+      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ae09d4</link>
+      <guid isPermaLink="false">NPINS.007692</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Straight-through and autoregressive influence estimation for influence maximization</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae0970</link>
+      <guid isPermaLink="false">NPINS.007691</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Welfare optimization for resource allocation with peer effects</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf298</link>
+      <guid isPermaLink="false">NPINS.007690</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The gears in network dynamics: The alter-trajectory approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000607</link>
+      <guid isPermaLink="false">NPINS.007689</guid>
+    </item>
     <item>
       <title>SIAM J. Appl. Math.: Targeting Influence in a Harmonic Opinion Model</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1697013?ai=s3&amp;mi=9cks17&amp;af=R</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Analysis of ego multi-token transfer networks: a multilayer approach</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00712-z</link>
       <guid isPermaLink="false">NPINS.007594</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Maintaining diversity in structured populations</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf252</link>
-      <guid isPermaLink="false">NPINS.007593</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Universality classes in the time evolution of epidemic outbreaks on complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/qcbd-bbjv</link>
-      <guid isPermaLink="false">NPINS.007592</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Hamilton Cycles in Random Digraphs with Minimum Degree at Least One</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1623434?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007591</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Connecting mass-action models and network models for infectious diseases</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013373</link>
-      <guid isPermaLink="false">NPINS.007590</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: A graph homomorphism approach for unraveling histories of metastatic cancers and viral outbreaks under evolutionary constraints</title>
-      <link>https://www.nature.com/articles/s41467-025-63411-4</link>
-      <guid isPermaLink="false">NPINS.007589</guid>
     </item>
   </channel>
 </rss>
