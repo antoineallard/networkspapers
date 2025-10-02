@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 15:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 12:50:08 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Fractal geometry predicts dynamic differences in structural and functional connectomes</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/9/093150/3364518/Fractal-geometry-predicts-dynamic-differences-in</link>
+      <guid isPermaLink="false">NPINS.007698</guid>
+    </item>
+    <item>
+      <title>iScience: Sparse memory ensembles set brain-wide network states to sustain learned associations</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225018358</link>
+      <guid isPermaLink="false">NPINS.007697</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: “Hierarchical network” structure of the urban agglomeration of the Huaihai economic zone in China based on Baidu migration data</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00738-3</link>
+      <guid isPermaLink="false">NPINS.007696</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Universal Model of Urban Street Networks</title>
+      <link>http://link.aps.org/doi/10.1103/1vj4-n8vn</link>
+      <guid isPermaLink="false">NPINS.007695</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A hypergraph analysis of the European Commission lobby network</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00735-6</link>
+      <guid isPermaLink="false">NPINS.007694</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: The list r-hued coloring of P5-free graph</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325004679</link>
@@ -488,31 +513,6 @@
       <title>EPL: Graph Laplacian analysis of modulation instability in three-core optical coupler</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/adf87e</link>
       <guid isPermaLink="false">NPINS.007599</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Block-corrected modularity for community detection</title>
-      <link>http://link.aps.org/doi/10.1103/7sjf-c6jz</link>
-      <guid isPermaLink="false">NPINS.007598</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Associative-memory network of Winfree-type oscillators and binary pattern retrieval: theory and algorithm</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0154?af=R</link>
-      <guid isPermaLink="false">NPINS.007597</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: An equitable partition based construction of graphs with the same spectral radius</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004229</link>
-      <guid isPermaLink="false">NPINS.007596</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Higher-order Ising model on hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/hbh5-3nty</link>
-      <guid isPermaLink="false">NPINS.007595</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Analysis of ego multi-token transfer networks: a multilayer approach</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00712-z</link>
-      <guid isPermaLink="false">NPINS.007594</guid>
     </item>
   </channel>
 </rss>
