@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Oct 2025 14:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 19:48:12 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Collective directional switches of swarming systems with higher-order interactions</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/9/093149/3364428/Collective-directional-switches-of-swarming</link>
+      <guid isPermaLink="false">NPINS.007703</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: In the shadow of silence: Modelling missing data in the dark networks of crime and terrorists</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000656</link>
+      <guid isPermaLink="false">NPINS.007702</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Unified framework for complex graph-data: introducing the hybrid layered network model</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00716-9</link>
+      <guid isPermaLink="false">NPINS.007701</guid>
+    </item>
+    <item>
+      <title>Chaos: Control of chimera states via adaptive higher-order interactions</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/101102/3365543/Control-of-chimera-states-via-adaptive-higher</link>
+      <guid isPermaLink="false">NPINS.007700</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Identifying obfuscated code through graph-based semantic analysis of binary code</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00733-8</link>
+      <guid isPermaLink="false">NPINS.007699</guid>
+    </item>
     <item>
       <title>Chaos: Fractal geometry predicts dynamic differences in structural and functional connectomes</title>
       <link>https://pubs.aip.org/aip/cha/article/35/9/093150/3364518/Fractal-geometry-predicts-dynamic-differences-in</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Super edge-connectivity of transitive hypergraphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325004242</link>
       <guid isPermaLink="false">NPINS.007604</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Can an eye for an eye turn the whole world sanctioned?</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000589</link>
-      <guid isPermaLink="false">NPINS.007603</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Synaptic shot noise triggers fast and slow global oscillations in balanced neural networks</title>
-      <link>http://link.aps.org/doi/10.1103/47h5-fbyy</link>
-      <guid isPermaLink="false">NPINS.007602</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Parametric instability landscape of coupled Kerr parametric oscillators</title>
-      <link>http://link.aps.org/doi/10.1103/c91r-8t3h</link>
-      <guid isPermaLink="false">NPINS.007601</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Šoltés problem for the Kirchhoff index of a graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004205</link>
-      <guid isPermaLink="false">NPINS.007600</guid>
-    </item>
-    <item>
-      <title>EPL: Graph Laplacian analysis of modulation instability in three-core optical coupler</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adf87e</link>
-      <guid isPermaLink="false">NPINS.007599</guid>
     </item>
   </channel>
 </rss>
