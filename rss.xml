@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Oct 2025 00:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 13:35:41 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Default robustness and worst-case losses in financial networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00728-5</link>
+      <guid isPermaLink="false">NPINS.007708</guid>
+    </item>
+    <item>
+      <title>Chaos: Adversarial control of synchronization in complex oscillator networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/103109/3365929/Adversarial-control-of-synchronization-in-complex</link>
+      <guid isPermaLink="false">NPINS.007707</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: The most influential philosophers in Wikipedia: a multicultural analysis</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00570-w</link>
+      <guid isPermaLink="false">NPINS.007706</guid>
+    </item>
+    <item>
+      <title>Chaos: Focus issue on recent advances in adaptive dynamical networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/100401/3365572/Focus-issue-on-recent-advances-in-adaptive</link>
+      <guid isPermaLink="false">NPINS.007705</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Impact of on-site potential on the thermal-siphon phenomenon in networks</title>
+      <link>http://link.aps.org/doi/10.1103/lv5d-lyc5</link>
+      <guid isPermaLink="false">NPINS.007704</guid>
+    </item>
     <item>
       <title>Chaos: Collective directional switches of swarming systems with higher-order interactions</title>
       <link>https://pubs.aip.org/aip/cha/article/35/9/093149/3364428/Collective-directional-switches-of-swarming</link>
@@ -488,31 +513,6 @@
       <title>Phys. Rev. E: Thermodynamic circuits: Modeling chemical reaction networks with nonequilibrium conductance matrices</title>
       <link>http://link.aps.org/doi/10.1103/4rsy-786t</link>
       <guid isPermaLink="false">NPINS.007609</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Efficacy of digital interventions for smoking cessation by type and method: a systematic review and network meta-analysis</title>
-      <link>https://www.nature.com/articles/s41562-025-02295-2</link>
-      <guid isPermaLink="false">NPINS.007608</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Driving climate action: brokers as catalysts in EU policy networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00732-9</link>
-      <guid isPermaLink="false">NPINS.007607</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Community detection methods for GBF-PUM signal approximation on graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032500428X</link>
-      <guid isPermaLink="false">NPINS.007606</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Connectome-constrained ligand-receptor interaction analysis for understanding brain network communication</title>
-      <link>https://www.nature.com/articles/s41467-025-63204-9</link>
-      <guid isPermaLink="false">NPINS.007605</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Super edge-connectivity of transitive hypergraphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004242</link>
-      <guid isPermaLink="false">NPINS.007604</guid>
     </item>
   </channel>
 </rss>
