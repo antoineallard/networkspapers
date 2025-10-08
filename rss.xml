@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Oct 2025 00:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 15:27:25 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Role of zealots in the spread of linguistic traits</title>
+      <link>http://link.aps.org/doi/10.1103/t4pt-zdc3</link>
+      <guid isPermaLink="false">NPINS.007713</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Understanding the high-order network plasticity mechanisms of ultrasound neuromodulation</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013514</link>
+      <guid isPermaLink="false">NPINS.007712</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Social and spatial drivers of the multitiered structure of zebra finch social networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0978?af=R</link>
+      <guid isPermaLink="false">NPINS.007711</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Distant remote synchronization in multiple connected star graphs</title>
+      <link>http://link.aps.org/doi/10.1103/x5kw-7svx</link>
+      <guid isPermaLink="false">NPINS.007710</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Critical and nonpercolating phases in bond percolation on the Song–Havlin–Makse network</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ae042a</link>
+      <guid isPermaLink="false">NPINS.007709</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Default robustness and worst-case losses in financial networks</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00728-5</link>
@@ -488,31 +513,6 @@
       <title>EPL: Cooperation dynamics on higher-order networks: A brief review</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/adfd7e</link>
       <guid isPermaLink="false">NPINS.007614</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: A graph theory-based algorithm for the reduction of atmospheric chemical mechanisms</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf273</link>
-      <guid isPermaLink="false">NPINS.007613</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Three-dimensional modeling of hyphal fusion, branching, and nutrient transport in filamentous fungi</title>
-      <link>http://link.aps.org/doi/10.1103/xbjp-zqj1</link>
-      <guid isPermaLink="false">NPINS.007612</guid>
-    </item>
-    <item>
-      <title>EPL: Scaling law of cliques and holes in chaotic systems</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adfe8b</link>
-      <guid isPermaLink="false">NPINS.007611</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Induced cycles vertex number and (1,2)-domination in cubic graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004266</link>
-      <guid isPermaLink="false">NPINS.007610</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Thermodynamic circuits: Modeling chemical reaction networks with nonequilibrium conductance matrices</title>
-      <link>http://link.aps.org/doi/10.1103/4rsy-786t</link>
-      <guid isPermaLink="false">NPINS.007609</guid>
     </item>
   </channel>
 </rss>
