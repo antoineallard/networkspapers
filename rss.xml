@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Oct 2025 00:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 13:19:09 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Nonreciprocal random networks and their percolation properties</title>
+      <link>http://link.aps.org/doi/10.1103/gv5f-vzwh</link>
+      <guid isPermaLink="false">NPINS.007718</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Effects of inertia on the asynchronous state of a disordered Kuramoto model</title>
+      <link>http://link.aps.org/doi/10.1103/xt4m-bkp8</link>
+      <guid isPermaLink="false">NPINS.007717</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Entanglement in directed graph states</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ae0bcb</link>
+      <guid isPermaLink="false">NPINS.007716</guid>
+    </item>
+    <item>
+      <title>Chaos: Higher-order interactions, adaptivity, and phase transitions in a novel reservoir computing model</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/103110/3366456/Higher-order-interactions-adaptivity-and-phase</link>
+      <guid isPermaLink="false">NPINS.007715</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Use of aggregated relational data in agent-based modeling</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000668</link>
+      <guid isPermaLink="false">NPINS.007714</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Role of zealots in the spread of linguistic traits</title>
       <link>http://link.aps.org/doi/10.1103/t4pt-zdc3</link>
@@ -488,31 +513,6 @@
       <title>J. Mach. Learn. Res.: Nonparametric Regression on Random Geometric Graphs Sampled from Submanifolds</title>
       <link>http://jmlr.org/papers/v26/24-1960.html</link>
       <guid isPermaLink="false">NPINS.007619</guid>
-    </item>
-    <item>
-      <title>Chaos: Traffic flow-oriented reliability assessment and enhancement of urban transportation networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093101/3361540/Traffic-flow-oriented-reliability-assessment-and</link>
-      <guid isPermaLink="false">NPINS.007618</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Latent Process Models for Functional Network Data</title>
-      <link>http://jmlr.org/papers/v26/23-0444.html</link>
-      <guid isPermaLink="false">NPINS.007617</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: How the use of feature selection methods influences the efficiency and accuracy of complex network simulations</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00729-4</link>
-      <guid isPermaLink="false">NPINS.007616</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Optimization model for predicting quantum theoretic characteristics of hexagonal systems using temperature dependent graph theoretic estimators</title>
-      <link>https://www.nature.com/articles/s41598-025-17791-8</link>
-      <guid isPermaLink="false">NPINS.007615</guid>
-    </item>
-    <item>
-      <title>EPL: Cooperation dynamics on higher-order networks: A brief review</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/adfd7e</link>
-      <guid isPermaLink="false">NPINS.007614</guid>
     </item>
   </channel>
 </rss>
