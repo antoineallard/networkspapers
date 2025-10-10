@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 01:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 12:53:12 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Fractional stochastic model of citation dynamics with memory and volatility</title>
+      <link>http://link.aps.org/doi/10.1103/l2xd-43n9</link>
+      <guid isPermaLink="false">NPINS.007723</guid>
+    </item>
+    <item>
+      <title>PNAS: The distinctive innovation patterns and network embeddedness of scientific prizewinners</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2424143122?af=R</link>
+      <guid isPermaLink="false">NPINS.007722</guid>
+    </item>
+    <item>
+      <title>Chaos: Structure–function coupling reveals the excitation–inhibition imbalance in autism spectrum disorder: A perspective from large-scale whole-brain network modeling</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/103112/3366915/Structure-function-coupling-reveals-the-excitation</link>
+      <guid isPermaLink="false">NPINS.007721</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: Statistical evidence in psychological networks</title>
+      <link>https://www.nature.com/articles/s41562-025-02314-2</link>
+      <guid isPermaLink="false">NPINS.007720</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: A graph-neural-network-entropy model of vital node identification on network attack and propagation</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ae068f</link>
+      <guid isPermaLink="false">NPINS.007719</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Nonreciprocal random networks and their percolation properties</title>
       <link>http://link.aps.org/doi/10.1103/gv5f-vzwh</link>
@@ -488,31 +513,6 @@
       <title>Appl. Netw. Sci.: Community aware temporal network generation</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00731-w</link>
       <guid isPermaLink="false">NPINS.007624</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Extended yard sale model of wealth distribution on Erdős-Rényi random networks</title>
-      <link>http://link.aps.org/doi/10.1103/8rbw-kr8n</link>
-      <guid isPermaLink="false">NPINS.007623</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Network spatial patterns and determinants of China’s hometown chambers of commerce</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331476</link>
-      <guid isPermaLink="false">NPINS.007622</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Multistability and high codimension bifurcations in synergistic epidemics on heterogeneous networks</title>
-      <link>http://link.aps.org/doi/10.1103/pnvl-zkq7</link>
-      <guid isPermaLink="false">NPINS.007621</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Weak-Correlation Universality and Macroscopic Fluctuations in Power-Law Recurrent Networks</title>
-      <link>http://link.aps.org/doi/10.1103/l6pc-y1x6</link>
-      <guid isPermaLink="false">NPINS.007620</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Nonparametric Regression on Random Geometric Graphs Sampled from Submanifolds</title>
-      <link>http://jmlr.org/papers/v26/24-1960.html</link>
-      <guid isPermaLink="false">NPINS.007619</guid>
     </item>
   </channel>
 </rss>
