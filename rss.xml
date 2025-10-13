@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Oct 2025 02:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 13:24:44 +0000</lastBuildDate>
+    <item>
+      <title>Philos. Trans. R. Soc. A: Grover’s quantum walk on segmented complete graphs</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2024.0419?af=R</link>
+      <guid isPermaLink="false">NPINS.007728</guid>
+    </item>
+    <item>
+      <title>PNAS: The intrinsic neuronal network of the central nervous system and its modular (subsystem) architecture in a mammal</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2519768122?af=R</link>
+      <guid isPermaLink="false">NPINS.007727</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Early warning of regime switching in a financial time series: A heteroskedastic network model</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333734</link>
+      <guid isPermaLink="false">NPINS.007726</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Transitions and thermodynamics on species graphs of chemical reaction networks</title>
+      <link>http://link.aps.org/doi/10.1103/p42m-8bqy</link>
+      <guid isPermaLink="false">NPINS.007725</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Comparison of synchronizability in temporal networks with small-world and random topologies</title>
+      <link>http://link.aps.org/doi/10.1103/5mvv-zf4z</link>
+      <guid isPermaLink="false">NPINS.007724</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Fractional stochastic model of citation dynamics with memory and volatility</title>
       <link>http://link.aps.org/doi/10.1103/l2xd-43n9</link>
@@ -488,31 +513,6 @@
       <title>J. Phys. Complex.: A reinforcement learning-enhanced meta-heuristic framework for network dismantling</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/adfff1</link>
       <guid isPermaLink="false">NPINS.007629</guid>
-    </item>
-    <item>
-      <title>EPL: Cooperative behavior in public goods game for emergency shelter resource reallocation</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae0153</link>
-      <guid isPermaLink="false">NPINS.007628</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Spectral coarse graining and rescaling for preserving structural and dynamical properties in graphs</title>
-      <link>http://link.aps.org/doi/10.1103/k4bx-w273</link>
-      <guid isPermaLink="false">NPINS.007627</guid>
-    </item>
-    <item>
-      <title>Chaos: Cluster synchronization via graph Laplacian eigenvectors</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093109/3361662/Cluster-synchronization-via-graph-Laplacian</link>
-      <guid isPermaLink="false">NPINS.007626</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Mutualism provides a basis for biodiversity in eco-evolutionary community assembly</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013402</link>
-      <guid isPermaLink="false">NPINS.007625</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Community aware temporal network generation</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00731-w</link>
-      <guid isPermaLink="false">NPINS.007624</guid>
     </item>
   </channel>
 </rss>
