@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Oct 2025 14:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 00:03:15 +0000</lastBuildDate>
+    <item>
+      <title>Philos. Trans. R. Soc. A: Numerical analysis, spectral graph theory, orthogonal polynomials and quantum algorithms</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2024.0426?af=R</link>
+      <guid isPermaLink="false">NPINS.007733</guid>
+    </item>
+    <item>
+      <title>Philos. Trans. R. Soc. A: Partial Chebyshev polynomials and fan graphs</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2024.0417?af=R</link>
+      <guid isPermaLink="false">NPINS.007732</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Systemic risk spillover dynamics and causality structures in composite stress networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae0852</link>
+      <guid isPermaLink="false">NPINS.007731</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Concise network models of memory dynamics reveal explainable patterns in path data</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adw4544</link>
+      <guid isPermaLink="false">NPINS.007730</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: The impact factor game: an agent-based exploration of self-citation influence and interdisciplinary dynamics on impact metrics</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00725-8</link>
+      <guid isPermaLink="false">NPINS.007729</guid>
+    </item>
     <item>
       <title>Philos. Trans. R. Soc. A: Grover’s quantum walk on segmented complete graphs</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2024.0419?af=R</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: The chromatic number of {P2 ∪ P3, banner}-free graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325004333</link>
       <guid isPermaLink="false">NPINS.007634</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Phase transitions in the prisoner's dilemma game on the Barabási-Albert graph with participation cost</title>
-      <link>http://link.aps.org/doi/10.1103/rx79-dpmq</link>
-      <guid isPermaLink="false">NPINS.007633</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Collecting a large number of alters in egocentric network research: A comparative analysis of three approaches</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000450</link>
-      <guid isPermaLink="false">NPINS.007632</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Bifurcations of Synchronized Solutions in a Continuum Limit of the Kuramoto Model with Two-Mode Interaction Depending on Two Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1723931?af=R</link>
-      <guid isPermaLink="false">NPINS.007631</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Matchings in Hypercubes Extend to Long Cycles</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1670093?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007630</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: A reinforcement learning-enhanced meta-heuristic framework for network dismantling</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/adfff1</link>
-      <guid isPermaLink="false">NPINS.007629</guid>
     </item>
   </channel>
 </rss>
