@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 14:43:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 18:41:37 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: A multilayered gap junction network is essential for social decision-making</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2510579122?af=R</link>
+      <guid isPermaLink="false">NPINS.007740</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: CLOVE, a Travelling Salesman’s approach to hyperbolic embeddings of complex networks with communities</title>
+      <link>https://www.nature.com/articles/s42005-025-02306-8</link>
+      <guid isPermaLink="false">NPINS.007739</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Assembly in Directed Hypergraphs</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0331?af=R</link>
+      <guid isPermaLink="false">NPINS.007738</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Twin-Width of Planar Graphs Is at Most 8, and Some Related Bounds</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1623823?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007737</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Counting matchable spanning trees of join graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004977</link>
+      <guid isPermaLink="false">NPINS.007736</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Computing Twin-Width Parameterized by the Feedback Edge Number and Vertex Integrity</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1705329?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007735</guid>
+    </item>
+    <item>
+      <title>Chaos: Emergence of order within disorder: Shadowed waves and chimera states in reaction-diffusion systems</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/103122/3368102/Emergence-of-order-within-disorder-Shadowed-waves</link>
+      <guid isPermaLink="false">NPINS.007734</guid>
+    </item>
     <item>
       <title>Philos. Trans. R. Soc. A: Numerical analysis, spectral graph theory, orthogonal polynomials and quantum algorithms</title>
       <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2024.0426?af=R</link>
@@ -478,41 +513,6 @@
       <title>J. Mach. Learn. Res.: Frequentist Guarantees of Distributed (Non)-Bayesian Inference</title>
       <link>http://jmlr.org/papers/v26/23-1504.html</link>
       <guid isPermaLink="false">NPINS.007641</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Insect-habitat-plant interaction networks provide guidelines to mitigate the risk of transmission of &lt;i&gt;Xylella fastidiosa&lt;/i&gt; to grapevine in Southern France</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332344</link>
-      <guid isPermaLink="false">NPINS.007640</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A System dynamics analysis of the factors influencing the promotion of prefabricated decoration, based on a co-occurrence network</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331703</link>
-      <guid isPermaLink="false">NPINS.007639</guid>
-    </item>
-    <item>
-      <title>Chaos: The role of inhibitory neuronal variability in modulating phase diversity between coupled networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093127/3362429/The-role-of-inhibitory-neuronal-variability-in</link>
-      <guid isPermaLink="false">NPINS.007638</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Extremal simplicial distributions on cycle scenarios with arbitrary outcomes</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ae0204</link>
-      <guid isPermaLink="false">NPINS.007637</guid>
-    </item>
-    <item>
-      <title>Chaos: Forced symmetry-breaking in networks with dihedral symmetry</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093124/3362049/Forced-symmetry-breaking-in-networks-with-dihedral</link>
-      <guid isPermaLink="false">NPINS.007636</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Components of flip graphs of domino tilings in quadriculated cylinder and torus</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004230</link>
-      <guid isPermaLink="false">NPINS.007635</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The chromatic number of {P2 ∪ P3, banner}-free graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004333</link>
-      <guid isPermaLink="false">NPINS.007634</guid>
     </item>
   </channel>
 </rss>
