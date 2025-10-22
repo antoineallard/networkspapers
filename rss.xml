@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Oct 2025 02:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 13:09:41 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Amplitude death in delay-coupled complex networks with higher-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/hjth-8qjn</link>
+      <guid isPermaLink="false">NPINS.007750</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Dynamic propagation and control of a West Nile virus model based on higher-order temporal network structure</title>
+      <link>http://link.aps.org/doi/10.1103/xwt2-f1d3</link>
+      <guid isPermaLink="false">NPINS.007749</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Two-disjoint-cycle-cover vertex bipancyclicity of bubble-sort star graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005120</link>
+      <guid isPermaLink="false">NPINS.007748</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Internal reliability and antireliability in dynamical networks</title>
+      <link>http://link.aps.org/doi/10.1103/p5xz-rfv6</link>
+      <guid isPermaLink="false">NPINS.007747</guid>
+    </item>
+    <item>
+      <title>iScience: Exploration and comparative visualisation of metabolic networks in GEMs with MMINT</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225020589</link>
+      <guid isPermaLink="false">NPINS.007746</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Predicting the response of structurally altered and asymmetrical networks</title>
       <link>http://link.aps.org/doi/10.1103/3s3d-qr4l</link>
@@ -488,31 +513,6 @@
       <title>PNAS: Community detection for directed networks revisited using bimodularity</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2500571122?af=R</link>
       <guid isPermaLink="false">NPINS.007651</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: On an Inverse Problem of the Generalized Bathtub Model of Network Trip Flows</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1648521?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007650</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Transmission networks of long-term and short-term knowledge in a foraging society</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf258</link>
-      <guid isPermaLink="false">NPINS.007649</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Continuous-time process for human contact dynamics</title>
-      <link>http://link.aps.org/doi/10.1103/lt46-nrh4</link>
-      <guid isPermaLink="false">NPINS.007648</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Improving synchronization with hypernetworks: Master stability function analysis and simulation validation</title>
-      <link>http://link.aps.org/doi/10.1103/g3d5-gy18</link>
-      <guid isPermaLink="false">NPINS.007647</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: A causal framework for the drivers of animal social network structure</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013370</link>
-      <guid isPermaLink="false">NPINS.007646</guid>
     </item>
   </channel>
 </rss>
