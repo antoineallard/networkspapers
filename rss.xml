@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Oct 2025 02:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 13:13:27 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Comput. Sci.: Discover network dynamics with neural symbolic regression</title>
+      <link>https://www.nature.com/articles/s43588-025-00893-8</link>
+      <guid isPermaLink="false">NPINS.007755</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Bootstrap Percolation on the High-Dimensional Hamming Graph</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1670937?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007754</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Trends of Friends – Time dynamics of Surface- and Deep- level traits in friendship formation and maintenance</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332500067X</link>
+      <guid isPermaLink="false">NPINS.007753</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Dynamical Processes on Metric Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1628153?af=R</link>
+      <guid isPermaLink="false">NPINS.007752</guid>
+    </item>
+    <item>
+      <title>EPL: Traffic-driven multi-epidemic spreading in complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae0e51</link>
+      <guid isPermaLink="false">NPINS.007751</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Amplitude death in delay-coupled complex networks with higher-order interactions</title>
       <link>http://link.aps.org/doi/10.1103/hjth-8qjn</link>
@@ -488,31 +513,6 @@
       <title>iScience: Potential vulnerability of US green hydrogen in a world of interdependent networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004225015457</link>
       <guid isPermaLink="false">NPINS.007656</guid>
-    </item>
-    <item>
-      <title>Chaos: Explosive adoption of corrupt behaviors in social systems with higher-order interactions</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/091103/3361537/Explosive-adoption-of-corrupt-behaviors-in-social</link>
-      <guid isPermaLink="false">NPINS.007655</guid>
-    </item>
-    <item>
-      <title>Chaos: Collective fluctuations in the finite-size Kuramoto model below the critical coupling: Shot-noise approach</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093117/3361915/Collective-fluctuations-in-the-finite-size</link>
-      <guid isPermaLink="false">NPINS.007654</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Gene regulatory network structure informs the distribution of perturbation effects</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013387</link>
-      <guid isPermaLink="false">NPINS.007653</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Fast and exact stochastic simulations of epidemics on static and temporal networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013490</link>
-      <guid isPermaLink="false">NPINS.007652</guid>
-    </item>
-    <item>
-      <title>PNAS: Community detection for directed networks revisited using bimodularity</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2500571122?af=R</link>
-      <guid isPermaLink="false">NPINS.007651</guid>
     </item>
   </channel>
 </rss>
