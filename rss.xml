@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Nov 2025 01:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 14:08:44 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: Inferring effective networks of spiking neurons using a continuous-time estimator of transfer entropy</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013500</link>
+      <guid isPermaLink="false">NPINS.007762</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: A Canonical Tree Decomposition for Order Types, and Some Applications</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1672201?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007761</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Estimating the effect size of moral contagion in online networks: A pre-registered replication and meta-analysis</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf327</link>
+      <guid isPermaLink="false">NPINS.007760</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Dynamical Phase Transitions in Nonequilibrium Networks</title>
+      <link>http://link.aps.org/doi/10.1103/yls4-kdvj</link>
+      <guid isPermaLink="false">NPINS.007759</guid>
+    </item>
+    <item>
+      <title>EPL: Standing Manakov solitons in networks: Exact solutions and stability analysis in metric-graphs–based approach</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae1056</link>
+      <guid isPermaLink="false">NPINS.007758</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: A new mathematical model for brain memory working. Optimal control behavior for Hopfield networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ae120e</link>
+      <guid isPermaLink="false">NPINS.007757</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Uncertainty quantification and posterior sampling for network reconstruction</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0344?af=R</link>
+      <guid isPermaLink="false">NPINS.007756</guid>
+    </item>
     <item>
       <title>Nat. Comput. Sci.: Discover network dynamics with neural symbolic regression</title>
       <link>https://www.nature.com/articles/s43588-025-00893-8</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Indirect reciprocity as a dynamics for weak balance</title>
       <link>http://link.aps.org/doi/10.1103/23xb-94sc</link>
       <guid isPermaLink="false">NPINS.007663</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Group centrality in optimal and suboptimal vaccination for epidemic models in contact networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2024.0971?af=R</link>
-      <guid isPermaLink="false">NPINS.007662</guid>
-    </item>
-    <item>
-      <title>SIAM J. Math. Data Sci.: Enforcing Katz and PageRank Centrality Measures in Complex Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1690849?af=R</link>
-      <guid isPermaLink="false">NPINS.007661</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Modeling neuron-astrocyte interactions in neural networks using distributed simulation</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013503</link>
-      <guid isPermaLink="false">NPINS.007660</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: An integrated framework for modelling respiratory disease transmission and designing surveillance networks using a sentinel index</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.251195?af=R</link>
-      <guid isPermaLink="false">NPINS.007659</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Clique Supersaturation</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1642172?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007658</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Incentive-based control of networked evolutionary coordination games under asynchronous best-response dynamics</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004102</link>
-      <guid isPermaLink="false">NPINS.007657</guid>
-    </item>
-    <item>
-      <title>iScience: Potential vulnerability of US green hydrogen in a world of interdependent networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225015457</link>
-      <guid isPermaLink="false">NPINS.007656</guid>
     </item>
   </channel>
 </rss>
