@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Nov 2025 09:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 22:17:07 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Participant-invariant, evolving patterns of influence in dynamic networks</title>
+      <link>http://link.aps.org/doi/10.1103/8stj-d6bf</link>
+      <guid isPermaLink="false">NPINS.007776</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Inferring Higher-Order Couplings with Neural Networks</title>
+      <link>http://link.aps.org/doi/10.1103/lyny-6r9y</link>
+      <guid isPermaLink="false">NPINS.007775</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Contraction theory based cluster synchronization in switched networks via pinning impulsive control with time-varying delays</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005132</link>
+      <guid isPermaLink="false">NPINS.007774</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Geometric perspective of linear stability of q-states in finite Kuramoto networks on circulant graphs</title>
+      <link>http://link.aps.org/doi/10.1103/z5v7-41g1</link>
+      <guid isPermaLink="false">NPINS.007773</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Drug-disease networks and drug repurposing</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013595</link>
+      <guid isPermaLink="false">NPINS.007772</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: On the Zq-forcing number: computational approach and exact values</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae1430</link>
+      <guid isPermaLink="false">NPINS.007771</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Network Synchronization with an Adaptive Blinking Coupling Scheme: Topological and Dynamical Generalization</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032500517X</link>
+      <guid isPermaLink="false">NPINS.007770</guid>
+    </item>
     <item>
       <title>Chaos: Multiple timescale dynamics of network adaptation with constraints</title>
       <link>https://pubs.aip.org/aip/cha/article/35/10/103141/3368975/Multiple-timescale-dynamics-of-network-adaptation</link>
@@ -478,41 +513,6 @@
       <title>SIAM J. Discrete Math.: Color-Bias Perfect Matchings in Hypergraphs</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M170483X?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.007677</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Comparison of the properties of two-dimensional and three-dimensional percolating networks of nanoparticles</title>
-      <link>http://link.aps.org/doi/10.1103/638g-tr91</link>
-      <guid isPermaLink="false">NPINS.007676</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Neuromechanical network model</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1656677</link>
-      <guid isPermaLink="false">NPINS.007675</guid>
-    </item>
-    <item>
-      <title>Chaos: A mean-field approximation-based linearization framework for network reconstruction from binary time series</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093128/3362430/A-mean-field-approximation-based-linearization</link>
-      <guid isPermaLink="false">NPINS.007674</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: NeKo: A tool for automatic network construction from prior knowledge</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013300</link>
-      <guid isPermaLink="false">NPINS.007673</guid>
-    </item>
-    <item>
-      <title>Chaos: Data-driven modeling of traffic flow in macroscopic network systems</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093134/3363574/Data-driven-modeling-of-traffic-flow-in</link>
-      <guid isPermaLink="false">NPINS.007672</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Spreading processes on heterogeneous active systems: Spreading threshold, immunization strategies, and vaccination noise</title>
-      <link>http://link.aps.org/doi/10.1103/1tn5-hj3w</link>
-      <guid isPermaLink="false">NPINS.007671</guid>
-    </item>
-    <item>
-      <title>Chaos: Collapse of multi-headed chimera states in biologically based neuronal networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093144/3364077/Collapse-of-multi-headed-chimera-states-in</link>
-      <guid isPermaLink="false">NPINS.007670</guid>
     </item>
   </channel>
 </rss>
