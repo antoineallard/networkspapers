@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Nov 2025 12:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 18:13:59 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Upper bound for the stability of Boolean networks</title>
+      <link>http://link.aps.org/doi/10.1103/1862-2fj1</link>
+      <guid isPermaLink="false">NPINS.007781</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On a new problem about the local irregularity of graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004886</link>
+      <guid isPermaLink="false">NPINS.007780</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Network structure variation across scales offers clues to the macroevolutionary persistence of specialized mutualisms</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0926?af=R</link>
+      <guid isPermaLink="false">NPINS.007779</guid>
+    </item>
+    <item>
+      <title>Rev. Mod. Phys.: Statistical mechanics for networks of real neurons</title>
+      <link>http://link.aps.org/doi/10.1103/jcrn-3nrc</link>
+      <guid isPermaLink="false">NPINS.007778</guid>
+    </item>
+    <item>
+      <title>Chaos: Time series analysis of coupled slow–fast neuron models: From Hurst exponent to Granger causality</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/103136/3368702/Time-series-analysis-of-coupled-slow-fast-neuron</link>
+      <guid isPermaLink="false">NPINS.007777</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Participant-invariant, evolving patterns of influence in dynamic networks</title>
       <link>http://link.aps.org/doi/10.1103/8stj-d6bf</link>
@@ -488,31 +513,6 @@
       <title>Appl. Math. Comput.: Collaborated risk perception against multiple epidemics in a multiplayer network</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325004631</link>
       <guid isPermaLink="false">NPINS.007682</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Duality: Taking stock and moving forward</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000644</link>
-      <guid isPermaLink="false">NPINS.007681</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Transition graphs of interacting hysterons: structure, design, organization and statistics</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.250753?af=R</link>
-      <guid isPermaLink="false">NPINS.007680</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Cooperation, satisfaction, and decision uncertainty in social games on complex networks with aspiration-driven players</title>
-      <link>http://link.aps.org/doi/10.1103/gljs-6mw4</link>
-      <guid isPermaLink="false">NPINS.007679</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A multilevel network approach to revealing patterns of online political selective exposure</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332663</link>
-      <guid isPermaLink="false">NPINS.007678</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Color-Bias Perfect Matchings in Hypergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M170483X?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007677</guid>
     </item>
   </channel>
 </rss>
