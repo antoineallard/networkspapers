@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 17:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 13:55:54 +0000</lastBuildDate>
+    <item>
+      <title>Front. Mol. Biosci.: Investigating the molecular mechanisms of resveratrol in treating diabetic foot ulcers: a comprehensive analysis of network pharmacology and experiment validation</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2025.1708426</link>
+      <guid isPermaLink="false">NPINS.007791</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: HMFGraph: Novel Bayesian approach for recovering biological networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013614</link>
+      <guid isPermaLink="false">NPINS.007790</guid>
+    </item>
+    <item>
+      <title>Chaos: Explainable AI for analyzing the decision of GNNs at predicting dynamic stability of complex oscillator networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/11/113116/3371740/Explainable-AI-for-analyzing-the-decision-of-GNNs</link>
+      <guid isPermaLink="false">NPINS.007789</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: An extended Hegselmann-Krause model incorporating agent heterogeneity and influence propagation</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334059</link>
+      <guid isPermaLink="false">NPINS.007788</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Parameter estimation in interacting particle systems on dynamic random networks</title>
+      <link>http://link.aps.org/doi/10.1103/k8cr-vkkf</link>
+      <guid isPermaLink="false">NPINS.007787</guid>
+    </item>
     <item>
       <title>Sci. Rep.: Predictive modeling of copper iodide properties using graph-theoretical descriptors</title>
       <link>https://www.nature.com/articles/s41598-025-23657-w</link>
@@ -488,31 +513,6 @@
       <title>New J. Phys.: Degree-based connected graph construction with assortativity constraint</title>
       <link>http://iopscience.iop.org/article/10.1088/1367-2630/ae09d4</link>
       <guid isPermaLink="false">NPINS.007692</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Straight-through and autoregressive influence estimation for influence maximization</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae0970</link>
-      <guid isPermaLink="false">NPINS.007691</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Welfare optimization for resource allocation with peer effects</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf298</link>
-      <guid isPermaLink="false">NPINS.007690</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The gears in network dynamics: The alter-trajectory approach</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000607</link>
-      <guid isPermaLink="false">NPINS.007689</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Targeting Influence in a Harmonic Opinion Model</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1697013?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007688</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: First Passage Times with Fast Immigration</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1734695?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007687</guid>
     </item>
   </channel>
 </rss>
