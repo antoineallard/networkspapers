@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Nov 2025 20:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 20:45:07 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Constructing directed networks with a desired minimum balanced coloring</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/11/111106/3372915/Constructing-directed-networks-with-a-desired</link>
+      <guid isPermaLink="false">NPINS.007798</guid>
+    </item>
+    <item>
+      <title>Chaos: Stability of synchronization systems with inertia against frequency perturbations</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/103142/3368974/Stability-of-synchronization-systems-with-inertia</link>
+      <guid isPermaLink="false">NPINS.007797</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Higher-order shortest paths in hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/1mxy-3cnl</link>
+      <guid isPermaLink="false">NPINS.007796</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Mitigating cascades in coevolving networks with targeted rewiring</title>
+      <link>http://link.aps.org/doi/10.1103/h58r-7wdh</link>
+      <guid isPermaLink="false">NPINS.007795</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Eigenvalue spectral tails and localisation properties of asymmetric networks</title>
+      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ae16ec</link>
+      <guid isPermaLink="false">NPINS.007794</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: A model for predicting the spread patterns of human and computational epidemics on complex temporal networks</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00752-5</link>
+      <guid isPermaLink="false">NPINS.007793</guid>
+    </item>
+    <item>
+      <title>iScience: Persistent memory in network topologies following temporary stimuli</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225020267</link>
+      <guid isPermaLink="false">NPINS.007792</guid>
+    </item>
     <item>
       <title>Front. Mol. Biosci.: Investigating the molecular mechanisms of resveratrol in treating diabetic foot ulcers: a comprehensive analysis of network pharmacology and experiment validation</title>
       <link>https://www.frontiersin.org/articles/10.3389/fmolb.2025.1708426</link>
@@ -478,41 +513,6 @@
       <title>Appl. Netw. Sci.: Identifying obfuscated code through graph-based semantic analysis of binary code</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00733-8</link>
       <guid isPermaLink="false">NPINS.007699</guid>
-    </item>
-    <item>
-      <title>Chaos: Fractal geometry predicts dynamic differences in structural and functional connectomes</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093150/3364518/Fractal-geometry-predicts-dynamic-differences-in</link>
-      <guid isPermaLink="false">NPINS.007698</guid>
-    </item>
-    <item>
-      <title>iScience: Sparse memory ensembles set brain-wide network states to sustain learned associations</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225018358</link>
-      <guid isPermaLink="false">NPINS.007697</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: “Hierarchical network” structure of the urban agglomeration of the Huaihai economic zone in China based on Baidu migration data</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00738-3</link>
-      <guid isPermaLink="false">NPINS.007696</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Universal Model of Urban Street Networks</title>
-      <link>http://link.aps.org/doi/10.1103/1vj4-n8vn</link>
-      <guid isPermaLink="false">NPINS.007695</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A hypergraph analysis of the European Commission lobby network</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00735-6</link>
-      <guid isPermaLink="false">NPINS.007694</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The list r-hued coloring of P5-free graph</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004679</link>
-      <guid isPermaLink="false">NPINS.007693</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Degree-based connected graph construction with assortativity constraint</title>
-      <link>http://iopscience.iop.org/article/10.1088/1367-2630/ae09d4</link>
-      <guid isPermaLink="false">NPINS.007692</guid>
     </item>
   </channel>
 </rss>
