@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Nov 2025 20:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 14:27:53 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: The negative information–epidemic coupling model based on individual emotional responses in multiplex network</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/103134/3368706/The-negative-information-epidemic-coupling-model</link>
+      <guid isPermaLink="false">NPINS.007805</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Sampled-data global exponential synchronization of multi-delay fuzzy inertial neural networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005375</link>
+      <guid isPermaLink="false">NPINS.007804</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Supermodular Extension of Vizing’s Edge-Coloring Theorem</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1636253?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007803</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Multiple senses of community in central and peripheral neighborhoods of seville: The fragmentation of personal networks in social housing estates</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000796</link>
+      <guid isPermaLink="false">NPINS.007802</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Network-based Anomaly Detection in Waste Transportation Data with Limited Supervision</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00753-4</link>
+      <guid isPermaLink="false">NPINS.007801</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Accessibility measurement of highway transportation networks based on closeness-accessibility</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336928</link>
+      <guid isPermaLink="false">NPINS.007800</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: Emotional arousal enhances narrative memories through functional integration of large-scale brain networks</title>
+      <link>https://www.nature.com/articles/s41562-025-02315-1</link>
+      <guid isPermaLink="false">NPINS.007799</guid>
+    </item>
     <item>
       <title>Chaos: Constructing directed networks with a desired minimum balanced coloring</title>
       <link>https://pubs.aip.org/aip/cha/article/35/11/111106/3372915/Constructing-directed-networks-with-a-desired</link>
@@ -478,41 +513,6 @@
       <title>EPJ Data Sci.: The most influential philosophers in Wikipedia: a multicultural analysis</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00570-w</link>
       <guid isPermaLink="false">NPINS.007706</guid>
-    </item>
-    <item>
-      <title>Chaos: Focus issue on recent advances in adaptive dynamical networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/100401/3365572/Focus-issue-on-recent-advances-in-adaptive</link>
-      <guid isPermaLink="false">NPINS.007705</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Impact of on-site potential on the thermal-siphon phenomenon in networks</title>
-      <link>http://link.aps.org/doi/10.1103/lv5d-lyc5</link>
-      <guid isPermaLink="false">NPINS.007704</guid>
-    </item>
-    <item>
-      <title>Chaos: Collective directional switches of swarming systems with higher-order interactions</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/9/093149/3364428/Collective-directional-switches-of-swarming</link>
-      <guid isPermaLink="false">NPINS.007703</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: In the shadow of silence: Modelling missing data in the dark networks of crime and terrorists</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000656</link>
-      <guid isPermaLink="false">NPINS.007702</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Unified framework for complex graph-data: introducing the hybrid layered network model</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00716-9</link>
-      <guid isPermaLink="false">NPINS.007701</guid>
-    </item>
-    <item>
-      <title>Chaos: Control of chimera states via adaptive higher-order interactions</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/101102/3365543/Control-of-chimera-states-via-adaptive-higher</link>
-      <guid isPermaLink="false">NPINS.007700</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Identifying obfuscated code through graph-based semantic analysis of binary code</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00733-8</link>
-      <guid isPermaLink="false">NPINS.007699</guid>
     </item>
   </channel>
 </rss>
