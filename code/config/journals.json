@@ -461,7 +461,7 @@
       "journal_url":      "https://www.nature.com/npjcomplex/",
       "title":            "title",
       "url":              "link",
-      "whitelist":        false,
+      "whitelist":        true,
       "reader":           "feedparser"
     },
     "PhilosTransRoyalSocA":
