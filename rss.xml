@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Nov 2025 14:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 15:11:59 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Emerging activity temporal hypergraph: A model for generating realistic time-varying hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/8rmn-mdgz</link>
+      <guid isPermaLink="false">NPINS.007812</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Synaptic plasticity alters the nature of the chaos transition in neural networks</title>
+      <link>http://link.aps.org/doi/10.1103/7kk9-3jm8</link>
+      <guid isPermaLink="false">NPINS.007811</guid>
+    </item>
+    <item>
+      <title>EPL: Load balancing optimization for network anti-attack based on vital node splitting</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae152c</link>
+      <guid isPermaLink="false">NPINS.007810</guid>
+    </item>
+    <item>
+      <title>Chaos: Commuter metapopulation models for epidemic spreading in human mobility networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/10/103115/3367664/Commuter-metapopulation-models-for-epidemic</link>
+      <guid isPermaLink="false">NPINS.007809</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The maximum Wiener index of some oriented graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005612</link>
+      <guid isPermaLink="false">NPINS.007808</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. A: Scalable network reconstruction in subquadratic time</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0345?af=R</link>
+      <guid isPermaLink="false">NPINS.007807</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Generic multimodal spatially graph network for spatially embedded network representation learning</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00751-6</link>
+      <guid isPermaLink="false">NPINS.007806</guid>
+    </item>
     <item>
       <title>Chaos: The negative information–epidemic coupling model based on individual emotional responses in multiplex network</title>
       <link>https://pubs.aip.org/aip/cha/article/35/10/103134/3368706/The-negative-information-epidemic-coupling-model</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Role of zealots in the spread of linguistic traits</title>
       <link>http://link.aps.org/doi/10.1103/t4pt-zdc3</link>
       <guid isPermaLink="false">NPINS.007713</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Understanding the high-order network plasticity mechanisms of ultrasound neuromodulation</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013514</link>
-      <guid isPermaLink="false">NPINS.007712</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Social and spatial drivers of the multitiered structure of zebra finch social networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0978?af=R</link>
-      <guid isPermaLink="false">NPINS.007711</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Distant remote synchronization in multiple connected star graphs</title>
-      <link>http://link.aps.org/doi/10.1103/x5kw-7svx</link>
-      <guid isPermaLink="false">NPINS.007710</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Critical and nonpercolating phases in bond percolation on the Song–Havlin–Makse network</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ae042a</link>
-      <guid isPermaLink="false">NPINS.007709</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Default robustness and worst-case losses in financial networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00728-5</link>
-      <guid isPermaLink="false">NPINS.007708</guid>
-    </item>
-    <item>
-      <title>Chaos: Adversarial control of synchronization in complex oscillator networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/103109/3365929/Adversarial-control-of-synchronization-in-complex</link>
-      <guid isPermaLink="false">NPINS.007707</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: The most influential philosophers in Wikipedia: a multicultural analysis</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00570-w</link>
-      <guid isPermaLink="false">NPINS.007706</guid>
     </item>
   </channel>
 </rss>
