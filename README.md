@@ -71,6 +71,7 @@ The file `past_posts.json` contains every new paper in network science identifie
  - Scientific Reports ([journal's website](https://www.nature.com/srep), [feed's url](http://feeds.nature.com/srep/rss/current))
  - Science ([journal's website](https://science.sciencemag.org), [feed's url](http://science.sciencemag.org/rss/express.xml))
  - Social Networks ([journal's website](https://www.sciencedirect.com/journal/social-networks), [feed's url](http://rss.sciencedirect.com/publication/science/03788733))
+ - npj Complexity ([journal's website](https://www.nature.com/npjcomplex/), [feed's url](https://www.nature.com/npjcomplex.rss))
 
 
 ### Using this code

@@ -449,6 +449,21 @@
       "whitelist":        false,
       "reader":           "feedparser"
     },
+    "npjComplex":
+    {
+      "abstract":         "summary",
+      "feed1":            "https://www.nature.com/npjcomplex.rss",
+      "feed2":            "https://www.nature.com/npjcomplex.rss",
+      "host":             "None",
+      "id":               "prism_doi",
+      "journal_abbrev":   "npj Complex.",
+      "journal_full":     "npj Complexity",
+      "journal_url":      "https://www.nature.com/npjcomplex/",
+      "title":            "title",
+      "url":              "link",
+      "whitelist":        false,
+      "reader":           "feedparser"
+    },
     "PhilosTransRoyalSocA":
     {
       "abstract":         "None",
