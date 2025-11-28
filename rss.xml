@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Nov 2025 04:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 13:54:21 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Community detection of undirected hypergraphs by Ricci flow</title>
+      <link>http://link.aps.org/doi/10.1103/d5n8-y58m</link>
+      <guid isPermaLink="false">NPINS.007819</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Heterogeneity induces cyclops states in Kuramoto networks with higher-mode coupling</title>
+      <link>http://link.aps.org/doi/10.1103/kvyt-6gyz</link>
+      <guid isPermaLink="false">NPINS.007818</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Extended Directed Fuzzy Social Network Analysis: A framework and application to curriculum networks in Chinese vocational education</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335175</link>
+      <guid isPermaLink="false">NPINS.007817</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Unavoidable Induced Subgraphs in Graphs with Complete Bipartite Induced Minors</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1660437?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007816</guid>
+    </item>
+    <item>
+      <title>PNAS: Proximity to explosive synchronization determines network collapse and recovery trajectories in neural and economic crises</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2505434122?af=R</link>
+      <guid isPermaLink="false">NPINS.007815</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Exploring the relationship between cancer incidence and the sustainable development goals through complex networks and machine learning</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00590-6</link>
+      <guid isPermaLink="false">NPINS.007814</guid>
+    </item>
+    <item>
+      <title>EPL: Relative betweenness centrality in complex networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae152d</link>
+      <guid isPermaLink="false">NPINS.007813</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Emerging activity temporal hypergraph: A model for generating realistic time-varying hypergraphs</title>
       <link>http://link.aps.org/doi/10.1103/8rmn-mdgz</link>
@@ -478,41 +513,6 @@
       <title>Nat. Hum. Behav.: Statistical evidence in psychological networks</title>
       <link>https://www.nature.com/articles/s41562-025-02314-2</link>
       <guid isPermaLink="false">NPINS.007720</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: A graph-neural-network-entropy model of vital node identification on network attack and propagation</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ae068f</link>
-      <guid isPermaLink="false">NPINS.007719</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Nonreciprocal random networks and their percolation properties</title>
-      <link>http://link.aps.org/doi/10.1103/gv5f-vzwh</link>
-      <guid isPermaLink="false">NPINS.007718</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Effects of inertia on the asynchronous state of a disordered Kuramoto model</title>
-      <link>http://link.aps.org/doi/10.1103/xt4m-bkp8</link>
-      <guid isPermaLink="false">NPINS.007717</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Entanglement in directed graph states</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ae0bcb</link>
-      <guid isPermaLink="false">NPINS.007716</guid>
-    </item>
-    <item>
-      <title>Chaos: Higher-order interactions, adaptivity, and phase transitions in a novel reservoir computing model</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/103110/3366456/Higher-order-interactions-adaptivity-and-phase</link>
-      <guid isPermaLink="false">NPINS.007715</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Use of aggregated relational data in agent-based modeling</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000668</link>
-      <guid isPermaLink="false">NPINS.007714</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Role of zealots in the spread of linguistic traits</title>
-      <link>http://link.aps.org/doi/10.1103/t4pt-zdc3</link>
-      <guid isPermaLink="false">NPINS.007713</guid>
     </item>
   </channel>
 </rss>
