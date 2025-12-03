@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Dec 2025 03:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 14:13:21 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Building the connectome of a small brain with a simple stochastic developmental generative model</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2504913122?af=R</link>
+      <guid isPermaLink="false">NPINS.007840</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: One-class edge classification through heterogeneous hypergraph for causal discovery</title>
+      <link>https://www.nature.com/articles/s41598-025-28842-5</link>
+      <guid isPermaLink="false">NPINS.007839</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Mean-field game approach to epidemic propagation on networks</title>
+      <link>http://link.aps.org/doi/10.1103/mys6-fznc</link>
+      <guid isPermaLink="false">NPINS.007838</guid>
+    </item>
+    <item>
+      <title>Chaos: Understanding ecological cascade in cyclic game systems by means of directed graphs</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/11/111101/3370554/Understanding-ecological-cascade-in-cyclic-game</link>
+      <guid isPermaLink="false">NPINS.007837</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Communities in the Kuramoto model: dynamics and detection via path signatures</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae0850</link>
+      <guid isPermaLink="false">NPINS.007836</guid>
+    </item>
+    <item>
+      <title>npj Complex.: Large-scale detection of multilingual coordinated activity on Telegram</title>
+      <link>https://www.nature.com/articles/s44260-025-00056-w</link>
+      <guid isPermaLink="false">NPINS.007835</guid>
+    </item>
+    <item>
+      <title>Chaos: Threshold dynamics and epidemic-informed machine learning for forecasting of mpox: A U.S. case study</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/11/113118/3372266/Threshold-dynamics-and-epidemic-informed-machine</link>
+      <guid isPermaLink="false">NPINS.007834</guid>
+    </item>
     <item>
       <title>J. Phys. A: Almost-consistent families of marginals of dichotomic stochastic variables on large finite-connectivity random graphs</title>
       <link>http://iopscience.iop.org/article/10.1088/1751-8121/ae0a94</link>
@@ -478,41 +513,6 @@
       <title>Appl. Math. Comput.: Analogy of hybrid fault diagnosis capability on theta-free connected graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325005004</link>
       <guid isPermaLink="false">NPINS.007741</guid>
-    </item>
-    <item>
-      <title>PNAS: A multilayered gap junction network is essential for social decision-making</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2510579122?af=R</link>
-      <guid isPermaLink="false">NPINS.007740</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: CLOVE, a Travelling Salesman’s approach to hyperbolic embeddings of complex networks with communities</title>
-      <link>https://www.nature.com/articles/s42005-025-02306-8</link>
-      <guid isPermaLink="false">NPINS.007739</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Assembly in Directed Hypergraphs</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0331?af=R</link>
-      <guid isPermaLink="false">NPINS.007738</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Twin-Width of Planar Graphs Is at Most 8, and Some Related Bounds</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1623823?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007737</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Counting matchable spanning trees of join graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004977</link>
-      <guid isPermaLink="false">NPINS.007736</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Computing Twin-Width Parameterized by the Feedback Edge Number and Vertex Integrity</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1705329?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007735</guid>
-    </item>
-    <item>
-      <title>Chaos: Emergence of order within disorder: Shadowed waves and chimera states in reaction-diffusion systems</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/103122/3368102/Emergence-of-order-within-disorder-Shadowed-waves</link>
-      <guid isPermaLink="false">NPINS.007734</guid>
     </item>
   </channel>
 </rss>
