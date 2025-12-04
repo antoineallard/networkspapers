@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Dec 2025 02:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 14:05:33 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Utilizing coupled reservoir computing to predict network dynamics and structure</title>
+      <link>http://link.aps.org/doi/10.1103/6hpq-4cv6</link>
+      <guid isPermaLink="false">NPINS.007847</guid>
+    </item>
+    <item>
+      <title>Research: Identification of Critical States in Complex Biological Systems Using Cell-Specific Causal Network Entropy</title>
+      <link>https://www.science.org/doi/abs/10.34133/research.0852?af=R</link>
+      <guid isPermaLink="false">NPINS.007846</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The influence of relational mobility on social exclusion behavior: The mediating role of social participation intention</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000814</link>
+      <guid isPermaLink="false">NPINS.007845</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Methods for interventions using networks to improve health: A narrative synthesis of methodological research on network data collection, visualisation and intervention</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000693</link>
+      <guid isPermaLink="false">NPINS.007844</guid>
+    </item>
+    <item>
+      <title>npj Complex.: Copy or collaborate? How networks impact collective problem solving</title>
+      <link>https://www.nature.com/articles/s44260-025-00058-8</link>
+      <guid isPermaLink="false">NPINS.007843</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Topologically protected synchronization in networks</title>
+      <link>http://link.aps.org/doi/10.1103/96z9-142q</link>
+      <guid isPermaLink="false">NPINS.007842</guid>
+    </item>
+    <item>
+      <title>Chaos: Application of multi-task learning in predicting synchronization</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/123109/3373793/Application-of-multi-task-learning-in-predicting</link>
+      <guid isPermaLink="false">NPINS.007841</guid>
+    </item>
     <item>
       <title>PNAS: Building the connectome of a small brain with a simple stochastic developmental generative model</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2504913122?af=R</link>
@@ -478,41 +513,6 @@
       <title>Appl. Math. Comput.: Two-disjoint-cycle-cover vertex bipancyclicity of bubble-sort star graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325005120</link>
       <guid isPermaLink="false">NPINS.007748</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Internal reliability and antireliability in dynamical networks</title>
-      <link>http://link.aps.org/doi/10.1103/p5xz-rfv6</link>
-      <guid isPermaLink="false">NPINS.007747</guid>
-    </item>
-    <item>
-      <title>iScience: Exploration and comparative visualisation of metabolic networks in GEMs with MMINT</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225020589</link>
-      <guid isPermaLink="false">NPINS.007746</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Predicting the response of structurally altered and asymmetrical networks</title>
-      <link>http://link.aps.org/doi/10.1103/3s3d-qr4l</link>
-      <guid isPermaLink="false">NPINS.007745</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Combining multifaceted aspects of technology innovations through fuzzy clustering of multilayer networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334138</link>
-      <guid isPermaLink="false">NPINS.007744</guid>
-    </item>
-    <item>
-      <title>EPL: The origin of long-range links of air pollution in China</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae0cf7</link>
-      <guid isPermaLink="false">NPINS.007743</guid>
-    </item>
-    <item>
-      <title>Chaos: Feedback-driven coevolution in finite structured populations</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/103129/3368332/Feedback-driven-coevolution-in-finite-structured</link>
-      <guid isPermaLink="false">NPINS.007742</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Analogy of hybrid fault diagnosis capability on theta-free connected graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005004</link>
-      <guid isPermaLink="false">NPINS.007741</guid>
     </item>
   </channel>
 </rss>
