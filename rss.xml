@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 01:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:28:18 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Bounded-confidence models of opinion dynamics with neighborhood effects</title>
+      <link>http://link.aps.org/doi/10.1103/4zc1-34xy</link>
+      <guid isPermaLink="false">NPINS.007861</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On the Difference Between the Chromatic and Cochromatic Number</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1715180?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007860</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Strong asymmetric multicluster synchrony in globally coupled simplicial complexes</title>
+      <link>http://link.aps.org/doi/10.1103/ycxn-l2l3</link>
+      <guid isPermaLink="false">NPINS.007859</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: When heterogeneity drives hysteresis: Anticonformity in the multistate $q$-voter model on networks</title>
+      <link>http://link.aps.org/doi/10.1103/9f3r-fsrr</link>
+      <guid isPermaLink="false">NPINS.007858</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Quantized Decay Charges in Non-Hermitian Networks Characterized by Directed Graphs</title>
+      <link>http://link.aps.org/doi/10.1103/dqf4-6fg5</link>
+      <guid isPermaLink="false">NPINS.007857</guid>
+    </item>
+    <item>
+      <title>Chaos: Observation of scale-free complex network behavior in the solar magnetic field along the 23rd solar cycle</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/123103/3373591/Observation-of-scale-free-complex-network-behavior</link>
+      <guid isPermaLink="false">NPINS.007856</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Clustering-induced localization of quantum walks on networks</title>
+      <link>http://link.aps.org/doi/10.1103/pp6q-n7mx</link>
+      <guid isPermaLink="false">NPINS.007855</guid>
+    </item>
     <item>
       <title>Appl. Netw. Sci.: Social network density predicts partisan animosity</title>
       <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00742-7</link>
@@ -478,41 +513,6 @@
       <title>PLOS Comput. Biol.: Inferring effective networks of spiking neurons using a continuous-time estimator of transfer entropy</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013500</link>
       <guid isPermaLink="false">NPINS.007762</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: A Canonical Tree Decomposition for Order Types, and Some Applications</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1672201?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007761</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Estimating the effect size of moral contagion in online networks: A pre-registered replication and meta-analysis</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf327</link>
-      <guid isPermaLink="false">NPINS.007760</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Dynamical Phase Transitions in Nonequilibrium Networks</title>
-      <link>http://link.aps.org/doi/10.1103/yls4-kdvj</link>
-      <guid isPermaLink="false">NPINS.007759</guid>
-    </item>
-    <item>
-      <title>EPL: Standing Manakov solitons in networks: Exact solutions and stability analysis in metric-graphs–based approach</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae1056</link>
-      <guid isPermaLink="false">NPINS.007758</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: A new mathematical model for brain memory working. Optimal control behavior for Hopfield networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ae120e</link>
-      <guid isPermaLink="false">NPINS.007757</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. A: Uncertainty quantification and posterior sampling for network reconstruction</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2025.0344?af=R</link>
-      <guid isPermaLink="false">NPINS.007756</guid>
-    </item>
-    <item>
-      <title>Nat. Comput. Sci.: Discover network dynamics with neural symbolic regression</title>
-      <link>https://www.nature.com/articles/s43588-025-00893-8</link>
-      <guid isPermaLink="false">NPINS.007755</guid>
     </item>
   </channel>
 </rss>
