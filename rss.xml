@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 01:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 17:09:18 +0000</lastBuildDate>
+    <item>
+      <title>npj Complex.: Latent geometry emerging from network-driven processes</title>
+      <link>https://www.nature.com/articles/s44260-025-00063-x</link>
+      <guid isPermaLink="false">NPINS.007868</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Social network connectivity and food insecurity among single parents: Findings from a representative survey in Ghana</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000851</link>
+      <guid isPermaLink="false">NPINS.007867</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Cascade tipping, cascade hopping and indirect tipping in ecological systems</title>
+      <link>http://link.aps.org/doi/10.1103/sn5v-xyb5</link>
+      <guid isPermaLink="false">NPINS.007866</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: SimNetX: tinkering with patient similarity networks to understand biomedical data</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00743-6</link>
+      <guid isPermaLink="false">NPINS.007865</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Rainbow multipartite &lt;em&gt;C&lt;/em&gt;&lt;sub&gt;4&lt;/sub&gt; in 4-partite graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032500596X</link>
+      <guid isPermaLink="false">NPINS.007864</guid>
+    </item>
+    <item>
+      <title>iScience: Network-based analysis of national strategies for COVID-19 management</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225021686</link>
+      <guid isPermaLink="false">NPINS.007863</guid>
+    </item>
+    <item>
+      <title>PNAS: A general framework for branch length estimation in Ancestral Recombination Graphs</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2504461122?af=R</link>
+      <guid isPermaLink="false">NPINS.007862</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Bounded-confidence models of opinion dynamics with neighborhood effects</title>
       <link>http://link.aps.org/doi/10.1103/4zc1-34xy</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Multiple timescale dynamics of network adaptation with constraints</title>
       <link>https://pubs.aip.org/aip/cha/article/35/10/103141/3368975/Multiple-timescale-dynamics-of-network-adaptation</link>
       <guid isPermaLink="false">NPINS.007769</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Cooperation and the incentive power distribution on multi-layer hierarchical networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004849</link>
-      <guid isPermaLink="false">NPINS.007768</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. A: Causal network and dynamic synchronization of urban thermal environment</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2025.0041?af=R</link>
-      <guid isPermaLink="false">NPINS.007767</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Role of connectivity anisotropies in the dynamics of cultured neuronal networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012727</link>
-      <guid isPermaLink="false">NPINS.007766</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Connected components in networks with higher-order interactions</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae1431</link>
-      <guid isPermaLink="false">NPINS.007765</guid>
-    </item>
-    <item>
-      <title>EPL: Core-periphery patterns in knowledge graphs reveal digital visibility hierarchies of South American languages</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae1253</link>
-      <guid isPermaLink="false">NPINS.007764</guid>
-    </item>
-    <item>
-      <title>Philos. Trans. R. Soc. B: Acyclic graphs to define models of relationships between human cytomegalovirus, cardiovascular disease and all-cause mortality in UK Biobank</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2024.0415?af=R</link>
-      <guid isPermaLink="false">NPINS.007763</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Inferring effective networks of spiking neurons using a continuous-time estimator of transfer entropy</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013500</link>
-      <guid isPermaLink="false">NPINS.007762</guid>
     </item>
   </channel>
 </rss>
