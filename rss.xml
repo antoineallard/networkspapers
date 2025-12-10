@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 17:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 13:59:28 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Configurational entropy of random trees</title>
+      <link>http://link.aps.org/doi/10.1103/qmv9-1czv</link>
+      <guid isPermaLink="false">NPINS.007875</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Dynamic pricing mechanisms for generative artificial intelligence models across heterogeneous scenarios: An evolutionary game and complex network approach</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006034</link>
+      <guid isPermaLink="false">NPINS.007874</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Competition between simple and complex contagion on temporal networks</title>
+      <link>http://link.aps.org/doi/10.1103/2l6j-46rh</link>
+      <guid isPermaLink="false">NPINS.007873</guid>
+    </item>
+    <item>
+      <title>Chaos: Generalized adaptation-induced non-universal synchronization transitions in random hypergraphs</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/11/113131/3373446/Generalized-adaptation-induced-non-universal</link>
+      <guid isPermaLink="false">NPINS.007872</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Extremal results on k-stepwise irregular graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005430</link>
+      <guid isPermaLink="false">NPINS.007871</guid>
+    </item>
+    <item>
+      <title>R. Soc. Open Sci.: Development of a behavioural modulation strategy for disease control based on network interventions</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.251322?af=R</link>
+      <guid isPermaLink="false">NPINS.007870</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: The impact of social attractiveness on casual group formation: power-law group sizes and suppressed percolation</title>
+      <link>http://iopscience.iop.org/article/10.1088/1742-5468/ae1af9</link>
+      <guid isPermaLink="false">NPINS.007869</guid>
+    </item>
     <item>
       <title>npj Complex.: Latent geometry emerging from network-driven processes</title>
       <link>https://www.nature.com/articles/s44260-025-00063-x</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Participant-invariant, evolving patterns of influence in dynamic networks</title>
       <link>http://link.aps.org/doi/10.1103/8stj-d6bf</link>
       <guid isPermaLink="false">NPINS.007776</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Inferring Higher-Order Couplings with Neural Networks</title>
-      <link>http://link.aps.org/doi/10.1103/lyny-6r9y</link>
-      <guid isPermaLink="false">NPINS.007775</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Contraction theory based cluster synchronization in switched networks via pinning impulsive control with time-varying delays</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005132</link>
-      <guid isPermaLink="false">NPINS.007774</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Geometric perspective of linear stability of q-states in finite Kuramoto networks on circulant graphs</title>
-      <link>http://link.aps.org/doi/10.1103/z5v7-41g1</link>
-      <guid isPermaLink="false">NPINS.007773</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Drug-disease networks and drug repurposing</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013595</link>
-      <guid isPermaLink="false">NPINS.007772</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: On the Zq-forcing number: computational approach and exact values</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae1430</link>
-      <guid isPermaLink="false">NPINS.007771</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Network Synchronization with an Adaptive Blinking Coupling Scheme: Topological and Dynamical Generalization</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032500517X</link>
-      <guid isPermaLink="false">NPINS.007770</guid>
-    </item>
-    <item>
-      <title>Chaos: Multiple timescale dynamics of network adaptation with constraints</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/103141/3368975/Multiple-timescale-dynamics-of-network-adaptation</link>
-      <guid isPermaLink="false">NPINS.007769</guid>
     </item>
   </channel>
 </rss>
