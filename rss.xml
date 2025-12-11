@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Dec 2025 17:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 15:42:43 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Citation &lt;i&gt;proximus&lt;/i&gt;: The role of social and semantic ties on citations</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335366</link>
+      <guid isPermaLink="false">NPINS.007882</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Lower bounds on irregularity measure of irregular uniform hypergraphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006046</link>
+      <guid isPermaLink="false">NPINS.007881</guid>
+    </item>
+    <item>
+      <title>iScience: The divergence of global rare earth trade networks under national geopolitical actions</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225019194</link>
+      <guid isPermaLink="false">NPINS.007880</guid>
+    </item>
+    <item>
+      <title>Chaos: Open networks in discrete time: Passing vs blocking behavior</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/123113/3373959/Open-networks-in-discrete-time-Passing-vs-blocking</link>
+      <guid isPermaLink="false">NPINS.007879</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Epidemic dynamics with non-Markovian infection processes in metapopulation networks</title>
+      <link>http://link.aps.org/doi/10.1103/lw4p-cb4s</link>
+      <guid isPermaLink="false">NPINS.007878</guid>
+    </item>
+    <item>
+      <title>Chaos: Opinion dynamics for the signed social networks with private and expressed opinions</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/11/113125/3372780/Opinion-dynamics-for-the-signed-social-networks</link>
+      <guid isPermaLink="false">NPINS.007877</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Multiplexity amplifies geometry in networks</title>
+      <link>http://link.aps.org/doi/10.1103/cm34-kjd4</link>
+      <guid isPermaLink="false">NPINS.007876</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Configurational entropy of random trees</title>
       <link>http://link.aps.org/doi/10.1103/qmv9-1czv</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. X: Connectivity Structure and Dynamics of Nonlinear Recurrent Neural Networks</title>
       <link>http://link.aps.org/doi/10.1103/2jt7-c8cq</link>
       <guid isPermaLink="false">NPINS.007783</guid>
-    </item>
-    <item>
-      <title>Chaos: Hierarchical formation of multicluster and chimera states in a network of phase oscillators with high-order adaptive couplings</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/113102/3370560/Hierarchical-formation-of-multicluster-and-chimera</link>
-      <guid isPermaLink="false">NPINS.007782</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Upper bound for the stability of Boolean networks</title>
-      <link>http://link.aps.org/doi/10.1103/1862-2fj1</link>
-      <guid isPermaLink="false">NPINS.007781</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On a new problem about the local irregularity of graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325004886</link>
-      <guid isPermaLink="false">NPINS.007780</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Network structure variation across scales offers clues to the macroevolutionary persistence of specialized mutualisms</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.0926?af=R</link>
-      <guid isPermaLink="false">NPINS.007779</guid>
-    </item>
-    <item>
-      <title>Rev. Mod. Phys.: Statistical mechanics for networks of real neurons</title>
-      <link>http://link.aps.org/doi/10.1103/jcrn-3nrc</link>
-      <guid isPermaLink="false">NPINS.007778</guid>
-    </item>
-    <item>
-      <title>Chaos: Time series analysis of coupled slow–fast neuron models: From Hurst exponent to Granger causality</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/103136/3368702/Time-series-analysis-of-coupled-slow-fast-neuron</link>
-      <guid isPermaLink="false">NPINS.007777</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Participant-invariant, evolving patterns of influence in dynamic networks</title>
-      <link>http://link.aps.org/doi/10.1103/8stj-d6bf</link>
-      <guid isPermaLink="false">NPINS.007776</guid>
     </item>
   </channel>
 </rss>
