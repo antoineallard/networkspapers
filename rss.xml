@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Dec 2025 18:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 13:15:22 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Stochastically evolving graphs via edit semigroups</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2526595122?af=R</link>
+      <guid isPermaLink="false">NPINS.007889</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. X: Statistical Physics Analysis of Graph Neural Networks: Approaching Optimality in the Contextual Stochastic Block Model</title>
+      <link>http://link.aps.org/doi/10.1103/lfxj-hbsk</link>
+      <guid isPermaLink="false">NPINS.007888</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Hyperbolic embedding of multilayer networks</title>
+      <link>http://link.aps.org/doi/10.1103/7wd9-dwlr</link>
+      <guid isPermaLink="false">NPINS.007887</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Degree sum condition for bipartite graph to have homeomorphically irreducible spanning trees</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006095</link>
+      <guid isPermaLink="false">NPINS.007886</guid>
+    </item>
+    <item>
+      <title>iScience: A Network of Bayesian Agents for Reward Prediction and Noise Tolerance</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225020747</link>
+      <guid isPermaLink="false">NPINS.007885</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The ties that bother: Difficult relationships in the personal networks of older adults</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000838</link>
+      <guid isPermaLink="false">NPINS.007884</guid>
+    </item>
+    <item>
+      <title>Chaos: Evanescent random walker on networks: Hitting times, budget renewal, and survival dynamics</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/123114/3373960/Evanescent-random-walker-on-networks-Hitting-times</link>
+      <guid isPermaLink="false">NPINS.007883</guid>
+    </item>
     <item>
       <title>PLOS ONE: Citation &lt;i&gt;proximus&lt;/i&gt;: The role of social and semantic ties on citations</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335366</link>
@@ -478,41 +513,6 @@
       <title>PLOS Comput. Biol.: HMFGraph: Novel Bayesian approach for recovering biological networks</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013614</link>
       <guid isPermaLink="false">NPINS.007790</guid>
-    </item>
-    <item>
-      <title>Chaos: Explainable AI for analyzing the decision of GNNs at predicting dynamic stability of complex oscillator networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/113116/3371740/Explainable-AI-for-analyzing-the-decision-of-GNNs</link>
-      <guid isPermaLink="false">NPINS.007789</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: An extended Hegselmann-Krause model incorporating agent heterogeneity and influence propagation</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334059</link>
-      <guid isPermaLink="false">NPINS.007788</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Parameter estimation in interacting particle systems on dynamic random networks</title>
-      <link>http://link.aps.org/doi/10.1103/k8cr-vkkf</link>
-      <guid isPermaLink="false">NPINS.007787</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Predictive modeling of copper iodide properties using graph-theoretical descriptors</title>
-      <link>https://www.nature.com/articles/s41598-025-23657-w</link>
-      <guid isPermaLink="false">NPINS.007786</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: On the effectiveness of network metrics on key class prediction: An empirical study</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334408</link>
-      <guid isPermaLink="false">NPINS.007785</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Roughening of information landscape with asymmetric social contagion process on complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/s65p-36xc</link>
-      <guid isPermaLink="false">NPINS.007784</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Connectivity Structure and Dynamics of Nonlinear Recurrent Neural Networks</title>
-      <link>http://link.aps.org/doi/10.1103/2jt7-c8cq</link>
-      <guid isPermaLink="false">NPINS.007783</guid>
     </item>
   </channel>
 </rss>
