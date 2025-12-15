@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Dec 2025 13:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 14:56:32 +0000</lastBuildDate>
+    <item>
+      <title>EPL: LIC-free topology identification of complex dynamic networks</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae1252</link>
+      <guid isPermaLink="false">NPINS.007896</guid>
+    </item>
+    <item>
+      <title>Eur. Phys. J. B: Synchronization pattern recognition method for coupled oscillator networks on symmetric graphs based on rotating periodic solutions</title>
+      <link>https://epjb.epj.org/10.1140/epjb/s10051-025-01057-3</link>
+      <guid isPermaLink="false">NPINS.007895</guid>
+    </item>
+    <item>
+      <title>Appl. Netw. Sci.: Optimal intervention campaign to combat anti-vaccine social contagion and contain epidemic spread: impact of network structure</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00718-7</link>
+      <guid isPermaLink="false">NPINS.007894</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Predicting steady-state behavior in complex networks with graph neural networks</title>
+      <link>http://link.aps.org/doi/10.1103/rkp2-3d1r</link>
+      <guid isPermaLink="false">NPINS.007893</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Contact temporal network during motility-induced phase separation</title>
+      <link>http://link.aps.org/doi/10.1103/t3k6-hcmr</link>
+      <guid isPermaLink="false">NPINS.007892</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Epidemic threshold and localization of the SIS model on directed complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/wg82-f4lf</link>
+      <guid isPermaLink="false">NPINS.007891</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Disentangling the Role of Heterogeneity and Hyperedge Overlap in Explosive Contagion on Higher-Order Networks</title>
+      <link>http://link.aps.org/doi/10.1103/z3d5-94zb</link>
+      <guid isPermaLink="false">NPINS.007890</guid>
+    </item>
     <item>
       <title>PNAS: Stochastically evolving graphs via edit semigroups</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2526595122?af=R</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Stability of synchronization systems with inertia against frequency perturbations</title>
       <link>https://pubs.aip.org/aip/cha/article/35/10/103142/3368974/Stability-of-synchronization-systems-with-inertia</link>
       <guid isPermaLink="false">NPINS.007797</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Higher-order shortest paths in hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/1mxy-3cnl</link>
-      <guid isPermaLink="false">NPINS.007796</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Mitigating cascades in coevolving networks with targeted rewiring</title>
-      <link>http://link.aps.org/doi/10.1103/h58r-7wdh</link>
-      <guid isPermaLink="false">NPINS.007795</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Eigenvalue spectral tails and localisation properties of asymmetric networks</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ae16ec</link>
-      <guid isPermaLink="false">NPINS.007794</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: A model for predicting the spread patterns of human and computational epidemics on complex temporal networks</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00752-5</link>
-      <guid isPermaLink="false">NPINS.007793</guid>
-    </item>
-    <item>
-      <title>iScience: Persistent memory in network topologies following temporary stimuli</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225020267</link>
-      <guid isPermaLink="false">NPINS.007792</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: Investigating the molecular mechanisms of resveratrol in treating diabetic foot ulcers: a comprehensive analysis of network pharmacology and experiment validation</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2025.1708426</link>
-      <guid isPermaLink="false">NPINS.007791</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: HMFGraph: Novel Bayesian approach for recovering biological networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013614</link>
-      <guid isPermaLink="false">NPINS.007790</guid>
     </item>
   </channel>
 </rss>
