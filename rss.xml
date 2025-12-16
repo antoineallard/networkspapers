@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 14:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 14:59:59 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Netw. Sci.: Initialisation and network effects in decentralised federated learning</title>
+      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00737-4</link>
+      <guid isPermaLink="false">NPINS.007903</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Localized and delocalized modes on random geometric graphs in one dimension</title>
+      <link>http://link.aps.org/doi/10.1103/bp8s-pf4s</link>
+      <guid isPermaLink="false">NPINS.007902</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Measuring group fairness in community detection</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336212</link>
+      <guid isPermaLink="false">NPINS.007901</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Network formation and dynamics among multi-LLMs</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf317</link>
+      <guid isPermaLink="false">NPINS.007900</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Prediction of neural activity in connectome-constrained recurrent networks</title>
+      <link>https://www.nature.com/articles/s41593-025-02080-4</link>
+      <guid isPermaLink="false">NPINS.007899</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Discontinuous percolation via suppression of neighboring clusters in a network</title>
+      <link>http://link.aps.org/doi/10.1103/zp47-scxx</link>
+      <guid isPermaLink="false">NPINS.007898</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Synchronization detection using spatial ordinal partitions in networks</title>
+      <link>http://link.aps.org/doi/10.1103/9chy-4db8</link>
+      <guid isPermaLink="false">NPINS.007897</guid>
+    </item>
     <item>
       <title>EPL: LIC-free topology identification of complex dynamic networks</title>
       <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae1252</link>
@@ -478,41 +513,6 @@
       <title>Appl. Math. Comput.: Sampled-data global exponential synchronization of multi-delay fuzzy inertial neural networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325005375</link>
       <guid isPermaLink="false">NPINS.007804</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Supermodular Extension of Vizing’s Edge-Coloring Theorem</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1636253?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007803</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Multiple senses of community in central and peripheral neighborhoods of seville: The fragmentation of personal networks in social housing estates</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000796</link>
-      <guid isPermaLink="false">NPINS.007802</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Network-based Anomaly Detection in Waste Transportation Data with Limited Supervision</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00753-4</link>
-      <guid isPermaLink="false">NPINS.007801</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Accessibility measurement of highway transportation networks based on closeness-accessibility</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336928</link>
-      <guid isPermaLink="false">NPINS.007800</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Emotional arousal enhances narrative memories through functional integration of large-scale brain networks</title>
-      <link>https://www.nature.com/articles/s41562-025-02315-1</link>
-      <guid isPermaLink="false">NPINS.007799</guid>
-    </item>
-    <item>
-      <title>Chaos: Constructing directed networks with a desired minimum balanced coloring</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/111106/3372915/Constructing-directed-networks-with-a-desired</link>
-      <guid isPermaLink="false">NPINS.007798</guid>
-    </item>
-    <item>
-      <title>Chaos: Stability of synchronization systems with inertia against frequency perturbations</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/103142/3368974/Stability-of-synchronization-systems-with-inertia</link>
-      <guid isPermaLink="false">NPINS.007797</guid>
     </item>
   </channel>
 </rss>
