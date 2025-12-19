@@ -13,7 +13,67 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Dec 2025 16:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 21:03:13 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Perception of own centrality in social networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2420334122?af=R</link>
+      <guid isPermaLink="false">NPINS.007922</guid>
+    </item>
+    <item>
+      <title>iScience: Network-Based Insights into miRNA Regulation of β-Cell Insulin Secretion in Type 2 Diabetes</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225024617</link>
+      <guid isPermaLink="false">NPINS.007921</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Math.: Mean-Field Approximation of Dynamics on Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1725899?ai=s3&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007920</guid>
+    </item>
+    <item>
+      <title>npj Complex.: Fractal clusters and urban scaling shape spatial inequality in U.S. patenting</title>
+      <link>https://www.nature.com/articles/s44260-025-00054-y</link>
+      <guid isPermaLink="false">NPINS.007919</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On the permanent indices of graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006083</link>
+      <guid isPermaLink="false">NPINS.007918</guid>
+    </item>
+    <item>
+      <title>Chaos: Predicting collective states of a star network using reservoir computing</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/123112/3373775/Predicting-collective-states-of-a-star-network</link>
+      <guid isPermaLink="false">NPINS.007917</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Evolutionary dynamics of binary opinions with decision errors on social networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005624</link>
+      <guid isPermaLink="false">NPINS.007916</guid>
+    </item>
+    <item>
+      <title>EPL: How universal is the mean-field universality class for percolation in complex networks?</title>
+      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae1322</link>
+      <guid isPermaLink="false">NPINS.007915</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Temporal fingerprints for identity matching across fully encrypted domains</title>
+      <link>https://www.nature.com/articles/s41467-025-64785-1</link>
+      <guid isPermaLink="false">NPINS.007914</guid>
+    </item>
+    <item>
+      <title>npj Complex.: A perspective on friction interventions to curb the spread of misinformation</title>
+      <link>https://www.nature.com/articles/s44260-025-00051-1</link>
+      <guid isPermaLink="false">NPINS.007913</guid>
+    </item>
+    <item>
+      <title>Proc. R. Soc. B: Mechanisms influencing network topology in plant–hummingbird pollination networks</title>
+      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.2249?af=R</link>
+      <guid isPermaLink="false">NPINS.007912</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: From lines to networks</title>
+      <link>http://link.aps.org/doi/10.1103/4xnv-h9dc</link>
+      <guid isPermaLink="false">NPINS.007911</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Modeling multistability and hysteresis in urban congestion spreading</title>
       <link>http://link.aps.org/doi/10.1103/hrfw-1g56</link>
@@ -453,66 +513,6 @@
       <title>Phys. Rev. Lett.: Clustering Does Not Always Imply Latent Geometry</title>
       <link>http://link.aps.org/doi/10.1103/ycwq-92ms</link>
       <guid isPermaLink="false">NPINS.007823</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Finite-horizon optimal herdability control for hierarchical linear multi-agent systems with signed weighted graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005661</link>
-      <guid isPermaLink="false">NPINS.007822</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Leveraging latent space network models for community intervention</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000681</link>
-      <guid isPermaLink="false">NPINS.007821</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Global synchronization in Matrix-Weighted networks</title>
-      <link>https://www.nature.com/articles/s42005-025-02419-0</link>
-      <guid isPermaLink="false">NPINS.007820</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Community detection of undirected hypergraphs by Ricci flow</title>
-      <link>http://link.aps.org/doi/10.1103/d5n8-y58m</link>
-      <guid isPermaLink="false">NPINS.007819</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Heterogeneity induces cyclops states in Kuramoto networks with higher-mode coupling</title>
-      <link>http://link.aps.org/doi/10.1103/kvyt-6gyz</link>
-      <guid isPermaLink="false">NPINS.007818</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Extended Directed Fuzzy Social Network Analysis: A framework and application to curriculum networks in Chinese vocational education</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335175</link>
-      <guid isPermaLink="false">NPINS.007817</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Unavoidable Induced Subgraphs in Graphs with Complete Bipartite Induced Minors</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1660437?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007816</guid>
-    </item>
-    <item>
-      <title>PNAS: Proximity to explosive synchronization determines network collapse and recovery trajectories in neural and economic crises</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2505434122?af=R</link>
-      <guid isPermaLink="false">NPINS.007815</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Exploring the relationship between cancer incidence and the sustainable development goals through complex networks and machine learning</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00590-6</link>
-      <guid isPermaLink="false">NPINS.007814</guid>
-    </item>
-    <item>
-      <title>EPL: Relative betweenness centrality in complex networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae152d</link>
-      <guid isPermaLink="false">NPINS.007813</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Emerging activity temporal hypergraph: A model for generating realistic time-varying hypergraphs</title>
-      <link>http://link.aps.org/doi/10.1103/8rmn-mdgz</link>
-      <guid isPermaLink="false">NPINS.007812</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Synaptic plasticity alters the nature of the chaos transition in neural networks</title>
-      <link>http://link.aps.org/doi/10.1103/7kk9-3jm8</link>
-      <guid isPermaLink="false">NPINS.007811</guid>
     </item>
   </channel>
 </rss>
