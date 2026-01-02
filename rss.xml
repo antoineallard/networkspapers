@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 08:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 14:41:41 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Peer influence breaks ergodicity in an opinion dynamics model with external information</title>
+      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae1710</link>
+      <guid isPermaLink="false">NPINS.007934</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Imports matter more than you think: a complexity-weighted reassessment of trade and GDP growth</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1721159</link>
+      <guid isPermaLink="false">NPINS.007933</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Enhancing collaborative filtering with Louvain-based community-specific matrix factorization</title>
+      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae23bb</link>
+      <guid isPermaLink="false">NPINS.007932</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Intersectional inequalities in social ties</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adu9025</link>
+      <guid isPermaLink="false">NPINS.007931</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Generalized degree-biased random walk on scale-free networks</title>
+      <link>http://link.aps.org/doi/10.1103/z1mx-3nfh</link>
+      <guid isPermaLink="false">NPINS.007930</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Heterophobic interactions hinder consensus formation in sparse random networks</title>
+      <link>http://link.aps.org/doi/10.1103/cxsr-dh25</link>
+      <guid isPermaLink="false">NPINS.007929</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Structural Reducibility of Hypergraphs</title>
+      <link>http://link.aps.org/doi/10.1103/xrn7-cz8v</link>
+      <guid isPermaLink="false">NPINS.007928</guid>
+    </item>
     <item>
       <title>J. Stat. Mech.: Dynamic space filling</title>
       <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae1df6</link>
@@ -478,41 +513,6 @@
       <title>npj Complex.: Large-scale detection of multilingual coordinated activity on Telegram</title>
       <link>https://www.nature.com/articles/s44260-025-00056-w</link>
       <guid isPermaLink="false">NPINS.007835</guid>
-    </item>
-    <item>
-      <title>Chaos: Threshold dynamics and epidemic-informed machine learning for forecasting of mpox: A U.S. case study</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/113118/3372266/Threshold-dynamics-and-epidemic-informed-machine</link>
-      <guid isPermaLink="false">NPINS.007834</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Almost-consistent families of marginals of dichotomic stochastic variables on large finite-connectivity random graphs</title>
-      <link>http://iopscience.iop.org/article/10.1088/1751-8121/ae0a94</link>
-      <guid isPermaLink="false">NPINS.007833</guid>
-    </item>
-    <item>
-      <title>Chaos: SIGMa-DS: System identification from the geometric manifold of dynamical synchronization</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/10/103132/3368703/SIGMa-DS-System-identification-from-the-geometric</link>
-      <guid isPermaLink="false">NPINS.007832</guid>
-    </item>
-    <item>
-      <title>Chaos: Asymmetric information and epidemic coupled dynamics regulated by heterogeneous dynamic behaviors in multilayer networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/113128/3373154/Asymmetric-information-and-epidemic-coupled</link>
-      <guid isPermaLink="false">NPINS.007831</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Inferring tree structure with hidden traps from first-passage times</title>
-      <link>http://link.aps.org/doi/10.1103/hh42-b48p</link>
-      <guid isPermaLink="false">NPINS.007830</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Emergence of nestedness in the public internet peering ecosystem</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00746-3</link>
-      <guid isPermaLink="false">NPINS.007829</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Social polarization promoted by sparse higher-order interactions</title>
-      <link>https://www.nature.com/articles/s42005-025-02413-6</link>
-      <guid isPermaLink="false">NPINS.007828</guid>
     </item>
   </channel>
 </rss>
