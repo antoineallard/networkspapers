@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 10:52:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 13:48:19 +0000</lastBuildDate>
+    <item>
+      <title>PLOS Comput. Biol.: A game theoretic treatment of contagion in trade networks</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013845</link>
+      <guid isPermaLink="false">NPINS.007941</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Indirect influence on network diffusion</title>
+      <link>https://www.nature.com/articles/s42005-025-02403-8</link>
+      <guid isPermaLink="false">NPINS.007940</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Bounded-Confidence Models of Multidimensional Opinions with Topic-Weighted Discordance</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1730818?af=R</link>
+      <guid isPermaLink="false">NPINS.007939</guid>
+    </item>
+    <item>
+      <title>Chaos: Dynamic topology and percolation criticality in higher-order activity–vulnerability driven networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/123143/3375594/Dynamic-topology-and-percolation-criticality-in</link>
+      <guid isPermaLink="false">NPINS.007938</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Deterministic simplicial complexes</title>
+      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae2092</link>
+      <guid isPermaLink="false">NPINS.007937</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Pólya urn model for analysis of football passes</title>
+      <link>http://link.aps.org/doi/10.1103/w5wk-mmcc</link>
+      <guid isPermaLink="false">NPINS.007936</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Tag-mediated effect on the dynamics of social influence</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338598</link>
+      <guid isPermaLink="false">NPINS.007935</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Peer influence breaks ergodicity in an opinion dynamics model with external information</title>
       <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae1710</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Topologically protected synchronization in networks</title>
       <link>http://link.aps.org/doi/10.1103/96z9-142q</link>
       <guid isPermaLink="false">NPINS.007842</guid>
-    </item>
-    <item>
-      <title>Chaos: Application of multi-task learning in predicting synchronization</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123109/3373793/Application-of-multi-task-learning-in-predicting</link>
-      <guid isPermaLink="false">NPINS.007841</guid>
-    </item>
-    <item>
-      <title>PNAS: Building the connectome of a small brain with a simple stochastic developmental generative model</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2504913122?af=R</link>
-      <guid isPermaLink="false">NPINS.007840</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: One-class edge classification through heterogeneous hypergraph for causal discovery</title>
-      <link>https://www.nature.com/articles/s41598-025-28842-5</link>
-      <guid isPermaLink="false">NPINS.007839</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Mean-field game approach to epidemic propagation on networks</title>
-      <link>http://link.aps.org/doi/10.1103/mys6-fznc</link>
-      <guid isPermaLink="false">NPINS.007838</guid>
-    </item>
-    <item>
-      <title>Chaos: Understanding ecological cascade in cyclic game systems by means of directed graphs</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/111101/3370554/Understanding-ecological-cascade-in-cyclic-game</link>
-      <guid isPermaLink="false">NPINS.007837</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Communities in the Kuramoto model: dynamics and detection via path signatures</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae0850</link>
-      <guid isPermaLink="false">NPINS.007836</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Large-scale detection of multilingual coordinated activity on Telegram</title>
-      <link>https://www.nature.com/articles/s44260-025-00056-w</link>
-      <guid isPermaLink="false">NPINS.007835</guid>
     </item>
   </channel>
 </rss>
