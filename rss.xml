@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jan 2026 18:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 18:37:04 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: On anti-A-connectivity in plane graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005338</link>
+      <guid isPermaLink="false">NPINS.007948</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Diffusive geodesics wandering in networks of rigid chains</title>
+      <link>http://link.aps.org/doi/10.1103/d6y6-j48y</link>
+      <guid isPermaLink="false">NPINS.007947</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Using social network analysis to understand residents’ social connection in a Singapore neighbourhood</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000899</link>
+      <guid isPermaLink="false">NPINS.007946</guid>
+    </item>
+    <item>
+      <title>EPL: A new spectral connectivity measure considering the effect of network scale</title>
+      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae27f0</link>
+      <guid isPermaLink="false">NPINS.007945</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Feature-based information-theoretic approach for detecting interpretable, long-timescale pairwise interactions from time series</title>
+      <link>http://link.aps.org/doi/10.1103/qnx2-yp4c</link>
+      <guid isPermaLink="false">NPINS.007944</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: How do higher-order interactions shape the energy landscape?</title>
+      <link>http://link.aps.org/doi/10.1103/zqf8-tg6g</link>
+      <guid isPermaLink="false">NPINS.007943</guid>
+    </item>
+    <item>
+      <title>npj Complex.: Copy or collaborate? How networks impact collective problem solving</title>
+      <link>https://www.nature.com/articles/s44260-025-00058-8</link>
+      <guid isPermaLink="false">NPINS.007942</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: A game theoretic treatment of contagion in trade networks</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013845</link>
@@ -478,41 +513,6 @@
       <title>Chaos: A new fractional-order anomalous epidemic model on complex networks based on continuous-time random walk and its dynamics</title>
       <link>https://pubs.aip.org/aip/cha/article/35/11/113112/3371182/A-new-fractional-order-anomalous-epidemic-model-on</link>
       <guid isPermaLink="false">NPINS.007849</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Field theory for optimal signal propagation in residual networks</title>
-      <link>http://link.aps.org/doi/10.1103/5lgz-4t7h</link>
-      <guid isPermaLink="false">NPINS.007848</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Utilizing coupled reservoir computing to predict network dynamics and structure</title>
-      <link>http://link.aps.org/doi/10.1103/6hpq-4cv6</link>
-      <guid isPermaLink="false">NPINS.007847</guid>
-    </item>
-    <item>
-      <title>Research: Identification of Critical States in Complex Biological Systems Using Cell-Specific Causal Network Entropy</title>
-      <link>https://www.science.org/doi/abs/10.34133/research.0852?af=R</link>
-      <guid isPermaLink="false">NPINS.007846</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The influence of relational mobility on social exclusion behavior: The mediating role of social participation intention</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000814</link>
-      <guid isPermaLink="false">NPINS.007845</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Methods for interventions using networks to improve health: A narrative synthesis of methodological research on network data collection, visualisation and intervention</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000693</link>
-      <guid isPermaLink="false">NPINS.007844</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Copy or collaborate? How networks impact collective problem solving</title>
-      <link>https://www.nature.com/articles/s44260-025-00058-8</link>
-      <guid isPermaLink="false">NPINS.007843</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Topologically protected synchronization in networks</title>
-      <link>http://link.aps.org/doi/10.1103/96z9-142q</link>
-      <guid isPermaLink="false">NPINS.007842</guid>
     </item>
   </channel>
 </rss>
