@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jan 2026 08:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:26:38 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Statistical Inference of Random Graphs With a Surrogate Likelihood Function</title>
+      <link>http://jmlr.org/papers/v26/24-0153.html</link>
+      <guid isPermaLink="false">NPINS.007955</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: Higher-order interactions shape collective human behaviour</title>
+      <link>https://www.nature.com/articles/s41562-025-02373-5</link>
+      <guid isPermaLink="false">NPINS.007954</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: The geography of interest in international conversations on Twitter</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00597-z</link>
+      <guid isPermaLink="false">NPINS.007953</guid>
+    </item>
+    <item>
+      <title>Chaos: Anomalous diffusion and fluctuations in complex systems and networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/010401/3376330/Anomalous-diffusion-and-fluctuations-in-complex</link>
+      <guid isPermaLink="false">NPINS.007952</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Average shortest-path length in word-adjacency networks: Chinese versus English</title>
+      <link>http://link.aps.org/doi/10.1103/v3mp-7dwg</link>
+      <guid isPermaLink="false">NPINS.007951</guid>
+    </item>
+    <item>
+      <title>Chaos: Evolution of cooperation under a biased allocation mechanism</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/123137/3375263/Evolution-of-cooperation-under-a-biased-allocation</link>
+      <guid isPermaLink="false">NPINS.007950</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Alter composition with overlapping group memberships</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332500084X</link>
+      <guid isPermaLink="false">NPINS.007949</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: On anti-A-connectivity in plane graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325005338</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Observation of scale-free complex network behavior in the solar magnetic field along the 23rd solar cycle</title>
       <link>https://pubs.aip.org/aip/cha/article/35/12/123103/3373591/Observation-of-scale-free-complex-network-behavior</link>
       <guid isPermaLink="false">NPINS.007856</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Clustering-induced localization of quantum walks on networks</title>
-      <link>http://link.aps.org/doi/10.1103/pp6q-n7mx</link>
-      <guid isPermaLink="false">NPINS.007855</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Social network density predicts partisan animosity</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00742-7</link>
-      <guid isPermaLink="false">NPINS.007854</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Disrupting road networks: a case study on the vulnerabilities of the city of Messina</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00739-2</link>
-      <guid isPermaLink="false">NPINS.007853</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Genotype networks drive oscillating endemicity and epidemic trajectories in viral evolution</title>
-      <link>https://www.nature.com/articles/s42005-025-02406-5</link>
-      <guid isPermaLink="false">NPINS.007852</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Social networks affect redistribution decisions and polarization</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf339</link>
-      <guid isPermaLink="false">NPINS.007851</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: tvsfglasso: Time-varying scale-free graphical lasso for network estimation from time-series data</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013710</link>
-      <guid isPermaLink="false">NPINS.007850</guid>
-    </item>
-    <item>
-      <title>Chaos: A new fractional-order anomalous epidemic model on complex networks based on continuous-time random walk and its dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/113112/3371182/A-new-fractional-order-anomalous-epidemic-model-on</link>
-      <guid isPermaLink="false">NPINS.007849</guid>
     </item>
   </channel>
 </rss>
