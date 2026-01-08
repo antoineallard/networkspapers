@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 08:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 08:07:47 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: Analytical results for the distribution of first return times of non-backtracking random walks on configuration model networks</title>
+      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae257d</link>
+      <guid isPermaLink="false">NPINS.007962</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Redefining effective distance using multi-hop flows in urban mobility networks</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae240d</link>
+      <guid isPermaLink="false">NPINS.007961</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Decomposing multivariate information rates in networks of random processes</title>
+      <link>http://link.aps.org/doi/10.1103/mn8p-kf6t</link>
+      <guid isPermaLink="false">NPINS.007960</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Social isolation by design: Bias in measuring core networks in Taiwan?</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332500070X</link>
+      <guid isPermaLink="false">NPINS.007959</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Mapping bipartite networks into multidimensional hyperbolic spaces</title>
+      <link>https://www.nature.com/articles/s42005-025-02464-9</link>
+      <guid isPermaLink="false">NPINS.007958</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Identifying and characterizing ideologically homogeneous clusters on Twitter and Parler during the 2020 election</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338318</link>
+      <guid isPermaLink="false">NPINS.007957</guid>
+    </item>
+    <item>
+      <title>npj Complex.: The complexity of misinformation extends beyond virus and warfare analogies</title>
+      <link>https://www.nature.com/articles/s44260-025-00053-z</link>
+      <guid isPermaLink="false">NPINS.007956</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Statistical Inference of Random Graphs With a Surrogate Likelihood Function</title>
       <link>http://jmlr.org/papers/v26/24-0153.html</link>
@@ -478,41 +513,6 @@
       <title>iScience: Network-based analysis of national strategies for COVID-19 management</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004225021686</link>
       <guid isPermaLink="false">NPINS.007863</guid>
-    </item>
-    <item>
-      <title>PNAS: A general framework for branch length estimation in Ancestral Recombination Graphs</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2504461122?af=R</link>
-      <guid isPermaLink="false">NPINS.007862</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Bounded-confidence models of opinion dynamics with neighborhood effects</title>
-      <link>http://link.aps.org/doi/10.1103/4zc1-34xy</link>
-      <guid isPermaLink="false">NPINS.007861</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: On the Difference Between the Chromatic and Cochromatic Number</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1715180?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007860</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Strong asymmetric multicluster synchrony in globally coupled simplicial complexes</title>
-      <link>http://link.aps.org/doi/10.1103/ycxn-l2l3</link>
-      <guid isPermaLink="false">NPINS.007859</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: When heterogeneity drives hysteresis: Anticonformity in the multistate $q$-voter model on networks</title>
-      <link>http://link.aps.org/doi/10.1103/9f3r-fsrr</link>
-      <guid isPermaLink="false">NPINS.007858</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Quantized Decay Charges in Non-Hermitian Networks Characterized by Directed Graphs</title>
-      <link>http://link.aps.org/doi/10.1103/dqf4-6fg5</link>
-      <guid isPermaLink="false">NPINS.007857</guid>
-    </item>
-    <item>
-      <title>Chaos: Observation of scale-free complex network behavior in the solar magnetic field along the 23rd solar cycle</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123103/3373591/Observation-of-scale-free-complex-network-behavior</link>
-      <guid isPermaLink="false">NPINS.007856</guid>
     </item>
   </channel>
 </rss>
