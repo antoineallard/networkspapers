@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 14:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 14:25:12 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. A: Resistance distances and Kirchhoff indices in graph joins</title>
+      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae2997</link>
+      <guid isPermaLink="false">NPINS.007976</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Emergence of Supercritical Hopf Bifurcations in Coupled Oscillator Ensembles and How Desynchronization Can Facilitate Energy-Optimal Phase Resetting</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M171098X?af=R</link>
+      <guid isPermaLink="false">NPINS.007975</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Interacting copies of random-constraint satisfaction problems</title>
+      <link>http://link.aps.org/doi/10.1103/86dj-6w3r</link>
+      <guid isPermaLink="false">NPINS.007974</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Interplay between high-order structures and contagion dynamics</title>
+      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae30b9</link>
+      <guid isPermaLink="false">NPINS.007973</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: A data-driven biology-based network model reproduces &lt;i&gt;C. elegans&lt;/i&gt; premotor neural dynamics</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013818</link>
+      <guid isPermaLink="false">NPINS.007972</guid>
+    </item>
+    <item>
+      <title>Chaos: Oscillatory dynamics in the adaptive exponential integrate-and-fire model</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/123130/3374886/Oscillatory-dynamics-in-the-adaptive-exponential</link>
+      <guid isPermaLink="false">NPINS.007971</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Collective dynamics of multiplex networks with distinct adaptation rules</title>
+      <link>http://link.aps.org/doi/10.1103/vndm-lcqs</link>
+      <guid isPermaLink="false">NPINS.007970</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Efficient detour-aware dynamic routing based on local traffic load in urban road networks</title>
       <link>http://link.aps.org/doi/10.1103/gdpb-5j92</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Opinion dynamics for the signed social networks with private and expressed opinions</title>
       <link>https://pubs.aip.org/aip/cha/article/35/11/113125/3372780/Opinion-dynamics-for-the-signed-social-networks</link>
       <guid isPermaLink="false">NPINS.007877</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Multiplexity amplifies geometry in networks</title>
-      <link>http://link.aps.org/doi/10.1103/cm34-kjd4</link>
-      <guid isPermaLink="false">NPINS.007876</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Configurational entropy of random trees</title>
-      <link>http://link.aps.org/doi/10.1103/qmv9-1czv</link>
-      <guid isPermaLink="false">NPINS.007875</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Dynamic pricing mechanisms for generative artificial intelligence models across heterogeneous scenarios: An evolutionary game and complex network approach</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006034</link>
-      <guid isPermaLink="false">NPINS.007874</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Competition between simple and complex contagion on temporal networks</title>
-      <link>http://link.aps.org/doi/10.1103/2l6j-46rh</link>
-      <guid isPermaLink="false">NPINS.007873</guid>
-    </item>
-    <item>
-      <title>Chaos: Generalized adaptation-induced non-universal synchronization transitions in random hypergraphs</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/113131/3373446/Generalized-adaptation-induced-non-universal</link>
-      <guid isPermaLink="false">NPINS.007872</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Extremal results on k-stepwise irregular graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005430</link>
-      <guid isPermaLink="false">NPINS.007871</guid>
-    </item>
-    <item>
-      <title>R. Soc. Open Sci.: Development of a behavioural modulation strategy for disease control based on network interventions</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsos.251322?af=R</link>
-      <guid isPermaLink="false">NPINS.007870</guid>
     </item>
   </channel>
 </rss>
