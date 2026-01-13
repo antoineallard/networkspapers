@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jan 2026 13:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 13:08:03 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Ontological differentiation as a measure of semantic accuracy</title>
+      <link>http://link.aps.org/doi/10.1103/148p-69wg</link>
+      <guid isPermaLink="false">NPINS.007983</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: The extended master stability function approach to alternating synchronization modes on networked oscillator systems</title>
+      <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae3207</link>
+      <guid isPermaLink="false">NPINS.007982</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: NIPS: Network Inference with Partial State measurements using forced-delay embedding</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf397</link>
+      <guid isPermaLink="false">NPINS.007981</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Scalable and Adaptive Variational Bayes Methods for Hawkes Processes</title>
+      <link>http://jmlr.org/papers/v26/23-1053.html</link>
+      <guid isPermaLink="false">NPINS.007980</guid>
+    </item>
+    <item>
+      <title>J. Stat. Mech.: Thermodynamic ranking of pathways in reaction networks</title>
+      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae22eb</link>
+      <guid isPermaLink="false">NPINS.007979</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Neurosci.: Long-range axon branching: contributions to brain network plasticity and repair</title>
+      <link>https://www.nature.com/articles/s41583-025-01008-y</link>
+      <guid isPermaLink="false">NPINS.007978</guid>
+    </item>
+    <item>
+      <title>Chaos: Ego-centered network intervention via weak-tie exclusion</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/121103/3374360/Ego-centered-network-intervention-via-weak-tie</link>
+      <guid isPermaLink="false">NPINS.007977</guid>
+    </item>
     <item>
       <title>J. Phys. A: Resistance distances and Kirchhoff indices in graph joins</title>
       <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae2997</link>
@@ -478,41 +513,6 @@
       <title>Soc. Networks: The ties that bother: Difficult relationships in the personal networks of older adults</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0378873325000838</link>
       <guid isPermaLink="false">NPINS.007884</guid>
-    </item>
-    <item>
-      <title>Chaos: Evanescent random walker on networks: Hitting times, budget renewal, and survival dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123114/3373960/Evanescent-random-walker-on-networks-Hitting-times</link>
-      <guid isPermaLink="false">NPINS.007883</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Citation &lt;i&gt;proximus&lt;/i&gt;: The role of social and semantic ties on citations</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335366</link>
-      <guid isPermaLink="false">NPINS.007882</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Lower bounds on irregularity measure of irregular uniform hypergraphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006046</link>
-      <guid isPermaLink="false">NPINS.007881</guid>
-    </item>
-    <item>
-      <title>iScience: The divergence of global rare earth trade networks under national geopolitical actions</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225019194</link>
-      <guid isPermaLink="false">NPINS.007880</guid>
-    </item>
-    <item>
-      <title>Chaos: Open networks in discrete time: Passing vs blocking behavior</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123113/3373959/Open-networks-in-discrete-time-Passing-vs-blocking</link>
-      <guid isPermaLink="false">NPINS.007879</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Epidemic dynamics with non-Markovian infection processes in metapopulation networks</title>
-      <link>http://link.aps.org/doi/10.1103/lw4p-cb4s</link>
-      <guid isPermaLink="false">NPINS.007878</guid>
-    </item>
-    <item>
-      <title>Chaos: Opinion dynamics for the signed social networks with private and expressed opinions</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/11/113125/3372780/Opinion-dynamics-for-the-signed-social-networks</link>
-      <guid isPermaLink="false">NPINS.007877</guid>
     </item>
   </channel>
 </rss>
