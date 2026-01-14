@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jan 2026 14:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:17:42 +0000</lastBuildDate>
+    <item>
+      <title>Eur. J. Phys.: Network centrality and student performance in physics labs: evidence from video-based observations and self-reported questionnaires</title>
+      <link>https://iopscience.iop.org/article/10.1088/1361-6404/ae257b</link>
+      <guid isPermaLink="false">NPINS.007990</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Controlling the spread of deception-based cyber-threats on time-varying networks</title>
+      <link>http://link.aps.org/doi/10.1103/4b13-sctm</link>
+      <guid isPermaLink="false">NPINS.007989</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The impact of dyads and extended networks on political talk: A factorial survey experiment in the Netherlands</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000802</link>
+      <guid isPermaLink="false">NPINS.007988</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: An Algebraic Proof of the Dichotomy for Graph Orientation Problems with Forbidden Tournaments</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1726157?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007987</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Finite-time trajectory tracking of multi-agent systems via higher-order dynamic networks with channel damage</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006435</link>
+      <guid isPermaLink="false">NPINS.007986</guid>
+    </item>
+    <item>
+      <title>Chaos: Topological persistence pinpoints higher-order network vulnerabilities</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/013116/3377064/Topological-persistence-pinpoints-higher-order</link>
+      <guid isPermaLink="false">NPINS.007985</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Dissipation and bondedness in networks via conflict-based cohesion</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000863</link>
+      <guid isPermaLink="false">NPINS.007984</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Ontological differentiation as a measure of semantic accuracy</title>
       <link>http://link.aps.org/doi/10.1103/148p-69wg</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Epidemic threshold and localization of the SIS model on directed complex networks</title>
       <link>http://link.aps.org/doi/10.1103/wg82-f4lf</link>
       <guid isPermaLink="false">NPINS.007891</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Disentangling the Role of Heterogeneity and Hyperedge Overlap in Explosive Contagion on Higher-Order Networks</title>
-      <link>http://link.aps.org/doi/10.1103/z3d5-94zb</link>
-      <guid isPermaLink="false">NPINS.007890</guid>
-    </item>
-    <item>
-      <title>PNAS: Stochastically evolving graphs via edit semigroups</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2526595122?af=R</link>
-      <guid isPermaLink="false">NPINS.007889</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. X: Statistical Physics Analysis of Graph Neural Networks: Approaching Optimality in the Contextual Stochastic Block Model</title>
-      <link>http://link.aps.org/doi/10.1103/lfxj-hbsk</link>
-      <guid isPermaLink="false">NPINS.007888</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Hyperbolic embedding of multilayer networks</title>
-      <link>http://link.aps.org/doi/10.1103/7wd9-dwlr</link>
-      <guid isPermaLink="false">NPINS.007887</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Degree sum condition for bipartite graph to have homeomorphically irreducible spanning trees</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006095</link>
-      <guid isPermaLink="false">NPINS.007886</guid>
-    </item>
-    <item>
-      <title>iScience: A Network of Bayesian Agents for Reward Prediction and Noise Tolerance</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225020747</link>
-      <guid isPermaLink="false">NPINS.007885</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The ties that bother: Difficult relationships in the personal networks of older adults</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000838</link>
-      <guid isPermaLink="false">NPINS.007884</guid>
     </item>
   </channel>
 </rss>
