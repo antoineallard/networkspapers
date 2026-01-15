@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 11:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:32:35 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Multilayer innovation network resilience: A framework for digital economy vulnerability assessment</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225025568</link>
+      <guid isPermaLink="false">NPINS.007997</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Graph-based strategies for optimising wildfire suppression</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae2c33</link>
+      <guid isPermaLink="false">NPINS.007996</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Isomorphisms of the 4-valent generalized Cayley graphs of Z3p</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006563</link>
+      <guid isPermaLink="false">NPINS.007995</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Neurosci.: Synaptic-resolution connectomics: towards large brains and connectomic screening</title>
+      <link>https://www.nature.com/articles/s41583-025-00998-z</link>
+      <guid isPermaLink="false">NPINS.007994</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Annealing approximation in master-node network model</title>
+      <link>http://link.aps.org/doi/10.1103/nrkx-myvk</link>
+      <guid isPermaLink="false">NPINS.007993</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Networks as the fundamental constituents of the Universe</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae29d3</link>
+      <guid isPermaLink="false">NPINS.007992</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: The Minimum Positive Uniform Turán Density in Uniformly Dense k-Uniform Hypergraphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1658218?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.007991</guid>
+    </item>
     <item>
       <title>Eur. J. Phys.: Network centrality and student performance in physics labs: evidence from video-based observations and self-reported questionnaires</title>
       <link>https://iopscience.iop.org/article/10.1088/1361-6404/ae257b</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Discontinuous percolation via suppression of neighboring clusters in a network</title>
       <link>http://link.aps.org/doi/10.1103/zp47-scxx</link>
       <guid isPermaLink="false">NPINS.007898</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Synchronization detection using spatial ordinal partitions in networks</title>
-      <link>http://link.aps.org/doi/10.1103/9chy-4db8</link>
-      <guid isPermaLink="false">NPINS.007897</guid>
-    </item>
-    <item>
-      <title>EPL: LIC-free topology identification of complex dynamic networks</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae1252</link>
-      <guid isPermaLink="false">NPINS.007896</guid>
-    </item>
-    <item>
-      <title>Eur. Phys. J. B: Synchronization pattern recognition method for coupled oscillator networks on symmetric graphs based on rotating periodic solutions</title>
-      <link>https://epjb.epj.org/10.1140/epjb/s10051-025-01057-3</link>
-      <guid isPermaLink="false">NPINS.007895</guid>
-    </item>
-    <item>
-      <title>Appl. Netw. Sci.: Optimal intervention campaign to combat anti-vaccine social contagion and contain epidemic spread: impact of network structure</title>
-      <link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-025-00718-7</link>
-      <guid isPermaLink="false">NPINS.007894</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Predicting steady-state behavior in complex networks with graph neural networks</title>
-      <link>http://link.aps.org/doi/10.1103/rkp2-3d1r</link>
-      <guid isPermaLink="false">NPINS.007893</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Contact temporal network during motility-induced phase separation</title>
-      <link>http://link.aps.org/doi/10.1103/t3k6-hcmr</link>
-      <guid isPermaLink="false">NPINS.007892</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Epidemic threshold and localization of the SIS model on directed complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/wg82-f4lf</link>
-      <guid isPermaLink="false">NPINS.007891</guid>
     </item>
   </channel>
 </rss>
