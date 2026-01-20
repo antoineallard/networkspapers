@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jan 2026 14:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 14:05:19 +0000</lastBuildDate>
+    <item>
+      <title>npj Complex.: Dynamics of Russian anti-war discourse on X (Twitter): a computational analysis using NLP and network methods</title>
+      <link>https://www.nature.com/articles/s44260-025-00059-7</link>
+      <guid isPermaLink="false">NPINS.008016</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Coarse-graining complex networks by optimizing mutual information estimates of random walks</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae20e7</link>
+      <guid isPermaLink="false">NPINS.008015</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Networks, hypernetworks, polyhedral complexes and curvature *</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae2a9b</link>
+      <guid isPermaLink="false">NPINS.008014</guid>
+    </item>
+    <item>
+      <title>PNAS: Network structure shapes consensus dynamics through individual decisions</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2520483123?af=R</link>
+      <guid isPermaLink="false">NPINS.008013</guid>
+    </item>
+    <item>
+      <title>Chaos: Self-organizing network simulation of cardiac contraction dynamics</title>
+      <link>https://pubs.aip.org/aip/cha/article/35/12/121105/3375085/Self-organizing-network-simulation-of-cardiac</link>
+      <guid isPermaLink="false">NPINS.008012</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Maximum entropy modelling of sub-optimal transport</title>
+      <link>https://www.nature.com/articles/s42005-025-02468-5</link>
+      <guid isPermaLink="false">NPINS.008011</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Origins of instability in dynamical systems on undirected networks</title>
+      <link>http://link.aps.org/doi/10.1103/g2mp-bkhf</link>
+      <guid isPermaLink="false">NPINS.008010</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Network models for bridging denoising and identifying spatial domains of spatially resolved transcriptomics</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013867</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Predicting collective states of a star network using reservoir computing</title>
       <link>https://pubs.aip.org/aip/cha/article/35/12/123112/3373775/Predicting-collective-states-of-a-star-network</link>
       <guid isPermaLink="false">NPINS.007917</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Evolutionary dynamics of binary opinions with decision errors on social networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005624</link>
-      <guid isPermaLink="false">NPINS.007916</guid>
-    </item>
-    <item>
-      <title>EPL: How universal is the mean-field universality class for percolation in complex networks?</title>
-      <link>http://iopscience.iop.org/article/10.1209/0295-5075/ae1322</link>
-      <guid isPermaLink="false">NPINS.007915</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Temporal fingerprints for identity matching across fully encrypted domains</title>
-      <link>https://www.nature.com/articles/s41467-025-64785-1</link>
-      <guid isPermaLink="false">NPINS.007914</guid>
-    </item>
-    <item>
-      <title>npj Complex.: A perspective on friction interventions to curb the spread of misinformation</title>
-      <link>https://www.nature.com/articles/s44260-025-00051-1</link>
-      <guid isPermaLink="false">NPINS.007913</guid>
-    </item>
-    <item>
-      <title>Proc. R. Soc. B: Mechanisms influencing network topology in plant–hummingbird pollination networks</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2025.2249?af=R</link>
-      <guid isPermaLink="false">NPINS.007912</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: From lines to networks</title>
-      <link>http://link.aps.org/doi/10.1103/4xnv-h9dc</link>
-      <guid isPermaLink="false">NPINS.007911</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Modeling multistability and hysteresis in urban congestion spreading</title>
-      <link>http://link.aps.org/doi/10.1103/hrfw-1g56</link>
-      <guid isPermaLink="false">NPINS.007910</guid>
     </item>
   </channel>
 </rss>
