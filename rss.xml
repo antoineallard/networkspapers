@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jan 2026 14:48:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 14:49:41 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Bipartite structural evaluation: Extended network generation model and corrected randomization techniques</title>
+      <link>http://link.aps.org/doi/10.1103/7t51-c6tx</link>
+      <guid isPermaLink="false">NPINS.008023</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Long Induced Paths and Forbidden Patterns: Polylogarithmic Bounds</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1720366?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008022</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Realizations Through Weakly Reversible Networks and the Globally Attracting Locus</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1745027?af=R</link>
+      <guid isPermaLink="false">NPINS.008021</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Layered community-aware layout method for complex statute network visualization</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00615-0</link>
+      <guid isPermaLink="false">NPINS.008020</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The influence of social network on consumers’ negative reactions toward corporate social advocacy: An egocentric network analysis</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000917</link>
+      <guid isPermaLink="false">NPINS.008019</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Multiscale emergence of directional traveling waves in random neuronal networks with nonreciprocal excitation-inhibition synaptic coupling</title>
+      <link>http://link.aps.org/doi/10.1103/jwrf-fk75</link>
+      <guid isPermaLink="false">NPINS.008018</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Centrality in directed networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000018</link>
+      <guid isPermaLink="false">NPINS.008017</guid>
+    </item>
     <item>
       <title>npj Complex.: Dynamics of Russian anti-war discourse on X (Twitter): a computational analysis using NLP and network methods</title>
       <link>https://www.nature.com/articles/s44260-025-00059-7</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Effect of diversity distribution symmetry on global oscillations of networks of excitable units</title>
       <link>http://link.aps.org/doi/10.1103/lvb3-dc11</link>
       <guid isPermaLink="false">NPINS.007924</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Entraining spatiotemporal synchrony of coupled oscillators through adaptive master-slave strategy</title>
-      <link>http://link.aps.org/doi/10.1103/z875-pv5w</link>
-      <guid isPermaLink="false">NPINS.007923</guid>
-    </item>
-    <item>
-      <title>PNAS: Perception of own centrality in social networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2420334122?af=R</link>
-      <guid isPermaLink="false">NPINS.007922</guid>
-    </item>
-    <item>
-      <title>iScience: Network-Based Insights into miRNA Regulation of β-Cell Insulin Secretion in Type 2 Diabetes</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225024617</link>
-      <guid isPermaLink="false">NPINS.007921</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Math.: Mean-Field Approximation of Dynamics on Networks</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1725899?ai=s3&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007920</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Fractal clusters and urban scaling shape spatial inequality in U.S. patenting</title>
-      <link>https://www.nature.com/articles/s44260-025-00054-y</link>
-      <guid isPermaLink="false">NPINS.007919</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On the permanent indices of graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006083</link>
-      <guid isPermaLink="false">NPINS.007918</guid>
-    </item>
-    <item>
-      <title>Chaos: Predicting collective states of a star network using reservoir computing</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123112/3373775/Predicting-collective-states-of-a-star-network</link>
-      <guid isPermaLink="false">NPINS.007917</guid>
     </item>
   </channel>
 </rss>
