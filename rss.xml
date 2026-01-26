@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jan 2026 14:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 14:31:03 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Triadic percolation on multilayer networks</title>
+      <link>http://link.aps.org/doi/10.1103/yvtg-wnn4</link>
+      <guid isPermaLink="false">NPINS.008037</guid>
+    </item>
+    <item>
+      <title>npj Complex.: Uncovering complementary information sharing in spider monkey collective foraging using higher-order spatial networks</title>
+      <link>https://www.nature.com/articles/s44260-025-00060-0</link>
+      <guid isPermaLink="false">NPINS.008036</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Flux-fluctuation relation for quantum walks on networks</title>
+      <link>http://link.aps.org/doi/10.1103/cg8k-t1rz</link>
+      <guid isPermaLink="false">NPINS.008035</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: General theory of perturbation of infinite resistor networks</title>
+      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae3407</link>
+      <guid isPermaLink="false">NPINS.008034</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Evolutionary dynamics of cooperation in two-layer lattice networks with a leader-follower hierarchy: integrating dominant strategy and time cost</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000032</link>
+      <guid isPermaLink="false">NPINS.008033</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Predicting synchronization and oscillation death with parallel reservoir computing</title>
+      <link>http://link.aps.org/doi/10.1103/9n6x-qkpv</link>
+      <guid isPermaLink="false">NPINS.008032</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Inferring structure and dynamics of multiplex networks from single-type observations</title>
+      <link>http://link.aps.org/doi/10.1103/vf68-5w5b</link>
+      <guid isPermaLink="false">NPINS.008031</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Collaborative likelihood-ratio estimation over graphs</title>
       <link>http://jmlr.org/papers/v26/24-0565.html</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Dynamic topology and percolation criticality in higher-order activity–vulnerability driven networks</title>
       <link>https://pubs.aip.org/aip/cha/article/35/12/123143/3375594/Dynamic-topology-and-percolation-criticality-in</link>
       <guid isPermaLink="false">NPINS.007938</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Deterministic simplicial complexes</title>
-      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae2092</link>
-      <guid isPermaLink="false">NPINS.007937</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Pólya urn model for analysis of football passes</title>
-      <link>http://link.aps.org/doi/10.1103/w5wk-mmcc</link>
-      <guid isPermaLink="false">NPINS.007936</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Tag-mediated effect on the dynamics of social influence</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338598</link>
-      <guid isPermaLink="false">NPINS.007935</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Peer influence breaks ergodicity in an opinion dynamics model with external information</title>
-      <link>http://iopscience.iop.org/article/10.1088/2632-072X/ae1710</link>
-      <guid isPermaLink="false">NPINS.007934</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Imports matter more than you think: a complexity-weighted reassessment of trade and GDP growth</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1721159</link>
-      <guid isPermaLink="false">NPINS.007933</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Enhancing collaborative filtering with Louvain-based community-specific matrix factorization</title>
-      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae23bb</link>
-      <guid isPermaLink="false">NPINS.007932</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Intersectional inequalities in social ties</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adu9025</link>
-      <guid isPermaLink="false">NPINS.007931</guid>
     </item>
   </channel>
 </rss>
