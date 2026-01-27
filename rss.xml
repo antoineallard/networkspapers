@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 12:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 12:43:57 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Quantifying biases in reconstructed brain networks</title>
+      <link>https://www.nature.com/articles/s42005-025-02460-z</link>
+      <guid isPermaLink="false">NPINS.008044</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Graph-theoretical search for integrable multistate Landau-Zener models</title>
+      <link>http://link.aps.org/doi/10.1103/1m6n-s7zn</link>
+      <guid isPermaLink="false">NPINS.008043</guid>
+    </item>
+    <item>
+      <title>EPL: EPL 40th anniversary highlight: Percolation theory on interdependent networks based on epidemic spreading by Seung-Woo Son et al.</title>
+      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae30a6</link>
+      <guid isPermaLink="false">NPINS.008042</guid>
+    </item>
+    <item>
+      <title>Chaos: Tracking control of complex dynamical networks via reservoir computing</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/013119/3377242/Tracking-control-of-complex-dynamical-networks-via</link>
+      <guid isPermaLink="false">NPINS.008041</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Discovering the laws behind complex networked systems</title>
+      <link>https://www.nature.com/articles/s43588-025-00929-z</link>
+      <guid isPermaLink="false">NPINS.008040</guid>
+    </item>
+    <item>
+      <title>Chaos: Source detection in epidemic dynamics on hypergraphs using a dynamic message passing algorithm</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/013121/3377237/Source-detection-in-epidemic-dynamics-on</link>
+      <guid isPermaLink="false">NPINS.008039</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Aging transition in a network of Wien-bridge oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/vyc4-mzsh</link>
+      <guid isPermaLink="false">NPINS.008038</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Triadic percolation on multilayer networks</title>
       <link>http://link.aps.org/doi/10.1103/yvtg-wnn4</link>
@@ -478,41 +513,6 @@
       <title>EPL: A new spectral connectivity measure considering the effect of network scale</title>
       <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae27f0</link>
       <guid isPermaLink="false">NPINS.007945</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Feature-based information-theoretic approach for detecting interpretable, long-timescale pairwise interactions from time series</title>
-      <link>http://link.aps.org/doi/10.1103/qnx2-yp4c</link>
-      <guid isPermaLink="false">NPINS.007944</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: How do higher-order interactions shape the energy landscape?</title>
-      <link>http://link.aps.org/doi/10.1103/zqf8-tg6g</link>
-      <guid isPermaLink="false">NPINS.007943</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Copy or collaborate? How networks impact collective problem solving</title>
-      <link>https://www.nature.com/articles/s44260-025-00058-8</link>
-      <guid isPermaLink="false">NPINS.007942</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: A game theoretic treatment of contagion in trade networks</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013845</link>
-      <guid isPermaLink="false">NPINS.007941</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Indirect influence on network diffusion</title>
-      <link>https://www.nature.com/articles/s42005-025-02403-8</link>
-      <guid isPermaLink="false">NPINS.007940</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Bounded-Confidence Models of Multidimensional Opinions with Topic-Weighted Discordance</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1730818?af=R</link>
-      <guid isPermaLink="false">NPINS.007939</guid>
-    </item>
-    <item>
-      <title>Chaos: Dynamic topology and percolation criticality in higher-order activity–vulnerability driven networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123143/3375594/Dynamic-topology-and-percolation-criticality-in</link>
-      <guid isPermaLink="false">NPINS.007938</guid>
     </item>
   </channel>
 </rss>
