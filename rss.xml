@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jan 2026 14:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 14:19:26 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Promoters of cooperation in evolutionary games</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2524109122?af=R</link>
+      <guid isPermaLink="false">NPINS.008051</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Understanding the mechanisms of infodemics: Equation-based vs. agent-based models</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338614</link>
+      <guid isPermaLink="false">NPINS.008050</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Graph entropy, degree assortativity, and hierarchical structures in networks</title>
+      <link>http://link.aps.org/doi/10.1103/6kxf-qn44</link>
+      <guid isPermaLink="false">NPINS.008049</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Exponential random graph-based eXplainable Artificial Intelligence for Alzheimer disease</title>
+      <link>http://link.aps.org/doi/10.1103/dkn2-9b2t</link>
+      <guid isPermaLink="false">NPINS.008048</guid>
+    </item>
+    <item>
+      <title>Chaos: Hyperedge size-driven multiscale epidemic dynamics on hypergraphs</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/013130/3377565/Hyperedge-size-driven-multiscale-epidemic-dynamics</link>
+      <guid isPermaLink="false">NPINS.008047</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Sentiment amplification and optimal control of an enhanced SEIR-based model for public opinion dissemination</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1725899</link>
+      <guid isPermaLink="false">NPINS.008046</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Phase transformation and synchrony for a network of coupled Izhikevich neurons</title>
+      <link>http://link.aps.org/doi/10.1103/2qrn-xvhg</link>
+      <guid isPermaLink="false">NPINS.008045</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Quantifying biases in reconstructed brain networks</title>
       <link>https://www.nature.com/articles/s42005-025-02460-z</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Anomalous diffusion and fluctuations in complex systems and networks</title>
       <link>https://pubs.aip.org/aip/cha/article/36/1/010401/3376330/Anomalous-diffusion-and-fluctuations-in-complex</link>
       <guid isPermaLink="false">NPINS.007952</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Average shortest-path length in word-adjacency networks: Chinese versus English</title>
-      <link>http://link.aps.org/doi/10.1103/v3mp-7dwg</link>
-      <guid isPermaLink="false">NPINS.007951</guid>
-    </item>
-    <item>
-      <title>Chaos: Evolution of cooperation under a biased allocation mechanism</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123137/3375263/Evolution-of-cooperation-under-a-biased-allocation</link>
-      <guid isPermaLink="false">NPINS.007950</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Alter composition with overlapping group memberships</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332500084X</link>
-      <guid isPermaLink="false">NPINS.007949</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On anti-A-connectivity in plane graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325005338</link>
-      <guid isPermaLink="false">NPINS.007948</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Diffusive geodesics wandering in networks of rigid chains</title>
-      <link>http://link.aps.org/doi/10.1103/d6y6-j48y</link>
-      <guid isPermaLink="false">NPINS.007947</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Using social network analysis to understand residents’ social connection in a Singapore neighbourhood</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000899</link>
-      <guid isPermaLink="false">NPINS.007946</guid>
-    </item>
-    <item>
-      <title>EPL: A new spectral connectivity measure considering the effect of network scale</title>
-      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae27f0</link>
-      <guid isPermaLink="false">NPINS.007945</guid>
     </item>
   </channel>
 </rss>
