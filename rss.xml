@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jan 2026 18:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 18:33:17 +0000</lastBuildDate>
+    <item>
+      <title>iScience: Reinforcement learning in densely recurrent biological networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004225026975</link>
+      <guid isPermaLink="false">NPINS.008058</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Influence problems on a content-spreading model and graph machine learning</title>
+      <link>http://link.aps.org/doi/10.1103/2cnl-b6wl</link>
+      <guid isPermaLink="false">NPINS.008057</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Inference in spreading processes with neural-network priors</title>
+      <link>http://link.aps.org/doi/10.1103/8mww-brdk</link>
+      <guid isPermaLink="false">NPINS.008056</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Mechanistic interplay between information spreading and opinion polarization</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgaf402</link>
+      <guid isPermaLink="false">NPINS.008055</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Spatiotemporal prediction of water quality and ecological risk assessment in a river basin using T-GCN based on river network topology constraints</title>
+      <link>https://www.nature.com/articles/s41598-025-34722-9</link>
+      <guid isPermaLink="false">NPINS.008054</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Quantifying the irregularity of a time series</title>
+      <link>http://link.aps.org/doi/10.1103/3vzd-7kg2</link>
+      <guid isPermaLink="false">NPINS.008053</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Modelling and improving approach for carrying capacity in multi-modal super network by considering travel time</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339039</link>
+      <guid isPermaLink="false">NPINS.008052</guid>
+    </item>
     <item>
       <title>PNAS: Promoters of cooperation in evolutionary games</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2524109122?af=R</link>
@@ -478,41 +513,6 @@
       <title>Soc. Networks: Social isolation by design: Bias in measuring core networks in Taiwan?</title>
       <link>https://www.sciencedirect.com/science/article/pii/S037887332500070X</link>
       <guid isPermaLink="false">NPINS.007959</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Mapping bipartite networks into multidimensional hyperbolic spaces</title>
-      <link>https://www.nature.com/articles/s42005-025-02464-9</link>
-      <guid isPermaLink="false">NPINS.007958</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Identifying and characterizing ideologically homogeneous clusters on Twitter and Parler during the 2020 election</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338318</link>
-      <guid isPermaLink="false">NPINS.007957</guid>
-    </item>
-    <item>
-      <title>npj Complex.: The complexity of misinformation extends beyond virus and warfare analogies</title>
-      <link>https://www.nature.com/articles/s44260-025-00053-z</link>
-      <guid isPermaLink="false">NPINS.007956</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Statistical Inference of Random Graphs With a Surrogate Likelihood Function</title>
-      <link>http://jmlr.org/papers/v26/24-0153.html</link>
-      <guid isPermaLink="false">NPINS.007955</guid>
-    </item>
-    <item>
-      <title>Nat. Hum. Behav.: Higher-order interactions shape collective human behaviour</title>
-      <link>https://www.nature.com/articles/s41562-025-02373-5</link>
-      <guid isPermaLink="false">NPINS.007954</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: The geography of interest in international conversations on Twitter</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00597-z</link>
-      <guid isPermaLink="false">NPINS.007953</guid>
-    </item>
-    <item>
-      <title>Chaos: Anomalous diffusion and fluctuations in complex systems and networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/010401/3376330/Anomalous-diffusion-and-fluctuations-in-complex</link>
-      <guid isPermaLink="false">NPINS.007952</guid>
     </item>
   </channel>
 </rss>
