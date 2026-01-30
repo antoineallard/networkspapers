@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 02:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 15:55:57 +0000</lastBuildDate>
+    <item>
+      <title>npj Complex.: Promoting cooperation in the public goods game using artificial intelligent agents</title>
+      <link>https://www.nature.com/articles/s44260-025-00065-9</link>
+      <guid isPermaLink="false">NPINS.008065</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Designing topological cluster synchronization patterns with the Dirac operator</title>
+      <link>http://link.aps.org/doi/10.1103/v65b-3jx7</link>
+      <guid isPermaLink="false">NPINS.008064</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: On complex network techniques for atmospheric flow analysis: a polar vortex case study</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae20e9</link>
+      <guid isPermaLink="false">NPINS.008063</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Higher-order interactions enhance stochastic resonance in coupled oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/1dnk-6499</link>
+      <guid isPermaLink="false">NPINS.008062</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Identifiability of Directed-Cycle and Catenary Linear Compartmental Models</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1728636?af=R</link>
+      <guid isPermaLink="false">NPINS.008061</guid>
+    </item>
+    <item>
+      <title>Nature: Surface optimization governs the local design of physical networks</title>
+      <link>https://www.nature.com/articles/s41586-025-09784-4</link>
+      <guid isPermaLink="false">NPINS.008060</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Spectral densities approximations of incidence-based locally treelike hypergraph matrices via the cavity method</title>
+      <link>http://link.aps.org/doi/10.1103/g997-gp7j</link>
+      <guid isPermaLink="false">NPINS.008059</guid>
+    </item>
     <item>
       <title>iScience: Reinforcement learning in densely recurrent biological networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004225026975</link>
@@ -478,41 +513,6 @@
       <title>Commun. Phys.: The microscale organization of directed hypergraphs</title>
       <link>https://www.nature.com/articles/s42005-025-02472-9</link>
       <guid isPermaLink="false">NPINS.007966</guid>
-    </item>
-    <item>
-      <title>Chaos: Robustness of hybrid interdependent higher-order networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123131/3374884/Robustness-of-hybrid-interdependent-higher-order</link>
-      <guid isPermaLink="false">NPINS.007965</guid>
-    </item>
-    <item>
-      <title>Chaos: Effects of interlayer alternation on information diffusion on directed multiplex higher-order networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/013101/3376038/Effects-of-interlayer-alternation-on-information</link>
-      <guid isPermaLink="false">NPINS.007964</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Random hyperbolic graphs with arbitrary mesoscale structures</title>
-      <link>http://link.aps.org/doi/10.1103/5q8n-lnc1</link>
-      <guid isPermaLink="false">NPINS.007963</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Analytical results for the distribution of first return times of non-backtracking random walks on configuration model networks</title>
-      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae257d</link>
-      <guid isPermaLink="false">NPINS.007962</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Redefining effective distance using multi-hop flows in urban mobility networks</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae240d</link>
-      <guid isPermaLink="false">NPINS.007961</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Decomposing multivariate information rates in networks of random processes</title>
-      <link>http://link.aps.org/doi/10.1103/mn8p-kf6t</link>
-      <guid isPermaLink="false">NPINS.007960</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Social isolation by design: Bias in measuring core networks in Taiwan?</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S037887332500070X</link>
-      <guid isPermaLink="false">NPINS.007959</guid>
     </item>
   </channel>
 </rss>
