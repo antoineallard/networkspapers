@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 14:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 14:57:55 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Kubo-Martin-Schwinger states of path-structured flow in directed brain synaptic networks</title>
+      <link>http://link.aps.org/doi/10.1103/wvbd-j5rw</link>
+      <guid isPermaLink="false">NPINS.008072</guid>
+    </item>
+    <item>
+      <title>Chaos: Edge rewiring for network Turing patterns</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/013134/3377760/Edge-rewiring-for-network-Turing-patterns</link>
+      <guid isPermaLink="false">NPINS.008071</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Nested interaction network enhances responsiveness in collective behavior</title>
+      <link>https://www.nature.com/articles/s42005-026-02510-0</link>
+      <guid isPermaLink="false">NPINS.008070</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Noise-induced maximization of integrated information in FitzHugh-Nagumo networks</title>
+      <link>http://link.aps.org/doi/10.1103/dftc-vzvv</link>
+      <guid isPermaLink="false">NPINS.008069</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Measuring and evolution analyzing of the reliability in urban public transport composite network</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340590</link>
+      <guid isPermaLink="false">NPINS.008068</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Far-reaching hunter-gatherer networks during the Last Glacial Maximum in Western Europe</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz7697</link>
+      <guid isPermaLink="false">NPINS.008067</guid>
+    </item>
+    <item>
+      <title>Chaos: Climate network reveals cross-seasonal teleconnections between heatwaves and cold waves</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/011103/3378289/Climate-network-reveals-cross-seasonal</link>
+      <guid isPermaLink="false">NPINS.008066</guid>
+    </item>
     <item>
       <title>npj Complex.: Promoting cooperation in the public goods game using artificial intelligent agents</title>
       <link>https://www.nature.com/articles/s44260-025-00065-9</link>
@@ -478,41 +513,6 @@
       <title>J. Phys. A: Interplay between high-order structures and contagion dynamics</title>
       <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae30b9</link>
       <guid isPermaLink="false">NPINS.007973</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: A data-driven biology-based network model reproduces &lt;i&gt;C. elegans&lt;/i&gt; premotor neural dynamics</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013818</link>
-      <guid isPermaLink="false">NPINS.007972</guid>
-    </item>
-    <item>
-      <title>Chaos: Oscillatory dynamics in the adaptive exponential integrate-and-fire model</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123130/3374886/Oscillatory-dynamics-in-the-adaptive-exponential</link>
-      <guid isPermaLink="false">NPINS.007971</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Collective dynamics of multiplex networks with distinct adaptation rules</title>
-      <link>http://link.aps.org/doi/10.1103/vndm-lcqs</link>
-      <guid isPermaLink="false">NPINS.007970</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Efficient detour-aware dynamic routing based on local traffic load in urban road networks</title>
-      <link>http://link.aps.org/doi/10.1103/gdpb-5j92</link>
-      <guid isPermaLink="false">NPINS.007969</guid>
-    </item>
-    <item>
-      <title>Chaos: Anomalous random neural network’s guide to Hopfield neural networks</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/013106/3376331/Anomalous-random-neural-network-s-guide-to</link>
-      <guid isPermaLink="false">NPINS.007968</guid>
-    </item>
-    <item>
-      <title>Chaos: To protect, or to recover? The effect of defense resource allocation on network robustness</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123136/3375261/To-protect-or-to-recover-The-effect-of-defense</link>
-      <guid isPermaLink="false">NPINS.007967</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: The microscale organization of directed hypergraphs</title>
-      <link>https://www.nature.com/articles/s42005-025-02472-9</link>
-      <guid isPermaLink="false">NPINS.007966</guid>
     </item>
   </channel>
 </rss>
