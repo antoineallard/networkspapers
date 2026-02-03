@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 04:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 14:27:15 +0000</lastBuildDate>
+    <item>
+      <title>J. Stat. Mech.: Bifurcation patterns of a discrete prey–predator model subject to slow–fast effect, Allee effect, and complex network</title>
+      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae373e</link>
+      <guid isPermaLink="false">NPINS.008079</guid>
+    </item>
+    <item>
+      <title>Chaos: Opinion dynamics on higher-order networks with stubbornness and trust</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023106/3378433/Opinion-dynamics-on-higher-order-networks-with</link>
+      <guid isPermaLink="false">NPINS.008078</guid>
+    </item>
+    <item>
+      <title>Chaos: Rumor source localization in social networks based on the propagation direction of observers</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/013145/3378224/Rumor-source-localization-in-social-networks-based</link>
+      <guid isPermaLink="false">NPINS.008077</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Analytical characterization of sloppiness in neural networks: Insights from linear models</title>
+      <link>http://link.aps.org/doi/10.1103/fs4g-9nsz</link>
+      <guid isPermaLink="false">NPINS.008076</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Routing-induced phase transitions in traffic efficiency of non-Markovian dynamics</title>
+      <link>http://link.aps.org/doi/10.1103/rpfs-bvc7</link>
+      <guid isPermaLink="false">NPINS.008075</guid>
+    </item>
+    <item>
+      <title>npj Complex.: Symmetry breaking in collective decision-making through higher-order interactions</title>
+      <link>https://www.nature.com/articles/s44260-026-00071-5</link>
+      <guid isPermaLink="false">NPINS.008074</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Estimating unknown populations from informant reports using scale-up reference groups and capture-recapture inference</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000092</link>
+      <guid isPermaLink="false">NPINS.008073</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Kubo-Martin-Schwinger states of path-structured flow in directed brain synaptic networks</title>
       <link>http://link.aps.org/doi/10.1103/wvbd-j5rw</link>
@@ -478,41 +513,6 @@
       <title>J. Mach. Learn. Res.: Scalable and Adaptive Variational Bayes Methods for Hawkes Processes</title>
       <link>http://jmlr.org/papers/v26/23-1053.html</link>
       <guid isPermaLink="false">NPINS.007980</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Thermodynamic ranking of pathways in reaction networks</title>
-      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae22eb</link>
-      <guid isPermaLink="false">NPINS.007979</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Neurosci.: Long-range axon branching: contributions to brain network plasticity and repair</title>
-      <link>https://www.nature.com/articles/s41583-025-01008-y</link>
-      <guid isPermaLink="false">NPINS.007978</guid>
-    </item>
-    <item>
-      <title>Chaos: Ego-centered network intervention via weak-tie exclusion</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/121103/3374360/Ego-centered-network-intervention-via-weak-tie</link>
-      <guid isPermaLink="false">NPINS.007977</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Resistance distances and Kirchhoff indices in graph joins</title>
-      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae2997</link>
-      <guid isPermaLink="false">NPINS.007976</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Emergence of Supercritical Hopf Bifurcations in Coupled Oscillator Ensembles and How Desynchronization Can Facilitate Energy-Optimal Phase Resetting</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M171098X?af=R</link>
-      <guid isPermaLink="false">NPINS.007975</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Interacting copies of random-constraint satisfaction problems</title>
-      <link>http://link.aps.org/doi/10.1103/86dj-6w3r</link>
-      <guid isPermaLink="false">NPINS.007974</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Interplay between high-order structures and contagion dynamics</title>
-      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae30b9</link>
-      <guid isPermaLink="false">NPINS.007973</guid>
     </item>
   </channel>
 </rss>
