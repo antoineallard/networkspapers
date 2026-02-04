@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Feb 2026 02:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 14:08:00 +0000</lastBuildDate>
+    <item>
+      <title>J. Phys. Complex.: Mapping memory-biased dynamics with compact models reveals overlapping communities in large networks</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae35bb</link>
+      <guid isPermaLink="false">NPINS.008086</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Detectability threshold in weighted modular networks</title>
+      <link>http://link.aps.org/doi/10.1103/bt2h-b7kb</link>
+      <guid isPermaLink="false">NPINS.008085</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Replicating hypergraph disease dynamics with lower-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/6whh-kvk7</link>
+      <guid isPermaLink="false">NPINS.008084</guid>
+    </item>
+    <item>
+      <title>npj Complex.: Habit learning is associated with efficiently controlled network dynamics in naive macaque monkeys</title>
+      <link>https://www.nature.com/articles/s44260-025-00066-8</link>
+      <guid isPermaLink="false">NPINS.008083</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Mind the gap: revealing sidewalk networks at scale</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae35b9</link>
+      <guid isPermaLink="false">NPINS.008082</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Shortest-path percolation on scale-free networks</title>
+      <link>http://link.aps.org/doi/10.1103/pk8t-px35</link>
+      <guid isPermaLink="false">NPINS.008081</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Network localization governs social contagion dynamics with macro-level reinforcement</title>
+      <link>http://link.aps.org/doi/10.1103/tdz7-r22b</link>
+      <guid isPermaLink="false">NPINS.008080</guid>
+    </item>
     <item>
       <title>J. Stat. Mech.: Bifurcation patterns of a discrete prey–predator model subject to slow–fast effect, Allee effect, and complex network</title>
       <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae373e</link>
@@ -478,41 +513,6 @@
       <title>SIAM J. Discrete Math.: An Algebraic Proof of the Dichotomy for Graph Orientation Problems with Forbidden Tournaments</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/25M1726157?ai=sa&amp;mi=9cks17&amp;af=R</link>
       <guid isPermaLink="false">NPINS.007987</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Finite-time trajectory tracking of multi-agent systems via higher-order dynamic networks with channel damage</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006435</link>
-      <guid isPermaLink="false">NPINS.007986</guid>
-    </item>
-    <item>
-      <title>Chaos: Topological persistence pinpoints higher-order network vulnerabilities</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/013116/3377064/Topological-persistence-pinpoints-higher-order</link>
-      <guid isPermaLink="false">NPINS.007985</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Dissipation and bondedness in networks via conflict-based cohesion</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000863</link>
-      <guid isPermaLink="false">NPINS.007984</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Ontological differentiation as a measure of semantic accuracy</title>
-      <link>http://link.aps.org/doi/10.1103/148p-69wg</link>
-      <guid isPermaLink="false">NPINS.007983</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: The extended master stability function approach to alternating synchronization modes on networked oscillator systems</title>
-      <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae3207</link>
-      <guid isPermaLink="false">NPINS.007982</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: NIPS: Network Inference with Partial State measurements using forced-delay embedding</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf397</link>
-      <guid isPermaLink="false">NPINS.007981</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Scalable and Adaptive Variational Bayes Methods for Hawkes Processes</title>
-      <link>http://jmlr.org/papers/v26/23-1053.html</link>
-      <guid isPermaLink="false">NPINS.007980</guid>
     </item>
   </channel>
 </rss>
