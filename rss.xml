@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Feb 2026 13:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 13:39:47 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Heterogeneity enhances dynamic survivability of coupled oscillators</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/013135/3377855/Heterogeneity-enhances-dynamic-survivability-of</link>
+      <guid isPermaLink="false">NPINS.008093</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Investigating the impacts of missing data mechanims and treatments with latent space models</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000080</link>
+      <guid isPermaLink="false">NPINS.008092</guid>
+    </item>
+    <item>
+      <title>PNAS: Functional motifs in food webs and networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2521927123?af=R</link>
+      <guid isPermaLink="false">NPINS.008091</guid>
+    </item>
+    <item>
+      <title>Chaos: The promoting effect of reward on the evolution of cooperation in a dynamic network</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023114/3378521/The-promoting-effect-of-reward-on-the-evolution-of</link>
+      <guid isPermaLink="false">NPINS.008090</guid>
+    </item>
+    <item>
+      <title>Chaos: Post-disaster resource redistribution and cooperation evolution based on two-layer network evolutionary games</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023107/3378444/Post-disaster-resource-redistribution-and</link>
+      <guid isPermaLink="false">NPINS.008089</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Performances and correlations of centrality measures in complex networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009630032600024X</link>
+      <guid isPermaLink="false">NPINS.008088</guid>
+    </item>
+    <item>
+      <title>Chaos: Controlling reciprocity in binary and weighted networks: A novel density-conserving approach</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023116/3378596/Controlling-reciprocity-in-binary-and-weighted</link>
+      <guid isPermaLink="false">NPINS.008087</guid>
+    </item>
     <item>
       <title>J. Phys. Complex.: Mapping memory-biased dynamics with compact models reveals overlapping communities in large networks</title>
       <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae35bb</link>
@@ -478,41 +513,6 @@
       <title>Nat. Rev. Neurosci.: Synaptic-resolution connectomics: towards large brains and connectomic screening</title>
       <link>https://www.nature.com/articles/s41583-025-00998-z</link>
       <guid isPermaLink="false">NPINS.007994</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Annealing approximation in master-node network model</title>
-      <link>http://link.aps.org/doi/10.1103/nrkx-myvk</link>
-      <guid isPermaLink="false">NPINS.007993</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Networks as the fundamental constituents of the Universe</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae29d3</link>
-      <guid isPermaLink="false">NPINS.007992</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Minimum Positive Uniform Turán Density in Uniformly Dense k-Uniform Hypergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1658218?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007991</guid>
-    </item>
-    <item>
-      <title>Eur. J. Phys.: Network centrality and student performance in physics labs: evidence from video-based observations and self-reported questionnaires</title>
-      <link>https://iopscience.iop.org/article/10.1088/1361-6404/ae257b</link>
-      <guid isPermaLink="false">NPINS.007990</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Controlling the spread of deception-based cyber-threats on time-varying networks</title>
-      <link>http://link.aps.org/doi/10.1103/4b13-sctm</link>
-      <guid isPermaLink="false">NPINS.007989</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The impact of dyads and extended networks on political talk: A factorial survey experiment in the Netherlands</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000802</link>
-      <guid isPermaLink="false">NPINS.007988</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: An Algebraic Proof of the Dichotomy for Graph Orientation Problems with Forbidden Tournaments</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1726157?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.007987</guid>
     </item>
   </channel>
 </rss>
