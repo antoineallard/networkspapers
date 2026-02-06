@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Feb 2026 14:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 14:32:27 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: The equitable chromatic number of circulant graphs with maximum degree at most 4</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000147</link>
+      <guid isPermaLink="false">NPINS.008100</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Environmental and economic benefits of UHPFRC intervention in bridge management for the Swiss network</title>
+      <link>https://www.nature.com/articles/s41467-026-69103-x</link>
+      <guid isPermaLink="false">NPINS.008099</guid>
+    </item>
+    <item>
+      <title>Chaos: Introduction to focus issue: Intelligent game on networked systems: Optimization, evolution and control</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/010402/3377335/Introduction-to-focus-issue-Intelligent-game-on</link>
+      <guid isPermaLink="false">NPINS.008098</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Macroscopic dynamics of quadratic integrate-and-fire neurons subject to correlated noise</title>
+      <link>http://link.aps.org/doi/10.1103/dx7m-fpch</link>
+      <guid isPermaLink="false">NPINS.008097</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Independent Set Reconfiguration on Directed Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1552644?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008096</guid>
+    </item>
+    <item>
+      <title>Chaos: Growing order-heterogeneous simplicial complexes</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/1/013143/3378113/Growing-order-heterogeneous-simplicial-complexes</link>
+      <guid isPermaLink="false">NPINS.008095</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Who benefits most? Intervention-induced changes in the social networks of people living with dementia</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000122</link>
+      <guid isPermaLink="false">NPINS.008094</guid>
+    </item>
     <item>
       <title>Chaos: Heterogeneity enhances dynamic survivability of coupled oscillators</title>
       <link>https://pubs.aip.org/aip/cha/article/36/1/013135/3377855/Heterogeneity-enhances-dynamic-survivability-of</link>
@@ -478,41 +513,6 @@
       <title>EPL: Prediction and inference in complex networks: A brief review and perspectives</title>
       <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae2950</link>
       <guid isPermaLink="false">NPINS.008001</guid>
-    </item>
-    <item>
-      <title>PNAS: The paradox of intervention: Resilience in adaptive multirole coordination networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2509856122?af=R</link>
-      <guid isPermaLink="false">NPINS.008000</guid>
-    </item>
-    <item>
-      <title>Chaos: Replicator dynamics and behavior-augmented multiscale epidemic modeling</title>
-      <link>https://pubs.aip.org/aip/cha/article/35/12/123128/3374821/Replicator-dynamics-and-behavior-augmented</link>
-      <guid isPermaLink="false">NPINS.007999</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Assigning entities to teams as a hypergraph discovery problem</title>
-      <link>https://www.nature.com/articles/s42005-025-02474-7</link>
-      <guid isPermaLink="false">NPINS.007998</guid>
-    </item>
-    <item>
-      <title>iScience: Multilayer innovation network resilience: A framework for digital economy vulnerability assessment</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225025568</link>
-      <guid isPermaLink="false">NPINS.007997</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Graph-based strategies for optimising wildfire suppression</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae2c33</link>
-      <guid isPermaLink="false">NPINS.007996</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Isomorphisms of the 4-valent generalized Cayley graphs of Z3p</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006563</link>
-      <guid isPermaLink="false">NPINS.007995</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Neurosci.: Synaptic-resolution connectomics: towards large brains and connectomic screening</title>
-      <link>https://www.nature.com/articles/s41583-025-00998-z</link>
-      <guid isPermaLink="false">NPINS.007994</guid>
     </item>
   </channel>
 </rss>
