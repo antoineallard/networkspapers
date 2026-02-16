@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 14:56:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 14:58:52 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Hyperedge overlap modulates synchronization transitions in higher-order Sakaguchi-Kuramoto model</title>
+      <link>http://link.aps.org/doi/10.1103/29bm-j88x</link>
+      <guid isPermaLink="false">NPINS.008119</guid>
+    </item>
+    <item>
+      <title>npj Complex.: The case against efficiency: friction in social media</title>
+      <link>https://www.nature.com/articles/s44260-025-00061-z</link>
+      <guid isPermaLink="false">NPINS.008118</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: From survey data to social multiplex models: Incorporating interlayer correlation from multiple data sources</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000110</link>
+      <guid isPermaLink="false">NPINS.008117</guid>
+    </item>
+    <item>
+      <title>Nat. Rev. Phys.: Collective dynamics on higher-order networks</title>
+      <link>https://www.nature.com/articles/s42254-025-00916-3</link>
+      <guid isPermaLink="false">NPINS.008116</guid>
+    </item>
+    <item>
+      <title>EPL: Permutation entropy and statistical complexity in graph-based representations across world languages</title>
+      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae397f</link>
+      <guid isPermaLink="false">NPINS.008115</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Closing the loop: Design, implementation, and evaluation of a regular-feedback network intervention for social connectedness and mental health</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000146</link>
+      <guid isPermaLink="false">NPINS.008114</guid>
+    </item>
+    <item>
+      <title>iScience: Risk of exotic disease introduction and propagation in the Austrian swine trade network</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004226002439</link>
+      <guid isPermaLink="false">NPINS.008113</guid>
+    </item>
     <item>
       <title>SIAM J. Appl. Math.: Generalized Lotka–Volterra Systems and Complex Balanced Polyexponential Systems</title>
       <link>https://epubs.siam.org/doi/abs/10.1137/24M1719888?ai=s3&amp;mi=9cks17&amp;af=R</link>
@@ -478,41 +513,6 @@
       <title>EPJ Data Sci.: Layered community-aware layout method for complex statute network visualization</title>
       <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00615-0</link>
       <guid isPermaLink="false">NPINS.008020</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: The influence of social network on consumers’ negative reactions toward corporate social advocacy: An egocentric network analysis</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873325000917</link>
-      <guid isPermaLink="false">NPINS.008019</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Multiscale emergence of directional traveling waves in random neuronal networks with nonreciprocal excitation-inhibition synaptic coupling</title>
-      <link>http://link.aps.org/doi/10.1103/jwrf-fk75</link>
-      <guid isPermaLink="false">NPINS.008018</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Centrality in directed networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000018</link>
-      <guid isPermaLink="false">NPINS.008017</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Dynamics of Russian anti-war discourse on X (Twitter): a computational analysis using NLP and network methods</title>
-      <link>https://www.nature.com/articles/s44260-025-00059-7</link>
-      <guid isPermaLink="false">NPINS.008016</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Coarse-graining complex networks by optimizing mutual information estimates of random walks</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae20e7</link>
-      <guid isPermaLink="false">NPINS.008015</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Networks, hypernetworks, polyhedral complexes and curvature *</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae2a9b</link>
-      <guid isPermaLink="false">NPINS.008014</guid>
-    </item>
-    <item>
-      <title>PNAS: Network structure shapes consensus dynamics through individual decisions</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2520483123?af=R</link>
-      <guid isPermaLink="false">NPINS.008013</guid>
     </item>
   </channel>
 </rss>
