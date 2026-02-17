@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Feb 2026 14:59:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 15:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. Research: Reproducing the first and second moments of empirical degree distributions</title>
+      <link>http://link.aps.org/doi/10.1103/3vtj-5nlt</link>
+      <guid isPermaLink="false">NPINS.008126</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Accumulated local effects and graph neural networks for link prediction</title>
+      <link>https://www.nature.com/articles/s41598-026-39000-w</link>
+      <guid isPermaLink="false">NPINS.008125</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: How do probabilistic graphical models and graph neural networks look at network data?</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae3ec5</link>
+      <guid isPermaLink="false">NPINS.008124</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Coevolution modeling for network public opinion with bidirectional feedback mechanism</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000603</link>
+      <guid isPermaLink="false">NPINS.008123</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Decentralised bottleneck prioritisation strategy for traffic flow improvement</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-026-00617-6</link>
+      <guid isPermaLink="false">NPINS.008122</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: The network architecture of general intelligence in the human connectome</title>
+      <link>https://www.nature.com/articles/s41467-026-68698-5</link>
+      <guid isPermaLink="false">NPINS.008121</guid>
+    </item>
+    <item>
+      <title>Chaos: An exact moment-based approach for high-order chemical reaction–diffusion networks: From mass action to Hill functions</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023122/3379357/An-exact-moment-based-approach-for-high-order</link>
+      <guid isPermaLink="false">NPINS.008120</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Hyperedge overlap modulates synchronization transitions in higher-order Sakaguchi-Kuramoto model</title>
       <link>http://link.aps.org/doi/10.1103/29bm-j88x</link>
@@ -478,41 +513,6 @@
       <title>Appl. Math. Comput.: On 2-distance integral Cayley graphs</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325006186</link>
       <guid isPermaLink="false">NPINS.008027</guid>
-    </item>
-    <item>
-      <title>Chaos: Leader-driven social network reconstruction</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/013123/3377283/Leader-driven-social-network-reconstruction</link>
-      <guid isPermaLink="false">NPINS.008026</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Spectral properties of a non-Hermitian extension of the diluted Wishart ensemble</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae2fa6</link>
-      <guid isPermaLink="false">NPINS.008025</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Distinguishing pairwise and higher-order interactions in coupled oscillators from time series</title>
-      <link>https://www.nature.com/articles/s42005-025-02467-6</link>
-      <guid isPermaLink="false">NPINS.008024</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Bipartite structural evaluation: Extended network generation model and corrected randomization techniques</title>
-      <link>http://link.aps.org/doi/10.1103/7t51-c6tx</link>
-      <guid isPermaLink="false">NPINS.008023</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Long Induced Paths and Forbidden Patterns: Polylogarithmic Bounds</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1720366?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008022</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Realizations Through Weakly Reversible Networks and the Globally Attracting Locus</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1745027?af=R</link>
-      <guid isPermaLink="false">NPINS.008021</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Layered community-aware layout method for complex statute network visualization</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00615-0</link>
-      <guid isPermaLink="false">NPINS.008020</guid>
     </item>
   </channel>
 </rss>
