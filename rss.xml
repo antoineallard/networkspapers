@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 13:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 13:29:06 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Reservoir computing in simulated neuronal cultures: Effect of network structure</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023126/3380262/Reservoir-computing-in-simulated-neuronal-cultures</link>
+      <guid isPermaLink="false">NPINS.008133</guid>
+    </item>
+    <item>
+      <title>Chaos: Controlling extreme events in neuronal networks: A single driving signal approach</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023131/3380327/Controlling-extreme-events-in-neuronal-networks-A</link>
+      <guid isPermaLink="false">NPINS.008132</guid>
+    </item>
+    <item>
+      <title>Front. Mol. Biosci.: A network-driven computational framework for identifying FDA-approved drug repurposing across heterogeneous brain cancers</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2026.1768081</link>
+      <guid isPermaLink="false">NPINS.008131</guid>
+    </item>
+    <item>
+      <title>iScience: Pupillometry and brain-wide c-Fos mapping uncover multimodal mirror emotional contagion related networks of mice</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004226002026</link>
+      <guid isPermaLink="false">NPINS.008130</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Superstable geometry in triadic percolation</title>
+      <link>http://link.aps.org/doi/10.1103/b29t-62kv</link>
+      <guid isPermaLink="false">NPINS.008129</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Centrality and universality in scale-free networks</title>
+      <link>http://link.aps.org/doi/10.1103/tsmc-cnmz</link>
+      <guid isPermaLink="false">NPINS.008128</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: What is emergence, after all?</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgag010</link>
+      <guid isPermaLink="false">NPINS.008127</guid>
+    </item>
     <item>
       <title>Phys. Rev. Research: Reproducing the first and second moments of empirical degree distributions</title>
       <link>http://link.aps.org/doi/10.1103/3vtj-5nlt</link>
@@ -478,41 +513,6 @@
       <title>J. Phys. A: General theory of perturbation of infinite resistor networks</title>
       <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae3407</link>
       <guid isPermaLink="false">NPINS.008034</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Evolutionary dynamics of cooperation in two-layer lattice networks with a leader-follower hierarchy: integrating dominant strategy and time cost</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000032</link>
-      <guid isPermaLink="false">NPINS.008033</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Predicting synchronization and oscillation death with parallel reservoir computing</title>
-      <link>http://link.aps.org/doi/10.1103/9n6x-qkpv</link>
-      <guid isPermaLink="false">NPINS.008032</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Inferring structure and dynamics of multiplex networks from single-type observations</title>
-      <link>http://link.aps.org/doi/10.1103/vf68-5w5b</link>
-      <guid isPermaLink="false">NPINS.008031</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Collaborative likelihood-ratio estimation over graphs</title>
-      <link>http://jmlr.org/papers/v26/24-0565.html</link>
-      <guid isPermaLink="false">NPINS.008030</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Information filtering networks: theoretical foundations, generative algorithms, and real-world applications</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae28c3</link>
-      <guid isPermaLink="false">NPINS.008029</guid>
-    </item>
-    <item>
-      <title>J. R. Soc. Interface: First- and second-order social contact network structure in southern China</title>
-      <link>https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2025.0232?af=R</link>
-      <guid isPermaLink="false">NPINS.008028</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On 2-distance integral Cayley graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006186</link>
-      <guid isPermaLink="false">NPINS.008027</guid>
     </item>
   </channel>
 </rss>
