@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 19:39:20 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Master stability functions for torus and stable equilibrium attractors</title>
+      <link>http://link.aps.org/doi/10.1103/fh87-dntc</link>
+      <guid isPermaLink="false">NPINS.008140</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Nonmonotonic consensus transitions in bounded-confidence dynamics on unbiased networks</title>
+      <link>http://link.aps.org/doi/10.1103/y2kw-b7n5</link>
+      <guid isPermaLink="false">NPINS.008139</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: k-Independent Boolean Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1700600?af=R</link>
+      <guid isPermaLink="false">NPINS.008138</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Intrinsic resonance depends on network size for coupled-delayed interacting oscillators</title>
+      <link>http://link.aps.org/doi/10.1103/rnqc-y1kd</link>
+      <guid isPermaLink="false">NPINS.008137</guid>
+    </item>
+    <item>
+      <title>Chaos: Spectral-gradient iterative edge attack for synchronization suppression in complex networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023137/3380565/Spectral-gradient-iterative-edge-attack-for</link>
+      <guid isPermaLink="false">NPINS.008136</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Coevolution of information and epidemics in multiplex networks under risk-perception and higher-order interactions</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300325006617</link>
+      <guid isPermaLink="false">NPINS.008135</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Highly Connected Steiner Subgraph: Parameterized Algorithms and Applications to Hitting Set Problems</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/23M1614031?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008134</guid>
+    </item>
     <item>
       <title>Chaos: Reservoir computing in simulated neuronal cultures: Effect of network structure</title>
       <link>https://pubs.aip.org/aip/cha/article/36/2/023126/3380262/Reservoir-computing-in-simulated-neuronal-cultures</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Tracking control of complex dynamical networks via reservoir computing</title>
       <link>https://pubs.aip.org/aip/cha/article/36/1/013119/3377242/Tracking-control-of-complex-dynamical-networks-via</link>
       <guid isPermaLink="false">NPINS.008041</guid>
-    </item>
-    <item>
-      <title>Nat. Comput. Sci.: Discovering the laws behind complex networked systems</title>
-      <link>https://www.nature.com/articles/s43588-025-00929-z</link>
-      <guid isPermaLink="false">NPINS.008040</guid>
-    </item>
-    <item>
-      <title>Chaos: Source detection in epidemic dynamics on hypergraphs using a dynamic message passing algorithm</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/013121/3377237/Source-detection-in-epidemic-dynamics-on</link>
-      <guid isPermaLink="false">NPINS.008039</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Aging transition in a network of Wien-bridge oscillators</title>
-      <link>http://link.aps.org/doi/10.1103/vyc4-mzsh</link>
-      <guid isPermaLink="false">NPINS.008038</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Triadic percolation on multilayer networks</title>
-      <link>http://link.aps.org/doi/10.1103/yvtg-wnn4</link>
-      <guid isPermaLink="false">NPINS.008037</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Uncovering complementary information sharing in spider monkey collective foraging using higher-order spatial networks</title>
-      <link>https://www.nature.com/articles/s44260-025-00060-0</link>
-      <guid isPermaLink="false">NPINS.008036</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Flux-fluctuation relation for quantum walks on networks</title>
-      <link>http://link.aps.org/doi/10.1103/cg8k-t1rz</link>
-      <guid isPermaLink="false">NPINS.008035</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: General theory of perturbation of infinite resistor networks</title>
-      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae3407</link>
-      <guid isPermaLink="false">NPINS.008034</guid>
     </item>
   </channel>
 </rss>
