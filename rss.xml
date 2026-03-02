@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 15:18:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 15:20:04 +0000</lastBuildDate>
+    <item>
+      <title>Commun. Phys.: Information bounds production in replicator systems</title>
+      <link>https://www.nature.com/articles/s42005-026-02527-5</link>
+      <guid isPermaLink="false">NPINS.008154</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Equitability and explosive synchronisation in multiplex and higher-order networks</title>
+      <link>https://www.nature.com/articles/s42005-026-02543-5</link>
+      <guid isPermaLink="false">NPINS.008153</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Kuroshio Corridor: larval dispersal networks explain geographically independent connectivity among coral habitats in Japan</title>
+      <link>https://www.nature.com/articles/s41598-026-40448-z</link>
+      <guid isPermaLink="false">NPINS.008152</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Dynamic social network anomalous behavior detection based on spatiotemporal multi-view graph attention fusion network</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1786937</link>
+      <guid isPermaLink="false">NPINS.008151</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Transversal Numbers of Simplicial Polytopes, Spheres, and Pure Complexes</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1682361?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008150</guid>
+    </item>
+    <item>
+      <title>Chaos: Inference of the size of nonlinear network systems from perceptible dynamics</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023147/3381078/Inference-of-the-size-of-nonlinear-network-systems</link>
+      <guid isPermaLink="false">NPINS.008149</guid>
+    </item>
+    <item>
+      <title>Chaos: Synchronization ability of two-layer chain network: Directed vs undirected</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023138/3380801/Synchronization-ability-of-two-layer-chain-network</link>
+      <guid isPermaLink="false">NPINS.008148</guid>
+    </item>
     <item>
       <title>PLOS Comput. Biol.: Attractor dynamics of a whole-cortex network model predicts emergence and structure of fMRI co-activation patterns in the mouse brain</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013995</link>
@@ -478,41 +513,6 @@
       <title>PNAS Nexus: Mechanistic interplay between information spreading and opinion polarization</title>
       <link>http://doi.org/10.1093/pnasnexus/pgaf402</link>
       <guid isPermaLink="false">NPINS.008055</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Spatiotemporal prediction of water quality and ecological risk assessment in a river basin using T-GCN based on river network topology constraints</title>
-      <link>https://www.nature.com/articles/s41598-025-34722-9</link>
-      <guid isPermaLink="false">NPINS.008054</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Quantifying the irregularity of a time series</title>
-      <link>http://link.aps.org/doi/10.1103/3vzd-7kg2</link>
-      <guid isPermaLink="false">NPINS.008053</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Modelling and improving approach for carrying capacity in multi-modal super network by considering travel time</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339039</link>
-      <guid isPermaLink="false">NPINS.008052</guid>
-    </item>
-    <item>
-      <title>PNAS: Promoters of cooperation in evolutionary games</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2524109122?af=R</link>
-      <guid isPermaLink="false">NPINS.008051</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Understanding the mechanisms of infodemics: Equation-based vs. agent-based models</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338614</link>
-      <guid isPermaLink="false">NPINS.008050</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Graph entropy, degree assortativity, and hierarchical structures in networks</title>
-      <link>http://link.aps.org/doi/10.1103/6kxf-qn44</link>
-      <guid isPermaLink="false">NPINS.008049</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Exponential random graph-based eXplainable Artificial Intelligence for Alzheimer disease</title>
-      <link>http://link.aps.org/doi/10.1103/dkn2-9b2t</link>
-      <guid isPermaLink="false">NPINS.008048</guid>
     </item>
   </channel>
 </rss>
