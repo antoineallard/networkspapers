@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 20:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 20:09:17 +0000</lastBuildDate>
+    <item>
+      <title>J. Mach. Learn. Res.: Transformers Can Overcome the Curse of Dimensionality: A Theoretical Study from an Approximation Perspective</title>
+      <link>http://jmlr.org/papers/v27/25-1214.html</link>
+      <guid isPermaLink="false">NPINS.008161</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Unveiling individual and collective temporal patterns in the tanker shipping network</title>
+      <link>https://www.nature.com/articles/s41467-026-70013-1</link>
+      <guid isPermaLink="false">NPINS.008160</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Inverse problems for dynamic patterns in coupled oscillator networks: when larger networks are simpler</title>
+      <link>https://www.nature.com/articles/s41467-026-70016-y</link>
+      <guid isPermaLink="false">NPINS.008159</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Predicting the mechanical properties of spring networks</title>
+      <link>http://link.aps.org/doi/10.1103/17sg-gzhl</link>
+      <guid isPermaLink="false">NPINS.008158</guid>
+    </item>
+    <item>
+      <title>PNAS Nexus: Efficient planning and implementation of optimal foraging strategies under energetic constraints</title>
+      <link>http://doi.org/10.1093/pnasnexus/pgag009</link>
+      <guid isPermaLink="false">NPINS.008157</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: On Off-Diagonal F-Ramsey Numbers</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1783679?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008156</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Spatiotemporal dynamics of human mobility after lifting of COVID-19 control measures in China: evidence from Nanjing City’s Spring Festival</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-026-00622-9</link>
+      <guid isPermaLink="false">NPINS.008155</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Information bounds production in replicator systems</title>
       <link>https://www.nature.com/articles/s42005-026-02527-5</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Higher-order interactions enhance stochastic resonance in coupled oscillators</title>
       <link>http://link.aps.org/doi/10.1103/1dnk-6499</link>
       <guid isPermaLink="false">NPINS.008062</guid>
-    </item>
-    <item>
-      <title>SIAM J. Appl. Dyn. Syst.: Identifiability of Directed-Cycle and Catenary Linear Compartmental Models</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1728636?af=R</link>
-      <guid isPermaLink="false">NPINS.008061</guid>
-    </item>
-    <item>
-      <title>Nature: Surface optimization governs the local design of physical networks</title>
-      <link>https://www.nature.com/articles/s41586-025-09784-4</link>
-      <guid isPermaLink="false">NPINS.008060</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Spectral densities approximations of incidence-based locally treelike hypergraph matrices via the cavity method</title>
-      <link>http://link.aps.org/doi/10.1103/g997-gp7j</link>
-      <guid isPermaLink="false">NPINS.008059</guid>
-    </item>
-    <item>
-      <title>iScience: Reinforcement learning in densely recurrent biological networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004225026975</link>
-      <guid isPermaLink="false">NPINS.008058</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Influence problems on a content-spreading model and graph machine learning</title>
-      <link>http://link.aps.org/doi/10.1103/2cnl-b6wl</link>
-      <guid isPermaLink="false">NPINS.008057</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Inference in spreading processes with neural-network priors</title>
-      <link>http://link.aps.org/doi/10.1103/8mww-brdk</link>
-      <guid isPermaLink="false">NPINS.008056</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Mechanistic interplay between information spreading and opinion polarization</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgaf402</link>
-      <guid isPermaLink="false">NPINS.008055</guid>
     </item>
   </channel>
 </rss>
