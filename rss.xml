@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 14:22:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 15:58:23 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Rep.: Quantum-augmented graph differential geometry enhances accuracy in protein-protein interaction prediction</title>
+      <link>https://www.nature.com/articles/s41598-026-41325-5</link>
+      <guid isPermaLink="false">NPINS.008168</guid>
+    </item>
+    <item>
+      <title>Chaos: Congestion and extreme events in urban street networks</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/2/023134/3380493/Congestion-and-extreme-events-in-urban-street</link>
+      <guid isPermaLink="false">NPINS.008167</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Susceptibility for extremely low external fluctuations and critical behavior of Greenberg-Hastings neuronal model</title>
+      <link>http://link.aps.org/doi/10.1103/5l8g-w4cq</link>
+      <guid isPermaLink="false">NPINS.008166</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Networked philanthropy during COVID-19: A case study of community brokerage in Hong Kong</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S037887332600016X</link>
+      <guid isPermaLink="false">NPINS.008165</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Belief propagation for finite networks using a symmetry-breaking source node</title>
+      <link>http://link.aps.org/doi/10.1103/pgxg-mhjr</link>
+      <guid isPermaLink="false">NPINS.008164</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: $Q$-learning-based community detection algorithm</title>
+      <link>http://link.aps.org/doi/10.1103/kdcq-qfww</link>
+      <guid isPermaLink="false">NPINS.008163</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Critical node identification and resilience analysis against cascading failures</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344005</link>
+      <guid isPermaLink="false">NPINS.008162</guid>
+    </item>
     <item>
       <title>J. Mach. Learn. Res.: Transformers Can Overcome the Curse of Dimensionality: A Theoretical Study from an Approximation Perspective</title>
       <link>http://jmlr.org/papers/v27/25-1214.html</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. Research: Noise-induced maximization of integrated information in FitzHugh-Nagumo networks</title>
       <link>http://link.aps.org/doi/10.1103/dftc-vzvv</link>
       <guid isPermaLink="false">NPINS.008069</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Measuring and evolution analyzing of the reliability in urban public transport composite network</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340590</link>
-      <guid isPermaLink="false">NPINS.008068</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Far-reaching hunter-gatherer networks during the Last Glacial Maximum in Western Europe</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adz7697</link>
-      <guid isPermaLink="false">NPINS.008067</guid>
-    </item>
-    <item>
-      <title>Chaos: Climate network reveals cross-seasonal teleconnections between heatwaves and cold waves</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/011103/3378289/Climate-network-reveals-cross-seasonal</link>
-      <guid isPermaLink="false">NPINS.008066</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Promoting cooperation in the public goods game using artificial intelligent agents</title>
-      <link>https://www.nature.com/articles/s44260-025-00065-9</link>
-      <guid isPermaLink="false">NPINS.008065</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Designing topological cluster synchronization patterns with the Dirac operator</title>
-      <link>http://link.aps.org/doi/10.1103/v65b-3jx7</link>
-      <guid isPermaLink="false">NPINS.008064</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: On complex network techniques for atmospheric flow analysis: a polar vortex case study</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae20e9</link>
-      <guid isPermaLink="false">NPINS.008063</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Higher-order interactions enhance stochastic resonance in coupled oscillators</title>
-      <link>http://link.aps.org/doi/10.1103/1dnk-6499</link>
-      <guid isPermaLink="false">NPINS.008062</guid>
     </item>
   </channel>
 </rss>
