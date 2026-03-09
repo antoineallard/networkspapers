@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 13:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:51:39 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Symmetry prior based reconstruction of higher-order networks from time-series data</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033103/3381921/Symmetry-prior-based-reconstruction-of-higher</link>
+      <guid isPermaLink="false">NPINS.008182</guid>
+    </item>
+    <item>
+      <title>Chaos: Distinct roles of AMPA, NMDA, and GABA kinetics in shaping macroscopic cortical dynamics</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033116/3382466/Distinct-roles-of-AMPA-NMDA-and-GABA-kinetics-in</link>
+      <guid isPermaLink="false">NPINS.008181</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Modeling roles and trade-offs in multiplex networks</title>
+      <link>https://www.nature.com/articles/s41467-026-68896-1</link>
+      <guid isPermaLink="false">NPINS.008180</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: A simple preference aggregation rule explains how multidimensional identities shape social networks</title>
+      <link>https://www.nature.com/articles/s42005-026-02537-3</link>
+      <guid isPermaLink="false">NPINS.008179</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Role of chloride concentration in modulating seizure transitions in excitatory and inhibitory networks</title>
+      <link>http://link.aps.org/doi/10.1103/x6qv-lzdg</link>
+      <guid isPermaLink="false">NPINS.008178</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Unifying non-Markovian dynamics and agent heterogeneity in scalable stochastic networks</title>
+      <link>https://www.nature.com/articles/s41467-026-69817-y</link>
+      <guid isPermaLink="false">NPINS.008177</guid>
+    </item>
+    <item>
+      <title>Nat. Commun.: Rumor propagation on hypergraphs</title>
+      <link>https://www.nature.com/articles/s41467-026-70096-w</link>
+      <guid isPermaLink="false">NPINS.008176</guid>
+    </item>
     <item>
       <title>Commun. Phys.: Synchronization transitions and spike dynamics in a higher-order Kuramoto model with Lévy noise</title>
       <link>https://www.nature.com/articles/s42005-026-02560-4</link>
@@ -478,41 +513,6 @@
       <title>npj Complex.: Habit learning is associated with efficiently controlled network dynamics in naive macaque monkeys</title>
       <link>https://www.nature.com/articles/s44260-025-00066-8</link>
       <guid isPermaLink="false">NPINS.008083</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Mind the gap: revealing sidewalk networks at scale</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae35b9</link>
-      <guid isPermaLink="false">NPINS.008082</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Shortest-path percolation on scale-free networks</title>
-      <link>http://link.aps.org/doi/10.1103/pk8t-px35</link>
-      <guid isPermaLink="false">NPINS.008081</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Network localization governs social contagion dynamics with macro-level reinforcement</title>
-      <link>http://link.aps.org/doi/10.1103/tdz7-r22b</link>
-      <guid isPermaLink="false">NPINS.008080</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Bifurcation patterns of a discrete prey–predator model subject to slow–fast effect, Allee effect, and complex network</title>
-      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae373e</link>
-      <guid isPermaLink="false">NPINS.008079</guid>
-    </item>
-    <item>
-      <title>Chaos: Opinion dynamics on higher-order networks with stubbornness and trust</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023106/3378433/Opinion-dynamics-on-higher-order-networks-with</link>
-      <guid isPermaLink="false">NPINS.008078</guid>
-    </item>
-    <item>
-      <title>Chaos: Rumor source localization in social networks based on the propagation direction of observers</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/013145/3378224/Rumor-source-localization-in-social-networks-based</link>
-      <guid isPermaLink="false">NPINS.008077</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Analytical characterization of sloppiness in neural networks: Insights from linear models</title>
-      <link>http://link.aps.org/doi/10.1103/fs4g-9nsz</link>
-      <guid isPermaLink="false">NPINS.008076</guid>
     </item>
   </channel>
 </rss>
