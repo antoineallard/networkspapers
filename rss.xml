@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 12:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 12:57:51 +0000</lastBuildDate>
+    <item>
+      <title>J. Stat. Mech.: A systematic evaluation of simple threshold-based Boolean rules for modeling gene regulatory networks</title>
+      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae4588</link>
+      <guid isPermaLink="false">NPINS.008189</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Robustness and size dependence of circadian rhythms in multiscale suprachiasmatic-nucleus networks</title>
+      <link>http://link.aps.org/doi/10.1103/vksl-tljx</link>
+      <guid isPermaLink="false">NPINS.008188</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Dissipative quantum dynamics in static networks with different topologies</title>
+      <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae441d</link>
+      <guid isPermaLink="false">NPINS.008187</guid>
+    </item>
+    <item>
+      <title>PNAS: Network-based genetic monitoring of landscape fragmentation</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2515033123?af=R</link>
+      <guid isPermaLink="false">NPINS.008186</guid>
+    </item>
+    <item>
+      <title>PNAS: The way of life: The network challenge of blood flow in the brain</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2537961123?af=R</link>
+      <guid isPermaLink="false">NPINS.008185</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Synchronization of Dirac–Bianconi driven oscillators</title>
+      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae442f</link>
+      <guid isPermaLink="false">NPINS.008184</guid>
+    </item>
+    <item>
+      <title>Phys. Rep.: Evolution of methods for assessing fMRI-based functional networks: From classical pairwise connectivity to higher-order interactions</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0370157326000748?dgcid=rss_sd_all</link>
+      <guid isPermaLink="false">NPINS.008183</guid>
+    </item>
     <item>
       <title>Chaos: Symmetry prior based reconstruction of higher-order networks from time-series data</title>
       <link>https://pubs.aip.org/aip/cha/article/36/3/033103/3381921/Symmetry-prior-based-reconstruction-of-higher</link>
@@ -478,41 +513,6 @@
       <title>Chaos: The promoting effect of reward on the evolution of cooperation in a dynamic network</title>
       <link>https://pubs.aip.org/aip/cha/article/36/2/023114/3378521/The-promoting-effect-of-reward-on-the-evolution-of</link>
       <guid isPermaLink="false">NPINS.008090</guid>
-    </item>
-    <item>
-      <title>Chaos: Post-disaster resource redistribution and cooperation evolution based on two-layer network evolutionary games</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023107/3378444/Post-disaster-resource-redistribution-and</link>
-      <guid isPermaLink="false">NPINS.008089</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Performances and correlations of centrality measures in complex networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S009630032600024X</link>
-      <guid isPermaLink="false">NPINS.008088</guid>
-    </item>
-    <item>
-      <title>Chaos: Controlling reciprocity in binary and weighted networks: A novel density-conserving approach</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023116/3378596/Controlling-reciprocity-in-binary-and-weighted</link>
-      <guid isPermaLink="false">NPINS.008087</guid>
-    </item>
-    <item>
-      <title>J. Phys. Complex.: Mapping memory-biased dynamics with compact models reveals overlapping communities in large networks</title>
-      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae35bb</link>
-      <guid isPermaLink="false">NPINS.008086</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Detectability threshold in weighted modular networks</title>
-      <link>http://link.aps.org/doi/10.1103/bt2h-b7kb</link>
-      <guid isPermaLink="false">NPINS.008085</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Replicating hypergraph disease dynamics with lower-order interactions</title>
-      <link>http://link.aps.org/doi/10.1103/6whh-kvk7</link>
-      <guid isPermaLink="false">NPINS.008084</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Habit learning is associated with efficiently controlled network dynamics in naive macaque monkeys</title>
-      <link>https://www.nature.com/articles/s44260-025-00066-8</link>
-      <guid isPermaLink="false">NPINS.008083</guid>
     </item>
   </channel>
 </rss>
