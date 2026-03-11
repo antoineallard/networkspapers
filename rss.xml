@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 13:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:20:41 +0000</lastBuildDate>
+    <item>
+      <title>New J. Phys.: Bridge-module-induced unihemispheric-sleep-like oscillations on connected excitable complex networks</title>
+      <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae4c01</link>
+      <guid isPermaLink="false">NPINS.008196</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Dynamic event-triggered output feedback pinning asynchronous control for switched complex network</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000792</link>
+      <guid isPermaLink="false">NPINS.008195</guid>
+    </item>
+    <item>
+      <title>PNAS: Connected network model for the mechanical loss of amorphous materials</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2513161123?af=R</link>
+      <guid isPermaLink="false">NPINS.008194</guid>
+    </item>
+    <item>
+      <title>Chaos: A mathematical framework for misinformation propagation in complex networks: Topology-dependent distortion and control</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033113/3382210/A-mathematical-framework-for-misinformation</link>
+      <guid isPermaLink="false">NPINS.008193</guid>
+    </item>
+    <item>
+      <title>iScience: SC-MO-GRN-DB: A comprehensive repository for single-cell multiomic gene regulatory networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S258900422600698X</link>
+      <guid isPermaLink="false">NPINS.008192</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Burst firing creates an attractor in synaptic weight dynamics</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014001</link>
+      <guid isPermaLink="false">NPINS.008191</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: A novel framework for outlier detection in financial markets: a complex network approach with visibility graphs</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1704185</link>
+      <guid isPermaLink="false">NPINS.008190</guid>
+    </item>
     <item>
       <title>J. Stat. Mech.: A systematic evaluation of simple threshold-based Boolean rules for modeling gene regulatory networks</title>
       <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae4588</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Macroscopic dynamics of quadratic integrate-and-fire neurons subject to correlated noise</title>
       <link>http://link.aps.org/doi/10.1103/dx7m-fpch</link>
       <guid isPermaLink="false">NPINS.008097</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Independent Set Reconfiguration on Directed Graphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1552644?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008096</guid>
-    </item>
-    <item>
-      <title>Chaos: Growing order-heterogeneous simplicial complexes</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/013143/3378113/Growing-order-heterogeneous-simplicial-complexes</link>
-      <guid isPermaLink="false">NPINS.008095</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Who benefits most? Intervention-induced changes in the social networks of people living with dementia</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000122</link>
-      <guid isPermaLink="false">NPINS.008094</guid>
-    </item>
-    <item>
-      <title>Chaos: Heterogeneity enhances dynamic survivability of coupled oscillators</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/013135/3377855/Heterogeneity-enhances-dynamic-survivability-of</link>
-      <guid isPermaLink="false">NPINS.008093</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Investigating the impacts of missing data mechanims and treatments with latent space models</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000080</link>
-      <guid isPermaLink="false">NPINS.008092</guid>
-    </item>
-    <item>
-      <title>PNAS: Functional motifs in food webs and networks</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2521927123?af=R</link>
-      <guid isPermaLink="false">NPINS.008091</guid>
-    </item>
-    <item>
-      <title>Chaos: The promoting effect of reward on the evolution of cooperation in a dynamic network</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023114/3378521/The-promoting-effect-of-reward-on-the-evolution-of</link>
-      <guid isPermaLink="false">NPINS.008090</guid>
     </item>
   </channel>
 </rss>
