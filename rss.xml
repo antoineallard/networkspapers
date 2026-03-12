@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 13:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:19:52 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: Networked evolutionary game analysis of low-carbon technology diffusion</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1753750</link>
+      <guid isPermaLink="false">NPINS.008203</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Diffusion on Vicsek fractals: Efficiency and the Wiener index</title>
+      <link>http://link.aps.org/doi/10.1103/b4qh-92kf</link>
+      <guid isPermaLink="false">NPINS.008202</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Computing the effects of excitatory-inhibitory balance on neuronal input-output properties</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013958</link>
+      <guid isPermaLink="false">NPINS.008201</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Controlling noisy herds: Temporal network restructuring improves control of indecisive collectives</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adx6791</link>
+      <guid isPermaLink="false">NPINS.008200</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Identification of time points for LNG throughput: a complex network approach</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1697310</link>
+      <guid isPermaLink="false">NPINS.008199</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Modeling the coupled propagation of emotion, information, and disease considering emotional atmosphere in multi-layer networks</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1774969</link>
+      <guid isPermaLink="false">NPINS.008198</guid>
+    </item>
+    <item>
+      <title>Chaos: Dynamics of infectious disease transmission in heterogeneous networks considering population interaction mechanism</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033118/3382682/Dynamics-of-infectious-disease-transmission-in</link>
+      <guid isPermaLink="false">NPINS.008197</guid>
+    </item>
     <item>
       <title>New J. Phys.: Bridge-module-induced unihemispheric-sleep-like oscillations on connected excitable complex networks</title>
       <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae4c01</link>
@@ -478,41 +513,6 @@
       <title>iScience: Disrupted gut microbiome networks and unhealthy behaviors predict metabolic dysfunction in children and adolescents in the long term</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2589004226001380</link>
       <guid isPermaLink="false">NPINS.008104</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Multiplexity is temporal: effect of social times on network structure</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00613-2</link>
-      <guid isPermaLink="false">NPINS.008103</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Two-mode network autoregressive model for network analysis with core nodes</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000109</link>
-      <guid isPermaLink="false">NPINS.008102</guid>
-    </item>
-    <item>
-      <title>EPJ Data Sci.: Frame-attentive dynamic link prediction: uncovering narrative resonance in social networks with large language model</title>
-      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00604-3</link>
-      <guid isPermaLink="false">NPINS.008101</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: The equitable chromatic number of circulant graphs with maximum degree at most 4</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000147</link>
-      <guid isPermaLink="false">NPINS.008100</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Environmental and economic benefits of UHPFRC intervention in bridge management for the Swiss network</title>
-      <link>https://www.nature.com/articles/s41467-026-69103-x</link>
-      <guid isPermaLink="false">NPINS.008099</guid>
-    </item>
-    <item>
-      <title>Chaos: Introduction to focus issue: Intelligent game on networked systems: Optimization, evolution and control</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/1/010402/3377335/Introduction-to-focus-issue-Intelligent-game-on</link>
-      <guid isPermaLink="false">NPINS.008098</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Macroscopic dynamics of quadratic integrate-and-fire neurons subject to correlated noise</title>
-      <link>http://link.aps.org/doi/10.1103/dx7m-fpch</link>
-      <guid isPermaLink="false">NPINS.008097</guid>
     </item>
   </channel>
 </rss>
