@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 21:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 21:03:02 +0000</lastBuildDate>
+    <item>
+      <title>Front. Phys.: A physics-inspired elastic deformation model for quantifying urban network resilience: resistance and recovery in the Yangtze River Delta</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1795522</link>
+      <guid isPermaLink="false">NPINS.008220</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Entraining chimeras: The effect of driving with regular, irregular, and real-world phases</title>
+      <link>http://link.aps.org/doi/10.1103/vczh-r59d</link>
+      <guid isPermaLink="false">NPINS.008219</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Scale invariance and statistical significance in complex weighted networks</title>
+      <link>http://link.aps.org/doi/10.1103/4124-dyj8</link>
+      <guid isPermaLink="false">NPINS.008218</guid>
+    </item>
+    <item>
+      <title>Chaos: Adaptive conformity promotes cooperation within structured populations</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033122/3383200/Adaptive-conformity-promotes-cooperation-within</link>
+      <guid isPermaLink="false">NPINS.008217</guid>
+    </item>
+    <item>
+      <title>J. Mach. Learn. Res.: Neural Network Parameter-optimization of Gaussian Pre-marginalized Directed Acyclic Graphs</title>
+      <link>http://jmlr.org/papers/v27/23-1249.html</link>
+      <guid isPermaLink="false">NPINS.008216</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: MIF-based event-triggered schemes for synchronization control of coupling complex dynamic networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000950</link>
+      <guid isPermaLink="false">NPINS.008215</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Effects of similarity networks in graph-based multi-omics classification</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344754</link>
+      <guid isPermaLink="false">NPINS.008214</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Modeling tariff-induced network failure and hysteresis</title>
       <link>http://link.aps.org/doi/10.1103/mb29-9h8m</link>
@@ -478,41 +513,6 @@
       <title>Nat. Commun.: The network architecture of general intelligence in the human connectome</title>
       <link>https://www.nature.com/articles/s41467-026-68698-5</link>
       <guid isPermaLink="false">NPINS.008121</guid>
-    </item>
-    <item>
-      <title>Chaos: An exact moment-based approach for high-order chemical reaction–diffusion networks: From mass action to Hill functions</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023122/3379357/An-exact-moment-based-approach-for-high-order</link>
-      <guid isPermaLink="false">NPINS.008120</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Hyperedge overlap modulates synchronization transitions in higher-order Sakaguchi-Kuramoto model</title>
-      <link>http://link.aps.org/doi/10.1103/29bm-j88x</link>
-      <guid isPermaLink="false">NPINS.008119</guid>
-    </item>
-    <item>
-      <title>npj Complex.: The case against efficiency: friction in social media</title>
-      <link>https://www.nature.com/articles/s44260-025-00061-z</link>
-      <guid isPermaLink="false">NPINS.008118</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: From survey data to social multiplex models: Incorporating interlayer correlation from multiple data sources</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000110</link>
-      <guid isPermaLink="false">NPINS.008117</guid>
-    </item>
-    <item>
-      <title>Nat. Rev. Phys.: Collective dynamics on higher-order networks</title>
-      <link>https://www.nature.com/articles/s42254-025-00916-3</link>
-      <guid isPermaLink="false">NPINS.008116</guid>
-    </item>
-    <item>
-      <title>EPL: Permutation entropy and statistical complexity in graph-based representations across world languages</title>
-      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae397f</link>
-      <guid isPermaLink="false">NPINS.008115</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Closing the loop: Design, implementation, and evaluation of a regular-feedback network intervention for social connectedness and mental health</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000146</link>
-      <guid isPermaLink="false">NPINS.008114</guid>
     </item>
   </channel>
 </rss>
