@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 13:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 13:56:36 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: On independent domination and packing numbers of subcubic graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001001</link>
+      <guid isPermaLink="false">NPINS.008234</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Intersections of Graphs and Chi-Boundedness</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1751967?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008233</guid>
+    </item>
+    <item>
+      <title>EPL: Kink-antikink soliton solutions of the nonlinear Klein-Gordon equation on branched structures</title>
+      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae4e56</link>
+      <guid isPermaLink="false">NPINS.008232</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: A social network analysis of fraud prediction on crowdsourcing platforms</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343412</link>
+      <guid isPermaLink="false">NPINS.008231</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Direct causality measures unravel complex networks of cardiovascular dynamics and their modifications with postural stress</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014075</link>
+      <guid isPermaLink="false">NPINS.008230</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Discontinuous transition in explosive percolation via local suppression</title>
+      <link>http://link.aps.org/doi/10.1103/lbyt-jntd</link>
+      <guid isPermaLink="false">NPINS.008229</guid>
+    </item>
+    <item>
+      <title>Chaos: An analysis framework for Turing instability on multigraph networks from the perspective of optimization</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033136/3384338/An-analysis-framework-for-Turing-instability-on</link>
+      <guid isPermaLink="false">NPINS.008228</guid>
+    </item>
     <item>
       <title>Chaos: Neural network approach to phase transitions in clique percolation</title>
       <link>https://pubs.aip.org/aip/cha/article/36/3/033133/3383713/Neural-network-approach-to-phase-transitions-in</link>
@@ -478,41 +513,6 @@
       <title>Appl. Math. Comput.: Coevolution of information and epidemics in multiplex networks under risk-perception and higher-order interactions</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300325006617</link>
       <guid isPermaLink="false">NPINS.008135</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Highly Connected Steiner Subgraph: Parameterized Algorithms and Applications to Hitting Set Problems</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/23M1614031?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008134</guid>
-    </item>
-    <item>
-      <title>Chaos: Reservoir computing in simulated neuronal cultures: Effect of network structure</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023126/3380262/Reservoir-computing-in-simulated-neuronal-cultures</link>
-      <guid isPermaLink="false">NPINS.008133</guid>
-    </item>
-    <item>
-      <title>Chaos: Controlling extreme events in neuronal networks: A single driving signal approach</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023131/3380327/Controlling-extreme-events-in-neuronal-networks-A</link>
-      <guid isPermaLink="false">NPINS.008132</guid>
-    </item>
-    <item>
-      <title>Front. Mol. Biosci.: A network-driven computational framework for identifying FDA-approved drug repurposing across heterogeneous brain cancers</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmolb.2026.1768081</link>
-      <guid isPermaLink="false">NPINS.008131</guid>
-    </item>
-    <item>
-      <title>iScience: Pupillometry and brain-wide c-Fos mapping uncover multimodal mirror emotional contagion related networks of mice</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004226002026</link>
-      <guid isPermaLink="false">NPINS.008130</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Superstable geometry in triadic percolation</title>
-      <link>http://link.aps.org/doi/10.1103/b29t-62kv</link>
-      <guid isPermaLink="false">NPINS.008129</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Centrality and universality in scale-free networks</title>
-      <link>http://link.aps.org/doi/10.1103/tsmc-cnmz</link>
-      <guid isPermaLink="false">NPINS.008128</guid>
     </item>
   </channel>
 </rss>
