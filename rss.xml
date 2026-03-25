@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 13:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 13:44:40 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Synchronization and extreme events in multiplex FitzHugh–Nagumo networks under heterogeneous noise</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033144/3384653/Synchronization-and-extreme-events-in-multiplex</link>
+      <guid isPermaLink="false">NPINS.008246</guid>
+    </item>
+    <item>
+      <title>PNAS: Hierarchical whole-brain modeling of critical synchronization dynamics in the human brain</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2505768123?af=R</link>
+      <guid isPermaLink="false">NPINS.008245</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Research: Virality detection and control strategies in rumor models</title>
+      <link>http://link.aps.org/doi/10.1103/2bh8-p6rx</link>
+      <guid isPermaLink="false">NPINS.008244</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Insights on structure and influence from the adjacency and Laplacian eigenspectra of intersecting ring networks</title>
+      <link>http://link.aps.org/doi/10.1103/4595-wyvd</link>
+      <guid isPermaLink="false">NPINS.008243</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Analysis of the spatio-temporal evolution of iron ore trade from a geopolitical perspective: A complex network model</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345177</link>
+      <guid isPermaLink="false">NPINS.008242</guid>
+    </item>
+    <item>
+      <title>J. Phys. A: Characterizing cancer chromosome aberration pathways using multigraphs</title>
+      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae4d8f</link>
+      <guid isPermaLink="false">NPINS.008241</guid>
+    </item>
+    <item>
+      <title>PNAS: On the optimal integration of intelligent agents into network systems to steer cooperation</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2537939123?af=R</link>
+      <guid isPermaLink="false">NPINS.008240</guid>
+    </item>
     <item>
       <title>Sci. Rep.: Preferential path attachment model for quantum key distribution networks</title>
       <link>https://www.nature.com/articles/s41598-026-43414-x</link>
@@ -478,41 +513,6 @@
       <title>PLOS Comput. Biol.: Attractor dynamics of a whole-cortex network model predicts emergence and structure of fMRI co-activation patterns in the mouse brain</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013995</link>
       <guid isPermaLink="false">NPINS.008147</guid>
-    </item>
-    <item>
-      <title>EPL: Contagion mean-field model for transport in urban traffic networks</title>
-      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae3cb8</link>
-      <guid isPermaLink="false">NPINS.008146</guid>
-    </item>
-    <item>
-      <title>Chaos: Predicting ENSO dynamics with network and complexity analyses</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023139/3380793/Predicting-ENSO-dynamics-with-network-and</link>
-      <guid isPermaLink="false">NPINS.008145</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Comprehensive &lt;i&gt;in silico&lt;/i&gt; analysis of genetic landscape and pathways involved in Stickler syndrome</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343405</link>
-      <guid isPermaLink="false">NPINS.008144</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Lett.: Macroscopic Fluctuation-Response Theory and Its Use for Gene Regulatory Networks</title>
-      <link>http://link.aps.org/doi/10.1103/2b12-3vrx</link>
-      <guid isPermaLink="false">NPINS.008143</guid>
-    </item>
-    <item>
-      <title>Chaos: How to enhance adaptive synchronization capability via higher-order network structures?</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023135/3380534/How-to-enhance-adaptive-synchronization-capability</link>
-      <guid isPermaLink="false">NPINS.008142</guid>
-    </item>
-    <item>
-      <title>PNAS: Strategy evolution on temporal hypergraphs</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2516380123?af=R</link>
-      <guid isPermaLink="false">NPINS.008141</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Master stability functions for torus and stable equilibrium attractors</title>
-      <link>http://link.aps.org/doi/10.1103/fh87-dntc</link>
-      <guid isPermaLink="false">NPINS.008140</guid>
     </item>
   </channel>
 </rss>
