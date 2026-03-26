@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 13:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 13:29:47 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Planar graphs that exclude {4, 5, 7, 8}-cycles and intersecting triangles are DP-3-colorable</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001104</link>
+      <guid isPermaLink="false">NPINS.008253</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: A note on Sullivan’s conjecture for oriented split graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000858</link>
+      <guid isPermaLink="false">NPINS.008252</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Predicting scientific breakthroughs through capacity-based dynamics in citation networks</title>
+      <link>http://link.aps.org/doi/10.1103/7bs5-8ql3</link>
+      <guid isPermaLink="false">NPINS.008251</guid>
+    </item>
+    <item>
+      <title>Front. Phys.: Hyper-S2IR: a model for characterizing higher-order interactions and dynamics in public opinion dissemination</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1782845</link>
+      <guid isPermaLink="false">NPINS.008250</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Sparsity-induced resonance in complex networks</title>
+      <link>http://link.aps.org/doi/10.1103/f14l-5ls7</link>
+      <guid isPermaLink="false">NPINS.008249</guid>
+    </item>
+    <item>
+      <title>Chaos: The impact of dynamic hyperedge activation mechanism on the evolution of cooperation on hypergraphs</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033146/3384762/The-impact-of-dynamic-hyperedge-activation</link>
+      <guid isPermaLink="false">NPINS.008248</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Algorithmic reconstruction of trophic networks from open-access species lists reveals key organisms in real ecosystems</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014061</link>
+      <guid isPermaLink="false">NPINS.008247</guid>
+    </item>
     <item>
       <title>Chaos: Synchronization and extreme events in multiplex FitzHugh–Nagumo networks under heterogeneous noise</title>
       <link>https://pubs.aip.org/aip/cha/article/36/3/033144/3384653/Synchronization-and-extreme-events-in-multiplex</link>
@@ -478,41 +513,6 @@
       <title>Commun. Phys.: Information bounds production in replicator systems</title>
       <link>https://www.nature.com/articles/s42005-026-02527-5</link>
       <guid isPermaLink="false">NPINS.008154</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Equitability and explosive synchronisation in multiplex and higher-order networks</title>
-      <link>https://www.nature.com/articles/s42005-026-02543-5</link>
-      <guid isPermaLink="false">NPINS.008153</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Kuroshio Corridor: larval dispersal networks explain geographically independent connectivity among coral habitats in Japan</title>
-      <link>https://www.nature.com/articles/s41598-026-40448-z</link>
-      <guid isPermaLink="false">NPINS.008152</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Dynamic social network anomalous behavior detection based on spatiotemporal multi-view graph attention fusion network</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1786937</link>
-      <guid isPermaLink="false">NPINS.008151</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Transversal Numbers of Simplicial Polytopes, Spheres, and Pure Complexes</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1682361?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008150</guid>
-    </item>
-    <item>
-      <title>Chaos: Inference of the size of nonlinear network systems from perceptible dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023147/3381078/Inference-of-the-size-of-nonlinear-network-systems</link>
-      <guid isPermaLink="false">NPINS.008149</guid>
-    </item>
-    <item>
-      <title>Chaos: Synchronization ability of two-layer chain network: Directed vs undirected</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/2/023138/3380801/Synchronization-ability-of-two-layer-chain-network</link>
-      <guid isPermaLink="false">NPINS.008148</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Attractor dynamics of a whole-cortex network model predicts emergence and structure of fMRI co-activation patterns in the mouse brain</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013995</link>
-      <guid isPermaLink="false">NPINS.008147</guid>
     </item>
   </channel>
 </rss>
