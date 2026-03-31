@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 15:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:13:59 +0000</lastBuildDate>
+    <item>
+      <title>PLOS ONE: Sparse-selective quantization for real-time cyber threat detection in large-scale networks</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345758</link>
+      <guid isPermaLink="false">NPINS.008272</guid>
+    </item>
+    <item>
+      <title>PNAS: Powers of magnetic graph matrix: Fourier spectrum, walk compression, and applications</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2516664123?af=R</link>
+      <guid isPermaLink="false">NPINS.008271</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Instability modes in network-organized system with delay</title>
+      <link>http://link.aps.org/doi/10.1103/nj8h-fkgc</link>
+      <guid isPermaLink="false">NPINS.008270</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: What accompanies companionship? Reassessing personal networks and loneliness among young and older adults</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000195</link>
+      <guid isPermaLink="false">NPINS.008269</guid>
+    </item>
+    <item>
+      <title>iScience: Mechanism-based prediction of drug synergy via network controllability analysis of therapeutic pathways in intractable diseases</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004226007145</link>
+      <guid isPermaLink="false">NPINS.008268</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Interplay between noise and higher-order interactions in the stochastic Kuramoto model: From enhancement to explosive transitions</title>
       <link>http://link.aps.org/doi/10.1103/pzkj-ynnt</link>
@@ -488,31 +513,6 @@
       <title>J. Mach. Learn. Res.: Two-way Node Popularity Model for Directed and Bipartite Networks</title>
       <link>http://jmlr.org/papers/v27/24-0526.html</link>
       <guid isPermaLink="false">NPINS.008173</guid>
-    </item>
-    <item>
-      <title>Chaos: Modulation of neuronal synchrony by population-level inhibitory delayed feedback</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033105/3381888/Modulation-of-neuronal-synchrony-by-population</link>
-      <guid isPermaLink="false">NPINS.008172</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Renormalization of interacting random graph models</title>
-      <link>http://link.aps.org/doi/10.1103/34n8-pw8x</link>
-      <guid isPermaLink="false">NPINS.008171</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: The dynamics and control of false information spreading model classified by node influence difference</title>
-      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae4585</link>
-      <guid isPermaLink="false">NPINS.008170</guid>
-    </item>
-    <item>
-      <title>npj Complex.: Uneven distribution of knowledge seeking for female researchers</title>
-      <link>https://www.nature.com/articles/s44260-025-00067-7</link>
-      <guid isPermaLink="false">NPINS.008169</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Quantum-augmented graph differential geometry enhances accuracy in protein-protein interaction prediction</title>
-      <link>https://www.nature.com/articles/s41598-026-41325-5</link>
-      <guid isPermaLink="false">NPINS.008168</guid>
     </item>
   </channel>
 </rss>
