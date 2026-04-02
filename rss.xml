@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 13:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:01:57 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Network fault costs based on minimum leaf spanning trees</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001098</link>
+      <guid isPermaLink="false">NPINS.008279</guid>
+    </item>
+    <item>
+      <title>Nat. Neurosci.: Null models for lesion network mapping</title>
+      <link>https://www.nature.com/articles/s41593-026-02259-3</link>
+      <guid isPermaLink="false">NPINS.008278</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Mutual Linearity Is a Generic Property of Steady-State Markov Networks</title>
+      <link>http://link.aps.org/doi/10.1103/jcm3-57d8</link>
+      <guid isPermaLink="false">NPINS.008277</guid>
+    </item>
+    <item>
+      <title>npj Complex.: Inequality of opportunities creates structural marginalization in networks</title>
+      <link>https://www.nature.com/articles/s44260-026-00077-z</link>
+      <guid isPermaLink="false">NPINS.008276</guid>
+    </item>
+    <item>
+      <title>Nat. Comput. Sci.: Scaling and quantization of large-scale foundation model enables resource-efficient predictions in network biology</title>
+      <link>https://www.nature.com/articles/s43588-026-00972-4</link>
+      <guid isPermaLink="false">NPINS.008275</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Emergent coexistence and the limits of reductionism in ecological communities</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014116</link>
+      <guid isPermaLink="false">NPINS.008274</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Estimating peer influence in multilayer networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000213</link>
+      <guid isPermaLink="false">NPINS.008273</guid>
+    </item>
     <item>
       <title>PLOS ONE: Sparse-selective quantization for real-time cyber threat detection in large-scale networks</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345758</link>
@@ -478,41 +513,6 @@
       <title>Nat. Commun.: Modeling roles and trade-offs in multiplex networks</title>
       <link>https://www.nature.com/articles/s41467-026-68896-1</link>
       <guid isPermaLink="false">NPINS.008180</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: A simple preference aggregation rule explains how multidimensional identities shape social networks</title>
-      <link>https://www.nature.com/articles/s42005-026-02537-3</link>
-      <guid isPermaLink="false">NPINS.008179</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Role of chloride concentration in modulating seizure transitions in excitatory and inhibitory networks</title>
-      <link>http://link.aps.org/doi/10.1103/x6qv-lzdg</link>
-      <guid isPermaLink="false">NPINS.008178</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Unifying non-Markovian dynamics and agent heterogeneity in scalable stochastic networks</title>
-      <link>https://www.nature.com/articles/s41467-026-69817-y</link>
-      <guid isPermaLink="false">NPINS.008177</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Rumor propagation on hypergraphs</title>
-      <link>https://www.nature.com/articles/s41467-026-70096-w</link>
-      <guid isPermaLink="false">NPINS.008176</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Synchronization transitions and spike dynamics in a higher-order Kuramoto model with Lévy noise</title>
-      <link>https://www.nature.com/articles/s42005-026-02560-4</link>
-      <guid isPermaLink="false">NPINS.008175</guid>
-    </item>
-    <item>
-      <title>PNAS: Negative social ties as emerging risk factors for accelerated aging, inflammation, and multimorbidity</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2515331123?af=R</link>
-      <guid isPermaLink="false">NPINS.008174</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Two-way Node Popularity Model for Directed and Bipartite Networks</title>
-      <link>http://jmlr.org/papers/v27/24-0526.html</link>
-      <guid isPermaLink="false">NPINS.008173</guid>
     </item>
   </channel>
 </rss>
