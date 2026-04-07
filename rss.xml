@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 12:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 13:45:48 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Compact dynamical mean-field theory of oscillator networks</title>
+      <link>http://link.aps.org/doi/10.1103/lt71-mfpw</link>
+      <guid isPermaLink="false">NPINS.008286</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Giant Components in Random Temporal Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1673206?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008285</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Hypergraphs and simplicial complexes in focus: a roadmap for future research in higher-order interactions</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae3c4e</link>
+      <guid isPermaLink="false">NPINS.008284</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Research on team efficacy in CBA games based on complex network theory</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344684</link>
+      <guid isPermaLink="false">NPINS.008283</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Network threats to causal inference: Variations in network position by participation in randomized controlled trials</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000225</link>
+      <guid isPermaLink="false">NPINS.008282</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: The sociability space: Putting social networks into geographical space</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000237</link>
+      <guid isPermaLink="false">NPINS.008281</guid>
+    </item>
+    <item>
+      <title>Nature: Flexible ensheathment of axons enables myelination of complex CNS networks</title>
+      <link>https://www.nature.com/articles/s41586-026-10312-1</link>
+      <guid isPermaLink="false">NPINS.008280</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Network fault costs based on minimum leaf spanning trees</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300326001098</link>
@@ -478,41 +513,6 @@
       <title>New J. Phys.: Dissipative quantum dynamics in static networks with different topologies</title>
       <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae441d</link>
       <guid isPermaLink="false">NPINS.008187</guid>
-    </item>
-    <item>
-      <title>PNAS: Network-based genetic monitoring of landscape fragmentation</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2515033123?af=R</link>
-      <guid isPermaLink="false">NPINS.008186</guid>
-    </item>
-    <item>
-      <title>PNAS: The way of life: The network challenge of blood flow in the brain</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2537961123?af=R</link>
-      <guid isPermaLink="false">NPINS.008185</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Synchronization of Dirac–Bianconi driven oscillators</title>
-      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae442f</link>
-      <guid isPermaLink="false">NPINS.008184</guid>
-    </item>
-    <item>
-      <title>Phys. Rep.: Evolution of methods for assessing fMRI-based functional networks: From classical pairwise connectivity to higher-order interactions</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0370157326000748?dgcid=rss_sd_all</link>
-      <guid isPermaLink="false">NPINS.008183</guid>
-    </item>
-    <item>
-      <title>Chaos: Symmetry prior based reconstruction of higher-order networks from time-series data</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033103/3381921/Symmetry-prior-based-reconstruction-of-higher</link>
-      <guid isPermaLink="false">NPINS.008182</guid>
-    </item>
-    <item>
-      <title>Chaos: Distinct roles of AMPA, NMDA, and GABA kinetics in shaping macroscopic cortical dynamics</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033116/3382466/Distinct-roles-of-AMPA-NMDA-and-GABA-kinetics-in</link>
-      <guid isPermaLink="false">NPINS.008181</guid>
-    </item>
-    <item>
-      <title>Nat. Commun.: Modeling roles and trade-offs in multiplex networks</title>
-      <link>https://www.nature.com/articles/s41467-026-68896-1</link>
-      <guid isPermaLink="false">NPINS.008180</guid>
     </item>
   </channel>
 </rss>
