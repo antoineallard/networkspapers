@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 11:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:06:36 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Correspondence of large-scale functional brain network decline across aging mice and humans</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2527522123?af=R</link>
+      <guid isPermaLink="false">NPINS.008293</guid>
+    </item>
+    <item>
+      <title>Chaos: Transient times and cycle-rich topology in reservoir computing</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/4/043104/3385883/Transient-times-and-cycle-rich-topology-in</link>
+      <guid isPermaLink="false">NPINS.008292</guid>
+    </item>
+    <item>
+      <title>Chaos: Noise-induced transients in the propagation of epidemic with higher-order interactions</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/4/043101/3385974/Noise-induced-transients-in-the-propagation-of</link>
+      <guid isPermaLink="false">NPINS.008291</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Routing qubits on noisy networks</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae5439</link>
+      <guid isPermaLink="false">NPINS.008290</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: From scattered to focused: Task-dependent connectivity in honey bees, with midge swarms and bird flocks</title>
+      <link>http://link.aps.org/doi/10.1103/9mfj-2jh2</link>
+      <guid isPermaLink="false">NPINS.008289</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: The disjunctive domination numbers of the circular ladder graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001414</link>
+      <guid isPermaLink="false">NPINS.008288</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: On orderenergetic complete multipartite graphs</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000998</link>
+      <guid isPermaLink="false">NPINS.008287</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Compact dynamical mean-field theory of oscillator networks</title>
       <link>http://link.aps.org/doi/10.1103/lt71-mfpw</link>
@@ -478,41 +513,6 @@
       <title>PNAS: Connected network model for the mechanical loss of amorphous materials</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2513161123?af=R</link>
       <guid isPermaLink="false">NPINS.008194</guid>
-    </item>
-    <item>
-      <title>Chaos: A mathematical framework for misinformation propagation in complex networks: Topology-dependent distortion and control</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033113/3382210/A-mathematical-framework-for-misinformation</link>
-      <guid isPermaLink="false">NPINS.008193</guid>
-    </item>
-    <item>
-      <title>iScience: SC-MO-GRN-DB: A comprehensive repository for single-cell multiomic gene regulatory networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S258900422600698X</link>
-      <guid isPermaLink="false">NPINS.008192</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Burst firing creates an attractor in synaptic weight dynamics</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014001</link>
-      <guid isPermaLink="false">NPINS.008191</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: A novel framework for outlier detection in financial markets: a complex network approach with visibility graphs</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1704185</link>
-      <guid isPermaLink="false">NPINS.008190</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: A systematic evaluation of simple threshold-based Boolean rules for modeling gene regulatory networks</title>
-      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae4588</link>
-      <guid isPermaLink="false">NPINS.008189</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Robustness and size dependence of circadian rhythms in multiscale suprachiasmatic-nucleus networks</title>
-      <link>http://link.aps.org/doi/10.1103/vksl-tljx</link>
-      <guid isPermaLink="false">NPINS.008188</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Dissipative quantum dynamics in static networks with different topologies</title>
-      <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae441d</link>
-      <guid isPermaLink="false">NPINS.008187</guid>
     </item>
   </channel>
 </rss>
