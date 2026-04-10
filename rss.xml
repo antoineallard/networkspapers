@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:38:24 +0000</lastBuildDate>
+    <item>
+      <title>Phys. Rev. E: Extreme events of quantum walks on networks</title>
+      <link>http://link.aps.org/doi/10.1103/qc99-gh86</link>
+      <guid isPermaLink="false">NPINS.008300</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Effect of phase-lag on synchronization in adaptive multilayer networks with higher-order interactions</title>
+      <link>http://link.aps.org/doi/10.1103/pycc-qjz8</link>
+      <guid isPermaLink="false">NPINS.008299</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Quantitative thematic diversification and evolution of classical science fiction in the public domain based on complex network analysis and natural language processing</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-026-00636-3</link>
+      <guid isPermaLink="false">NPINS.008298</guid>
+    </item>
+    <item>
+      <title>New J. Phys.: Quantifying coupled dynamics in phase-space from state distribution snapshots</title>
+      <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae5127</link>
+      <guid isPermaLink="false">NPINS.008297</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Number of spanning trees as an indicator of critical phenomena: When Kirchhoff meets Ising</title>
+      <link>http://link.aps.org/doi/10.1103/kzxs-9pv8</link>
+      <guid isPermaLink="false">NPINS.008296</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Clustering single-cell multi-omics data via weighted distance penalty and adaptive consistent graph regularization</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014110</link>
+      <guid isPermaLink="false">NPINS.008295</guid>
+    </item>
+    <item>
+      <title>PNAS: Graph statistics theory of individualized quantitative genetics under haplotype-resolved genome assembly</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2600004123?af=R</link>
+      <guid isPermaLink="false">NPINS.008294</guid>
+    </item>
     <item>
       <title>PNAS: Correspondence of large-scale functional brain network decline across aging mice and humans</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2527522123?af=R</link>
@@ -478,41 +513,6 @@
       <title>PLOS Comput. Biol.: Computing the effects of excitatory-inhibitory balance on neuronal input-output properties</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013958</link>
       <guid isPermaLink="false">NPINS.008201</guid>
-    </item>
-    <item>
-      <title>Sci. Adv.: Controlling noisy herds: Temporal network restructuring improves control of indecisive collectives</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adx6791</link>
-      <guid isPermaLink="false">NPINS.008200</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Identification of time points for LNG throughput: a complex network approach</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2025.1697310</link>
-      <guid isPermaLink="false">NPINS.008199</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Modeling the coupled propagation of emotion, information, and disease considering emotional atmosphere in multi-layer networks</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1774969</link>
-      <guid isPermaLink="false">NPINS.008198</guid>
-    </item>
-    <item>
-      <title>Chaos: Dynamics of infectious disease transmission in heterogeneous networks considering population interaction mechanism</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033118/3382682/Dynamics-of-infectious-disease-transmission-in</link>
-      <guid isPermaLink="false">NPINS.008197</guid>
-    </item>
-    <item>
-      <title>New J. Phys.: Bridge-module-induced unihemispheric-sleep-like oscillations on connected excitable complex networks</title>
-      <link>https://iopscience.iop.org/article/10.1088/1367-2630/ae4c01</link>
-      <guid isPermaLink="false">NPINS.008196</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Dynamic event-triggered output feedback pinning asynchronous control for switched complex network</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000792</link>
-      <guid isPermaLink="false">NPINS.008195</guid>
-    </item>
-    <item>
-      <title>PNAS: Connected network model for the mechanical loss of amorphous materials</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2513161123?af=R</link>
-      <guid isPermaLink="false">NPINS.008194</guid>
     </item>
   </channel>
 </rss>
