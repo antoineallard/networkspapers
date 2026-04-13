@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 13:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:29:37 +0000</lastBuildDate>
+    <item>
+      <title>Chaos: Matrix logistic map: Fractal spectral distributions and transfer of chaos</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/3/033139/3384413/Matrix-logistic-map-Fractal-spectral-distributions</link>
+      <guid isPermaLink="false">NPINS.008307</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Machine-enhanced reconstruction of functional connectomes unravels discriminative brain sub-systems in health and disease</title>
+      <link>https://www.nature.com/articles/s41598-026-47391-z</link>
+      <guid isPermaLink="false">NPINS.008306</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: Estimating global input relevance and enforcing sparse representations with a scalable spectral neural network approach</title>
+      <link>https://www.nature.com/articles/s42005-026-02614-7</link>
+      <guid isPermaLink="false">NPINS.008305</guid>
+    </item>
+    <item>
+      <title>PNAS: Hierarchical genotype networks and incipient ecological speciation in Qbeta phage quasispecies</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2512150123?af=R</link>
+      <guid isPermaLink="false">NPINS.008304</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Unique Reconstruction from Mean-Field Measurements</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1764815?af=R</link>
+      <guid isPermaLink="false">NPINS.008303</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Activity constraints and the emergence of non-scale-free networks: Evidence from hip-hop and academia</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345862</link>
+      <guid isPermaLink="false">NPINS.008302</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Ancient genomes reveal an extensive kinship network and endogamy in a Three-Kingdoms period society in Korea</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ady8614</link>
+      <guid isPermaLink="false">NPINS.008301</guid>
+    </item>
     <item>
       <title>Phys. Rev. E: Extreme events of quantum walks on networks</title>
       <link>http://link.aps.org/doi/10.1103/qc99-gh86</link>
@@ -478,41 +513,6 @@
       <title>PNAS Nexus: Scenario-aware control of multipathway spread processes: Application to biological invasions</title>
       <link>http://doi.org/10.1093/pnasnexus/pgag036</link>
       <guid isPermaLink="false">NPINS.008208</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Statistics of leaves in growing random trees</title>
-      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae3a6a</link>
-      <guid isPermaLink="false">NPINS.008207</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Transformability of dynamics on higher-order networks</title>
-      <link>https://www.nature.com/articles/s42005-026-02555-1</link>
-      <guid isPermaLink="false">NPINS.008206</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Monotonic Decompositions of Submodular Set Functions</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1675357?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008205</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Quickly Excluding an Apex-Forest</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1659248?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008204</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Networked evolutionary game analysis of low-carbon technology diffusion</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1753750</link>
-      <guid isPermaLink="false">NPINS.008203</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Diffusion on Vicsek fractals: Efficiency and the Wiener index</title>
-      <link>http://link.aps.org/doi/10.1103/b4qh-92kf</link>
-      <guid isPermaLink="false">NPINS.008202</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Computing the effects of excitatory-inhibitory balance on neuronal input-output properties</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013958</link>
-      <guid isPermaLink="false">NPINS.008201</guid>
     </item>
   </channel>
 </rss>
