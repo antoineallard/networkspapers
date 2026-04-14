@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 13:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 16:50:03 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Commun.: A principled basis for nonequilibrium network flows</title>
+      <link>https://www.nature.com/articles/s41467-026-71239-9</link>
+      <guid isPermaLink="false">NPINS.008314</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Making the peers’ subjective well-being visible impairs cooperator-centered experimental social networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000201</link>
+      <guid isPermaLink="false">NPINS.008313</guid>
+    </item>
+    <item>
+      <title>iScience: Network inference with infection frequency matrix by improved Bayesian method</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004226008370</link>
+      <guid isPermaLink="false">NPINS.008312</guid>
+    </item>
+    <item>
+      <title>Sci. Adv.: Dynamic shift in the dominant transmission route of clade Ib monkeypox virus across networks with sexual and nonsexual contacts</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aec1931</link>
+      <guid isPermaLink="false">NPINS.008311</guid>
+    </item>
+    <item>
+      <title>Research: Lifestyle and Transcriptional Signatures Associated with Ethnicity/Race-Related Variations in the Functional Connectome</title>
+      <link>https://spj.science.org/doi/abs/10.34133/research.1143?af=R</link>
+      <guid isPermaLink="false">NPINS.008310</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Recovering scheduling preferences in dynamic departure time models</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-025-00608-z</link>
+      <guid isPermaLink="false">NPINS.008309</guid>
+    </item>
+    <item>
+      <title>Nat. Hum. Behav.: How deceptive online networks reached millions in the US 2020 elections</title>
+      <link>https://www.nature.com/articles/s41562-026-02435-2</link>
+      <guid isPermaLink="false">NPINS.008308</guid>
+    </item>
     <item>
       <title>Chaos: Matrix logistic map: Fractal spectral distributions and transfer of chaos</title>
       <link>https://pubs.aip.org/aip/cha/article/36/3/033139/3384413/Matrix-logistic-map-Fractal-spectral-distributions</link>
@@ -478,41 +513,6 @@
       <title>Appl. Math. Comput.: MIF-based event-triggered schemes for synchronization control of coupling complex dynamic networks</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300326000950</link>
       <guid isPermaLink="false">NPINS.008215</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Effects of similarity networks in graph-based multi-omics classification</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344754</link>
-      <guid isPermaLink="false">NPINS.008214</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Modeling tariff-induced network failure and hysteresis</title>
-      <link>http://link.aps.org/doi/10.1103/mb29-9h8m</link>
-      <guid isPermaLink="false">NPINS.008213</guid>
-    </item>
-    <item>
-      <title>PNAS: A data-driven framework linking the connectome to spatial gene expression gradients inspired by chemoaffinity theory</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2516572123?af=R</link>
-      <guid isPermaLink="false">NPINS.008212</guid>
-    </item>
-    <item>
-      <title>Nat. Neurosci.: Competitive interactions shape mammalian brain network dynamics and computation</title>
-      <link>https://www.nature.com/articles/s41593-026-02205-3</link>
-      <guid isPermaLink="false">NPINS.008211</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Understanding the personal networks of people experiencing homelessness in King County, WA with aggregate relational data</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000158</link>
-      <guid isPermaLink="false">NPINS.008210</guid>
-    </item>
-    <item>
-      <title>J. Stat. Mech.: Topology and higher-order global synchronization on directed and hollow simplicial and cell complexes</title>
-      <link>https://iopscience.iop.org/article/10.1088/1742-5468/ae4bb7</link>
-      <guid isPermaLink="false">NPINS.008209</guid>
-    </item>
-    <item>
-      <title>PNAS Nexus: Scenario-aware control of multipathway spread processes: Application to biological invasions</title>
-      <link>http://doi.org/10.1093/pnasnexus/pgag036</link>
-      <guid isPermaLink="false">NPINS.008208</guid>
     </item>
   </channel>
 </rss>
