@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:06:24 +0000</lastBuildDate>
+    <item>
+      <title>Appl. Math. Comput.: Controllability and stabilization of switched boolean control networks with periodic switching restrictions</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001074</link>
+      <guid isPermaLink="false">NPINS.008321</guid>
+    </item>
+    <item>
+      <title>Commun. Phys.: The evolution and impact of group collaboration in crisis response</title>
+      <link>https://www.nature.com/articles/s42005-026-02588-6</link>
+      <guid isPermaLink="false">NPINS.008320</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Phase Synchronization in Random Geometric Graphs on the Two-Dimensional Sphere</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1748202?af=R</link>
+      <guid isPermaLink="false">NPINS.008319</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Information loss in aggregated social media discussions: studying the migration discourse within Europe</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-026-00641-6</link>
+      <guid isPermaLink="false">NPINS.008318</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Spectral coarse-graining scheme inspired by Laplacian renormalization group for higher-order network reaction-diffusion systems</title>
+      <link>http://link.aps.org/doi/10.1103/2mcl-8fs8</link>
+      <guid isPermaLink="false">NPINS.008317</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Hardness of Finding Combinatorial Shortest Paths on Graph Associahedra</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1720317?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008316</guid>
+    </item>
+    <item>
+      <title>Sci. Rep.: Structure-aware fusion learning and intelligent decision support based on dynamic flight parameter hypergraphs in flight test</title>
+      <link>https://www.nature.com/articles/s41598-026-48452-z</link>
+      <guid isPermaLink="false">NPINS.008315</guid>
+    </item>
     <item>
       <title>Nat. Commun.: A principled basis for nonequilibrium network flows</title>
       <link>https://www.nature.com/articles/s41467-026-71239-9</link>
@@ -478,41 +513,6 @@
       <title>EPL: From Laplacian-to-Adjacency matrix for continuous spins on graphs</title>
       <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae4e57</link>
       <guid isPermaLink="false">NPINS.008222</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Improved Approximation Algorithms for the Expanding Search Problem</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1759902?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008221</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: A physics-inspired elastic deformation model for quantifying urban network resilience: resistance and recovery in the Yangtze River Delta</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1795522</link>
-      <guid isPermaLink="false">NPINS.008220</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Entraining chimeras: The effect of driving with regular, irregular, and real-world phases</title>
-      <link>http://link.aps.org/doi/10.1103/vczh-r59d</link>
-      <guid isPermaLink="false">NPINS.008219</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Scale invariance and statistical significance in complex weighted networks</title>
-      <link>http://link.aps.org/doi/10.1103/4124-dyj8</link>
-      <guid isPermaLink="false">NPINS.008218</guid>
-    </item>
-    <item>
-      <title>Chaos: Adaptive conformity promotes cooperation within structured populations</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033122/3383200/Adaptive-conformity-promotes-cooperation-within</link>
-      <guid isPermaLink="false">NPINS.008217</guid>
-    </item>
-    <item>
-      <title>J. Mach. Learn. Res.: Neural Network Parameter-optimization of Gaussian Pre-marginalized Directed Acyclic Graphs</title>
-      <link>http://jmlr.org/papers/v27/23-1249.html</link>
-      <guid isPermaLink="false">NPINS.008216</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: MIF-based event-triggered schemes for synchronization control of coupling complex dynamic networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000950</link>
-      <guid isPermaLink="false">NPINS.008215</guid>
     </item>
   </channel>
 </rss>
