@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:52:54 +0000</lastBuildDate>
+    <item>
+      <title>PNAS: Diffusive spreading across dynamic mitochondrial network architectures</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2523913123?af=R</link>
+      <guid isPermaLink="false">NPINS.008328</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Informational coarsening in networked discrete public goods games</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001499</link>
+      <guid isPermaLink="false">NPINS.008327</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Evolutionary network diffusion of electric vehicles under dynamic regulation and subsidy fraud</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001578</link>
+      <guid isPermaLink="false">NPINS.008326</guid>
+    </item>
+    <item>
+      <title>Appl. Math. Comput.: Dynamic event-triggered &lt;em&gt;H&lt;/em&gt;&lt;sub&gt;∞&lt;/sub&gt; synchronization control for 2-D switched complex networks with actuator faults</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001487</link>
+      <guid isPermaLink="false">NPINS.008325</guid>
+    </item>
+    <item>
+      <title>iScience: Network resilience of the human interactome to pan-cancer mutations reveals conserved pathway vulnerabilities</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2589004226008758</link>
+      <guid isPermaLink="false">NPINS.008324</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Rural-to-urban migrant worker mobility shaped measles epidemics in China</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014182</link>
+      <guid isPermaLink="false">NPINS.008323</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Emergence of autocatalysis in prebiotic reaction networks</title>
+      <link>http://link.aps.org/doi/10.1103/nmt5-qsym</link>
+      <guid isPermaLink="false">NPINS.008322</guid>
+    </item>
     <item>
       <title>Appl. Math. Comput.: Controllability and stabilization of switched boolean control networks with periodic switching restrictions</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0096300326001074</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Discontinuous transition in explosive percolation via local suppression</title>
       <link>http://link.aps.org/doi/10.1103/lbyt-jntd</link>
       <guid isPermaLink="false">NPINS.008229</guid>
-    </item>
-    <item>
-      <title>Chaos: An analysis framework for Turing instability on multigraph networks from the perspective of optimization</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033136/3384338/An-analysis-framework-for-Turing-instability-on</link>
-      <guid isPermaLink="false">NPINS.008228</guid>
-    </item>
-    <item>
-      <title>Chaos: Neural network approach to phase transitions in clique percolation</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033133/3383713/Neural-network-approach-to-phase-transitions-in</link>
-      <guid isPermaLink="false">NPINS.008227</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Approximate Bayesian inference of directed acyclic graphs in biology with flexible priors on edge states</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014039</link>
-      <guid isPermaLink="false">NPINS.008226</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: The Low-Degree Hardness of Finding Large Independent Sets in Sparse Random Hypergraphs</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/24M1701575?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008225</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: A hybrid mixed methods design for understanding decision making, social structure, and network dynamics of life course transitions</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000171</link>
-      <guid isPermaLink="false">NPINS.008224</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Accurate mean-field equation for voter model dynamics on scale-free networks</title>
-      <link>http://link.aps.org/doi/10.1103/vkpx-5cvt</link>
-      <guid isPermaLink="false">NPINS.008223</guid>
-    </item>
-    <item>
-      <title>EPL: From Laplacian-to-Adjacency matrix for continuous spins on graphs</title>
-      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae4e57</link>
-      <guid isPermaLink="false">NPINS.008222</guid>
     </item>
   </channel>
 </rss>
