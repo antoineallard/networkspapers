@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 17:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:26:52 +0000</lastBuildDate>
+    <item>
+      <title>Sci. Rep.: TAGNN: topology-aware graph neural network framework for link prediction</title>
+      <link>https://www.nature.com/articles/s41598-026-48184-0</link>
+      <guid isPermaLink="false">NPINS.008335</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Characterization of Flip Process Rules with the Same Trajectories</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1746811?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008334</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Maximum entropy temporal networks</title>
+      <link>http://link.aps.org/doi/10.1103/78vv-hs72</link>
+      <guid isPermaLink="false">NPINS.008333</guid>
+    </item>
+    <item>
+      <title>Chaos: Exact dimensional reduction for quasi-linear ODE ensembles</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/4/043121/3387121/Exact-dimensional-reduction-for-quasi-linear-ODE</link>
+      <guid isPermaLink="false">NPINS.008332</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Impacts of bridging nodes on the epidemic activation mechanisms</title>
+      <link>http://link.aps.org/doi/10.1103/rlr4-w2kt</link>
+      <guid isPermaLink="false">NPINS.008331</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Trade-off between multiplicity and specificity in the interlayer connectivity of nonidentical multilayer networks</title>
+      <link>http://link.aps.org/doi/10.1103/r4rs-t3g1</link>
+      <guid isPermaLink="false">NPINS.008330</guid>
+    </item>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Balanced Dynamics in Strongly Coupled Networks</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M173140X?af=R</link>
+      <guid isPermaLink="false">NPINS.008329</guid>
+    </item>
     <item>
       <title>PNAS: Diffusive spreading across dynamic mitochondrial network architectures</title>
       <link>https://www.pnas.org/doi/abs/10.1073/pnas.2523913123?af=R</link>
@@ -478,41 +513,6 @@
       <title>EPL: Controlling complex networks by path cover</title>
       <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae4b63</link>
       <guid isPermaLink="false">NPINS.008236</guid>
-    </item>
-    <item>
-      <title>Chaos: Mutation promote cooperation in repeated games on structured populations</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033138/3384165/Mutation-promote-cooperation-in-repeated-games-on</link>
-      <guid isPermaLink="false">NPINS.008235</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: On independent domination and packing numbers of subcubic graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001001</link>
-      <guid isPermaLink="false">NPINS.008234</guid>
-    </item>
-    <item>
-      <title>SIAM J. Discrete Math.: Intersections of Graphs and Chi-Boundedness</title>
-      <link>https://epubs.siam.org/doi/abs/10.1137/25M1751967?ai=sa&amp;mi=9cks17&amp;af=R</link>
-      <guid isPermaLink="false">NPINS.008233</guid>
-    </item>
-    <item>
-      <title>EPL: Kink-antikink soliton solutions of the nonlinear Klein-Gordon equation on branched structures</title>
-      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae4e56</link>
-      <guid isPermaLink="false">NPINS.008232</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: A social network analysis of fraud prediction on crowdsourcing platforms</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343412</link>
-      <guid isPermaLink="false">NPINS.008231</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Direct causality measures unravel complex networks of cardiovascular dynamics and their modifications with postural stress</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014075</link>
-      <guid isPermaLink="false">NPINS.008230</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Discontinuous transition in explosive percolation via local suppression</title>
-      <link>http://link.aps.org/doi/10.1103/lbyt-jntd</link>
-      <guid isPermaLink="false">NPINS.008229</guid>
     </item>
   </channel>
 </rss>
