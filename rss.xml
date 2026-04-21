@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 15:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 15:07:17 +0000</lastBuildDate>
+    <item>
+      <title>Research: Lifestyle and Transcriptional Signatures Associated with Ethnicity/Race-Related Variations in the Functional Connectome</title>
+      <link>https://www.science.org/doi/abs/10.34133/research.1143?af=R</link>
+      <guid isPermaLink="false">NPINS.008342</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Introduction to the Network Scale-up Method</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000262</link>
+      <guid isPermaLink="false">NPINS.008341</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Unveiling gene perturbation effects through gene regulatory networks inference from single-cell transcriptomic data</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014067</link>
+      <guid isPermaLink="false">NPINS.008340</guid>
+    </item>
+    <item>
+      <title>Chaos: Impact of weak generalized synchronization on time series forecasting using reservoir computers</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/4/043125/3387375/Impact-of-weak-generalized-synchronization-on-time</link>
+      <guid isPermaLink="false">NPINS.008339</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: The importance of structure: Using targeted rewiring to explore social networks property interdependencies</title>
+      <link>https://doi.org/10.1371/journal.pone.0336496</link>
+      <guid isPermaLink="false">NPINS.008338</guid>
+    </item>
+    <item>
+      <title>PLOS Comput. Biol.: Dynamic cholinergic signaling differentially desynchronizes cortical microcircuits dependent on modulation rate and network connectivity</title>
+      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013252</link>
+      <guid isPermaLink="false">NPINS.008337</guid>
+    </item>
+    <item>
+      <title>Curr. Opin. Struct. Biol.: Single-molecule microscopy of biomolecular condensates: From liquid droplets to heterogeneous networks</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0959440X26000539</link>
+      <guid isPermaLink="false">NPINS.008336</guid>
+    </item>
     <item>
       <title>Sci. Rep.: TAGNN: topology-aware graph neural network framework for link prediction</title>
       <link>https://www.nature.com/articles/s41598-026-48184-0</link>
@@ -478,41 +513,6 @@
       <title>Phys. Rev. E: Insights on structure and influence from the adjacency and Laplacian eigenspectra of intersecting ring networks</title>
       <link>http://link.aps.org/doi/10.1103/4595-wyvd</link>
       <guid isPermaLink="false">NPINS.008243</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Analysis of the spatio-temporal evolution of iron ore trade from a geopolitical perspective: A complex network model</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345177</link>
-      <guid isPermaLink="false">NPINS.008242</guid>
-    </item>
-    <item>
-      <title>J. Phys. A: Characterizing cancer chromosome aberration pathways using multigraphs</title>
-      <link>https://iopscience.iop.org/article/10.1088/1751-8121/ae4d8f</link>
-      <guid isPermaLink="false">NPINS.008241</guid>
-    </item>
-    <item>
-      <title>PNAS: On the optimal integration of intelligent agents into network systems to steer cooperation</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2537939123?af=R</link>
-      <guid isPermaLink="false">NPINS.008240</guid>
-    </item>
-    <item>
-      <title>Sci. Rep.: Preferential path attachment model for quantum key distribution networks</title>
-      <link>https://www.nature.com/articles/s41598-026-43414-x</link>
-      <guid isPermaLink="false">NPINS.008239</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: D-LIM: A neural network for interpretable gene–gene interactions</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014107</link>
-      <guid isPermaLink="false">NPINS.008238</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Working together through the storm: The role of task performance in a collaborative emergent multiorganizational disaster response network</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000183</link>
-      <guid isPermaLink="false">NPINS.008237</guid>
-    </item>
-    <item>
-      <title>EPL: Controlling complex networks by path cover</title>
-      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae4b63</link>
-      <guid isPermaLink="false">NPINS.008236</guid>
     </item>
   </channel>
 </rss>
