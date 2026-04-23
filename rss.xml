@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 13:58:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:00:45 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Commun.: Temporal heterogeneity shapes diffusion dynamics in complex networks</title>
+      <link>https://www.nature.com/articles/s41467-026-72161-w</link>
+      <guid isPermaLink="false">NPINS.008354</guid>
+    </item>
+    <item>
+      <title>J. Phys. Complex.: Spontaneous symmetry breaking on graphs and lattices</title>
+      <link>https://iopscience.iop.org/article/10.1088/2632-072X/ae58e3</link>
+      <guid isPermaLink="false">NPINS.008353</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: Social influences in network and households’ e-commerce entrepreneurship in rural China</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000249</link>
+      <guid isPermaLink="false">NPINS.008352</guid>
+    </item>
+    <item>
+      <title>PNAS: Medial temporal lobe encodes cognitive maps of real-world social networks</title>
+      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2523345123?af=R</link>
+      <guid isPermaLink="false">NPINS.008351</guid>
+    </item>
+    <item>
+      <title>Nature: Astrocytes connect specific brain regions through plastic networks</title>
+      <link>https://www.nature.com/articles/s41586-026-10426-6</link>
+      <guid isPermaLink="false">NPINS.008350</guid>
+    </item>
+    <item>
+      <title>Soc. Networks: An intersectoral structural network intervention to expand social care in-and-with community: Key mechanisms of an intersectoral dementia community investment initiative</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000286</link>
+      <guid isPermaLink="false">NPINS.008349</guid>
+    </item>
+    <item>
+      <title>Chaos: A model of corruption on higher-order networks with long-time quasi-stationary solutions</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/4/043130/3387690/A-model-of-corruption-on-higher-order-networks</link>
+      <guid isPermaLink="false">NPINS.008348</guid>
+    </item>
     <item>
       <title>PLOS ONE: Beyond the bamboo ceiling: How ethnic collaborative networks facilitate Chinese inventors’ knowledge remittances</title>
       <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347548</link>
@@ -478,41 +513,6 @@
       <title>Chaos: Explosive synchronization in networks of type-I neurons with electrical synapses</title>
       <link>https://pubs.aip.org/aip/cha/article/36/3/033147/3384763/Explosive-synchronization-in-networks-of-type-I</link>
       <guid isPermaLink="false">NPINS.008255</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. Research: Geometric criticality in scale-invariant networks</title>
-      <link>http://link.aps.org/doi/10.1103/75gt-z6x6</link>
-      <guid isPermaLink="false">NPINS.008254</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: Planar graphs that exclude {4, 5, 7, 8}-cycles and intersecting triangles are DP-3-colorable</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300326001104</link>
-      <guid isPermaLink="false">NPINS.008253</guid>
-    </item>
-    <item>
-      <title>Appl. Math. Comput.: A note on Sullivan’s conjecture for oriented split graphs</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0096300326000858</link>
-      <guid isPermaLink="false">NPINS.008252</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Predicting scientific breakthroughs through capacity-based dynamics in citation networks</title>
-      <link>http://link.aps.org/doi/10.1103/7bs5-8ql3</link>
-      <guid isPermaLink="false">NPINS.008251</guid>
-    </item>
-    <item>
-      <title>Front. Phys.: Hyper-S2IR: a model for characterizing higher-order interactions and dynamics in public opinion dissemination</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fphy.2026.1782845</link>
-      <guid isPermaLink="false">NPINS.008250</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Sparsity-induced resonance in complex networks</title>
-      <link>http://link.aps.org/doi/10.1103/f14l-5ls7</link>
-      <guid isPermaLink="false">NPINS.008249</guid>
-    </item>
-    <item>
-      <title>Chaos: The impact of dynamic hyperedge activation mechanism on the evolution of cooperation on hypergraphs</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033146/3384762/The-impact-of-dynamic-hyperedge-activation</link>
-      <guid isPermaLink="false">NPINS.008248</guid>
     </item>
   </channel>
 </rss>
