@@ -13,7 +13,32 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 12:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Nat. Commun.: Combining structural modeling and deep learning to calculate the &lt;i&gt;E. coli&lt;/i&gt; protein interactome and functional networks</title>
+      <link>https://www.nature.com/articles/s41467-026-71166-9</link>
+      <guid isPermaLink="false">NPINS.008359</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Connective action and digital repression during China’s COVID-19 protests: a computational analysis of multilingual coordinated activity on Twitter</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-026-00637-2</link>
+      <guid isPermaLink="false">NPINS.008358</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. Lett.: Full-Order Reconstruction of Simplicial Complex Network from Binary Time Series</title>
+      <link>http://link.aps.org/doi/10.1103/wg8s-z4hn</link>
+      <guid isPermaLink="false">NPINS.008357</guid>
+    </item>
+    <item>
+      <title>EPL: Combined with failure propagation model, the importance evaluation and critical node identification of five functional nodes of combat system are presented</title>
+      <link>https://iopscience.iop.org/article/10.1209/0295-5075/ae5846</link>
+      <guid isPermaLink="false">NPINS.008356</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: The global dissemination of COVID-19 through two coexisting international transmission patterns</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-026-00639-0</link>
+      <guid isPermaLink="false">NPINS.008355</guid>
+    </item>
     <item>
       <title>Nat. Commun.: Temporal heterogeneity shapes diffusion dynamics in complex networks</title>
       <link>https://www.nature.com/articles/s41467-026-72161-w</link>
@@ -488,31 +513,6 @@
       <title>npj Complex.: Multilayer networks characterize human-mobility patterns by industry sector for the 2021 Texas winter storm</title>
       <link>https://www.nature.com/articles/s44260-026-00076-0</link>
       <guid isPermaLink="false">NPINS.008260</guid>
-    </item>
-    <item>
-      <title>Chaos: Expressed and private opinion dynamics in signed networks based on path-dependence framework</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033126/3383610/Expressed-and-private-opinion-dynamics-in-signed</link>
-      <guid isPermaLink="false">NPINS.008259</guid>
-    </item>
-    <item>
-      <title>PLOS Comput. Biol.: Dense and distributed neuropeptide network in the nerve net of &lt;i&gt;Hydra vulgaris&lt;/i&gt;</title>
-      <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014037</link>
-      <guid isPermaLink="false">NPINS.008258</guid>
-    </item>
-    <item>
-      <title>Commun. Phys.: Distances in weighted higher-order networks</title>
-      <link>https://www.nature.com/articles/s42005-026-02592-w</link>
-      <guid isPermaLink="false">NPINS.008257</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Characterizing network directedness using the containing pseudospectral frontier of the network Laplacian</title>
-      <link>http://link.aps.org/doi/10.1103/lbfb-69mf</link>
-      <guid isPermaLink="false">NPINS.008256</guid>
-    </item>
-    <item>
-      <title>Chaos: Explosive synchronization in networks of type-I neurons with electrical synapses</title>
-      <link>https://pubs.aip.org/aip/cha/article/36/3/033147/3384763/Explosive-synchronization-in-networks-of-type-I</link>
-      <guid isPermaLink="false">NPINS.008255</guid>
     </item>
   </channel>
 </rss>
