@@ -13,7 +13,42 @@
       <link>https://feeds.feedburner.com/raw/kWNA4ZuqSd4</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:13:04 +0000</lastBuildDate>
+    <item>
+      <title>SIAM J. Appl. Dyn. Syst.: Large Deviations of a Network of Neurons with Dynamic Sparse Random Connections</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/24M1697748?af=R</link>
+      <guid isPermaLink="false">NPINS.008373</guid>
+    </item>
+    <item>
+      <title>Phys. Rev. E: Algebraic topological characterizations of tie strength in higher-order social networks</title>
+      <link>http://link.aps.org/doi/10.1103/g1tx-s1qf</link>
+      <guid isPermaLink="false">NPINS.008372</guid>
+    </item>
+    <item>
+      <title>SIAM J. Discrete Math.: Unavoidable Cycle-Contraction Minors of Large 2-Connected Graphs</title>
+      <link>https://epubs.siam.org/doi/abs/10.1137/25M1745052?ai=sa&amp;mi=9cks17&amp;af=R</link>
+      <guid isPermaLink="false">NPINS.008371</guid>
+    </item>
+    <item>
+      <title>Chaos: Cyclic periodic synchronization in a ring–star network of piecewise-linear discontinuous maps</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/4/043131/3387866/Cyclic-periodic-synchronization-in-a-ring-star</link>
+      <guid isPermaLink="false">NPINS.008370</guid>
+    </item>
+    <item>
+      <title>PLOS ONE: Traffic flow prediction via dynamic hypergraph learning</title>
+      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347846</link>
+      <guid isPermaLink="false">NPINS.008369</guid>
+    </item>
+    <item>
+      <title>EPJ Data Sci.: Forecasting faculty placement from patterns in coauthorship networks</title>
+      <link>https://epjds.epj.org/10.1140/epjds/s13688-026-00638-1</link>
+      <guid isPermaLink="false">NPINS.008368</guid>
+    </item>
+    <item>
+      <title>Chaos: Bystander effect emerges from individual psychological prospects</title>
+      <link>https://pubs.aip.org/aip/cha/article/36/4/043134/3387904/Bystander-effect-emerges-from-individual</link>
+      <guid isPermaLink="false">NPINS.008367</guid>
+    </item>
     <item>
       <title>Chaos: Stochastic resonance in higher-order networks driven by colored noise</title>
       <link>https://pubs.aip.org/aip/cha/article/36/4/043128/3387538/Stochastic-resonance-in-higher-order-networks</link>
@@ -478,41 +513,6 @@
       <title>PLOS Comput. Biol.: Emergent coexistence and the limits of reductionism in ecological communities</title>
       <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014116</link>
       <guid isPermaLink="false">NPINS.008274</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: Estimating peer influence in multilayer networks</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000213</link>
-      <guid isPermaLink="false">NPINS.008273</guid>
-    </item>
-    <item>
-      <title>PLOS ONE: Sparse-selective quantization for real-time cyber threat detection in large-scale networks</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345758</link>
-      <guid isPermaLink="false">NPINS.008272</guid>
-    </item>
-    <item>
-      <title>PNAS: Powers of magnetic graph matrix: Fourier spectrum, walk compression, and applications</title>
-      <link>https://www.pnas.org/doi/abs/10.1073/pnas.2516664123?af=R</link>
-      <guid isPermaLink="false">NPINS.008271</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Instability modes in network-organized system with delay</title>
-      <link>http://link.aps.org/doi/10.1103/nj8h-fkgc</link>
-      <guid isPermaLink="false">NPINS.008270</guid>
-    </item>
-    <item>
-      <title>Soc. Networks: What accompanies companionship? Reassessing personal networks and loneliness among young and older adults</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0378873326000195</link>
-      <guid isPermaLink="false">NPINS.008269</guid>
-    </item>
-    <item>
-      <title>iScience: Mechanism-based prediction of drug synergy via network controllability analysis of therapeutic pathways in intractable diseases</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2589004226007145</link>
-      <guid isPermaLink="false">NPINS.008268</guid>
-    </item>
-    <item>
-      <title>Phys. Rev. E: Interplay between noise and higher-order interactions in the stochastic Kuramoto model: From enhancement to explosive transitions</title>
-      <link>http://link.aps.org/doi/10.1103/pzkj-ynnt</link>
-      <guid isPermaLink="false">NPINS.008267</guid>
     </item>
   </channel>
 </rss>
