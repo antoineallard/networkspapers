@@ -18,9 +18,9 @@
     {
       "abstract":         "summary",
       "feed1":            "http://appliednetsci.springeropen.com/articles/most-recent/rss.xml",
-      "feed2":            "http://appliednetsci.springeropen.com/articles/most-recent/rss.xml",
+      "feed2":            "https://link.springer.com/search.rss?query=&facet-journal-id=41109",
       "host":             "None",
-      "id":               "link",
+      "id":               "id",
       "journal_abbrev":   "Appl. Netw. Sci.",
       "journal_full":     "Applied Network Science",
       "journal_url":      "https://appliednetsci.springeropen.com",
@@ -286,18 +286,19 @@
     },
     "JRSocInterface":
     {
-      "abstract":         "None",
+      "abstract":         "summary",
       "feed1":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsif",
       "feed2":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsif",
       "host":             "None",
-      "id":               "prism_doi",
+      "id":               "doi",
+      "issn":             "1742-5662",
       "journal_abbrev":   "J. R. Soc. Interface",
       "journal_full":     "Journal of the Royal Society Interface",
       "journal_url":      "https://royalsocietypublishing.org/journal/rsif",
       "title":            "title",
-      "url":              "prism_url",
+      "url":              "url",
       "whitelist":        false,
-      "reader":           "feedparser"
+      "reader":           "crossref"
     },
     "JStatMech":
     {
@@ -466,33 +467,35 @@
     },
     "PhilosTransRoyalSocA":
     {
-      "abstract":         "None",
+      "abstract":         "summary",
       "feed1":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsta",
       "feed2":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsta",
       "host":             "None",
-      "id":               "prism_doi",
+      "id":               "doi",
+      "issn":             "1364-503X",
       "journal_abbrev":   "Philos. Trans. R. Soc. A",
       "journal_full":     "Philosophical Transactions of the Royal Society A",
       "journal_url":      "https://royalsocietypublishing.org/journal/rsta",
       "title":            "title",
-      "url":              "prism_url",
+      "url":              "url",
       "whitelist":        false,
-      "reader":           "feedparser"
+      "reader":           "crossref"
     },
     "PhilosTransRoyalSocB":
     {
-      "abstract":         "None",
+      "abstract":         "summary",
       "feed1":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rstb",
       "feed2":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rstb",
       "host":             "None",
-      "id":               "prism_doi",
+      "id":               "doi",
+      "issn":             "1471-2970",
       "journal_abbrev":   "Philos. Trans. R. Soc. B",
       "journal_full":     "Philosophical Transactions of the Royal Society B",
       "journal_url":      "https://royalsocietypublishing.org/journal/rstb",
       "title":            "title",
-      "url":              "prism_url",
+      "url":              "url",
       "whitelist":        false,
-      "reader":           "feedparser"
+      "reader":           "crossref"
     },
     "PhysRep":
     {
@@ -631,33 +634,35 @@
     },
     "ProcRSocA":
     {
-      "abstract":         "None",
+      "abstract":         "summary",
       "feed1":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspa",
       "feed2":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspa",
       "host":             "None",
-      "id":               "prism_doi",
+      "id":               "doi",
+      "issn":             "1471-2946",
       "journal_abbrev":   "Proc. R. Soc. A",
       "journal_full":     "Proceedings of the Royal Society A",
       "journal_url":      "https://royalsocietypublishing.org/journal/rspa",
       "title":            "title",
-      "url":              "prism_url",
+      "url":              "url",
       "whitelist":        false,
-      "reader":           "feedparser"
+      "reader":           "crossref"
     },
     "ProcRSocB":
     {
-      "abstract":         "None",
+      "abstract":         "summary",
       "feed1":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspb",
       "feed2":            "http://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rspb",
       "host":             "None",
-      "id":               "prism_doi",
+      "id":               "doi",
+      "issn":             "1471-2954",
       "journal_abbrev":   "Proc. R. Soc. B",
       "journal_full":     "Proceedings of the Royal Society B",
       "journal_url":      "https://royalsocietypublishing.org/journal/rspb",
       "title":            "title",
-      "url":              "prism_url",
+      "url":              "url",
       "whitelist":        false,
-      "reader":           "feedparser"
+      "reader":           "crossref"
     },
     "Research":
     {
@@ -691,18 +696,19 @@
     },
     "RSocOpenSci":
     {
-      "abstract":         "None",
+      "abstract":         "summary",
       "feed1":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsos",
       "feed2":            "https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsos",
       "host":             "None",
-      "id":               "prism_doi",
+      "id":               "doi",
+      "issn":             "2054-5703",
       "journal_abbrev":   "R. Soc. Open Sci.",
       "journal_full":     "Royal Society Open Science",
       "journal_url":      "https://royalsocietypublishing.org/journal/rsos",
       "title":            "title",
-      "url":              "prism_url",
+      "url":              "url",
       "whitelist":        false,
-      "reader":           "feedparser"
+      "reader":           "crossref"
     },
     "Science":
     {
@@ -710,14 +716,15 @@
       "feed1":            "http://science.sciencemag.org/rss/express.xml",
       "feed2":            "http://science.sciencemag.org/rss/express.xml",
       "host":             "None",
-      "id":               "link",
+      "id":               "doi",
+      "issn":             "1095-9203",
       "journal_abbrev":   "Science",
       "journal_full":     "Science",
       "journal_url":      "https://science.sciencemag.org",
       "title":            "title",
-      "url":              "link",
+      "url":              "url",
       "whitelist":        false,
-      "reader":           "feedparser"
+      "reader":           "crossref"
     },
     "SciAdv":
     {
@@ -725,15 +732,15 @@
       "feed1":            "http://advances.sciencemag.org/rss/current.xml",
       "feed2":            "http://advances.sciencemag.org/rss/current.xml",
       "host":             "None",
-      "id":               "link",
+      "id":               "doi",
+      "issn":             "2375-2548",
       "journal_abbrev":   "Sci. Adv.",
       "journal_full":     "Science Advances",
       "journal_url":      "https://advances.sciencemag.org",
       "title":            "title",
-      "url":              "link",
+      "url":              "url",
       "whitelist":        false,
-      "reader":           "feedparser",
-      "replace_in_title": {" | Science Advances": ""}
+      "reader":           "crossref"
     },
     "SciRep":
     {

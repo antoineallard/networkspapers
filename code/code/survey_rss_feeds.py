@@ -1,15 +1,29 @@
 # import cloudscraper
 import feedparser
+import re
 import requests
 import io
 import os
-import random
 import ssl
 import sys
+from datetime import date, timedelta
 from requests_html import HTMLSession
 ssl._create_default_https_context = ssl._create_unverified_context
 # tricks taken from https://stackoverflow.com/questions/50236117/scraping-ssl-certificate-verify-failed-error-for-http-en-wikipedia-org
 import time
+
+BROWSER_HEADERS = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0',
+                    'Accept-Language': 'en-US,en;q=0.5',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+                    'Connection': 'keep-alive',
+                    'Accept-Encoding': 'gzip, deflate, br',
+                    'Upgrade-Insecure-Requests': '1',
+                    'Sec-Fetch-Dest': 'document',
+                    'Sec-Fetch-Mode': 'navigate',
+                    'Sec-Fetch-Site': 'none',
+                    'Sec-Fetch-User': '?1'}
+
+CROSSREF_HEADERS = {'User-Agent': 'networkspapers-bot/1.0 (+https://github.com/antoineallard/networkspapers)'}
 
 timestr = time.strftime("%Y%m%d-%H%M%S")
 
@@ -38,64 +52,72 @@ for journal in sorted(list(feeds.journals.keys())):
 
     if feeds.journals[journal]["reader"] == "feedparser":
 
-        # https://stackoverflow.com/questions/9772691/feedparser-with-timeout
-        # Do request using requests library and timeout
-        try:
-            resp = requests.get(feeds.journals[journal]["feed2"], timeout=20.0)
-        except requests.ReadTimeout:
-            # logger.warn("Timeout when reading RSS %s", feeds.journals[journal]["feed2"])
-            continue
+        headers = dict(BROWSER_HEADERS)
+        if feeds.journals[journal]["host"] != 'None':
+            headers['Host'] = feeds.journals[journal]["host"]
 
-        # Put it to memory stream object universal feedparser
-        content = io.BytesIO(resp.content)
-
-        # Parse content
-        feed = feedparser.parse(content)
-
-        entries = feed['entries']
-
-        # # https://stackoverflow.com/questions/49087990/python-request-being-blocked-by-cloudflare
-        # #scraper = cloudscraper.create_scraper()
-        # scraper = cloudscraper.CloudScraper()
-        # try:
-        #     file = scraper.get(feeds.journals[journal]["feed2"]).text
-        # except:
-        #     # logger.warn("Timeout when reading RSS %s")
-        #     print("Timeout when reading RSS test\n")
-        #     continue
-        # feed = feedparser.parse(file)
-        # entries = feed['entries']
-        # # print(entries)
-
-
-        if len(feed.entries) == 0:
-            headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0',
-                   'Accept-Language': 'en-US,en;q=0.5',
-                   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-                   'Connection': 'keep-alive',
-                   'Accept-Encoding': 'gzip, deflate, br',
-                   'Upgrade-Insecure-Requests': '1',
-                   'Sec-Fetch-Dest': 'document',
-                   'Sec-Fetch-Mode': 'navigate',
-                   'Sec-Fetch-Site': 'none',
-                   'Sec-Fetch-User': '?1'}
-            if feeds.journals[journal]["host"] != 'None':
-                headers['Host'] = feeds.journals[journal]["host"]
-
-            # https://stackoverflow.com/questions/9772691/feedparser-with-timeout
-            # https://stackoverflow.com/questions/19522990/catch-exception-and-continue-try-block-in-python
+        # Retries a few times with backoff: a single flaky/rate-limited
+        # response should not be mistaken for "no new entries", and must
+        # not crash the whole run (which would silently skip every journal
+        # alphabetically after this one).
+        entries = []
+        for attempt in range(3):
             try:
-                resp = requests.get(feeds.journals[journal]["feed2"], timeout=random.randint(4, 8), headers=headers)
-            except:
-                # logger.warn("Timeout when reading RSS %s")
-                print("Timeout when reading RSS\n")
+                resp = requests.get(feeds.journals[journal]["feed2"], timeout=20.0,
+                                     headers=headers if attempt > 0 else None)
+            except requests.exceptions.RequestException as e:
+                print("  - error reading RSS (attempt " + str(attempt + 1) + "): " + str(e) + "\n")
+                time.sleep(2 ** attempt)
                 continue
 
             # Put it to memory stream object universal feedparser
             content = io.BytesIO(resp.content)
+
             # Parse content
             feed = feedparser.parse(content)
-            entries = feed['entries']
+
+            if len(feed.entries) > 0:
+                entries = feed.entries
+                break
+
+            time.sleep(2 ** attempt)
+
+    if feeds.journals[journal]["reader"] == "crossref":
+
+        # Some publishers (e.g. Royal Society Publishing, Science/AAAS)
+        # block plain RSS requests behind a JS bot challenge. Crossref's
+        # REST API isn't bot-protected and lists recent works per journal.
+        params = {
+            "filter": "from-created-date:" + (date.today() - timedelta(days=30)).isoformat(),
+            "sort": "created",
+            "order": "desc",
+            "rows": 100,
+        }
+
+        entries = []
+        for attempt in range(3):
+            try:
+                resp = requests.get("https://api.crossref.org/journals/" + feeds.journals[journal]["issn"] + "/works",
+                                     params=params, headers=CROSSREF_HEADERS, timeout=20.0)
+                items = resp.json().get("message", {}).get("items", [])
+            except (requests.exceptions.RequestException, ValueError) as e:
+                print("  - error reading Crossref (attempt " + str(attempt + 1) + "): " + str(e) + "\n")
+                time.sleep(2 ** attempt)
+                continue
+
+            if len(items) > 0:
+                for item in items:
+                    titles = item.get("title") or [""]
+                    abstract = re.sub("<[^>]+>", "", item.get("abstract", "") or "")
+                    entries.append({
+                        "title": titles[0],
+                        "summary": abstract,
+                        "doi": item.get("DOI", ""),
+                        "url": item.get("URL", ""),
+                    })
+                break
+
+            time.sleep(2 ** attempt)
 
 
     if feeds.journals[journal]["reader"] == "HTMLSession":
